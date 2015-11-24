@@ -1,13 +1,13 @@
 mapping_num,description,omop_concept_id,omop_concept_name
-AN00001,¸¶ÃëÀ§ÇÑ ±â°üÁö°æ »ğ°ü¼ú,4311284,Bronchoscopic procedure
-AN00002,¸¶ÃëÁß »ê¼ÒÆ÷È­µµ°¨½Ã,4152650,Invasive oxygen saturation monitoring
-AN00003,¸¶ÃëÁß Ä§½ÀÀûµ¿¸Æ¾Ğ°¨½Ã(»ğÀÔ·áÆ÷ÇÔ),4046988,Blood pressure monitoring
-AN00004,Ä¡°úÀü´Ş¸¶Ãë(ÇÏÄ¡Á¶½Å°æºí·Ï),4332587,Inferior dental block
-AN00005,Ä¡°úÀü´Ş¸¶Ãë(ÈÄ»óÄ¡Á¶½Å°æºí·Ï),4332586,Local anesthetic posterior superior alveolar nerve block
+AN00001,ë§ˆì·¨ìœ„í•œ ê¸°ê´€ì§€ê²½ ì‚½ê´€ìˆ ,4311284,Bronchoscopic procedure
+AN00002,ë§ˆì·¨ì¤‘ ì‚°ì†Œí¬í™”ë„ê°ì‹œ,4152650,Invasive oxygen saturation monitoring
+AN00003,ë§ˆì·¨ì¤‘ ì¹¨ìŠµì ë™ë§¥ì••ê°ì‹œ(ì‚½ì…ë£Œí¬í•¨),4046988,Blood pressure monitoring
+AN00004,ì¹˜ê³¼ì „ë‹¬ë§ˆì·¨(í•˜ì¹˜ì¡°ì‹ ê²½ë¸”ë¡),4332587,Inferior dental block
+AN00005,ì¹˜ê³¼ì „ë‹¬ë§ˆì·¨(í›„ìƒì¹˜ì¡°ì‹ ê²½ë¸”ë¡),4332586,Local anesthetic posterior superior alveolar nerve block
 AN00006,CLOSED CIRCUIT ANESTHESIA MASK,40762835,Procedure anesthesia
 AN00007,Dental infiltrative anesthesia,4332856,Local anesthetic dental infiltration
 AN00008,ENDOTRCHEAL CLOSED CIRCUIT,4145786,Endotracheal anesthesia
-AN00009,epidural A(¹«ÅëºĞ¸¸),4040310,Injection of spinal anesthetic agent for analgesia
+AN00009,epidural A(ë¬´í†µë¶„ë§Œ),4040310,Injection of spinal anesthetic agent for analgesia
 AN00010,EPIDURAL BLOCK,4078199,Local anaesthetic epidural block
 AN00011,INTRAVENOUS GENERAL ANESTHESIA,4082996,Intravenous induction of general anaesthesia
 AN00012,NERVE BLOCK,4210480,Nerve block
