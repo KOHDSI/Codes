@@ -1,40 +1,40 @@
 mapping_num,description,omop_concept_id,omop_concept_name
-DR00001,(±π∞°¡ˆø¯)Tamiflu cap 75mg,1799141,Oseltamivir 75 MG Oral Capsule
-DR00002,(≥Î∂ıªˆ)Cozaar Plus tab,40184187,Hydrochlorothiazide 12.5 MG / Losartan Potassium 50 MG Oral Tablet
-DR00003,(∏∂) Jurnista IR tab 2mg,40173098,Hydromorphone Hydrochloride 2 MG Oral Tablet
-DR00004,(∏∂) Jurnista SR tab 4mg,40173131,Hydromorphone Hydrochloride 4 MG Oral Tablet
-DR00005,(∏∂)12ug/h Durogesic D-trans PA,19121195,Fentanyl 0.012 MG/HR 72 Hour Transdermal Patch
-DR00006,(∏∂)40MG/Tab. Oxycontin CR Tab.,40232750,Oxycodone Hydrochloride 40 MG Extended Release Tablet
-DR00007,(∏∂)»≤∏Ù«…¡÷ªÁ 30mg/2ml/AM,40169936,Morphine Sulfate 15 MG/ML Injectable Solution
-DR00008,(∏∂)Alfentanil inj 2ml/AM(«œ≥™),19072389,Alfentanil 0.5 MG/ML Injectable Solution
-DR00009,(∏∂)Morphine HCl 10mg/1ml/AM,40169902,Morphine Sulfate 10 MG/ML Injectable Solution
-DR00010,(∏∂)Ocodone SR 10mg tab,40232704,Oxycodone Hydrochloride 10 MG Extended Release Tablet
-DR00011,(∏∂)Oxycontin CR 10MG/Tab.,40232704,Oxycodone Hydrochloride 10 MG Extended Release Tablet
-DR00012,(∏∂)Pethidine 50mg/1ml/AM,40165020,Meperidine Hydrochloride 50 MG/ML Injectable Solution
-DR00013,(∏∂)Ultiva inj 1mg/VI,19016773,remifentanil 1 MG/ML Injectable Solution
-DR00014,(∏∂æ‡)IRcodon tab 5mg,40232756,Oxycodone Hydrochloride 5 MG Oral Tablet
-DR00015,(∏∂√Î)Marcaine Heavy inj 20mg/4ml,40225967,Bupivacaine Hydrochloride 5 MG/ML Injectable Solution
-DR00016,(∏∂√ÎøÎ)Zofran inj 8mg/4ml,19070869,Ondansetron 2 MG/ML Injectable Solution
-DR00017,(ªÔ≥≤)Loperamide cap 2mg,40184727,Loperamide Hydrochloride 2 MG Oral Capsule
-DR00018,(º≠πÊ¡§)Diamicron MR tab 30mg,19101729,Gliclazide 30 MG Extended Release Tablet
-DR00019,(ºˆ)Perlinganit inj (50mg/50ml),1361860,Nitroglycerin 1 MG/ML Injectable Solution
-DR00020,(Ω≈¿œ)Pyridoxine tab 50mg,1353578,Vitamin B6 50 MG Oral Tablet
-DR00021,(¡ﬂø‹)Calcium chloride 3% 20ml/AM,19036781,Calcium Chloride
-DR00022,(«œø¯)Ceftriaxone inj. 2g/vi,1777806,Ceftriaxone
-DR00023,(«—∏≤)Heparin inj 25000IU/5ml/VI,19077987,Heparin 5000 UNT/ML Injectable Solution
-DR00024,* Depas Tab. 0.5MG/Tab.(«‚),1548197,Estradiol 0.5 MG Oral Tablet
-DR00025,*10mg Penid Tab.(«‚),40236419,Methylphenidate Hydrochloride 10 MG Oral Tablet
-DR00026,*Ketamine inj 500mg/10ml(«‚),19057197,Ketamine 50 MG/ML Injectable Solution
-DR00027,*Midazolam inj 15mg/3ml(«‚),19078925,Midazolam 5 MG/ML Injectable Solution
-DR00028,*Sentil tab 5mg («‚),19106229,clobazam 5 MG Oral Tablet
+DR00001,(Íµ≠Í∞ÄÏßÄÏõê)Tamiflu cap 75mg,1799141,Oseltamivir 75 MG Oral Capsule
+DR00002,(ÎÖ∏ÎûÄÏÉâ)Cozaar Plus tab,40184187,Hydrochlorothiazide 12.5 MG / Losartan Potassium 50 MG Oral Tablet
+DR00003,(Îßà) Jurnista IR tab 2mg,40173098,Hydromorphone Hydrochloride 2 MG Oral Tablet
+DR00004,(Îßà) Jurnista SR tab 4mg,40173131,Hydromorphone Hydrochloride 4 MG Oral Tablet
+DR00005,(Îßà)12ug/h Durogesic D-trans PA,19121195,Fentanyl 0.012 MG/HR 72 Hour Transdermal Patch
+DR00006,(Îßà)40MG/Tab. Oxycontin CR Tab.,40232750,Oxycodone Hydrochloride 40 MG Extended Release Tablet
+DR00007,(Îßà)Ìô©Î™∞ÌïÄÏ£ºÏÇ¨ 30mg/2ml/AM,40169936,Morphine Sulfate 15 MG/ML Injectable Solution
+DR00008,(Îßà)Alfentanil inj 2ml/AM(ÌïòÎÇò),19072389,Alfentanil 0.5 MG/ML Injectable Solution
+DR00009,(Îßà)Morphine HCl 10mg/1ml/AM,40169902,Morphine Sulfate 10 MG/ML Injectable Solution
+DR00010,(Îßà)Ocodone SR 10mg tab,40232704,Oxycodone Hydrochloride 10 MG Extended Release Tablet
+DR00011,(Îßà)Oxycontin CR 10MG/Tab.,40232704,Oxycodone Hydrochloride 10 MG Extended Release Tablet
+DR00012,(Îßà)Pethidine 50mg/1ml/AM,40165020,Meperidine Hydrochloride 50 MG/ML Injectable Solution
+DR00013,(Îßà)Ultiva inj 1mg/VI,19016773,remifentanil 1 MG/ML Injectable Solution
+DR00014,(ÎßàÏïΩ)IRcodon tab 5mg,40232756,Oxycodone Hydrochloride 5 MG Oral Tablet
+DR00015,(ÎßàÏ∑®)Marcaine Heavy inj 20mg/4ml,40225967,Bupivacaine Hydrochloride 5 MG/ML Injectable Solution
+DR00016,(ÎßàÏ∑®Ïö©)Zofran inj 8mg/4ml,19070869,Ondansetron 2 MG/ML Injectable Solution
+DR00017,(ÏÇºÎÇ®)Loperamide cap 2mg,40184727,Loperamide Hydrochloride 2 MG Oral Capsule
+DR00018,(ÏÑúÎ∞©Ï†ï)Diamicron MR tab 30mg,19101729,Gliclazide 30 MG Extended Release Tablet
+DR00019,(Ïàò)Perlinganit inj (50mg/50ml),1361860,Nitroglycerin 1 MG/ML Injectable Solution
+DR00020,(Ïã†Ïùº)Pyridoxine tab 50mg,1353578,Vitamin B6 50 MG Oral Tablet
+DR00021,(Ï§ëÏô∏)Calcium chloride 3% 20ml/AM,19036781,Calcium Chloride
+DR00022,(ÌïòÏõê)Ceftriaxone inj. 2g/vi,1777806,Ceftriaxone
+DR00023,(ÌïúÎ¶º)Heparin inj 25000IU/5ml/VI,19077987,Heparin 5000 UNT/ML Injectable Solution
+DR00024,* Depas Tab. 0.5MG/Tab.(Ìñ•),1548197,Estradiol 0.5 MG Oral Tablet
+DR00025,*10mg Penid Tab.(Ìñ•),40236419,Methylphenidate Hydrochloride 10 MG Oral Tablet
+DR00026,*Ketamine inj 500mg/10ml(Ìñ•),19057197,Ketamine 50 MG/ML Injectable Solution
+DR00027,*Midazolam inj 15mg/3ml(Ìñ•),19078925,Midazolam 5 MG/ML Injectable Solution
+DR00028,*Sentil tab 5mg (Ìñ•),19106229,clobazam 5 MG Oral Tablet
 DR00029,<40mg> Indenol tab,40163342,Propranolol Hydrochloride 40 MG Oral Tablet
 DR00030,0.3%NERISONA CREAM 10G/TB,19026097,Diflucortolone 0.003 MG/MG Topical Ointment
 DR00031,0.3%OFLXACIN 5ML,19079151,Ofloxacin 3 MG/ML Ophthalmic Solution
 DR00032,0.45% NS 1L/Bag,967905,Sodium Chloride 4.5 MG/ML Injectable Solution
-DR00033,0.45% NS 1L/Bot (æ‡±πøÎ),967905,Sodium Chloride 4.5 MG/ML Injectable Solution
+DR00033,0.45% NS 1L/Bot (ÏïΩÍµ≠Ïö©),967905,Sodium Chloride 4.5 MG/ML Injectable Solution
 DR00034,0.5% timoptic eyedrop(5ML/B),19079776,Timolol 5 MG/ML Ophthalmic Solution
 DR00035,0.9% NS 100ml/Bag,19079524,Sodium Chloride 9 MG/ML Injectable Solution
-DR00036,0.9% NS 100ml/POT (æ‡±πøÎ),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00036,0.9% NS 100ml/POT (ÏïΩÍµ≠Ïö©),19079524,Sodium Chloride 9 MG/ML Injectable Solution
 DR00037,0.9% NS 150ml/Bot,19079524,Sodium Chloride 9 MG/ML Injectable Solution
 DR00038,0.9% NS 1L/Bag,19079524,Sodium Chloride 9 MG/ML Injectable Solution
 DR00039,0.9% NS 20ml(50A/box),19079524,Sodium Chloride 9 MG/ML Injectable Solution
@@ -57,9 +57,9 @@ DR00052,10% D/W 500ML,1560553,Glucose 100 MG/ML Injectable Solution
 DR00053,10% DW 1L/Bag,1560553,Glucose 100 MG/ML Injectable Solution
 DR00054,10% DW 1L/POT,1560553,Glucose 100 MG/ML Injectable Solution
 DR00055,10% DW 500ml/Bag,1560553,Glucose 100 MG/ML Injectable Solution
-DR00056,10% DW 500ml/Bot(æ‡±πøÎ),1560553,Glucose 100 MG/ML Injectable Solution
+DR00056,10% DW 500ml/Bot(ÏïΩÍµ≠Ïö©),1560553,Glucose 100 MG/ML Injectable Solution
 DR00057,100/25/200mg Stalevo tab,19102489,Carbidopa 25 MG / entacapone 200 MG / Levodopa 100 MG Oral Tablet
-DR00058,100mg Clozaril Tab (±ÿ),800881,Clozapine 100 MG Oral Tablet
+DR00058,100mg Clozaril Tab (Í∑π),800881,Clozapine 100 MG Oral Tablet
 DR00059,100mg Cozaar tab,40185276,Losartan Potassium 100 MG Oral Tablet
 DR00060,100mg Lamictal Tab.,705108,lamotrigine 100 MG Oral Tablet
 DR00061,100mg Pletaal tab.,1350311,cilostazol 100 MG Oral Tablet
@@ -67,7 +67,7 @@ DR00062,100mg Topamax Tab,742304,topiramate 100 MG Oral Tablet
 DR00063,10mg Kerlone Tab,42800545,Betaxolol Hydrochloride 10 MG Oral Tablet
 DR00064,10mg Torem tab,942382,torsemide 10 MG Oral Tablet
 DR00065,10mg Torsemide tab.,942382,torsemide 10 MG Oral Tablet
-DR00066,10mg Zyprexa Tab(ºˆ),785821,olanzapine 10 MG Oral Tablet
+DR00066,10mg Zyprexa Tab(Ïàò),785821,olanzapine 10 MG Oral Tablet
 DR00067,10ml Megetrol oral susp.,40164972,Megestrol Acetate 40 MG/ML Oral Suspension
 DR00068,12.5mg Dilatrend Tab,19022750,carvedilol 12.5 MG Oral Tablet
 DR00069,125mg Madopar Tab,789621,Benserazide 25 MG / Levodopa 100 MG Oral Tablet
@@ -81,12 +81,12 @@ DR00076,160mg Diovan tab,19096678,valsartan 160 MG Oral Tablet
 DR00077,16mg Atacand tab.,1351583,candesartan cilexetil 16 MG Oral Tablet
 DR00078,1mg Mirapex tab,40165177,Pramipexole dihydrochloride 1 MG Oral Tablet
 DR00079,1mg Requip tab,19080241,ropinirole 1 MG Oral Tablet
-DR00080,20% Albumin 100ML(µøΩ≈),1344177,"ALBUMIN,HUMAN 200 MG/ML Injectable Solution"
+DR00080,20% Albumin 100ML(ÎèôÏã†),1344177,"ALBUMIN,HUMAN 200 MG/ML Injectable Solution"
 DR00081,20% DW 20ml,1560554,Glucose 200 MG/ML Injectable Solution
 DR00082,20% DW 600ml/Bag,1560554,Glucose 200 MG/ML Injectable Solution
 DR00083,20% Mannitol 100ml/Bag,994096,Mannitol 200 MG/ML Injectable Solution
 DR00084,20% Mannitol inj 100ml/PA,994096,Mannitol 200 MG/ML Injectable Solution
-DR00085,20% Mannitol(¥Î«—) 100ml/Bag,994096,Mannitol 200 MG/ML Injectable Solution
+DR00085,20% Mannitol(ÎåÄÌïú) 100ml/Bag,994096,Mannitol 200 MG/ML Injectable Solution
 DR00086,200mg Ursa Tab.,988095,ursodeoxycholate
 DR00087,200MG/Tab. Oxiklorin Tab.,40184084,Hydroxychloroquine Sulfate 200 MG Oral Tablet
 DR00088,20mg Lipitor tab,19123592,atorvastatin 20 MG Oral Tablet
@@ -108,16 +108,16 @@ DR00103,5% D/W 1000ML,19076324,Glucose 50 MG/ML Injectable Solution
 DR00104,5% D/W 1L/BAG,19076324,Glucose 50 MG/ML Injectable Solution
 DR00105,5% D/W 500ML,19076324,Glucose 50 MG/ML Injectable Solution
 DR00106,5% D/W 500ml/BAG,19076324,Glucose 50 MG/ML Injectable Solution
-DR00107,5% D/W 500ml/BOT(æ‡±πøÎ),19076324,Glucose 50 MG/ML Injectable Solution
+DR00107,5% D/W 500ml/BOT(ÏïΩÍµ≠Ïö©),19076324,Glucose 50 MG/ML Injectable Solution
 DR00108,5% DS 1L/Bag,967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
 DR00109,5% DS 1L/POT,967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
 DR00110,5% DW 100ml/Bag,19076324,Glucose 50 MG/ML Injectable Solution
-DR00111,5% DW 100ml/Bot (æ‡±πøÎ),19076324,Glucose 50 MG/ML Injectable Solution
-DR00112,5% DW 1L/Bot (æ‡±πøÎ),19076324,Glucose 50 MG/ML Injectable Solution
+DR00111,5% DW 100ml/Bot (ÏïΩÍµ≠Ïö©),19076324,Glucose 50 MG/ML Injectable Solution
+DR00112,5% DW 1L/Bot (ÏïΩÍµ≠Ïö©),19076324,Glucose 50 MG/ML Injectable Solution
 DR00113,5% DW 1L/POT,19076324,Glucose 50 MG/ML Injectable Solution
 DR00114,5% DW 200ml/Bot,19076324,Glucose 50 MG/ML Injectable Solution
 DR00115,5% DW 500ml/Bag,19076324,Glucose 50 MG/ML Injectable Solution
-DR00116,5%Dextrose NAK inj 2»£ 1L,19123351,Glucose 50 MG/ML / Potassium Chloride 0.02 MEQ/ML / Sodium Chloride 0.0769 MEQ/ML Injectable Solution
+DR00116,5%Dextrose NAK inj 2Ìò∏ 1L,19123351,Glucose 50 MG/ML / Potassium Chloride 0.02 MEQ/ML / Sodium Chloride 0.0769 MEQ/ML Injectable Solution
 DR00117,50% D/W 500ML,1560556,Glucose 500 MG/ML Injectable Solution
 DR00118,50% D/W 500ml/BOT,1560556,Glucose 500 MG/ML Injectable Solution
 DR00119,50% DW 100ml/POT,1560556,Glucose 500 MG/ML Injectable Solution
@@ -138,35 +138,35 @@ DR00133,600mg Orfil retard tab.,745466,Valproate
 DR00134,60mg Adalat oros tab.,19112981,Nifedipine 60 MG Extended Release Tablet
 DR00135,625mg Augmentin Tab,1713694,Amoxicillin 500 MG / Clavulanate 125 MG Oral Tablet
 DR00136,70mg Fosamax Tab.,40173612,Alendronic acid 70 MG Oral Tablet
-DR00137,∞«¿œ≥◊∆ø∏∂¿ÃΩ≈¡÷100mg,19017588,Netilmicin 50 MG/ML Injectable Solution
-DR00138,∞«¿œ≥◊∆ø∏∂¿ÃΩ≈¡÷150mg,19057566,Netilmicin 100 MG/ML Injectable Solution
-DR00139,¥Îø¯∆‰≥ÎπŸ∏£∫Ò≈ª¡§ 60MG,734711,Phenobarbital 30 MG Oral Tablet
-DR00140,µøΩ≈ Albumin 20%(100ml),1344177,"ALBUMIN,HUMAN 200 MG/ML Injectable Solution"
-DR00141,ªÍ»≠∏∂±◊≥◊Ω∑ ¡§ 250mg,993690,Magnesium Oxide 250 MG Oral Tablet
-DR00142,ªÍ»≠∏∂±◊≥◊Ω∑ ¡§ 500mg,993732,Magnesium Oxide 500 MG Oral Tablet
-DR00143,Ω¥¥Ÿ∆‰µÂ ¡§ 60MG,40232259,Pseudoephedrine Hydrochloride 60 MG Oral Tablet
-DR00144,ø¡Ω√∏∂¿ÃΩ≈æ» ø¨∞Ì 3.5G,925989,Oxytetracycline 0.005 MG/MG / Polymyxin B 10 UNT/MG Ophthalmic Ointment
-DR00145,¿Øπ⁄Ω∫B ¡÷ 0.5ml(º“æ∆øÎ∞£ø∞),528325,Hepatitis B Surface Antigen Vaccine 0.02 MG/ML Injectable Suspension
-DR00146,¡¶¥œƒÆ ƒ∞ºø 120MG/cap.,741572,orlistat 120 MG Oral Capsule
-DR00147,¡¶¥Á 10% D/W 1000ml (bag),1560553,Glucose 100 MG/ML Injectable Solution
-DR00148,¡¶¥Á 10% D/W 500ml (bag),1560553,Glucose 100 MG/ML Injectable Solution
-DR00149,¡¶¥Á 5% D/W 1000ml (bag),19076324,Glucose 50 MG/ML Injectable Solution
-DR00150,¡¶¥Á 5% D/W 500ml (bag),19076324,Glucose 50 MG/ML Injectable Solution
-DR00151,¡¶¥Á «œ∆Æ∏∏ 1000ml (bag),19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
-DR00152,¡¶¥Á D/S 1000ml (bag),967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
-DR00153,¡¶¥Á D/S 500ml (bag),967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
-DR00154,¡¶¥Á Hartman 500ml (bag),19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
-DR00155,¡¶¥Á Normal saline 1000ml(P),19079524,Sodium Chloride 9 MG/ML Injectable Solution
-DR00156,¡¶¥Á Normal saline 500ml (bag),19079524,Sodium Chloride 9 MG/ML Injectable Solution
-DR00157,¡ﬂø‹ª˝∏ÆΩƒø∞¡÷ªÁæ◊100ml(IVøÎ),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00137,Í±¥ÏùºÎÑ§Ìã∏ÎßàÏù¥Ïã†Ï£º100mg,19017588,Netilmicin 50 MG/ML Injectable Solution
+DR00138,Í±¥ÏùºÎÑ§Ìã∏ÎßàÏù¥Ïã†Ï£º150mg,19057566,Netilmicin 100 MG/ML Injectable Solution
+DR00139,ÎåÄÏõêÌéòÎÖ∏Î∞îÎ•¥ÎπÑÌÉàÏ†ï 60MG,734711,Phenobarbital 30 MG Oral Tablet
+DR00140,ÎèôÏã† Albumin 20%(100ml),1344177,"ALBUMIN,HUMAN 200 MG/ML Injectable Solution"
+DR00141,ÏÇ∞ÌôîÎßàÍ∑∏ÎÑ§Ïäò Ï†ï 250mg,993690,Magnesium Oxide 250 MG Oral Tablet
+DR00142,ÏÇ∞ÌôîÎßàÍ∑∏ÎÑ§Ïäò Ï†ï 500mg,993732,Magnesium Oxide 500 MG Oral Tablet
+DR00143,ÏäàÎã§ÌéòÎìú Ï†ï 60MG,40232259,Pseudoephedrine Hydrochloride 60 MG Oral Tablet
+DR00144,Ïò•ÏãúÎßàÏù¥Ïã†Ïïà Ïó∞Í≥† 3.5G,925989,Oxytetracycline 0.005 MG/MG / Polymyxin B 10 UNT/MG Ophthalmic Ointment
+DR00145,Ïú†Î∞ïÏä§B Ï£º 0.5ml(ÏÜåÏïÑÏö©Í∞ÑÏóº),528325,Hepatitis B Surface Antigen Vaccine 0.02 MG/ML Injectable Suspension
+DR00146,Ï†úÎãàÏπº Ï∫ÖÏÖÄ 120MG/cap.,741572,orlistat 120 MG Oral Capsule
+DR00147,Ï†úÎãπ 10% D/W 1000ml (bag),1560553,Glucose 100 MG/ML Injectable Solution
+DR00148,Ï†úÎãπ 10% D/W 500ml (bag),1560553,Glucose 100 MG/ML Injectable Solution
+DR00149,Ï†úÎãπ 5% D/W 1000ml (bag),19076324,Glucose 50 MG/ML Injectable Solution
+DR00150,Ï†úÎãπ 5% D/W 500ml (bag),19076324,Glucose 50 MG/ML Injectable Solution
+DR00151,Ï†úÎãπ ÌïòÌä∏Îßå 1000ml (bag),19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
+DR00152,Ï†úÎãπ D/S 1000ml (bag),967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
+DR00153,Ï†úÎãπ D/S 500ml (bag),967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
+DR00154,Ï†úÎãπ Hartman 500ml (bag),19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
+DR00155,Ï†úÎãπ Normal saline 1000ml(P),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00156,Ï†úÎãπ Normal saline 500ml (bag),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00157,Ï§ëÏô∏ÏÉùÎ¶¨ÏãùÏóºÏ£ºÏÇ¨Ïï°100ml(IVÏö©),19079524,Sodium Chloride 9 MG/ML Injectable Solution
 DR00158,A Fluid 1L/Bag,19076330,Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution
 DR00159,Abeltan tab 150mg,19022948,irbesartan 150 MG Oral Tablet
 DR00160,A-Ben tab 100mg,19107415,ALIBENDOL 100 MG Oral Tablet
 DR00161,Abilify tab 10mg,757690,aripiprazole 10 MG Oral Tablet
 DR00162,Acertil Tab 4mg,40163271,Perindopril Erbumine 4 MG Oral Tablet
-DR00163,Acertil Tab 8mg(ø¯ø‹),40163275,Perindopril Erbumine 8 MG Oral Tablet
+DR00163,Acertil Tab 8mg(ÏõêÏô∏),40163275,Perindopril Erbumine 8 MG Oral Tablet
 DR00164,ACETAMINOPHEN 300MG,1127078,Acetaminophen 160 MG Oral Tablet
-DR00165,Acetaminophen Tab 300mg ∞Êµø,19096574,Acetaminophen 300 MG Oral Tablet
+DR00165,Acetaminophen Tab 300mg Í≤ΩÎèô,19096574,Acetaminophen 300 MG Oral Tablet
 DR00166,Aclaton Tab 50mg,21600139,"SYNTH ANTICHOLINERGICS,QUATERNARY AMMONIUM CMPDS"
 DR00167,Actifed Syr,40237805,Pseudoephedrine Hydrochloride 6 MG/ML / Triprolidine Hydrochloride 0.25 MG/ML Oral Solution
 DR00168,Actifed Tab,40237822,Pseudoephedrine Hydrochloride 60 MG / Triprolidine Hydrochloride 2.5 MG Oral Tablet
@@ -181,7 +181,7 @@ DR00176,Acupan inj 20mg/2ml/AM,19104216,Nefopam 10 MG/ML Injectable Solution
 DR00177,ADALAT 10MG,19019309,Nifedipine 10 MG Oral Capsule
 DR00178,ADALAT 5MG,1318859,Nifedipine 5 MG Oral Capsule
 DR00179,Adalat Cap 10mg,19019309,Nifedipine 10 MG Oral Capsule
-DR00180,Adalat Cap 5mg(≥ªΩ√∞ÊøÎ),1318859,Nifedipine 5 MG Oral Capsule
+DR00180,Adalat Cap 5mg(ÎÇ¥ÏãúÍ≤ΩÏö©),1318859,Nifedipine 5 MG Oral Capsule
 DR00181,Adalat oros 30mg,19112979,Nifedipine 30 MG Extended Release Tablet
 DR00182,Adalat Oros Tab 30mg,19101807,Nifedipine 30 MG Oral Tablet
 DR00183,Adalat Oros Tab 60mg,19101798,Nifedipine 60 MG Oral Tablet
@@ -189,12 +189,12 @@ DR00184,Adcal Tab,19009405,Vitamin D
 DR00184,Adcal Tab,19058896,calcium lactate
 DR00185,Adelavin-9 Inj 1ml,19091701,Liver Extract
 DR00185,Adelavin-9 Inj 1ml,42903868,Flavin-Adenine Dinucleotide
-DR00186,Adenocor inj 6mg/2ml/VI(ºˆ),19029092,Adenosine 3 MG/ML Injectable Solution
-DR00187,ADM inj 10mg/VI(AngioΩ«),40243759,Doxorubicin Hydrochloride 2 MG/ML Injectable Solution
+DR00186,Adenocor inj 6mg/2ml/VI(Ïàò),19029092,Adenosine 3 MG/ML Injectable Solution
+DR00187,ADM inj 10mg/VI(AngioÏã§),40243759,Doxorubicin Hydrochloride 2 MG/ML Injectable Solution
 DR00188,ADRIAMYCIN 10MG,40243759,Doxorubicin Hydrochloride 2 MG/ML Injectable Solution
 DR00189,ADRIAMYCIN 50MG,40243759,Doxorubicin Hydrochloride 2 MG/ML Injectable Solution
-DR00190,Advantan ø¨∞Ì(10g)),1506270,Methylprednisolone
-DR00191,Advantan ≈©∏≤ 10g,1506270,Methylprednisolone
+DR00190,Advantan Ïó∞Í≥†(10g)),1506270,Methylprednisolone
+DR00191,Advantan ÌÅ¨Î¶º 10g,1506270,Methylprednisolone
 DR00192,Advantan cream 10g/tb,1506270,Methylprednisolone
 DR00193,Aerane,782047,Isoflurane 999 MG/ML Inhalant Solution
 DR00194,Agio Granule 6g,19132965,Plantago Seed
@@ -213,7 +213,7 @@ DR00200,Albis Tab,961047,Ranitidine
 DR00201,Albumax Sol 10ml,1360067,Iron
 DR00202,Albumin Inj 20% 100ml,1344177,"ALBUMIN,HUMAN 200 MG/ML Injectable Solution"
 DR00203,Albumin Inj 5% 250ml,1344176,"ALBUMIN,HUMAN 50 MG/ML Injectable Solution"
-DR00204,Albumin(≥ÏΩ ¿⁄) inj 20% 100ml,1344177,"ALBUMIN,HUMAN 200 MG/ML Injectable Solution"
+DR00204,Albumin(ÎÖπÏã≠Ïûê) inj 20% 100ml,1344177,"ALBUMIN,HUMAN 200 MG/ML Injectable Solution"
 DR00205,Albumin(SK) inj 20% 100ml,1344177,"ALBUMIN,HUMAN 200 MG/ML Injectable Solution"
 DR00206,Aldactazide Tab 25/25mg,974226,Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet
 DR00207,Aldactone Tab 25mg,19079658,Spironolactone 25 MG Oral Tablet
@@ -221,7 +221,7 @@ DR00208,Alesion Tab 10mg,943634,epinastine
 DR00209,Alesion Tab. 10MG/Tab.,943634,epinastine
 DR00210,Alfentanil inj 0.05%,19072389,Alfentanil 0.5 MG/ML Injectable Solution
 DR00211,Alfentanil Inj 1mg/2ml,19072389,Alfentanil 0.5 MG/ML Injectable Solution
-DR00212,Alginase inj. 0.25¥‹¿ß/VI,19006410,Arginine
+DR00212,Alginase inj. 0.25Îã®ÏúÑ/VI,19006410,Arginine
 DR00213,Algiron Inj 5mg/1ml,21600200,CIMETROPIUM BROMIDE
 DR00214,Algiron Tab 50mg,21600200,CIMETROPIUM BROMIDE
 DR00215,ALKYLOXAN 50MG,19018903,Cyclophosphamide 50 MG Oral Tablet
@@ -251,7 +251,7 @@ DR00236,Amaryl Tab 2mg,1597772,glimepiride 2 MG Oral Tablet
 DR00237,Amaryl Tab 4mg,1597773,glimepiride 4 MG Oral Tablet
 DR00238,Amaryl-Mex Tab 2/500mg,1503297,Metformin
 DR00238,Amaryl-Mex Tab 2/500mg,1597756,glimepiride
-DR00239,Ambisome inj 50mg/VI(ºˆ),19057592,Amphotericin B 5 MG/ML Injectable Solution
+DR00239,Ambisome inj 50mg/VI(Ïàò),19057592,Amphotericin B 5 MG/ML Injectable Solution
 DR00240,Amikin Inj 250mg/2ml,40173554,Amikacin Sulfate 125 MG/ML Injectable Solution
 DR00241,Amikin inj 250mg/2ml/VI,40173554,Amikacin Sulfate 125 MG/ML Injectable Solution
 DR00242,Amikin Inj 500mg/2ml,40173556,Amikacin Sulfate 250 MG/ML Injectable Solution
@@ -261,12 +261,12 @@ DR00245,AMINOPHYLLIN 100MG,1105837,Aminophylline 100 MG Oral Tablet
 DR00246,Aminophylline Inj 250mg/10ml,19073072,Aminophylline 25 MG/ML Injectable Solution
 DR00247,Aminophylline inj.250mg/10ml/AM,19073072,Aminophylline 25 MG/ML Injectable Solution
 DR00248,Aminosteril Ped 100ml(6%),19124969,Amino Acids
-DR00249,Amitriptyline Tab 10mg (∏Ì¿Œ),40162672,Amitriptyline Hydrochloride 10 MG Oral Tablet
+DR00249,Amitriptyline Tab 10mg (Î™ÖÏù∏),40162672,Amitriptyline Hydrochloride 10 MG Oral Tablet
 DR00250,Amocla DUO syr.,1713697,Amoxicillin 40 MG/ML / Clavulanate 5.7 MG/ML Oral Suspension
 DR00251,Amodipin tab 5mg,1332419,Amlodipine 5 MG Oral Tablet
 DR00252,Amodipine Tab 5mg,1332419,Amlodipine 5 MG Oral Tablet
 DR00253,Amoxapen Cap 250mg,19073183,Amoxicillin 250 MG Oral Capsule
-DR00254,Amoxicillin Cap 500mg ¡æ±Ÿ¥Á,19073187,Amoxicillin 500 MG Oral Capsule
+DR00254,Amoxicillin Cap 500mg Ï¢ÖÍ∑ºÎãπ,19073187,Amoxicillin 500 MG Oral Capsule
 DR00255,AMPHOGEL,985247,Aluminum Hydroxide
 DR00256,Ampibactam Inj 750mg,19058200,Ampicillin 100 MG/ML / Sulbactam 50 MG/ML Injectable Solution
 DR00257,A-namin 500ml/Bot,19131018,Alanine 7.7 MG/ML / Arginine 6 MG/ML / Cysteine 0.2 MG/ML / Glycine 9 MG/ML / Histidine 2.4 MG/ML / Isoleucine 9 MG/ML / Leucine 11 MG/ML / Lysine 6.1 MG/ML / Methionine 1 MG/ML / Phenylalanine 1 MG/ML / Phosphoric acid 1.15 MG/ML / Proline 8 MG/ML / Serin
@@ -297,11 +297,11 @@ DR00274,Apetrol Oral Susp. 20ml/pack,40164972,Megestrol Acetate 40 MG/ML Oral Su
 DR00275,Apidra Inj Solostar 300unit/3ml/Pen,1544872,"3 ML Insulin, Glulisine, Human 100 UNT/ML Prefilled Syringe"
 DR00276,Aprovel Tab 150mg,19022948,irbesartan 150 MG Oral Tablet
 DR00277,Aranesp prefilled 40mcg/0.4ml/syr,1304792,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe
-DR00278,Aricept 5mg (ºˆ),40223778,Donepezil hydrochloride 5 MG Oral Tablet
+DR00278,Aricept 5mg (Ïàò),40223778,Donepezil hydrochloride 5 MG Oral Tablet
 DR00279,Aricept Tab 10mg,40223768,Donepezil hydrochloride 10 MG Oral Tablet
 DR00280,Aricept Tab 5mg,40223778,Donepezil hydrochloride 5 MG Oral Tablet
 DR00281,Arobest Tab 20mg,21604114,OTHER CENTRALLY ACTING AGENTS
-DR00282,Aronamin C Plus Tab(ø¯ø‹),19135832,Multivitamin preparation
+DR00282,Aronamin C Plus Tab(ÏõêÏô∏),19135832,Multivitamin preparation
 DR00283,Artrodar Cap 50mg,19088916,diacetylrhein 50 MG Oral Capsule
 DR00284,Ascite Gran 4.1g/PAK,19007572,Valine
 DR00284,Ascite Gran 4.1g/PAK,19082306,Isoleucine
@@ -310,13 +310,13 @@ DR00285,Ascorbic acid Inj 100mg/2ml,19011972,Ascorbic Acid 50 MG/ML Injectable S
 DR00286,Ascorbic acid Tab 500mg,19069200,Ascorbic Acid 500 MG Oral Tablet
 DR00287,Asima Tab 400mg,42900552,xanthine
 DR00288,Aspirin Protect Tab 100mg,19021575,Aspirin 100 MG Enteric Coated Tablet
-DR00289,Aspirin(º“æ∆øÎ) Tab 100mg ,1113143,Aspirin 100 MG Oral Tablet
+DR00289,Aspirin(ÏÜåÏïÑÏö©) Tab 100mg ,1113143,Aspirin 100 MG Oral Tablet
 DR00290,Astrix 100mg Cap,19103854,Aspirin 100 MG Enteric Coated Capsule
 DR00291,Astrix Cap 100mg,19103854,Aspirin 100 MG Enteric Coated Capsule
 DR00292,Astrix cap 100mg(Boryungbio),19103854,Aspirin 100 MG Enteric Coated Capsule
 DR00293,Atacand tab 16mg,1351583,candesartan cilexetil 16 MG Oral Tablet
 DR00294,Atacand Tab 8mg,1351586,candesartan cilexetil 8 MG Oral Tablet [Atacand]
-DR00295,Atenolol Tab 25mg ¥Îøı,19018811,Atenolol 25 MG Oral Tablet
+DR00295,Atenolol Tab 25mg ÎåÄÏõÖ,19018811,Atenolol 25 MG Oral Tablet
 DR00296,ATIVAN 0.5MG,19019112,Lorazepam 0.5 MG Oral Tablet
 DR00297,Ativan Inj 4mg/1ml,19057272,Lorazepam 4 MG/ML Injectable Solution
 DR00298,Ativan Tab 0.5mg,19019112,Lorazepam 0.5 MG Oral Tablet
@@ -330,7 +330,7 @@ DR00305,Atorva Tab 20mg,19123592,atorvastatin 20 MG Oral Tablet
 DR00306,Atosan tab. 10mg,1545997,atorvastatin 10 MG Oral Tablet
 DR00307,ATP Inj 20mg/2ml,19015230,Adenosine Triphosphate
 DR00308,Atropine Inj 0.5mg/1ml,40243420,Atropine Sulfate 0.5 MG/ML Injectable Solution
-DR00309,Atropine inj 0.5mg/1ml/AM(¥Îø¯),40243420,Atropine Sulfate 0.5 MG/ML Injectable Solution
+DR00309,Atropine inj 0.5mg/1ml/AM(ÎåÄÏõê),40243420,Atropine Sulfate 0.5 MG/ML Injectable Solution
 DR00310,Atrovent aerosol(15ml),42902953,Ipratropium Bromide 0.021 MG/ACTUAT Nasal Inhaler
 DR00311,Atrovent Nebulizer sol,19134101,Ipratropium Bromide 0.25 MG/ML Inhalant Solution
 DR00312,Atrovent UDV Soln 250ug,19135767,Ipratropium Bromide 0.125 MG/ML Inhalant Solution
@@ -345,7 +345,7 @@ DR00320,Augmentin Tab 625mg,1713694,Amoxicillin 500 MG / Clavulanate 125 MG Oral
 DR00321,AugMEX 625mg Tab,1713694,Amoxicillin 500 MG / Clavulanate 125 MG Oral Tablet
 DR00322,Augmex Duo Syr,1713697,Amoxicillin 40 MG/ML / Clavulanate 5.7 MG/ML Oral Suspension
 DR00323,Avamys Nasal Spray,40169238,120 ACTUAT fluticasone furoate 0.0275 MG/ACTUAT Nasal Inhaler
-DR00324,Avamys nasal spray 120»∏/BT,40169238,120 ACTUAT fluticasone furoate 0.0275 MG/ACTUAT Nasal Inhaler
+DR00324,Avamys nasal spray 120Ìöå/BT,40169238,120 ACTUAT fluticasone furoate 0.0275 MG/ACTUAT Nasal Inhaler
 DR00325,Avandia Tab 4mg,19079465,rosiglitazone 4 MG Oral Tablet
 DR00326,Avandia Tab. 4Mg,19079465,rosiglitazone 4 MG Oral Tablet
 DR00327,Avelox Inj 400mg/250ml,1716908,moxifloxacin 1.6 MG/ML Injectable Solution
@@ -359,8 +359,8 @@ DR00334,Azathioprine PCH Tab 50mg,19014880,Azathioprine 50 MG Oral Tablet
 DR00335,AZEPTIN 1MG,934075,Azelastine
 DR00336,Azeptin Tab 1mg,934075,Azelastine
 DR00337,B.A.S.A 100MG,1113143,Aspirin 100 MG Oral Tablet
-DR00338,Baby Aspirin 100mg Ω≈«≥,1113143,Aspirin 100 MG Oral Tablet
-DR00339,Baclofen Tab 10mg ≈¬∆ÚæÁ,715235,Baclofen 10 MG Oral Tablet
+DR00338,Baby Aspirin 100mg Ïã†Ìíç,1113143,Aspirin 100 MG Oral Tablet
+DR00339,Baclofen Tab 10mg ÌÉúÌèâÏñë,715235,Baclofen 10 MG Oral Tablet
 DR00340,Bactacin Inj 1.5g,19073215,Ampicillin 250 MG/ML / Sulbactam 125 MG/ML Injectable Solution
 DR00341,bactroban oint 10g/tb,19008723,Mupirocin 0.02 MG/MG Topical Ointment
 DR00342,Bactroban Oint(10g),19008723,Mupirocin 0.02 MG/MG Topical Ointment
@@ -371,7 +371,7 @@ DR00346,Banepo Oint 20g,19027805,Bacitracin 0.4 UNT/MG / Neomycin 0.0035 MG/MG /
 DR00347,Baraclude Tab 0.5mg,1711248,entecavir 0.5 MG Oral Tablet
 DR00348,Basen Tab 0.2mg,21600778,VOGLIBOSE
 DR00349,Basen Tab 0.3mg,21600778,VOGLIBOSE
-DR00350,BCG vaccine Percutaneous 1¿Œ∫–,911486,Glutamate
+DR00350,BCG vaccine Percutaneous 1Ïù∏Î∂Ñ,911486,Glutamate
 DR00351,Bearse Tab,926487,Pancreatin
 DR00351,Bearse Tab,966991,Simethicone
 DR00351,BEARSE TAB,986515,CELLULASE
@@ -381,7 +381,7 @@ DR00352,Beecom hexa Inj 2ml,19010970,Vitamin B Complex
 DR00353,Beecom Tab,19010970,Vitamin B Complex
 DR00354,Benforex Cap,19010970,Vitamin B Complex
 DR00355,BENZTROPIN 2MG,40168896,benztropine mesylate 2 MG Oral Tablet
-DR00356,Benztropin Tab 1mg »Ø¿Œ,40168888,benztropine mesylate 1 MG Oral Tablet
+DR00356,Benztropin Tab 1mg ÌôòÏù∏,40168888,benztropine mesylate 1 MG Oral Tablet
 DR00357,Berast Tab 0.02mg,21601002,BERAPROST
 DR00358,Berotec Tab 2.5mg,19053980,Fenoterol 2.5 MG Oral Tablet
 DR00359,Bestidine Inj 20mg,953102,Famotidine 0.4 MG/ML Injectable Solution
@@ -395,16 +395,16 @@ DR00364,Betamethasone inj. 4mg/1ml/AM,19074185,Betamethasone 4 MG/ML Injectable 
 DR00365,Betasin Inj 100mg/20ml,40169706,Labetalol hydrochloride 5 MG/ML Injectable Solution
 DR00366,Bi-bag 650g/1EA,939506,Sodium Bicarbonate
 DR00367,Bidoxin Inj 50mg/1ml,1353270,Vitamin B6 50 MG/ML Injectable Solution
-DR00368,Bifen Cataplasma 6∏≈/PAK,1156378,Flurbiprofen
+DR00368,Bifen Cataplasma 6Îß§/PAK,1156378,Flurbiprofen
 DR00369,Biofle-S.Cap.,991855,Saccharomyces boulardii
 DR00370,Bioflor 250 Cap.,19121591,Saccharomyces boulardii 250 MG Oral Capsule
 DR00371,Bioflor 250 Powder,19123015,Saccharomyces boulardii 250 MG Oral Powder
-DR00372,Biperin Tab 2mg(ø¯ø‹),40162855,Biperiden Hydrochloride 2 MG Oral Tablet
+DR00372,Biperin Tab 2mg(ÏõêÏô∏),40162855,Biperiden Hydrochloride 2 MG Oral Tablet
 DR00373,Bisolvon Tab 8mg,19030494,Bromhexine 8 MG Oral Tablet
 DR00374,Bithree Tab,21600668,ANTIDIARRHEAL MICROORGANISMS
 DR00375,Bivon Inj 8.4% 1.68g/20ml,939534,Sodium Bicarbonate 1 MEQ/ML Injectable Solution
 DR00376,Bivon Inj. 8.4%(20ml),939534,Sodium Bicarbonate 1 MEQ/ML Injectable Solution
-DR00377,BLUTAL 10ML(ºˆ),19095761,ferric chloride
+DR00377,BLUTAL 10ML(Ïàò),19095761,ferric chloride
 DR00378,Blutal Inj,19095761,ferric chloride
 DR00379,Bolgre Cap 200mg,21601099,FERRIC ACETYL TRANSFERRIN
 DR00380,Bolgre Sol 10ml,1360067,Iron
@@ -452,9 +452,9 @@ DR00409,CACL2 3% 20ML,19036781,Calcium Chloride
 DR00410,Cadef Elixir 0.05mg/ml,1326437,Digoxin 0.05 MG/ML Oral Solution
 DR00411,Cadil Tab 1mg,1363057,Doxazosin 1 MG Oral Tablet
 DR00412,Cadil Tab 2mg,1363058,Doxazosin 2 MG Oral Tablet
-DR00413,Caduet Tab 5/10mg(ø¯ø‹),1332497,Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet
+DR00413,Caduet Tab 5/10mg(ÏõêÏô∏),1332497,Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet
 DR00414,Ca-Gluconate 20ML,19037061,Calcium Gluconate 100 MG/ML Injectable Solution
-DR00415,Cal. Carbonate Tab 500mg «—±π¿Ø≥™¿Ã∆Æ,19082680,Calcium Carbonate 500 MG Oral Tablet
+DR00415,Cal. Carbonate Tab 500mg ÌïúÍµ≠Ïú†ÎÇòÏù¥Ìä∏,19082680,Calcium Carbonate 500 MG Oral Tablet
 DR00416,Cal.chloride Inj 0.6g/20ml,19036781,Calcium Chloride
 DR00417,Cal.gluconate Inj 2g/20ml,19037061,Calcium Gluconate 100 MG/ML Injectable Solution
 DR00418,Cal.gluconate Inj(20ml),19037061,Calcium Gluconate 100 MG/ML Injectable Solution
@@ -475,8 +475,8 @@ DR00432,Capril Tab 12.5mg,19074672,Captopril 12.5 MG Oral Tablet
 DR00433,Capril Tab 25mg,1340161,Captopril 25 MG Oral Tablet
 DR00434,Carbenin Inj 0.5g,21602926,PANIPENEM AND BETAMIPRON
 DR00435,Cardioxane inj.500mg/VI,1353011,Dexrazoxane
-DR00436,Cardura Tab.1mg(ø¯≥ª),1363057,Doxazosin 1 MG Oral Tablet
-DR00437,Cardura Tab.2mg(ø¯≥ª),1363058,Doxazosin 2 MG Oral Tablet
+DR00436,Cardura Tab.1mg(ÏõêÎÇ¥),1363057,Doxazosin 1 MG Oral Tablet
+DR00437,Cardura Tab.2mg(ÏõêÎÇ¥),1363058,Doxazosin 2 MG Oral Tablet
 DR00438,Cardura-XL 4mg,1363086,Doxazosin 4 MG Extended Release Tablet
 DR00439,Cardura-XL tab 4mg,1363086,Doxazosin 4 MG Extended Release Tablet
 DR00440,CARMEX 500MG,19074847,Cefadroxil 500 MG Oral Capsule
@@ -485,7 +485,7 @@ DR00442,Carnit(CaCO3) Tab 500mg,19082680,Calcium Carbonate 500 MG Oral Tablet
 DR00443,Carnitil Tab.,19037597,Acetylcarnitine 590 MG Oral Tablet
 DR00444,Carol Syr,19019050,Ibuprofen 20 MG/ML Oral Suspension
 DR00445,Carol-F tab,19078461,Ibuprofen 200 MG Oral Tablet
-DR00446,Casodex Tab 50mg(ºˆ),1344403,bicalutamide 50 MG Oral Tablet
+DR00446,Casodex Tab 50mg(Ïàò),1344403,bicalutamide 50 MG Oral Tablet
 DR00447,Ceclor Cap 250mg,19074843,Cefaclor 250 MG Oral Capsule
 DR00448,Ceclor Syr 25mg/ml,19074842,Cefaclor 25 MG/ML Oral Suspension
 DR00449,CECLOR-SY 25MG/1ML,19115225,Cefaclor 25 MG/ML Oral Solution
@@ -499,8 +499,8 @@ DR00456,Cefmetazole Inj 1g,19029143,Cefmetazole 370 MG/ML Injectable Solution
 DR00457,Cefotaxime Inj 0.5g ,19074905,Cefotaxime 230 MG/ML Injectable Solution
 DR00458,Cefotaxime Inj 1g,19074903,Cefotaxime 300 MG/ML Injectable Solution
 DR00459,Cefotaxime Inj 2g,19074904,Cefotaxime 330 MG/ML Injectable Solution
-DR00460,Cefotaxime inj. 1g/VI(«—πÃ),1774470,Cefotaxime
-DR00461,Cefotaxime(«—πÃ) inj. 2g/VI,1774470,Cefotaxime
+DR00460,Cefotaxime inj. 1g/VI(ÌïúÎØ∏),1774470,Cefotaxime
+DR00461,Cefotaxime(ÌïúÎØ∏) inj. 2g/VI,1774470,Cefotaxime
 DR00462,Cefotazol inj. 1g/VI,19029143,Cefmetazole 370 MG/ML Injectable Solution
 DR00463,Cefotazole Inj 1g,19029143,Cefmetazole 370 MG/ML Injectable Solution
 DR00464,Cefotetan Inj 1g,19095155,Cefotetan 400 MG/ML Injectable Solution
@@ -508,9 +508,9 @@ DR00465,Cefotetan inj 1g/VI,19095155,Cefotetan 400 MG/ML Injectable Solution
 DR00466,Cefotiam IV Inj.1g,19051271,Cefotiam
 DR00467,Ceftem cap 200mg,19061882,ceftibuten 200 MG Oral Capsule
 DR00468,Ceftriaxone Bag Inj (1g+100ml),19028313,Ceftriaxone 350 MG/ML Injectable Solution
-DR00469,Ceftriaxone Inj 2g(∫∏∑…),19074978,Ceftriaxone 40 MG/ML Injectable Solution
+DR00469,Ceftriaxone Inj 2g(Î≥¥Î†π),19074978,Ceftriaxone 40 MG/ML Injectable Solution
 DR00470,Ceftriaxone inj. 1g/vi,1777806,Ceftriaxone
-DR00471,Ceftriaxone inj. 2g/VI(∫∏∑…),1777806,Ceftriaxone
+DR00471,Ceftriaxone inj. 2g/VI(Î≥¥Î†π),1777806,Ceftriaxone
 DR00472,Cefzil Dry Syr 25mg/ml,19074936,cefprozil 25 MG/ML Oral Suspension
 DR00473,Cefzil syr. 25mg/ml,19115159,cefprozil 25 MG/ML Oral Solution
 DR00474,Cefzil Tab 250mg,1738367,cefprozil 250 MG Oral Tablet
@@ -529,13 +529,13 @@ DR00484,Ceradolan(iv) inj 1g/VI,19051271,Cefotiam
 DR00485,Ceradoran Inj  0.5g,19051271,Cefotiam
 DR00486,Ceradoran Inj 1g,19051271,Cefotiam
 DR00487,Cerebrolycin-c Inj(214mg/1ml/Amp),21604768,OTHER PSYCHOSTIMULANTS AND NOOTROPICS
-DR00488,Cerebrolysin Inj 10ML(ºˆ¿‘),21604768,OTHER PSYCHOSTIMULANTS AND NOOTROPICS
+DR00488,Cerebrolysin Inj 10ML(ÏàòÏûÖ),21604768,OTHER PSYCHOSTIMULANTS AND NOOTROPICS
 DR00489,Ceroxim Tab 250mg,19075001,Cefuroxime 250 MG Oral Tablet
 DR00490,Cetam Inj 1g,21602881,CEFTEZOLE
 DR00491,Chirocaine inj. 25mg/10ml/AM,40226925,Levobupivacaine hydrochloride 2.5 MG/ML Injectable Solution
 DR00492,Chirocaine inj. 50mg/10ml/AM,40226929,Levobupivacaine hydrochloride 5 MG/ML Injectable Solution
-DR00493,Chlorpromazine Tab 100mg ∏Ì¿Œ,40179642,Chlorpromazine hydrochloride 100 MG Oral Tablet
-DR00494,Chlorpromazine Tab 50mg ∏Ì¿Œ,40179703,Chlorpromazine hydrochloride 50 MG Oral Tablet
+DR00493,Chlorpromazine Tab 100mg Î™ÖÏù∏,40179642,Chlorpromazine hydrochloride 100 MG Oral Tablet
+DR00494,Chlorpromazine Tab 50mg Î™ÖÏù∏,40179703,Chlorpromazine hydrochloride 50 MG Oral Tablet
 DR00495,Cicibon tab 500mg,19082680,Calcium Carbonate 500 MG Oral Tablet
 DR00496,Cilapenem inj 500mg,1797275,Cilastatin 5 MG/ML / Imipenem 5 MG/ML Injectable Solution
 DR00497,Cinalong Tab 10mg,21601760,CILNIDIPINE
@@ -560,7 +560,7 @@ DR00515,Claforan Inj 1g,19074903,Cefotaxime 300 MG/ML Injectable Solution
 DR00516,Clamoxin Inj 0.6g,1759851,Amoxicillin 50 MG/ML / Clavulanate 10 MG/ML Injectable Solution
 DR00517,Clanza CR Tab 200mg,19029393,aceclofenac
 DR00518,Clanza S soft cap,19029393,aceclofenac
-DR00519,Clanza-S Soft Cap 100mg(ø¯ø‹),19029393,aceclofenac
+DR00519,Clanza-S Soft Cap 100mg(ÏõêÏô∏),19029393,aceclofenac
 DR00520,Clarityne Tab 10mg,1107882,Loratadine 10 MG Oral Tablet
 DR00521,Claroma Tab 250mg,1750501,Clarithromycin 250 MG Oral Tablet
 DR00522,Clease Tab,906149,TRYPSIN
@@ -581,7 +581,7 @@ DR00535,COBALEXIN 2ML,19048026,cobamamide
 DR00536,CODARONE 200MG,1309992,Amiodarone hydrochloride 200 MG Oral Tablet
 DR00537,Codein 20mg,1201620,Codeine
 DR00538,Codeine Phosphate Tab 20mg,1201620,Codeine
-DR00539,Co-Diovan Tab 160/12.5mg(ø¯ø‹),19023454,Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet
+DR00539,Co-Diovan Tab 160/12.5mg(ÏõêÏô∏),19023454,Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet
 DR00540,Co-Diovan Tab 80/12.5mg,19023453,Hydrochlorothiazide 12.5 MG / valsartan 80 MG Oral Tablet
 DR00541,Codipine Tab 4mg,21601761,BENIDIPINE
 DR00542,COFREL 20MG,19056541,benproperine
@@ -618,10 +618,10 @@ DR00571,Cough Syr,1189596,dihydrocodeine
 DR00571,Cough Syr,19127637,Chlopheniramine
 DR00571,Cough Syr,42899698,N-methylephedrine
 DR00571,Cough Syr,912362,Ammonium Chloride
-DR00572,Cough syr-s(±‚ƒßæ‡),1119510,Dextromethorphan
-DR00572,Cough syr-s(±‚ƒßæ‡),19127637,Chlopheniramine
-DR00572,Cough syr-s(±‚ƒßæ‡),42899698,N-methylephedrine
-DR00572,Cough syr-s(±‚ƒßæ‡),912362,Ammonium Chloride
+DR00572,Cough syr-s(Í∏∞Ïπ®ÏïΩ),1119510,Dextromethorphan
+DR00572,Cough syr-s(Í∏∞Ïπ®ÏïΩ),19127637,Chlopheniramine
+DR00572,Cough syr-s(Í∏∞Ïπ®ÏïΩ),42899698,N-methylephedrine
+DR00572,Cough syr-s(Í∏∞Ïπ®ÏïΩ),912362,Ammonium Chloride
 DR00573,COUMADIN 5MG,40163554,Warfarin Sodium 5 MG Oral Tablet
 DR00574,Coumadin Tab 5mg,40163554,Warfarin Sodium 5 MG Oral Tablet
 DR00575,COUMADIN TAB.2MG,40163524,Warfarin Sodium 2 MG Oral Tablet
@@ -670,7 +670,7 @@ DR00611,Decapeptyl-Depot Inj 3.75mg/PFS,42903025,Triptorelin 1.88 MG/ML Prefille
 DR00612,DECAQUINON 5MG,1351115,coenzyme Q10
 DR00613,Dendri sol'n 0.1% (30ml),19063848,Betamethasone 1 MG/ML Topical Solution
 DR00614,Denogan Inj 1g,1125315,Acetaminophen
-DR00615,Denol Tab 300mg(ø¯ø‹),19107204,bismuth tripotassium dicitrate 300 MG Oral Tablet
+DR00615,Denol Tab 300mg(ÏõêÏô∏),19107204,bismuth tripotassium dicitrate 300 MG Oral Tablet
 DR00616,depakin inj. 400mg,40237993,Valproic Acid 100 MG/ML Injectable Solution
 DR00617,depakin tab 500mg,40238256,Divalproex Sodium 500 MG Extended Release Tablet
 DR00618,Depakine 300mg Chrono Tab,745466,Valproate
@@ -690,21 +690,21 @@ DR00631,Detrusitol SR cap 4mg,40163793,tolterodine tartrate 4 MG Extended Releas
 DR00632,Detrusitol SR cap.2mg,40163787,tolterodine tartrate 2 MG Extended Release Capsule
 DR00633,Detrusitol Tab. 2MG/Tab.,40163789,tolterodine tartrate 2 MG Oral Tablet
 DR00634,DEXAMETHASONE 0.5MG,1518258,Dexamethasone 0.5 MG Oral Tablet
-DR00635,Dexamethasone Inj.5MG/1ML(≈Î¡ı),19006963,Dexamethasone 5 MG/ML Injectable Solution
-DR00636,Dexamethasone Tab 0.5mg ¿Ø«—,1518258,Dexamethasone 0.5 MG Oral Tablet
+DR00635,Dexamethasone Inj.5MG/1ML(ÌÜµÏ¶ù),19006963,Dexamethasone 5 MG/ML Injectable Solution
+DR00636,Dexamethasone Tab 0.5mg Ïú†Ìïú,1518258,Dexamethasone 0.5 MG Oral Tablet
 DR00637,Dexa-S Inj 5mg/1ml,19006963,Dexamethasone 5 MG/ML Injectable Solution
 DR00638,Dextrose(D/W) 10% 1000ml,1560553,Glucose 100 MG/ML Injectable Solution
 DR00639,Dextrose(D/W) 15% 1000ml,19009602,Glucose 150 MG/ML Injectable Solution
 DR00640,Dextrose(D/W) 20% 20ml,1560554,Glucose 200 MG/ML Injectable Solution
-DR00641,Dextrose(D/W) 20% 300ml(¥Î«—),1560554,Glucose 200 MG/ML Injectable Solution
-DR00642,Dextrose(D/W) 5% 1000ml(¥Î«—),19076324,Glucose 50 MG/ML Injectable Solution
-DR00643,Dextrose(D/W) 5% 100ml(ivøÎ)(PP)(¡ﬂø‹),19076324,Glucose 50 MG/ML Injectable Solution
-DR00644,Dextrose(D/W) 5% 100ml(mixøÎ)(PP)(¡ﬂø‹),19076324,Glucose 50 MG/ML Injectable Solution
+DR00641,Dextrose(D/W) 20% 300ml(ÎåÄÌïú),1560554,Glucose 200 MG/ML Injectable Solution
+DR00642,Dextrose(D/W) 5% 1000ml(ÎåÄÌïú),19076324,Glucose 50 MG/ML Injectable Solution
+DR00643,Dextrose(D/W) 5% 100ml(ivÏö©)(PP)(Ï§ëÏô∏),19076324,Glucose 50 MG/ML Injectable Solution
+DR00644,Dextrose(D/W) 5% 100ml(mixÏö©)(PP)(Ï§ëÏô∏),19076324,Glucose 50 MG/ML Injectable Solution
 DR00645,Dextrose(D/W) 5% 200ml,19076324,Glucose 50 MG/ML Injectable Solution
-DR00646,Dextrose(D/W) 5% 200ml(¥Î«—),19076324,Glucose 50 MG/ML Injectable Solution
+DR00646,Dextrose(D/W) 5% 200ml(ÎåÄÌïú),19076324,Glucose 50 MG/ML Injectable Solution
 DR00647,Dextrose(D/W) 5% 200ml(CJ)(bag),19076324,Glucose 50 MG/ML Injectable Solution
-DR00648,Dextrose(D/W) 5% 500ml(¥Î«—),19076324,Glucose 50 MG/ML Injectable Solution
-DR00649,Dextrose(D/W) 5% 50ml(PP)(¡ﬂø‹),19076324,Glucose 50 MG/ML Injectable Solution
+DR00648,Dextrose(D/W) 5% 500ml(ÎåÄÌïú),19076324,Glucose 50 MG/ML Injectable Solution
+DR00649,Dextrose(D/W) 5% 50ml(PP)(Ï§ëÏô∏),19076324,Glucose 50 MG/ML Injectable Solution
 DR00650,Dextrose(D/W) 50% 100ml,1560556,Glucose 500 MG/ML Injectable Solution
 DR00651,Dextrose5% NaCl(D/S) 1000ml(bag),967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
 DR00652,Dextrose5% NaCl(D/S) 500ml(bag),967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
@@ -731,7 +731,7 @@ DR00672,Diflucan Cap 50mg,1755001,Fluconazole 50 MG Oral Capsule
 DR00673,Diflucan Inj 100mg/50ml,1755040,Fluconazole 2 MG/ML Injectable Solution
 DR00674,Diflucan inj 100mg/50ml/VI,1755040,Fluconazole 2 MG/ML Injectable Solution
 DR00675,Diflucan Syrup 10mg/ml,19077380,Fluconazole 10 MG/ML Oral Suspension
-DR00676,Digosin Tab 0.25mg «—¿œ,19018937,Digoxin 0.25 MG Oral Tablet
+DR00676,Digosin Tab 0.25mg ÌïúÏùº,19018937,Digoxin 0.25 MG Oral Tablet
 DR00677,DIGOXIN 0.25MG,19018937,Digoxin 0.25 MG Oral Tablet
 DR00678,Digoxin Inj 0.25mg/1ml,19003514,Digoxin 0.25 MG/ML Injectable Solution
 DR00679,Digoxin inj 0.25mg/1ml/AM,19003514,Digoxin 0.25 MG/ML Injectable Solution
@@ -758,7 +758,7 @@ DR00697,Dobutamine 2000mg/500ml,19097059,DEXTROSE SOLUTION
 DR00698,Dobutamine Inj 250mg/5ml,19065473,Dobutamine 50 MG/ML Injectable Solution
 DR00699,Doltramcet tab.,1103359,Acetaminophen 325 MG / Tramadol Hydrochloride 37.5 MG Oral Tablet
 DR00700,Domperidone granule 10mg/g,19062160,Domperidone 10 MG Granules
-DR00701,Domperidone Susp(¥Îø¯) 1mg/ml,19062181,Domperidone 1 MG/ML Oral Suspension
+DR00701,Domperidone Susp(ÎåÄÏõê) 1mg/ml,19062181,Domperidone 1 MG/ML Oral Suspension
 DR00702,Dopamin prefilled 400mg,40240704,Dopamine Hydrochloride 80 MG/ML Injectable Solution
 DR00703,Dopamine 800mg/500ml,1337860,Dopamine
 DR00703,Dopamine 800mg/500ml,19097059,DEXTROSE SOLUTION
@@ -766,8 +766,8 @@ DR00704,Dopasin Inj 200mg/5ml,40240700,Dopamine Hydrochloride 40 MG/ML Injectabl
 DR00705,Dopramin Inj 200mg/5ml,40240700,Dopamine Hydrochloride 40 MG/ML Injectable Solution
 DR00706,Dopramin Inj 50mg,42799677,Dopamine Hydrochloride 10 MG/ML Injectable Solution
 DR00707,Dopramine inj 200mg/5ml/AM,40240700,Dopamine Hydrochloride 40 MG/ML Injectable Solution
-DR00708,Dormicum 15mg/3ml Inj («‚),19078925,Midazolam 5 MG/ML Injectable Solution
-DR00709,DORMICUM ¡÷ 5mg(ºˆ),19078924,Midazolam 1 MG/ML Injectable Solution
+DR00708,Dormicum 15mg/3ml Inj (Ìñ•),19078925,Midazolam 5 MG/ML Injectable Solution
+DR00709,DORMICUM Ï£º 5mg(Ïàò),19078924,Midazolam 1 MG/ML Injectable Solution
 DR00710,Dormicum Inj 15mg/3ml,19078925,Midazolam 5 MG/ML Injectable Solution
 DR00711,Dormicum Inj 5mg/5ml,19078924,Midazolam 1 MG/ML Injectable Solution
 DR00712,Doxazosin Tab 2mg,1363058,Doxazosin 2 MG Oral Tablet
@@ -781,7 +781,7 @@ DR00719,Duolax Tab,924939,Bisacodyl
 DR00719,Duolax Tab,941258,Docusate
 DR00720,Duphalac syr 15ml/PA,19003454,Lactulose 670 MG/ML Oral Solution
 DR00721,DUPHALAC SYRUP,19003454,Lactulose 670 MG/ML Oral Solution
-DR00722,Duphalac(∞£º∫»•ºˆ) Syr,19003454,Lactulose 670 MG/ML Oral Solution
+DR00722,Duphalac(Í∞ÑÏÑ±ÌòºÏàò) Syr,19003454,Lactulose 670 MG/ML Oral Solution
 DR00723,Duphalac-easy syrup 15ml/PA,19003454,Lactulose 670 MG/ML Oral Solution
 DR00724,Duraprox tab 200mg,19106212,oxaprozin 200 MG Oral Tablet
 DR00725,Duratears Eye oint(3.5g),19087317,Lanolin
@@ -801,8 +801,8 @@ DR00738,Ebastel syr 1mg/ml,19092435,ebastine 1 MG/ML Oral Solution
 DR00739,Ebastel Tab,19064800,ebastine 10 MG Oral Tablet
 DR00740,Ebiose Pow.,19066564,"ENZYMES,DIGESTIVE (PLANT)"
 DR00741,Ebixa Tab 10mg,40222834,Memantine hydrochloride 10 MG Oral Tablet
-DR00742,Ecolicin æ»ø¨∞Ì 3.5g/Tube,1701677,colistimethate
-DR00742,Ecolicin æ»ø¨∞Ì 3.5g/Tube,1746940,Erythromycin
+DR00742,Ecolicin ÏïàÏó∞Í≥† 3.5g/Tube,1701677,colistimethate
+DR00742,Ecolicin ÏïàÏó∞Í≥† 3.5g/Tube,1746940,Erythromycin
 DR00743,Ecolicin Eye Drop (5ml/Bot),1701677,colistimethate
 DR00743,Ecolicin Eye Drop (5ml/Bot),1746940,Erythromycin
 DR00744,Efexor XR 75mg,19103819,venlafaxine 75 MG Extended Release Capsule
@@ -823,12 +823,12 @@ DR00758,Enafon Tab 10mg,40162672,Amitriptyline Hydrochloride 10 MG Oral Tablet
 DR00759,ENAPRIN 10MG,40165762,Enalapril Maleate 10 MG Oral Tablet
 DR00760,Enaprin Tab 10mg,40165762,Enalapril Maleate 10 MG Oral Tablet
 DR00761,Encover Sol 400ml,21600801,"MULTIVITAMINS, COMBINATIONS"
-DR00762,Encover Sol(π–≈©∏¿) 200ml,21600801,"MULTIVITAMINS, COMBINATIONS"
+DR00762,Encover Sol(Î∞ÄÌÅ¨Îßõ) 200ml,21600801,"MULTIVITAMINS, COMBINATIONS"
 DR00763,Endoxan inj 500mg/VI,1310317,Cyclophosphamide
 DR00764,Ensure (250ml/Can),21600801,"MULTIVITAMINS, COMBINATIONS"
 DR00765,Entelon Tab 150mg,42904225,Vitis vinifera whole extract
 DR00766,Entelon tab 50mg,42904225,Vitis vinifera whole extract
-DR00767,Entelon Tab 50mg(ø¯ø‹),42904225,Vitis vinifera whole extract
+DR00767,Entelon Tab 50mg(ÏõêÏô∏),42904225,Vitis vinifera whole extract
 DR00768,Entobar Inj 100mg/2ml,19057198,Pentobarbital 50 MG/ML Injectable Solution
 DR00769,Ephedrine Inj 4% 40mg/1ml,1143374,Ephedrine
 DR00770,Ephedrine inj 40mg/1ml/AM,1143374,Ephedrine
@@ -840,11 +840,11 @@ DR00775,Epokine 2000IU/Vial,1301169,Epoetin Alfa 2000 UNT/ML Injectable Solution
 DR00776,Epokine 2000unit/0.5ml/PFS,19129864,0.5 ML Epoetin Alfa 4000 UNT/ML Prefilled Syringe
 DR00777,Epokine 4000unit/0.4ml/PFS,19129860,0.4 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
 DR00778,Epokine 6000unit/0.6ml/PFS,19127226,0.6 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
-DR00779,Epokine prefilled 10000IU/1ml(≥√),19129863,1 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
-DR00780,Epokine prefilled 3000U(≥√),19129859,0.3 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
-DR00781,Epokine prefilled 4000IU/syr.(≥√),19129860,0.4 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
-DR00782,Epokine prefilled 6000IU/0.6ml(≥√),19127226,0.6 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
-DR00783,Epokine prefilled 8000IU/0.8ml(≥√),19129861,0.8 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
+DR00779,Epokine prefilled 10000IU/1ml(ÎÉâ),19129863,1 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
+DR00780,Epokine prefilled 3000U(ÎÉâ),19129859,0.3 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
+DR00781,Epokine prefilled 4000IU/syr.(ÎÉâ),19129860,0.4 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
+DR00782,Epokine prefilled 6000IU/0.6ml(ÎÉâ),19127226,0.6 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
+DR00783,Epokine prefilled 8000IU/0.8ml(ÎÉâ),19129861,0.8 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
 DR00784,Epokine prefilled Inj. 2000iu,19129864,0.5 ML Epoetin Alfa 4000 UNT/ML Prefilled Syringe
 DR00785,Eposin Inj 100mg/5ml,19077215,Etoposide 20 MG/ML Injectable Solution
 DR00786,EPS inj 150mg/7.5ml/VI,19077215,Etoposide 20 MG/ML Injectable Solution
@@ -883,7 +883,7 @@ DR00813,Exforge Tab 5/80mg,1308842,valsartan
 DR00813,Exforge Tab 5/80mg,1332418,Amlodipine
 DR00814,Exoperine Tab 50mg,21604123,EPERISONE
 DR00815,Fastic Tab 90mg,19107110,nateglinide 90 MG Oral Tablet
-DR00816,FD Caine (1:10∏∏)(√≥ƒ°øÎ) 1.8ml,42799043,1.8 ML Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe
+DR00816,FD Caine (1:10Îßå)(Ï≤òÏπòÏö©) 1.8ml,42799043,1.8 ML Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe
 DR00817,Fenatussin Cap 200mg,1163948,Guaifenesin 200 MG Oral Capsule
 DR00818,Fentanyl 0.1mg/2ml inj.,19034073,Fentanyl 0.05 MG/ML Injectable Solution
 DR00819,Fentanyl 0.5MG/10ML Inj.,19034073,Fentanyl 0.05 MG/ML Injectable Solution
@@ -927,7 +927,7 @@ DR00848,Fleet Phospho-Soda 45ml,991732,"Sodium Phosphate, Monobasic 480 MG/ML / 
 DR00849,Fleet Phospho-Soda 90ml,991732,"Sodium Phosphate, Monobasic 480 MG/ML / SODIUM PHOSPHATE,DIBASIC 180 MG/ML Oral Solution"
 DR00850,Flivas tab 75mg,21602667,ALPHA-ADRENORECEPTOR ANTAGONISTS
 DR00851,Flixonase Nasal Spray,40169220,120 ACTUAT Fluticasone propionate 0.05 MG/ACTUAT Nasal Inhaler
-DR00852,Flixonase Nasal Spray 50mcg(ºˆ,40169220,120 ACTUAT Fluticasone propionate 0.05 MG/ACTUAT Nasal Inhaler
+DR00852,Flixonase Nasal Spray 50mcg(Ïàò,40169220,120 ACTUAT Fluticasone propionate 0.05 MG/ACTUAT Nasal Inhaler
 DR00853,Flomox Tab 100mg,21602911,CEFCAPENE
 DR00854,Flospan Tab 80mg,19041222,Phloroglucinol
 DR00855,FLUCON EYE DROP 5ML,19077438,Fluorometholone 1 MG/ML Ophthalmic Suspension
@@ -961,9 +961,9 @@ DR00877,Fraxiparine inj. 5700IU/0.6ml(Pre-filled),19001016,Nadroparin 9500 UNT/M
 DR00878,Freamine 10% 500ml/Bag,19130902,Alanine 5.4 MG/ML / Arginine 12 MG/ML / Aspartate 3.2 MG/ML / Cysteine 0.24 MG/ML / Glutamate 5 MG/ML / Glycine 3.6 MG/ML / Histidine 4.8 MG/ML / Isoleucine 8.2 MG/ML / Leucine 1.4 MG/ML / Lysine 1.2 MG/ML / Methionine 3.4 MG/ML / Phenylalanine 4.8 MG/ML /
 DR00879,Freamine 8.5% 500ml/Bag,19130649,Alanine 8.44 MG/ML / Arginine 8.65 MG/ML / Aspartate 5.95 MG/ML / Glutamate 6.27 MG/ML / Glycine 4.25 MG/ML / Histidine 2.55 MG/ML / Isoleucine 5.61 MG/ML / Leucine 8.5 MG/ML / Lysine 8.93 MG/ML / Methionine 1.46 MG/ML / Phenylalanine 2.53 MG/ML / Proline
 DR00880,Fresofol Inj 1% 200mg/20ml,753629,Propofol 10 MG/ML Injectable Suspension
-DR00881,Fresofol inj 1% 20ml(200mg/20ml/AM)(«‚),753629,Propofol 10 MG/ML Injectable Suspension
-DR00882,Fresofol inj 1% 20ml(≥ªΩ√∞ÊΩ«¿¸øÎ)(«‚),753629,Propofol 10 MG/ML Injectable Suspension
-DR00883,Fresofol inj 2% 50ml(1000mg/50ml/VI)(«‚),753627,Propofol 20 MG/ML Injectable Suspension
+DR00881,Fresofol inj 1% 20ml(200mg/20ml/AM)(Ìñ•),753629,Propofol 10 MG/ML Injectable Suspension
+DR00882,Fresofol inj 1% 20ml(ÎÇ¥ÏãúÍ≤ΩÏã§Ï†ÑÏö©)(Ìñ•),753629,Propofol 10 MG/ML Injectable Suspension
+DR00883,Fresofol inj 2% 50ml(1000mg/50ml/VI)(Ìñ•),753627,Propofol 20 MG/ML Injectable Suspension
 DR00884,Fresofol Inj 2%1000mg/50ml,753627,Propofol 20 MG/ML Injectable Suspension
 DR00885,Fresofol MCT Inj 2% 1000mg/50ml,753627,Propofol 20 MG/ML Injectable Suspension
 DR00886,Fullgram Inj 300mg/2ml,19030822,Clindamycin 150 MG/ML Injectable Solution
@@ -993,7 +993,7 @@ DR00903,Galvus Tab 50mg,19129179,vildagliptin 50 MG Oral Tablet
 DR00904,GanaTON Tab 50mg,21600483,PROPULSIVES
 DR00905,Gasmotin Tab 5mg,19106796,mosapride 5 MG Oral Tablet
 DR00906,Gaster D Tab 20mg,19077241,Famotidine 20 MG Oral Tablet
-DR00907,Gaster D tab 20mg (∞°Ω∫≈Õ µ),19019002,Famotidine 20 MG Disintegrating Tablet
+DR00907,Gaster D tab 20mg (Í∞ÄÏä§ÌÑ∞ Îîî),19019002,Famotidine 20 MG Disintegrating Tablet
 DR00908,Gaster Inj 20mg,953076,Famotidine
 DR00909,Gaster inj 20mg/VI,953076,Famotidine
 DR00910,Gaster Tab 20mg,19077241,Famotidine 20 MG Oral Tablet
@@ -1009,7 +1009,7 @@ DR00918,Gelomyrtol forte soft cap,19018433,myrtol
 DR00919,Gemtan inj. 1g/VI,1314924,gemcitabine
 DR00920,Gemtan inj. 200mg/VI,1314924,gemcitabine
 DR00921,Gemtra inj. 1G/VI,1314924,gemcitabine
-DR00922,Gemzar inj. 1g/VI(ºˆ),1314924,gemcitabine
+DR00922,Gemzar inj. 1g/VI(Ïàò),1314924,gemcitabine
 DR00923,Gemzar inj. 200mg/VI,1314924,gemcitabine
 DR00924,Genexol inj 100mg/16.7ml/VI,1378385,Paclitaxel 6 MG/ML Injectable Solution
 DR00925,Gentamicin Inj 80mg/2ml,919532,Gentamicins 40 MG/ML Injectable Solution
@@ -1065,15 +1065,15 @@ DR00968,Harnal Cap. 0.2mg,924566,tamsulosin
 DR00969,Harnal D tab 0.2mg,924566,tamsulosin
 DR00970,Hartman soln. 1000ML,19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
 DR00971,Hartman soln. 500ML,19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
-DR00972,Hartmann soln 1000ml(bag)(¡ﬂø‹),19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
-DR00973,Hartmann soln 500ml(bag)(¡ﬂø‹),19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
+DR00972,Hartmann soln 1000ml(bag)(Ï§ëÏô∏),19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
+DR00973,Hartmann soln 500ml(bag)(Ï§ëÏô∏),19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
 DR00974,HD 1L/Bag,1560524,Glucose
 DR00974,HD 1L/Bag,967823,Sodium Chloride
 DR00975,HD 500ml/Bag,1560524,Glucose
 DR00975,HD 500ml/Bag,967823,Sodium Chloride
-DR00976,Healon inj 8.5mg/0.85ml/∞¸,19115175,Sodium Hyaluronate 10 MG/ML Ophthalmic Solution
+DR00976,Healon inj 8.5mg/0.85ml/Í¥Ä,19115175,Sodium Hyaluronate 10 MG/ML Ophthalmic Solution
 DR00977,Helocetin Cap 500mg,19062576,Chloramphenicol 500 MG Oral Capsule
-DR00978,HEMO-B-DEX 0.15% 2»£ 12.6L,939506,Sodium Bicarbonate
+DR00978,HEMO-B-DEX 0.15% 2Ìò∏ 12.6L,939506,Sodium Bicarbonate
 DR00979,Hemocontin Tab,19000753,Ferrous glycine sulfate
 DR00979,Hemocontin Tab,19005046,pyridoxine
 DR00979,Hemocontin Tab,19048026,cobamamide
@@ -1093,7 +1093,7 @@ DR00987,Hepa-Merz Infusion 10ml,19024365,Ornithine
 DR00988,Hepa-Merz powder 5g,19024365,Ornithine
 DR00989,Heparin 20000unit/20ml,1367571,Heparin
 DR00990,Heparin 25000unit/5ml,19077987,Heparin 5000 UNT/ML Injectable Solution
-DR00991,Heparin 25000unit/5ml(«—∏≤),19077987,Heparin 5000 UNT/ML Injectable Solution
+DR00991,Heparin 25000unit/5ml(ÌïúÎ¶º),19077987,Heparin 5000 UNT/ML Injectable Solution
 DR00992,Heparin inj 25000IU/5ml/VI,19077987,Heparin 5000 UNT/ML Injectable Solution
 DR00993,Hepatofalk Tab,1195334,Choline
 DR00993,Hepatofalk Tab,19010955,Cysteine
@@ -1139,19 +1139,19 @@ DR01012,Hokunalin patch 0.5mg,19043191,tulobuterol
 DR01013,Holoxan inj 1g/VI,19078187,Ifosfamide
 DR01014,HOSTACORTIN,1550560,Prednisolone 5 MG Oral Tablet
 DR01015,HS 1L/Bag,19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
-DR01016,HS 1L/Bot (ºˆº˙Ω«øÎ),19011035,Lactate
-DR01016,HS 1L/Bot (ºˆº˙Ω«øÎ),19036781,Calcium Chloride
-DR01016,HS 1L/Bot (ºˆº˙Ω«øÎ),19049105,Potassium Chloride
-DR01016,HS 1L/Bot (ºˆº˙Ω«øÎ),967823,Sodium Chloride
+DR01016,HS 1L/Bot (ÏàòÏà†Ïã§Ïö©),19011035,Lactate
+DR01016,HS 1L/Bot (ÏàòÏà†Ïã§Ïö©),19036781,Calcium Chloride
+DR01016,HS 1L/Bot (ÏàòÏà†Ïã§Ïö©),19049105,Potassium Chloride
+DR01016,HS 1L/Bot (ÏàòÏà†Ïã§Ïö©),967823,Sodium Chloride
 DR01017,HS 500ml/Bag,19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
 DR01018,Humalog 25MIX KPen 300unit/3ml,19135266,3 ML Insulin Lispro 100 UNT/ML Prefilled Syringe
 DR01019,Humalog inj 1000IU/10ml/VI,19058398,"Insulin, Lispro, Human 100 UNT/ML Injectable Solution"
 DR01020,Human velosulin 1000IU/10ml,19078555,"Insulin, Regular, Human 100 UNT/ML Injectable Solution"
 DR01021,Humulin N quickpen 300IU/3ml,19078555,"Insulin, Regular, Human 100 UNT/ML Injectable Solution"
 DR01022,Humulin-R Inj 1000unit/10ml,19078555,"Insulin, Regular, Human 100 UNT/ML Injectable Solution"
-DR01023,Hyal plus inj 12.75mg/0.85ml/∞¸,787787,hyaluronate
+DR01023,Hyal plus inj 12.75mg/0.85ml/Í¥Ä,787787,hyaluronate
 DR01024,Hyalein Drop 0.1%,787787,hyaluronate
-DR01025,Hyalein eye drop 5ml(ºˆ),787787,hyaluronate
+DR01025,Hyalein eye drop 5ml(Ïàò),787787,hyaluronate
 DR01026,Hyalein Mini 0.1% Eye Drop,787787,hyaluronate
 DR01027,Hyalein Mini eye drop 0.1%,798336,Hyaluronan
 DR01028,Hydantoin Tab 100mg,40163213,Phenytoin sodium 100 MG Oral Tablet
@@ -1170,7 +1170,7 @@ DR01040,Hytrine Tab 5mg,19079718,terazosine 5 MG Oral Tablet
 DR01041,Ibustrin Tab 200mg,19107396,indobufen 200 MG Oral Tablet
 DR01042,Ibustrin Tab. 200Mg,19107396,indobufen 200 MG Oral Tablet
 DR01043,Imdur Tab 60mg,1383862,Isosorbide Mononitrate 60 MG Extended Release Tablet
-DR01044,Imipramine Tab 25mg »Ø¿Œ,778296,Imipramine Hydrochloride 25 MG Oral Tablet
+DR01044,Imipramine Tab 25mg ÌôòÏù∏,778296,Imipramine Hydrochloride 25 MG Oral Tablet
 DR01045,Imotun Cap 300mg,40254364,"AVOCADO AND SOYABEAN OIL, UNSAPONIFIABLES"
 DR01046,Imovane Tab 7.5mg,19044885,zopiclone 7.5 MG Oral Tablet
 DR01047,implanta cap. 25mg,19010559,"CYCLOSPORINE, MODIFIED 25 MG Oral Capsule"
@@ -1183,7 +1183,7 @@ DR01053,Indenol Tab. 10mg,40163312,Propranolol Hydrochloride 10 MG Oral Tablet
 DR01054,Inhibace Tab 2.5mg,19022242,Cilazapril 2.5 MG Oral Tablet
 DR01055,Inhibase 2.5mg,19022242,Cilazapril 2.5 MG Oral Tablet
 DR01056,Insulatard human 1000IU/10ml/VI,19078555,"Insulin, Regular, Human 100 UNT/ML Injectable Solution"
-DR01057,Insulatard Innolet inj 100IU/ml(»ﬁ∏’¿ŒΩ∂∏∞),19078555,"Insulin, Regular, Human 100 UNT/ML Injectable Solution"
+DR01057,Insulatard Innolet inj 100IU/ml(Ìú¥Î®ºÏù∏ÏäêÎ¶∞),19078555,"Insulin, Regular, Human 100 UNT/ML Injectable Solution"
 DR01058,Intra MCT 10% 500ml/Bot,19070224,Soybean Oil
 DR01058,Intra MCT 10% 500ml/Bot,42899398,Medium chain triglycerides
 DR01059,Intra MCT 20% (250ml),19070224,Soybean Oil
@@ -1209,11 +1209,11 @@ DR01077,isoptin sr 180mg,40171863,Verapamil hydrochloride 180 MG Extended Releas
 DR01078,Isoptin SR Tab 180mg,40171863,Verapamil hydrochloride 180 MG Extended Release Tablet
 DR01079,Isoptoatropine Drop 1%(15ml),40243447,Atropine Sulfate 10 MG/ML Ophthalmic Solution
 DR01080,isosorbide dinitrate 10mg,19003962,Isosorbide Dinitrate 1 MG/ML Injectable Solution
-DR01081,Isotonic saline(N/S) 1000ml(¥Î«—),19079524,Sodium Chloride 9 MG/ML Injectable Solution
-DR01082,Isotonic saline(N/S) 1000ml(√≥ƒ°øÎ),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01081,Isotonic saline(N/S) 1000ml(ÎåÄÌïú),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01082,Isotonic saline(N/S) 1000ml(Ï≤òÏπòÏö©),19079524,Sodium Chloride 9 MG/ML Injectable Solution
 DR01083,Isotonic saline(N/S) 3L,19079524,Sodium Chloride 9 MG/ML Injectable Solution
-DR01084,Isotonic saline(N/S) 500ml(¥Î«—),19079524,Sodium Chloride 9 MG/ML Injectable Solution
-DR01085,Isotonic saline(N/S)150ml(¥Î«—),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01084,Isotonic saline(N/S) 500ml(ÎåÄÌïú),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01085,Isotonic saline(N/S)150ml(ÎåÄÌïú),19079524,Sodium Chloride 9 MG/ML Injectable Solution
 DR01086,Isotril ER  Tab. 60MG,1383862,Isosorbide Mononitrate 60 MG Extended Release Tablet
 DR01087,Itra tab. 100mg,19106152,Itraconazole 100 MG Oral Tablet
 DR01088,IV Globulin S Inj 2.5g/50ml,19027390,"Immunoglobulins, Intravenous 50 MG/ML Injectable Solution"
@@ -1249,15 +1249,15 @@ DR01116,Keppra Tab 500mg,711589,Levetiracetam 500 MG Oral Tablet
 DR01117,Keppra tab. 500mg,711589,Levetiracetam 500 MG Oral Tablet
 DR01118,KERLONE,42800549,Betaxolol Hydrochloride 20 MG Oral Tablet
 DR01119,Keromin Inj 30mg/1ml,40164851,Ketorolac Tromethamine 30 MG/ML Injectable Solution
-DR01120,Keromin Inj 30mg/AM(≈Î¡ı¡¶∞≈øÎ),40164851,Ketorolac Tromethamine 30 MG/ML Injectable Solution
+DR01120,Keromin Inj 30mg/AM(ÌÜµÏ¶ùÏ†úÍ±∞Ïö©),40164851,Ketorolac Tromethamine 30 MG/ML Injectable Solution
 DR01121,Keromin inj. 30mg/1ml/AM,40164851,Ketorolac Tromethamine 30 MG/ML Injectable Solution
 DR01122,Ketalar Inj 50mg/ml,19057197,Ketamine 50 MG/ML Injectable Solution
 DR01123,KeTamine Inj 250mg/5ml/Amp,19057197,Ketamine 50 MG/ML Injectable Solution
 DR01124,Ketamine Inj 500mg/10ml,19057197,Ketamine 50 MG/ML Injectable Solution
 DR01125,Ketas Cap 10mg,21601587,OTHER PERIPHERAL VASODILATORS
 DR01126,Ketocin inj 30mg/1ml/AM,40164851,Ketorolac Tromethamine 30 MG/ML Injectable Solution
-DR01127,Ketotop 6∏≈/PAK,1185922,Ketoprofen
-DR01128,Ketotop EL 7∏≈/PAK,1185922,Ketoprofen
+DR01127,Ketotop 6Îß§/PAK,1185922,Ketoprofen
+DR01128,Ketotop EL 7Îß§/PAK,1185922,Ketoprofen
 DR01129,ketotop plaster 1pack,1185922,Ketoprofen
 DR01130,Keydipin ER tab 5mg,1353818,Felodipine 5 MG Extended Release Tablet
 DR01131,Klaricid 25mg/ml Susp ,19058072,Clarithromycin 25 MG/ML Oral Suspension
@@ -1268,10 +1268,10 @@ DR01135,Klaricid Tab 500mg,1750562,Clarithromycin 500 MG Oral Tablet
 DR01136,Klaricid XL 500mg Tab,1750562,Clarithromycin 500 MG Oral Tablet
 DR01137,Klenzo 1L/Bot,968205,Sodium Chloride 9 MG/ML Irrigation Solution
 DR01138,K-Phos Inj 30mM/30ml,19027362,potassium phosphate
-DR01139,Kran Inj10mg/ml*20ML(ƒ…≈∏∂Û),19057195,Ketamine 10 MG/ML Injectable Solution
+DR01139,Kran Inj10mg/ml*20ML(ÏºÄÌÉÄÎùº),19057195,Ketamine 10 MG/ML Injectable Solution
 DR01140,Krein tab.,19123342,Kininogenase
 DR01141,Kremezin Gran 2g,21605228,ALL OTHER THERAPEUTIC PRODUCTS
-DR01142,Kynex Eye Drop 0.1% 0.8ml(ø¯ø‹),787787,hyaluronate
+DR01142,Kynex Eye Drop 0.1% 0.8ml(ÏõêÏô∏),787787,hyaluronate
 DR01143,Kyominotin Inj 20ml,19010955,Cysteine
 DR01143,Kyominotin Inj 20ml,42898316,Ammonium Glycyrrhizate
 DR01143,Kyominotin Inj 20ml,962398,Glycine
@@ -1282,8 +1282,8 @@ DR01147,Lacidofil Cap,19000811,Lactobacillus casei rhamnosus
 DR01147,Lacidofil Cap,987153,Lactobacillus acidophilus
 DR01148,Lacteol Granule,987153,Lactobacillus acidophilus
 DR01149,Lacteol Tab,987153,Lactobacillus acidophilus
-DR01150,Lacticare-HC 1% ∑Œº« 118ml ,19002274,Hydrocortisone 10 MG/ML Topical Lotion
-DR01151,Lactitol Pow(∞£º∫»•ºˆ) 20g,19071236,lactitol
+DR01150,Lacticare-HC 1% Î°úÏÖò 118ml ,19002274,Hydrocortisone 10 MG/ML Topical Lotion
+DR01151,Lactitol Pow(Í∞ÑÏÑ±ÌòºÏàò) 20g,19071236,lactitol
 DR01152,Lacto-Q granule,987153,Lactobacillus acidophilus
 DR01153,Lactose,19087208,Lactose
 DR01154,Laennec Inj 2ml,42904003,human placenta hydrolysate
@@ -1315,7 +1315,7 @@ DR01179,Ledercort Tab 4mg,19019893,Triamcinolone 4 MG Oral Tablet
 DR01180,Legalon Cap 140,19103635,Silymarin 140 MG Oral Capsule
 DR01181,LEGARLON-COMP,19097617,CARDUUS MARIANUS preparation
 DR01182,Lescol Cap 40mg,19077498,fluvastatin 40 MG Oral Capsule
-DR01183,Lescol XL Tab 80mg(ø¯ø‹),19077499,fluvastatin 80 MG Extended Release Tablet
+DR01183,Lescol XL Tab 80mg(ÏõêÏô∏),19077499,fluvastatin 80 MG Extended Release Tablet
 DR01184,Letozole Tab 50mg,19103860,letosteine 50 MG Enteric Coated Capsule
 DR01185,Leucostim inj 300mcg/VI,1304850,Filgrastim
 DR01186,Leucovorin Inj 15mg/2ml,19007618,Leucovorin 7.5 MG/ML Injectable Solution
@@ -1330,15 +1330,15 @@ DR01194,Levotuss Syr 6mg/ml,19128936,"dipropizine, (S)-isomer 6 MG/ML Oral Solut
 DR01195,Levotuss Syr. 6MG/ML,19128936,"dipropizine, (S)-isomer 6 MG/ML Oral Solution"
 DR01196,Lexapro tab 10mg,715940,Escitalopram 10 MG Oral Tablet
 DR01197,Libendol Tab 100mg,19107415,ALIBENDOL 100 MG Oral Tablet
-DR01198,Lido/Epi(1:10∏∏) 2% 1.8ml,42799043,1.8 ML Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe
-DR01199,Lido/Epi(1:10∏∏)(20ML/V),40226840,Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution
-DR01200,LIDO/EPI(1:10∏∏)(√≥ƒ°øÎ) 2% 1.8ml,42799043,1.8 ML Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe
-DR01201,Lido/Epi(1:8∏∏)(√≥ƒ°øÎ) 2% 1.8ml,40226851,Epinephrine 0.0125 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution
+DR01198,Lido/Epi(1:10Îßå) 2% 1.8ml,42799043,1.8 ML Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe
+DR01199,Lido/Epi(1:10Îßå)(20ML/V),40226840,Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution
+DR01200,LIDO/EPI(1:10Îßå)(Ï≤òÏπòÏö©) 2% 1.8ml,42799043,1.8 ML Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe
+DR01201,Lido/Epi(1:8Îßå)(Ï≤òÏπòÏö©) 2% 1.8ml,40226851,Epinephrine 0.0125 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution
 DR01202,LIDOCAIN INJ.,40227049,Lidocaine Hydrochloride 20 MG/ML Injectable Solution
 DR01203,Lidocaine Inj 1% 200mg/20ml,40227012,Lidocaine Hydrochloride 10 MG/ML Injectable Solution
 DR01204,Lidocaine Inj 2% 400mg/20ml,40227049,Lidocaine Hydrochloride 20 MG/ML Injectable Solution
 DR01205,"Lidocaine.EP(1:100,000) inj 1.8ml/AM",40226840,Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution
-DR01206,Lidocatone 2%(1:10∏∏),42799043,1.8 ML Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe
+DR01206,Lidocatone 2%(1:10Îßå),42799043,1.8 ML Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe
 DR01207,Lipid LCT 20% inj 250ml/PA,19023521,Soybean Oil 200 MG/ML Injectable Suspension
 DR01208,Lipidil 200mg Cap,19101756,Fenofibrate 160 MG Extended Release Tablet
 DR01209,Lipidil Cap 200mg,19077245,Fenofibrate 200 MG Oral Capsule
@@ -1349,7 +1349,7 @@ DR01213,Lipitor Tab 10mg,1545997,atorvastatin 10 MG Oral Tablet
 DR01214,Lipitor Tab 20mg,19123592,atorvastatin 20 MG Oral Tablet
 DR01215,Litain Inj 4% 800mg/20ml,40227099,Lidocaine Hydrochloride 40 MG/ML Injectable Solution
 DR01216,LITHANE 300MG,19019111,Lithium Carbonate 300 MG Oral Tablet
-DR01217,Lithium Tab 300mg »Ø¿Œ,19019111,Lithium Carbonate 300 MG Oral Tablet
+DR01217,Lithium Tab 300mg ÌôòÏù∏,19019111,Lithium Carbonate 300 MG Oral Tablet
 DR01218,Livact 4.15g/PAK,19007572,Valine
 DR01218,Livact 4.15g/PAK,19082306,Isoleucine
 DR01218,Livact 4.15g/PAK,19088571,Leucine
@@ -1363,9 +1363,9 @@ DR01225,Livostin Eye Drop(4ml/BOT),907556,levocabastine 0.5 MG/ML Ophthalmic Sus
 DR01226,Lodien Tab 2.5mg,1332418,Amlodipine
 DR01227,Lodin Cap 200mg,1195496,Etodolac 200 MG Oral Capsule
 DR01228,Lodine SR 600mg,19071692,Etodolac 600 MG Extended Release Tablet
-DR01229,Lomaxacin Cap 100mg(ø¯ø‹),1707800,lomefloxacin
+DR01229,Lomaxacin Cap 100mg(ÏõêÏô∏),1707800,lomefloxacin
 DR01230,LOMEXACIN 100MG CAP,1707800,lomefloxacin
-DR01231,Loperamide Cap 2mg (»ﬁø¬Ω∫),40184727,Loperamide Hydrochloride 2 MG Oral Capsule
+DR01231,Loperamide Cap 2mg (Ìú¥Ïò®Ïä§),40184727,Loperamide Hydrochloride 2 MG Oral Capsule
 DR01232,LOPERIN (LOP) 2MG,40184727,Loperamide Hydrochloride 2 MG Oral Capsule
 DR01233,Lopmin Cap 2mg,40184727,Loperamide Hydrochloride 2 MG Oral Capsule
 DR01234,Lorabid 200mg Cap.,1708101,loracarbef 200 MG Oral Capsule
@@ -1405,9 +1405,9 @@ DR01266,Marvil Tab 10mg,40173590,Alendronic acid 10 MG Oral Tablet
 DR01267,Maxibupen Syr 12mg/ml,21603980,DEXIBUPROFEN
 DR01268,Maxipime Inj 1g,19074873,cefepime 20 MG/ML Injectable Solution
 DR01269,Maxipime inj 1g/VI,1748975,cefepime
-DR01270,Maxitrol æ»ø¨∞Ì 3.5g,1518254,Dexamethasone
-DR01270,Maxitrol æ»ø¨∞Ì 3.5g,915981,Neomycin
-DR01270,Maxitrol æ»ø¨∞Ì 3.5g,948582,Polymyxin B
+DR01270,Maxitrol ÏïàÏó∞Í≥† 3.5g,1518254,Dexamethasone
+DR01270,Maxitrol ÏïàÏó∞Í≥† 3.5g,915981,Neomycin
+DR01270,Maxitrol ÏïàÏó∞Í≥† 3.5g,948582,Polymyxin B
 DR01271,Maxmarvil Tab 5mg,1557272,Alendronate
 DR01271,Maxmarvil Tab 5mg,19035631,Calcitriol
 DR01272,MEDERGIN    0.2MG,40222885,Methylergonovine Maleate 0.2 MG/ML Injectable Solution
@@ -1422,7 +1422,7 @@ DR01280,Megace susp 40mg/ml,40164972,Megestrol Acetate 40 MG/ML Oral Suspension
 DR01281,MEGE-2,40164972,Megestrol Acetate 40 MG/ML Oral Suspension
 DR01282,Megestrol Susp 10ml/PAK,40164972,Megestrol Acetate 40 MG/ML Oral Suspension
 DR01283,Megestrol Susp 20ml/PAK,40164972,Megestrol Acetate 40 MG/ML Oral Suspension
-DR01284,Megestrol Tab 40mg ø§¡ˆ,40164968,Megestrol Acetate 40 MG Oral Tablet
+DR01284,Megestrol Tab 40mg ÏóòÏßÄ,40164968,Megestrol Acetate 40 MG Oral Tablet
 DR01285,Meiact fine granule 100mg/g,1747005,cefditoren
 DR01286,Meiact Tab 100mg,1747005,cefditoren
 DR01287,Meicelin Inj 1g,40255560,CEFMINOX
@@ -1460,18 +1460,18 @@ DR01318,MEVALOTIN 5MG,19022104,Pravastatin 5 MG Oral Tablet
 DR01319,Mevalotin Tab 10mg,40175390,Pravastatin Sodium 10 MG Oral Tablet
 DR01320,Mevalotin Tab 40mg,40175400,Pravastatin Sodium 40 MG Oral Tablet
 DR01321,Mevan Inj 400mg,40227177,Mepivacaine Hydrochloride 20 MG/ML Injectable Solution
-DR01322,Mevan(√≥ƒ°øÎ) Inj 400mg/20ml,40227177,Mepivacaine Hydrochloride 20 MG/ML Injectable Solution
+DR01322,Mevan(Ï≤òÏπòÏö©) Inj 400mg/20ml,40227177,Mepivacaine Hydrochloride 20 MG/ML Injectable Solution
 DR01323,Meverstin Tab 20mg,19019116,Lovastatin 20 MG Oral Tablet
 DR01324,MEXOLON 5MG,906933,Metoclopramide 5 MG Oral Tablet
 DR01325,Meyful Powder 1g,19136028,Saccharomyces cerevisiae
 DR01326,MG TNA 1540ml (Central),21601159,COMBINATIONS
 DR01327,MG TNA Peri 1680ml,21601159,COMBINATIONS
 DR01328,MG TNA Peri 960ml,21601159,COMBINATIONS
-DR01329,MgO Tab  250mg ªÔ√µ¥Á(ø¯ø‹),993690,Magnesium Oxide 250 MG Oral Tablet
-DR01330,MgO Tab.500mg ªÔ√µ¥Á,993732,Magnesium Oxide 500 MG Oral Tablet
+DR01329,MgO Tab  250mg ÏÇºÏ≤úÎãπ(ÏõêÏô∏),993690,Magnesium Oxide 250 MG Oral Tablet
+DR01330,MgO Tab.500mg ÏÇºÏ≤úÎãπ,993732,Magnesium Oxide 500 MG Oral Tablet
 DR01331,MgSo4,19093850,Magnesium Sulfate 0.8 MEQ/ML Injectable Solution
-DR01332,Micardis P Tab 40/12.5mg(ø¯ø‹),974473,Hydrochlorothiazide 12.5 MG / telmisartan 40 MG Oral Tablet
-DR01333,Micardis P Tab 80/12.5mg(ø¯ø‹),974474,Hydrochlorothiazide 12.5 MG / telmisartan 80 MG Oral Tablet
+DR01332,Micardis P Tab 40/12.5mg(ÏõêÏô∏),974473,Hydrochlorothiazide 12.5 MG / telmisartan 40 MG Oral Tablet
+DR01333,Micardis P Tab 80/12.5mg(ÏõêÏô∏),974474,Hydrochlorothiazide 12.5 MG / telmisartan 80 MG Oral Tablet
 DR01334,Micardis Tab 40mg,19028935,telmisartan 40 MG Oral Tablet
 DR01335,Micardis Tab 80mg,19028936,telmisartan 80 MG Oral Tablet
 DR01336,Midazolam Inj 15mg,19078925,Midazolam 5 MG/ML Injectable Solution
@@ -1480,15 +1480,15 @@ DR01338,Midron Tab 2.5mg,40222924,Midodrine Monohydrochloride 2.5 MG Oral Tablet
 DR01339,Mikcin Inj 60MG,19072089,micronomicin
 DR01340,Mikcin Inj. 120MG,19072089,micronomicin
 DR01341,Minirin Tab 0.1mg,1517147,Desmopressin Acetate 0.1 MG Oral Tablet
-DR01342,Minirin Tab 0.1mg (ºˆ),1517147,Desmopressin Acetate 0.1 MG Oral Tablet
+DR01342,Minirin Tab 0.1mg (Ïàò),1517147,Desmopressin Acetate 0.1 MG Oral Tablet
 DR01343,Minirin Tab 0.2mg,19133766,Desmopressin Acetate 0.2 MG Oral Tablet
 DR01344,MINOCIN 50MG,1708904,Minocycline 50 MG Oral Capsule
 DR01345,Minocin Cap 50mg,1708904,Minocycline 50 MG Oral Capsule
 DR01346,Miostat inj 1.5ml/VI,19074674,Carbachol 0.1 MG/ML Injectable Solution
 DR01347,Mirapex tab 0.25mg,40165165,Pramipexole dihydrochloride 0.25 MG Oral Tablet
 DR01348,MISTABRON SOL 600MG/3ML,1354732,Mesna 200 MG/ML Injectable Solution
-DR01349,Mitomycin-C Inj. 2mg(ºˆ),1389036,Mitomycin
-DR01350,Mixtard 30 Innolet inj 100IU/ml(»ﬁ∏’¿ŒΩ∂∏∞),1596977,"Insulin, Regular, Human"
+DR01349,Mitomycin-C Inj. 2mg(Ïàò),1389036,Mitomycin
+DR01350,Mixtard 30 Innolet inj 100IU/ml(Ìú¥Î®ºÏù∏ÏäêÎ¶∞),1596977,"Insulin, Regular, Human"
 DR01351,Mixtard human 100u/ml,1596977,"Insulin, Regular, Human"
 DR01352,Mizollen tab 10mg,19107209,mizolastine 10 MG Oral Tablet
 DR01353,Mobic 7.5mg/cap,19103398,meloxicam 7.5 MG Oral Capsule
@@ -1498,7 +1498,7 @@ DR01356,Molsiton Tab 2mg,19063962,Molsidomine 2 MG Oral Tablet
 DR01357,Molsiton tab 4mg,19009891,Molsidomine 4 MG Oral Tablet
 DR01358,Monocid Inj.1g,19072858,Cefonicid 10 MG/ML Injectable Solution
 DR01359,Monocin tab 100mg,1738542,Doxycycline 100 MG Oral Tablet
-DR01360,Monopril Tab 10mg(ø¯ø‹),40163753,Fosinopril Sodium 10 MG Oral Tablet
+DR01360,Monopril Tab 10mg(ÏõêÏô∏),40163753,Fosinopril Sodium 10 MG Oral Tablet
 DR01361,Monopril Tab. 10Mg/Tab.,40163753,Fosinopril Sodium 10 MG Oral Tablet
 DR01362,Moprid tab 5mg,19106796,mosapride 5 MG Oral Tablet
 DR01363,MORPHINE HCL 10MG/1ML,40169902,Morphine Sulfate 10 MG/ML Injectable Solution
@@ -1540,7 +1540,7 @@ DR01394,Muteran inj 300mg/3ml/AM,1139042,Acetylcysteine
 DR01395,MVH Inj 5ml,19135832,Multivitamin preparation
 DR01396,MYAMBUTOL,40222616,Ethambutol Hydrochloride 400 MG Oral Tablet
 DR01397,Myambutol Tab 400mg,40222616,Ethambutol Hydrochloride 400 MG Oral Tablet
-DR01398,Mycin(Benzathine Pc)120∏∏ IU,1728416,Penicillin G
+DR01398,Mycin(Benzathine Pc)120Îßå IU,1728416,Penicillin G
 DR01399,Mycostatin Syr,19079119,Nystatin 100000 UNT/ML Oral Suspension
 DR01400,MYCOSTATIN SYRUP,19105647,Nystatin 100000 UNT/ML Oral Solution
 DR01401,Mydrin-P optic soln(10ml),1135766,Phenylephrine
@@ -1558,9 +1558,9 @@ DR01409,Myprodol Cap,19107122,Acetaminophen 250 MG / Codeine 10 MG / Ibuprofen 2
 DR01410,Myraxan inj 10mg/2ml/AM,19057690,Gallamine
 DR01411,Mytob Inj 80mg/2ml,902807,Tobramycin 40 MG/ML Injectable Solution
 DR01412,Mytonin Tab 25mg,40162835,Bethanechol Chloride 25 MG Oral Tablet
-DR01413,N/S  500ml/BOT(æ‡±πøÎ),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01413,N/S  500ml/BOT(ÏïΩÍµ≠Ïö©),19079524,Sodium Chloride 9 MG/ML Injectable Solution
 DR01414,N/S (20ml),19079524,Sodium Chloride 9 MG/ML Injectable Solution
-DR01415,N/S 1L/BOT(æ‡±πøÎ),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01415,N/S 1L/BOT(ÏïΩÍµ≠Ïö©),19079524,Sodium Chloride 9 MG/ML Injectable Solution
 DR01416,N/S 3L(Bag),19079524,Sodium Chloride 9 MG/ML Injectable Solution
 DR01417,N/S 500ML (P),19079524,Sodium Chloride 9 MG/ML Injectable Solution
 DR01418,N/S irrigation soln 3000ml(CJ)(bag),968205,Sodium Chloride 9 MG/ML Irrigation Solution
@@ -1600,11 +1600,11 @@ DR01449,Netilmicin inj. 150mg/AM,19057566,Netilmicin 100 MG/ML Injectable Soluti
 DR01450,NEUCOMIT SOL,19072270,Acetylcysteine 200 MG/ML Inhalant Solution
 DR01451,Neuer Cap 200mg,21600109,OTHER DRUGS FOR PEPTIC ULCER AND GORD
 DR01452,Neuromed Tab 800mg,19106778,oxiracetam 800 MG Oral Tablet
-DR01453,Neurontin Cap 100mg(ø¯ø‹),19077547,gabapentin 100 MG Oral Capsule
+DR01453,Neurontin Cap 100mg(ÏõêÏô∏),19077547,gabapentin 100 MG Oral Capsule
 DR01454,Neurontin cap 300mg,19077548,gabapentin 300 MG Oral Capsule
-DR01455,Neurontin Cap 300mg(ø¯ø‹),19077548,gabapentin 300 MG Oral Capsule
-DR01456,Neurontin Cap 400mg(ø¯ø‹),19077549,gabapentin 400 MG Oral Capsule
-DR01457,Neurontin Tab 600mg(ø¯ø‹),19077550,gabapentin 600 MG Oral Tablet
+DR01455,Neurontin Cap 300mg(ÏõêÏô∏),19077548,gabapentin 300 MG Oral Capsule
+DR01456,Neurontin Cap 400mg(ÏõêÏô∏),19077549,gabapentin 400 MG Oral Capsule
+DR01457,Neurontin Tab 600mg(ÏõêÏô∏),19077550,gabapentin 600 MG Oral Tablet
 DR01458,Newbutin SR 300mg,19108102,Trimebutine 300 MG Extended Release Tablet
 DR01459,Newdizime inj 1g/VI,19028286,cefodizime
 DR01460,Nexium inj 40mg/VI,904453,Esomeprazole
@@ -1613,7 +1613,7 @@ DR01462,Nexium Tab 40mg,19101745,Esomeprazole 40 MG Oral Tablet
 DR01463,Nicetile Pow 500mg/P,19037596,Acetylcarnitine
 DR01464,Nicetile Tab 500mg,19107043,Acetylcarnitine 500 MG Oral Tablet
 DR01465,Nicetile tab.,19037597,Acetylcarnitine 590 MG Oral Tablet
-DR01466,Nifedipine Cap 5mg «—πÃ,1318859,Nifedipine 5 MG Oral Capsule
+DR01466,Nifedipine Cap 5mg ÌïúÎØ∏,1318859,Nifedipine 5 MG Oral Capsule
 DR01467,Nifedipine Tab 10mg,1318914,Nifedipine 10 MG Oral Tablet
 DR01468,Nifedix SR tab 30mg,19112979,Nifedipine 30 MG Extended Release Tablet
 DR01469,Niferon CR 40 Tab,19134566,Nifedipine 40 MG Extended Release Tablet
@@ -1625,22 +1625,22 @@ DR01474,Nimotop Inj.10mg.50ml,1319135,Nimodipine 0.2 MG/ML Injectable Solution
 DR01475,Nimotop Tab 30mg,1319136,Nimodipine 30 MG Oral Tablet
 DR01476,Nitcerin inj.10mg/10ml Amp,19025295,Nitroglycerin 1 MG/ML Injectable Solution [Nitrocine]
 DR01477,NITROGLYCERIN 0.6MG,19019337,Nitroglycerin 0.6 MG Sublingual Tablet
-DR01478,Nitroglycerin Tab 0.6mg «œ≥™,19019337,Nitroglycerin 0.6 MG Sublingual Tablet
+DR01478,Nitroglycerin Tab 0.6mg ÌïòÎÇò,19019337,Nitroglycerin 0.6 MG Sublingual Tablet
 DR01479,Nitrolingual inj 10mg/10ml/AM,19025295,Nitroglycerin 1 MG/ML Injectable Solution [Nitrocine]
 DR01480,Nitrolingual inj 50mg/50ml/VI,19025295,Nitroglycerin 1 MG/ML Injectable Solution [Nitrocine]
 DR01481,Nitropress inj 50mg/2ml/VI,19058101,Nitroprusside 25 MG/ML Injectable Solution
 DR01482,Nolvadex Tab 10mg,19019851,Tamoxifen 10 MG Oral Tablet
 DR01483,Noradrenaline 10mg Inj,1321363,Norepinephrine 1 MG/ML Injectable Solution
 DR01484,Norcuron inj 4mg/VI,19022616,Vecuronium 4 MG/ML Injectable Solution
-DR01485,Normal saline 1000ML(√≥ƒ°øÎ),19079524,Sodium Chloride 9 MG/ML Injectable Solution
-DR01486,Normal saline 1000ml(CJ)(√≥ƒ°øÎ)(bag),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01485,Normal saline 1000ML(Ï≤òÏπòÏö©),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01486,Normal saline 1000ml(CJ)(Ï≤òÏπòÏö©)(bag),19079524,Sodium Chloride 9 MG/ML Injectable Solution
 DR01487,Normal saline 100ml(CJ)(bag),19079524,Sodium Chloride 9 MG/ML Injectable Solution
-DR01488,Normal saline 100ml(ivøÎ)(PP)(¡ﬂø‹),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01488,Normal saline 100ml(ivÏö©)(PP)(Ï§ëÏô∏),19079524,Sodium Chloride 9 MG/ML Injectable Solution
 DR01489,Normal saline 150ml(BT),19079524,Sodium Chloride 9 MG/ML Injectable Solution
 DR01490,Normal saline 20ml,19079524,Sodium Chloride 9 MG/ML Injectable Solution
-DR01491,Normal saline 20ml(¥Î«—),19079524,Sodium Chloride 9 MG/ML Injectable Solution
-DR01492,Normal saline 20ml(suctionøÎ),19079524,Sodium Chloride 9 MG/ML Injectable Solution
-DR01493,Normal saline 50ml(PP)(¡ﬂø‹),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01491,Normal saline 20ml(ÎåÄÌïú),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01492,Normal saline 20ml(suctionÏö©),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01493,Normal saline 50ml(PP)(Ï§ëÏô∏),19079524,Sodium Chloride 9 MG/ML Injectable Solution
 DR01494,Normix Tab 200mg,1735948,rifaximin 200 MG Oral Tablet
 DR01495,Norpin Inj 20mg/20ml,1321363,Norepinephrine 1 MG/ML Injectable Solution
 DR01496,Norpine inj 4ml/AM,1321363,Norepinephrine 1 MG/ML Injectable Solution
@@ -1744,7 +1744,7 @@ DR01584,Pegasys prefilled syringe 180mcg,722453,0.5 ML Interferon beta-1a 0.06 M
 DR01585,Pelubi Tab 30mg,21603966,PROPIONIC ACID DERIVATIVES
 DR01586,Penbrex Inj 500mg,1717327,Ampicillin
 DR01587,Penbrex inj 500mg/VI,1717327,Ampicillin
-DR01588,Penicillin G kalium 500∏∏¥‹¿ß,1728416,Penicillin G
+DR01588,Penicillin G kalium 500ÎßåÎã®ÏúÑ,1728416,Penicillin G
 DR01589,Penid Tab 10mg,40236419,Methylphenidate Hydrochloride 10 MG Oral Tablet
 DR01590,PENIRAMIN 2MG,40241775,Chlorpheniramine Maleate 2 MG Oral Tablet
 DR01591,Peniramin Inj 4mg/2ml,1192710,Chlorpheniramine
@@ -1799,7 +1799,7 @@ DR01634,Pletaal SR cap 100mg,1350310,cilostazol
 DR01635,Pletaal Tab 100mg,1350311,cilostazol 100 MG Oral Tablet
 DR01636,Pletaal Tab 50mg,1350332,cilostazol 50 MG Oral Tablet
 DR01637,pletal tab. 50mg,1350332,cilostazol 50 MG Oral Tablet
-DR01638,PN-Twin Inj.3»£,21601159,COMBINATIONS
+DR01638,PN-Twin Inj.3Ìò∏,21601159,COMBINATIONS
 DR01639,Pocral Syr 100mg/ml,742655,Chloral Hydrate 100 MG/ML Oral Solution
 DR01640,POCRAL SYRUP 1ML,742655,Chloral Hydrate 100 MG/ML Oral Solution
 DR01641,Pofol Inj 120mg/12ml,753629,Propofol 10 MG/ML Injectable Suspension
@@ -1831,7 +1831,7 @@ DR01666,Prepulsid Tab 10mg,932197,Cisapride 10 MG Oral Tablet
 DR01667,Prepulsid Tab.5mg,932199,Cisapride 5 MG Oral Tablet
 DR01668,Prex tab 10mg,715235,Baclofen 10 MG Oral Tablet
 DR01669,Primacor Inj 10mg/10ml,19096336,Milrinone 1 MG/ML Injectable Solution
-DR01670,Primacor inj 10mg/10ml/AM (ºˆ),19096336,Milrinone 1 MG/ML Injectable Solution
+DR01670,Primacor inj 10mg/10ml/AM (Ïàò),19096336,Milrinone 1 MG/ML Injectable Solution
 DR01671,PRIMALAN 5MG,19004269,mequitazine 5 MG Oral Tablet
 DR01672,Primalan Syrup 1ML,19128969,mequitazine 0.5 MG/ML Oral Solution
 DR01673,Primene 10% 100ml/Bot,19130902,Alanine 5.4 MG/ML / Arginine 12 MG/ML / Aspartate 3.2 MG/ML / Cysteine 0.24 MG/ML / Glutamate 5 MG/ML / Glycine 3.6 MG/ML / Histidine 4.8 MG/ML / Isoleucine 8.2 MG/ML / Leucine 1.4 MG/ML / Lysine 1.2 MG/ML / Methionine 3.4 MG/ML / Phenylalanine 4.8 MG/ML /
@@ -1843,7 +1843,7 @@ DR01678,PROFENID 100MG,1185963,Ketoprofen 50 MG/ML Injectable Solution
 DR01679,PROGEST 500MG/10ML,1552382,Progesterone 50 MG/ML Injectable Solution
 DR01680,Progest Inj 500mg/10ml,1552382,Progesterone 50 MG/ML Injectable Solution
 DR01681,Progesterone inj. 500mg/10ml/VI,1552382,Progesterone 50 MG/ML Injectable Solution
-DR01682,Prograf 1mg Cap(ºˆ),950641,Tacrolimus 1 MG Oral Capsule
+DR01682,Prograf 1mg Cap(Ïàò),950641,Tacrolimus 1 MG Oral Capsule
 DR01683,Prograf Cap 0.5mg,19079712,Tacrolimus 0.5 MG Oral Capsule
 DR01684,Prograf Cap 1mg,950641,Tacrolimus 1 MG Oral Capsule
 DR01685,Progynova tab 1mg,40181755,estradiol valerate 1 MG Oral Tablet
@@ -1866,11 +1866,11 @@ DR01701,Pulmicort respule 0.5mg,19096595,Budesonide 0.125 MG/ML Inhalant Solutio
 DR01702,Pulmicort Respules(Soln),19098138,Budesonide 0.25 MG/ML Inhalant Solution
 DR01703,Pulmicort Turbuhaler 200mcg,19060647,Budesonide 0.2 MG/ACTUAT Inhalant Powder
 DR01704,Purinethol Tab 50mg,1436651,6-Mercaptopurine 50 MG Oral Tablet
-DR01705,Pyrazinamid Tab 500mg ¿Ø«—,1759456,Pyrazinamide 500 MG Oral Tablet
+DR01705,Pyrazinamid Tab 500mg Ïú†Ìïú,1759456,Pyrazinamide 500 MG Oral Tablet
 DR01706,PYRAZINAMIDE 500MG,1759456,Pyrazinamide 500 MG Oral Tablet
 DR01707,PYRIDOXIN 50MG,1353578,Vitamin B6 50 MG Oral Tablet
 DR01708,Pyridoxine Tab 50mg ,1353578,Vitamin B6 50 MG Oral Tablet
-DR01709,Pyridoxine Tab 50mg ªÔ¿œ,1353578,Vitamin B6 50 MG Oral Tablet
+DR01709,Pyridoxine Tab 50mg ÏÇºÏùº,1353578,Vitamin B6 50 MG Oral Tablet
 DR01710,Qretin tab.,43013866,Vaccinium myrtillus extract
 DR01711,Questran Powder 4g/P,19095309,Cholestyramine
 DR01712,Ramnos cap 250mg,19000811,Lactobacillus casei rhamnosus
@@ -1891,11 +1891,11 @@ DR01724,Renormal Tab,985247,Aluminum Hydroxide
 DR01725,Requip tab 0.25mg,713831,ropinirole 0.25 MG Oral Tablet
 DR01726,Respilene Sy 5mg/ml,19044746,zipeprol 5 MG/ML Oral Solution
 DR01727,Rheoma Inj 1ml,1146882,Piroxicam 20 MG/ML Injectable Solution
-DR01728,Rheumastop Plaster 14∏≈/PACK,1124300,Diclofenac
+DR01728,Rheumastop Plaster 14Îß§/PACK,1124300,Diclofenac
 DR01729,Rheumon Inj 1g/2ml,19095561,etofenamate
 DR01730,RHINATHIOL 5% SYRUP 1ML,19041846,Carbocysteine 50 MG/ML Oral Solution
 DR01731,RHINATHIOL 500MG,19041843,Carbocysteine
-DR01732,Rhinathiol Cap 500mg(ø¯ø‹),19041843,Carbocysteine
+DR01732,Rhinathiol Cap 500mg(ÏõêÏô∏),19041843,Carbocysteine
 DR01733,Rhinathiol Syr.5%,19041846,Carbocysteine 50 MG/ML Oral Solution
 DR01734,rhonal tab.100mg,1113143,Aspirin 100 MG Oral Tablet
 DR01735,ricormon inj. 2000iu,19001311,epoetin beta
@@ -1946,11 +1946,11 @@ DR01776,Samion tab 10mg,19018353,Nicergoline 10 MG Oral Tablet
 DR01777,Sandimmun 100mg Neoral Cap,19082899,Cyclosporine 100 MG Oral Capsule
 DR01778,Sandimmun 25mg Neoral Cap,19010484,Cyclosporine 25 MG Oral Capsule
 DR01779,Sandimmun Inj 250mg/5ml,19028689,Cyclosporine 50 MG/ML Injectable Solution
-DR01780,Sandimmun inj 250mg/5ml/AM (ºˆ),19028689,Cyclosporine 50 MG/ML Injectable Solution
+DR01780,Sandimmun inj 250mg/5ml/AM (Ïàò),19028689,Cyclosporine 50 MG/ML Injectable Solution
 DR01781,SANDIMUN 100MG,19010522,"CYCLOSPORINE, MODIFIED 100 MG Oral Capsule"
 DR01782,SANDIMUN 25MG,19010559,"CYCLOSPORINE, MODIFIED 25 MG Oral Capsule"
 DR01783,Sandostatin Inj 0.1mg/1ml,19079138,Octreotide 0.1 MG/ML Injectable Solution
-DR01784,Sandostatin inj 0.1mg/1ml/AM(ºˆ),19079138,Octreotide 0.1 MG/ML Injectable Solution
+DR01784,Sandostatin inj 0.1mg/1ml/AM(Ïàò),19079138,Octreotide 0.1 MG/ML Injectable Solution
 DR01785,Sarpine tab 4mg,19011549,lacidipine 4 MG Oral Tablet
 DR01786,SAVLON GARGLE,1790982,chlorhexidine gluconate 1.2 MG/ML Mouthwash
 DR01787,SECMID 40MG,957136,Furosemide 40 MG Oral Tablet
@@ -1963,7 +1963,7 @@ DR01793,Sensival Tab 10mg,721728,Nortriptyline 10 MG Oral Tablet
 DR01794,Sentil Tab. 5mg,19106229,clobazam 5 MG Oral Tablet
 DR01795,Septrin Syrup,1836449,Sulfamethoxazole 40 MG/ML / Trimethoprim 8 MG/ML Oral Suspension
 DR01796,Septrin Tab,1836433,Sulfamethoxazole 400 MG / Trimethoprim 80 MG Oral Tablet
-DR01797,Septrin tab.(º¡∆Æ∏∞¡§),1836433,Sulfamethoxazole 400 MG / Trimethoprim 80 MG Oral Tablet
+DR01797,Septrin tab.(ÏÖâÌä∏Î¶∞Ï†ï),1836433,Sulfamethoxazole 400 MG / Trimethoprim 80 MG Oral Tablet
 DR01798,Serenzal tab 5mg,40163630,levocetirizine dihydrochloride 5 MG Oral Tablet
 DR01799,Seretide Diskus 250,40169281,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
 DR01800,Seretide Diskus 500,40169285,60 ACTUAT Fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
@@ -1986,7 +1986,7 @@ DR01815,Silmazin Cream 1%,19008724,Silver Sulfadiazine 10 MG/ML Topical Cream
 DR01816,Simvalord tab 20mg,1539411,Simvastatin 20 MG Oral Tablet
 DR01817,Simvastar Tab 20mg,1539411,Simvastatin 20 MG Oral Tablet
 DR01818,SINEMET,789612,Carbidopa 25 MG / Levodopa 250 MG Oral Tablet
-DR01819,Sinemet 100/25 tab(ºˆ),789581,Carbidopa 25 MG / Levodopa 100 MG Oral Tablet
+DR01819,Sinemet 100/25 tab(Ïàò),789581,Carbidopa 25 MG / Levodopa 100 MG Oral Tablet
 DR01820,Sinemet Tab(100/25),789581,Carbidopa 25 MG / Levodopa 100 MG Oral Tablet
 DR01821,Singulair Chewable 4mg,1154197,montelukast 4 MG Chewable Tablet
 DR01822,Singulair Chewable 5mg,1154195,montelukast 5 MG Chewable Tablet
@@ -2019,12 +2019,12 @@ DR01842,Solucortef Inj. 100mg,975505,Hydrocortisone 50 MG/ML Injectable Solution
 DR01843,Solumedrol Inj 125mg,19080181,Methylprednisolone 62.5 MG/ML Injectable Solution
 DR01844,Solumedrol Inj 500mg,1506270,Methylprednisolone
 DR01845,SOMALGEN 370MG,19063726,Talniflumate 370 MG Oral Tablet
-DR01846,Somatosan inj 3mg/AM(ºˆ),19136066,Somatostatin
+DR01846,Somatosan inj 3mg/AM(Ïàò),19136066,Somatostatin
 DR01847,Spagerin Tab 200mg,40238273,Flavoxate Hydrochloride 200 MG Oral Tablet
 DR01848,Spamon Inj 40mg/2ml,21600185,CAROVERINE
 DR01849,Speetin tab. 10mg,1545997,atorvastatin 10 MG Oral Tablet
 DR01850,Spike Cream 15g,19026476,Ketoconazole 20 MG/ML Topical Cream
-DR01851,Spiriva Cap (∏Æ« ),19112761,tiotropium 0.018 MG/ACTUAT Inhalant Powder
+DR01851,Spiriva Cap (Î¶¨ÌïÑ),19112761,tiotropium 0.018 MG/ACTUAT Inhalant Powder
 DR01852,Spiriva Inhal Combipack(30C),19112761,tiotropium 0.018 MG/ACTUAT Inhalant Powder
 DR01853,Spiriva Inhal Refil(30C),19112761,tiotropium 0.018 MG/ACTUAT Inhalant Powder
 DR01854,SPIRONOLACTONE 25MG,19079658,Spironolactone 25 MG Oral Tablet
@@ -2091,7 +2091,7 @@ DR01911,Tagen-F soft cap,43013866,Vaccinium myrtillus extract
 DR01912,Talion Tab 10mg,40166571,bepotastine
 DR01913,Talumet Tab,19063726,Talniflumate 370 MG Oral Tablet
 DR01914,Tamiflu cap. 75mg,1799141,Oseltamivir 75 MG Oral Capsule
-DR01915,Tamiflu(π´ªÛ) Cap 75mg,1799141,Oseltamivir 75 MG Oral Capsule
+DR01915,Tamiflu(Î¨¥ÏÉÅ) Cap 75mg,1799141,Oseltamivir 75 MG Oral Capsule
 DR01916,Tamipool inj,19135832,Multivitamin preparation
 DR01917,Tamsnal SR tab,924566,tamsulosin
 DR01918,Tanamin Inj 17.5mg/5ml,1391889,Ginkgo biloba extract
@@ -2107,7 +2107,7 @@ DR01927,Tantum Verde Nebulizer,42707731,Benzydamine Hydrochloride 1.5 MG/ML Oral
 DR01928,Tapocin Inj 200mg,19064500,Teicoplanin 66.7 MG/ML Injectable Solution
 DR01929,Tapocin Inj 400mg,19063993,Teicoplanin 133 MG/ML Injectable Solution
 DR01930,Tapocin inj 400mg/VI,19063993,Teicoplanin 133 MG/ML Injectable Solution
-DR01931,Tarasyn 30mg(≈Î¡ı¡¶∞≈øÎ),40164851,Ketorolac Tromethamine 30 MG/ML Injectable Solution
+DR01931,Tarasyn 30mg(ÌÜµÏ¶ùÏ†úÍ±∞Ïö©),40164851,Ketorolac Tromethamine 30 MG/ML Injectable Solution
 DR01932,Tarasyn Inj 30mg,40164851,Ketorolac Tromethamine 30 MG/ML Injectable Solution
 DR01933,Tarasyn tab 10mg,19133853,Ketorolac Tromethamine 10 MG Oral Tablet
 DR01934,Targin CR Tab 10/5mg,1114220,Naloxone
@@ -2117,7 +2117,7 @@ DR01935,Targin CR Tab 20/10mg,1124957,Oxycodone
 DR01936,Targocid Inj 200mg,19064500,Teicoplanin 66.7 MG/ML Injectable Solution
 DR01937,Targocid Inj. 200MG,19064500,Teicoplanin 66.7 MG/ML Injectable Solution
 DR01938,Tariful tab 370mg,19063726,Talniflumate 370 MG Oral Tablet
-DR01939,Tarivid ±Õæ‡(5ml) 0.3%,923115,Ofloxacin 3 MG/ML Otic Solution
+DR01939,Tarivid Í∑ÄÏïΩ(5ml) 0.3%,923115,Ofloxacin 3 MG/ML Otic Solution
 DR01940,Tarivid Eye Drop 0.3%(5ml),19079151,Ofloxacin 3 MG/ML Ophthalmic Solution
 DR01941,TARIVID EYE OINT,923081,Ofloxacin
 DR01942,Tarivid Eye Oint (3.5g/Tube),923081,Ofloxacin
@@ -2215,8 +2215,8 @@ DR02022,Triam Inj 40mg/1ml,40234038,Triamcinolone Acetonide 40 MG/ML Injectable 
 DR02023,Triam inj 40mg/1ml/VI,40234038,Triamcinolone Acetonide 40 MG/ML Injectable Suspension
 DR02024,Triamcinolone inj 40mg/1ml/VI,40234038,Triamcinolone Acetonide 40 MG/ML Injectable Suspension
 DR02025,Triamcinolone Inj 50mg/5ml,40234030,Triamcinolone Acetonide 10 MG/ML Injectable Suspension
-DR02026,Triamcinolone Tab 4mg µø±§,19019893,Triamcinolone 4 MG Oral Tablet
-DR02027,TRIAXONE ¡÷ 1GM,1777806,Ceftriaxone
+DR02026,Triamcinolone Tab 4mg ÎèôÍ¥ë,19019893,Triamcinolone 4 MG Oral Tablet
+DR02027,TRIAXONE Ï£º 1GM,1777806,Ceftriaxone
 DR02028,Triaxone Inj 0.5g,1777806,Ceftriaxone
 DR02029,Triaxone Inj 1g,19028313,Ceftriaxone 350 MG/ML Injectable Solution
 DR02030,Triaxone Inj 2g/V,1777806,Ceftriaxone
@@ -2253,7 +2253,7 @@ DR02059,UFT-E 0.5g/PAK,19006877,Uracil
 DR02059,UFT-E 0.5g/PAK,19056756,Tegafur
 DR02060,Ulcermin Susp,1036228,Sucralfate
 DR02061,Ulcermin-s,1036228,Sucralfate
-DR02062,Ulistin Inj 10∏∏unit/2ml,21600363,OTHER CARDIAC PREPARATIONS
+DR02062,Ulistin Inj 10Îßåunit/2ml,21600363,OTHER CARDIAC PREPARATIONS
 DR02063,Ultiva Inj 1mg,19016773,remifentanil 1 MG/ML Injectable Solution
 DR02064,Ultiva Inj 2mg,19016749,remifentanil
 DR02065,Ultracet ER <Semi> tab,1103359,Acetaminophen 325 MG / Tramadol Hydrochloride 37.5 MG Oral Tablet
@@ -2271,8 +2271,8 @@ DR02074,Unidoxy Cap 100mg,19021041,Doxycycline 100 MG Oral Capsule
 DR02075,Univasc Tab 15mg,42801011,Moexipril hydrochloride 15 MG Oral Tablet
 DR02076,Univasc Tab 7.5mg,42801015,Moexipril hydrochloride 7.5 MG Oral Tablet
 DR02077,Urea Cream 20%,906973,Urea 200 MG/ML Topical Cream
-DR02078,Urokinase inj 10∏∏IU/VI,1307515,Urokinase
-DR02079,Urokinase inj 50∏∏IU/VI,1307515,Urokinase
+DR02078,Urokinase inj 10ÎßåIU/VI,1307515,Urokinase
+DR02079,Urokinase inj 50ÎßåIU/VI,1307515,Urokinase
 DR02080,Uromitexan Inj 400mg/4ml,19028312,Mesna 100 MG/ML Injectable Solution
 DR02081,Uromitexan inj 400mg/4ml/AM,19028312,Mesna 100 MG/ML Injectable Solution
 DR02082,Ursa Tab 100mg,19061978,Ursodeoxycholic Acid 100 MG Oral Tablet
@@ -2292,7 +2292,7 @@ DR02095,Vancomycin inj 1g/VI(CJ),1707772,Vancomycin 50 MG/ML Injectable Solution
 DR02096,Vancomyin 500mg Inj,1707687,Vancomycin
 DR02097,Varidase tab,19106160,Streptodornase 2500 UNT / Streptokinase 10000 UNT Oral Tablet
 DR02098,VASELIN OINT 1G,998394,Heavy mineral oil
-DR02099,Vasopressin inj 20¥‹¿ß/1ml/AM,1507838,Vasopressins 20 UNT/ML Injectable Solution
+DR02099,Vasopressin inj 20Îã®ÏúÑ/1ml/AM,1507838,Vasopressins 20 UNT/ML Injectable Solution
 DR02100,Vasopressin Inj 20unit/1ml,1507838,Vasopressins 20 UNT/ML Injectable Solution
 DR02101,Vastinan MR Tab 35mg,19108062,Trimetazidine 35 MG Extended Release Tablet
 DR02102,Vastinan Tab 20mg,19005627,Trimetazidine 20 MG Oral Tablet
@@ -2316,7 +2316,7 @@ DR02119,Vexol Opth. Susp 5ml(1%),977442,rimexolone 10 MG/ML Ophthalmic Suspensio
 DR02120,Vigamox Opth Sol 0.5%(5ml) ,19102471,moxifloxacin 5 MG/ML Ophthalmic Solution
 DR02121,Vincran inj 1mg/VI,1308290,Vincristine
 DR02122,Vioxx Tab 12.5mg,1189760,rofecoxib 12.5 MG Oral Tablet
-DR02123,Vita C Tab 500mg «—±π¿Ø≥™¿Ã∆Æ,19069200,Ascorbic Acid 500 MG Oral Tablet
+DR02123,Vita C Tab 500mg ÌïúÍµ≠Ïú†ÎÇòÏù¥Ìä∏,19069200,Ascorbic Acid 500 MG Oral Tablet
 DR02124,Vitamedin Cap 50mg,19010970,Vitamin B Complex
 DR02125,Vitamin D3 BON inj 1ml/AM,19095164,Cholecalciferol
 DR02126,Vitamin K1 inj 10mg/1ml/AM,19044756,Vitamin K 1 10 MG/ML Injectable Solution
@@ -2351,7 +2351,7 @@ DR02152,Xatral XL 10mg,40164024,Alfuzosin hydrochloride 10 MG Extended Release T
 DR02153,Xatral XL Tab. 10Mg/Tab.,40164024,Alfuzosin hydrochloride 10 MG Extended Release Tablet
 DR02154,Xefo tab 4mg,19101640,lornoxicam 4 MG Oral Tablet
 DR02155,Xeloda Tab 500mg,19023530,capecitabine 500 MG Oral Tablet
-DR02156,Xenical Cap 120mg(ø¯ø‹),741572,orlistat 120 MG Oral Capsule
+DR02156,Xenical Cap 120mg(ÏõêÏô∏),741572,orlistat 120 MG Oral Capsule
 DR02157,XR Efexor SR Cap. 37.5Mg/Cap.,19134632,venlafaxine 37.5 MG Extended Release Capsule
 DR02158,Xyzal Tab 5mg,40163630,levocetirizine dihydrochloride 5 MG Oral Tablet
 DR02159,Yal soln 1BT,42708780,Docusate Sodium 10 MG / Sorbitol 13400 MG Enema
@@ -2373,9 +2373,9 @@ DR02174,Zantac Inj 50mg/2ml,961167,Ranitidine 25 MG/ML Injectable Solution
 DR02175,Zantac Tab 150mg,961050,Ranitidine 150 MG Oral Tablet
 DR02176,Zaroxolyn Tab. 5MG/Tab.,907020,Metolazone 5 MG Oral Tablet
 DR02177,Zeffix Tab 100mg,19029028,Lamivudine 100 MG Oral Tablet
-DR02178,Zeffix Tab 100mg(¿¸),19029028,Lamivudine 100 MG Oral Tablet
+DR02178,Zeffix Tab 100mg(Ï†Ñ),19029028,Lamivudine 100 MG Oral Tablet
 DR02179,Zemplar inj 5mcg/1ml/AM,19023525,paricalcitol 0.005 MG/ML Injectable Solution
-DR02180,Zenol Cool 6∏≈/PAK,909440,methyl salicylate
+DR02180,Zenol Cool 6Îß§/PAK,909440,methyl salicylate
 DR02181,Zesgel G Susp 20g/P,19030675,aluminum phosphate
 DR02181,Zesgel G Susp 20g/P,993631,Magnesium Oxide
 DR02182,Zesgel Susp 15g/P,908464,magnesium carbonate
@@ -2387,8 +2387,8 @@ DR02185,ZINNAT 250MG,19075001,Cefuroxime 250 MG Oral Tablet
 DR02186,Zipan inj 50mg/1ml/AM,19135536,Tramadol Hydrochloride 50 MG/ML Injectable Solution
 DR02187,Zithromax Inj 500mg,1734104,Azithromycin
 DR02188,Zithromax Tab 250mg,19073777,Azithromycin 250 MG Oral Tablet
-DR02189,Zn-C Tab(ø¯ø‹),19044522,Zinc Sulfate
-DR02189,Zn-C Tab(ø¯ø‹),19135832,Multivitamin preparation
+DR02189,Zn-C Tab(ÏõêÏô∏),19044522,Zinc Sulfate
+DR02189,Zn-C Tab(ÏõêÏô∏),19135832,Multivitamin preparation
 DR02190,Zocor Tab 20mg,1539411,Simvastatin 20 MG Oral Tablet
 DR02191,Zocor Tab.10mg,1539463,Simvastatin 10 MG Oral Tablet
 DR02192,ZOFRAN 8MG,19079171,Ondansetron 8 MG Oral Tablet
@@ -2407,7 +2407,7 @@ DR02204,Zovirax Tab 200mg,1703745,Acyclovir 200 MG Oral Tablet
 DR02205,Zoylex inj 250mg/10ml/VI,19061193,Acyclovir 25 MG/ML Injectable Solution
 DR02206,ZYLORIC 100MG,1167323,Allopurinol 100 MG Oral Tablet
 DR02207,Zyloric Tab 100mg,1167323,Allopurinol 100 MG Oral Tablet
-DR02208,Zyprexa 5mg Tab(ºˆ),19079154,olanzapine 5 MG Oral Tablet
+DR02208,Zyprexa 5mg Tab(Ïàò),19079154,olanzapine 5 MG Oral Tablet
 DR02209,Zyprexa Tab 10mg,785821,olanzapine 10 MG Oral Tablet
 DR02210,Zyprexa Tab 5mg,19079154,olanzapine 5 MG Oral Tablet
 DR02211,Zyrtec Tab 10mg,40228214,cetirizine hydrochloride 10 MG Oral Tablet
