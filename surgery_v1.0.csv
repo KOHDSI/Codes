@@ -1,0 +1,1740 @@
+mapping_num,description,omop_concept_id,omop_concept_name
+SR00001,(단안)유리체강내 아바스틴 주입술,4132634,Intravitreal antibiotic injection
+SR00002,(비)경막외 Block(요추및천추),4110978,Lumbar epidural block
+SR00002,(비)경막외 Block(요추및천추),4111151,Local anesthetic sacral epidural block
+SR00003,(전공의)창상봉합술안면외단순1(근육),4296614,Suture of muscle
+SR00004,(전공의)창상봉합술안면외단순2-1(2.5미만),4057680,Debridement and suture
+SR00005,(전공의)창상봉합술안면이외단순1범위2.5-5미만,4125906,Suture open wound
+SR00006,(전공의)창상봉합술안면이외단순1범위2.5미만,4125906,Suture open wound
+SR00007,"(전공의)창상봉합안면단순1범위3CM,근육",4296614,Suture of muscle
+SR00008,(FEMUR),4042326,Procedure on femur
+SR00009,(FOREARM BONE),4044888,Procedure on bone of forearm
+SR00010,(OR) Lumbar Puncture,4080549,Lumbar puncture
+SR00011,(OR)교감신경절 Block (요부),4145563,Sympathetic ganglion block
+SR00012,(OR)교감신경절 Block (흉부),4110981,Coeliac plexus block
+SR00013,(OR)복강신경총 Block,4110981,Coeliac plexus block
+SR00014,(OR)척추후근신경절(DRG) Block,4333816,Spinal nerve root block
+SR00015,"(OR)Epidural Cath.Insert(지속적차단,삽입당일)",2110625,"Implantation, revision or repositioning of tunneled intrathecal or epidural catheter, for long-term medication administration via an external pump or implantable reservoir/infusion pump; without laminectomy"
+SR00016,(OR)Facet Joint Block,4333297,Local anesthetic lumbar facet joint nerve block
+SR00017,4-Vessel,4305699,CT angiography of cerebral artery
+SR00018,가압근관충전(1근관당),4122350,Root canal obturation
+SR00019,각막절삭술*엑시머수술,2721072,LASER IN SITU KERATOMILEUSIS (LASIK)
+SR00020,갑상선설관낭종절제술,4287466,Excision of thyroglossal duct cyst
+SR00021,결장경하점막하종양절제술,4139156,Endoscopic extirpation of lesion of colon
+SR00021,결장경하점막하종양절제술,4152745,Excision of neoplasm
+SR00022,결장경하종양절제술,4139156,Endoscopic extirpation of lesion of colon
+SR00022,결장경하종양절제술,4152745,Excision of neoplasm
+SR00023,결장경하출혈지혈법,4042815,Procedure on colon
+SR00023,결장경하출혈지혈법,4274250,Endoscopy and control of hemorrhage
+SR00024,"결장절제술(부분,림프절포함)",4181781,Extended hemicolectomy
+SR00024,"결장절제술(부분,림프절포함)",4238646,Excision of lymph node
+SR00025,"결장절제술(우반,좌반,림프절)",4079713,Colectomy
+SR00025,"결장절제술(우반,좌반,림프절)",4238646,Excision of lymph node
+SR00026,"결장절제술,하트만수술(림프절포함)",4042907,"Hartmann operation, rectal resection"
+SR00027,겸자또는흡인분만초산제1태아,4189205,Delivery by vacuum extraction
+SR00028,경막외 Block(경추및흉추),2110611,"Injection, epidural, of blood or clot patch"
+SR00028,경막외 Block(경추및흉추),40756850,"Injection(s), anesthetic agent and/or steroid, transforaminal epidural, with ultrasound guidance, cervical or thoracic; single level"
+SR00028,경막외 Block(경추및흉추),4332580,LA - Local anaesthetic coccygeal nerve block
+SR00029,경막외 Block(요추및천추),4110978,Lumbar epidural block
+SR00029,경막외 Block(요추및천추),4111151,Local anesthetic sacral epidural block
+SR00030,경부림프절절제술(심재성),4122781,Excision of cervical lymph node
+SR00031,"경부림프절청소술(타수술동시,양측)",4302897,Radical lymph node dissection of neck region
+SR00032,"경부림프절청소술(타수술동시,편측,근치적)",2002309,Radical excision of cervical lymph nodes
+SR00033,"경부림프절청소술(타수술동시,편측,선택적)",4120958,Lateral lymph nodes neck dissection
+SR00034,경요도적전립선절제술,4234536,Endoscopic resection of prostate
+SR00035,경피적 Ureterolithotomy(PCN이용),2003571,Percutaneous nephrostomy with fragmentation
+SR00035,경피적 Ureterolithotomy(PCN이용),4237124,Ureterolithotomy
+SR00036,경피적척추성형술(제1부위),2005924,Percutaneous vertebroplasty
+SR00037,고주파요법,4221867,Electrodesiccation
+SR00038,고환적출술,4341536,Orchidectomy
+SR00039,광범위 자궁적출및 양측골반임파,4021530,Radical hysterectomy
+SR00039,광범위 자궁적출및 양측골반임파,4122784,Excision of pelvic lymph node
+SR00040,구개인두성형술(비보험:UPPP),4307240,Uvulopalatopharyngoplasty
+SR00041,근관성형술(1회만산정),4208099,Endodontic procedure
+SR00042,근관장측정검사,4208099,Endodontic procedure
+SR00043,근관확대,4208099,Endodontic procedure
+SR00044,기타 혈관결찰술,4234382,Ligation of blood vessel
+SR00045,내시경하상악동비내수술,4189601,Nasal sinus procedure
+SR00045,내시경하상악동비내수술,4313889,Endoscopy
+SR00046,내시경하하비갑개절제술,4197122,Turbinectomy
+SR00046,내시경하하비갑개절제술,4313889,Endoscopy
+SR00047,내시경하하비갑개점막하절제술,4138127,Endoscopic operation
+SR00047,내시경하하비갑개점막하절제술,4197122,Turbinectomy
+SR00048,도관삽입술(Catheter),2003564,Peritoneal dialysis
+SR00049,티눈제거술(전기소작 도는 냉동),4041851,Removal of corn sinus
+SR00050,배아이식 B,4327048,Embryo transfer
+SR00051,복수안근(2근육),4214521,Squint correction operation
+SR00052,복재정맥 전발거술 및 분지제거술(관통정맥결찰동반),4077150,Stripping of varicose saphenous vein
+SR00053,복재정맥 전발거술 및 분지제거술(관통정맥결찰미동반,4077150,Stripping of varicose saphenous vein
+SR00054,부분 체외순환 50%,4080965,Extracorporeal circulation procedure
+SR00055,부분체외순환10시간초과익일부터[1일당]-ECMO 사용,4052536,ECMO - Extracorporeal membrane oxygenation
+SR00056,부속기종양적출술[난소보전),4152745,Excision of neoplasm
+SR00057,분만통증완화술,4021823,Pain control
+SR00058,비급여 컴퓨터정액 검사,4040728,Seminal examination
+SR00059,비성형술A(사비교정술),4048622,Rhinoplasty
+SR00060,사시수술 (중),4214521,Squint correction operation
+SR00061,상부소화관막하종양절제술(내시?,4140316,Fibreoptic endoscopic submucosal resection of lesion of upper gastrointestinal tract
+SR00061,상부소화관막하종양절제술(내시?,4152745,Excision of neoplasm
+SR00062,상부소화관출혈지혈법(내시경하),2002622,Endoscopic control of gastric or duodenal bleeding
+SR00063,상부요관 결석제거술 by Flexible URS,4221391,"Ureterolithotomy, upper one-third of ureter"
+SR00064,상실성부정맥고주파절제술,4049987,Radiofrequency ablation operation for arrhythmia
+SR00065,"선택적 경추간공 경막외Block,1level",4078199,Local anaesthetic epidural block
+SR00066,성상신경절 Block(PAN),2110778,"Injection, anesthetic agent; stellate ganglion (cervical sympathetic)"
+SR00067,소형금속판의 제거술,4116584,Removal of plate from bone
+SR00068,수면 Endoscopic Colonic Polypectomy A,4103380,Endoscopic polypectomy of large intestine
+SR00069,수면중무호흡증후군수술(구개인두성형),4180122,Uvulopalatoplasty
+SR00070,수술후 1일간 통증제거술,4021823,Pain control
+SR00070,수술후 1일간 통증제거술,4145648,Preoperative/postoperative procedures
+SR00070,수술후 1일간 통증제거술,4175360,Postoperative procedures
+SR00071,수술후 2일간 통증제거술,4021823,Pain control
+SR00071,수술후 2일간 통증제거술,4086425,Patient controlled analgesia
+SR00071,수술후 2일간 통증제거술,4145648,Preoperative/postoperative procedures
+SR00071,수술후 2일간 통증제거술,4175360,Postoperative procedures
+SR00072,수족지부 신경봉합술,4119237,Nerve sutured
+SR00073,"수지 및 기타 Splint 제작, 소",4080246,Splinting of hand
+SR00074,"수지및기타 splint 제작,소",2007609,Application of splint
+SR00075,신경블록 통증제거(교환),4210480,Nerve block
+SR00076,신경블록 통증제거술,4210480,Nerve block
+SR00077,신장결석제거술 by Flexible URS,4279393,Pyelolithotomy
+SR00077,신장결석제거술 by Flexible URS,4305074,Ureterorenoscopy
+SR00078,심박기거치술(체외용 심박기조작,4264060,Cardiotachometry
+SR00079,악하선및 설악선적출술,4010263,Excision of sublingual gland
+SR00079,악하선및 설악선적출술,4187383,Excision of submandibular gland
+SR00080,액와 감시림프절절제술(방사선검출기이용),2002305,Excision of axillary lymph node
+SR00081,액와감시림프절절제술,40481912,Excision of sentinel lymph node
+SR00082,역행성담췌관내시경하기계적쇄석술,2108910,"Endoscopic retrograde cholangiopancreatography (ERCP); with endoscopic retrograde destruction, lithotripsy of calculus/calculi, any method"
+SR00083,역행성담췌관내시경하유두괄약근절개술,2108907,Endoscopic retrograde cholangiopancreatography (ERCP); with sphincterotomy/papillotomy
+SR00084,역행성담췌관내시경하확장술,2108914,"Endoscopic retrograde cholangiopancreatography (ERCP); with endoscopic retrograde balloon dilation of ampulla, biliary and/or pancreatic duct(s)"
+SR00085,염증성처치,4080499,Dressing of wound
+SR00086,와동형성(1치당),4121947,Cavity preparation of tooth
+SR00087,외과수술후처치(염증),4145648,Preoperative/postoperative procedures
+SR00088,외과술후처치(간단),4145648,Preoperative/postoperative procedures
+SR00089,외과술후처치(복잡),4145648,Preoperative/postoperative procedures
+SR00090,외성기종양적출술,4157779,Excision of malignant neoplasm
+SR00091,요관경하ureterolithotomy(lower,4237124,Ureterolithotomy
+SR00091,요관경하ureterolithotomy(lower,4301429,Ureteroscopy
+SR00092,요관경하ureterolithotomy(upper,4237124,Ureterolithotomy
+SR00092,요관경하ureterolithotomy(upper,4301429,Ureteroscopy
+SR00093,요실금근본수술(질강-기타),2109750,"Anterior vesicourethropexy, or urethropexy (eg, Marshall-Marchetti-Krantz, Burch); simple"
+SR00094,유도분만경산제1태아,4032756,Labour Induction
+SR00095,유도분만초산제1태아,4032756,Labour Induction
+SR00096,응급근관처치,4208099,Endodontic procedure
+SR00097,이개혈종절개배액술(천자포함),40481439,Incision and drainage of haematoma
+SR00098,인공관절치환술(슬관절),4327580,Replacement of total knee joint
+SR00099,인공뼈이식,4214028,Bone graft
+SR00100,인공수정 A,4138741,Intrauterine artificial insemination
+SR00101,인공수정 B,4138741,Intrauterine artificial insemination
+SR00102,인후농양절개술(경경부),4069496,Incision of retropharyngeal abscess
+SR00103,자궁내장치(비급여),2110194,Insertion of intrauterine device (IUD)
+SR00104,장루술,4077433,Formation of artificial anus
+SR00105,전공의)창상봉합안면단순1범위1.5-3CM,4125906,Suture open wound
+SR00106,"절개생검,근육 및 연부조직",2110149,"Biopsy, single or multiple, or local excision of lesion, with or without fulguration (separate procedure)"
+SR00106,"절개생검,근육 및 연부조직",4321986,Incisional biopsy
+SR00107,절개술안면이외1범위2CM이상,4147894,Incision
+SR00108,정상분만경산제1태아,4071507,Normal delivery procedure
+SR00109,정상분만초산제1태아,4071507,Normal delivery procedure
+SR00110,제왕절개술 전 질식분만시도,4331179,"Vaginal delivery, medical personnel present"
+SR00111,종격동청소술(폐관련수술동시),4042645,Mediastinal procedure
+SR00112,"중요말초신경(사지부,구간)신경봉합술",4280418,Peripheral neurorrhaphy
+SR00113,직접봉합혈관성형술(기타),4054559,Repair of blood vessel
+SR00114,질강처치,4043195,Procedure on vagina
+SR00115,"질벽봉합술(전질벽,후질벽및 회?",4030390,Combined anteroposterior colporrhaphy
+SR00116,창상봉합술안면단순1범위5미만,4125906,Suture open wound
+SR00117,창상봉합술안면단순1범위5이상,4125906,Suture open wound
+SR00118,창상봉합술안면단순1범위근육,4125906,Suture open wound
+SR00119,창상봉합술안면단순2-1범위5미만,4125906,Suture open wound
+SR00120,창상봉합술안면단순2-1범위5이상,4125906,Suture open wound
+SR00121,창상봉합술안면단순2-1범위근육,4296614,Suture of muscle
+SR00122,창상봉합술안면변연1범위(근육),4057680,Debridement and suture
+SR00123,창상봉합술안면변연절제1범위5미,4057680,Debridement and suture
+SR00124,창상봉합술안면변연절제1범위5이,4057680,Debridement and suture
+SR00125,창상봉합술안면외단순2-1(5미만),4125906,Suture open wound
+SR00126,창상봉합술안면외단순2-1(5이상),4125906,Suture open wound
+SR00127,창상봉합술안면외단순2-1(근육장,4125906,Suture open wound
+SR00128,창상봉합술안면외변연1범위5미만,4125906,Suture open wound
+SR00129,창상봉합술안면외변연1범위5이상,4125906,Suture open wound
+SR00130,창상봉합술안면외변연1범위근육,4296614,Suture of muscle
+SR00131,창상봉합술안면외변연2-1(5이상),4057680,Debridement and suture
+SR00132,창상봉합술안면외변연2-1근육장?창상봉합술안면외변연2-1근육장?,4057680,Debridement and suture
+SR00133,창상봉합술안면이외단순1범위5미,4125906,Suture open wound
+SR00134,창상봉합술안면이외단순1범위5이,4125906,Suture open wound
+SR00135,창상봉합술안면이외단순1범위근?창상봉합술안면이외단순1범위근?,4125906,Suture open wound
+SR00136,척추고정(후방-요추-Cage를이용한 추체간 유합술),4182098,Primary posterior interbody fusion of joint of lumbar spine
+SR00137,척추고정술(전방경추-기타),4242873,Cervical spinal fusion by anterior technique
+SR00138,척추회백신경교통지 Gray Rami Communicans Block,4334892,Posterior primary rami block
+SR00139,척추후근신경절(DRG) Block(OS),4333816,Spinal nerve root block
+SR00140,체내고정용금속제거술(대퇴),4141907,Removal of internal fixation device of femur
+SR00141,"체내고정용금속제거술(상완,견갑",4078211,Removal of internal fixation device from humerus
+SR00141,"체내고정용금속제거술(상완,견갑",4307369,Removal of internal fixation device from scapula
+SR00142,충수염수술,2109141,Appendectomy
+SR00143,치석제거[전악],4071011,Scaling of tooth
+SR00144,치아진정처치(1치당),4040556,Procedure on tooth
+SR00145,"치조농양,구개농양소염수술",4262302,Drainage of alveolar tooth abscess
+SR00146,컷다운의한동맥삽관술,2002172,Arterial catheterization
+SR00147,터널식 또는 피하매몰 CVP Cath.제거술,42873079,Removal of tunneled central venous catheter
+SR00148,피부레이저광선치료(1회당)-10cm2 미만의 피부병변,4180886,Phototherapy of skin
+SR00149,"혈전제거술(동맥,기타)",4215779,Removal of embolus
+SR00150,홀뮴 레이저를 이용한 전립선 광적출술,4038479,Laser enucleation of the prostate
+SR00151,화학박피술 A,4082211,Chemical peel
+SR00152,흉강경하 흉곽내 탐사술,4330099,Thoracoscopic procedure
+SR00153,흉강삽관술(폐쇄식)주치의시행,4273755,Thoracic incision
+SR00154,Abdominal Exploration,2003489,Laparotomy
+SR00155,Abdominal Modified Radical Hysterectomy,2004469,Radical abdominal hysterectomy
+SR00156,Acessory Breast Excision,4129188,Excision of supernumerary breast
+SR00157,ACL Reconstuction,4343674,Reconstruction of anterior cruciate ligament of knee joint
+SR00158,ACL Repair,4343674,Reconstruction of anterior cruciate ligament of knee joint
+SR00159,ACROMINOPLAST&REPAIR(SHOULDER,4300754,Acromioplasty of shoulder
+SR00160,ACROMINOPLASTY,4300754,Acromioplasty of shoulder
+SR00161,Acromioplasty & Rotator cuff Repair(Primary Repair),2006163,Rotator cuff repair
+SR00162,Acromioplasty & Rotator cuff Repair(Primary Repair)(Arthroscopy surgery),2006163,Rotator cuff repair
+SR00163,ACROMIOPLASY & SHOULDER REPAIR,4300754,Acromioplasty of shoulder
+SR00164,ADENOIDECTOMY,2001243,Adenoidectomy without tonsillectomy
+SR00165,ADHESIOLYSIS,4117615,Division of adhesions
+SR00166,ADNESECTOMY,4021363,Tubo-oophorectomy
+SR00167,Adnesectomy(bilateral),4021363,Tubo-oophorectomy
+SR00168,"Adrenalectomy, Unilateral",2000307,Unilateral adrenalectomy
+SR00169,ADRENNALECTOMY,2000306,Excision of lesion of adrenal gland
+SR00170,Allobone Graft,4020473,Allogeneic bone graft
+SR00171,Allo-Bone Marrow Collection,4242257,Allogeneic bone marrow transplantation
+SR00172,ALVEOLOPLASTY,2001148,Alveoloplasty
+SR00173,AMALGAM POLISHING,4124186,ACR - Amalgam cement restoration
+SR00174,"AMPUTATION OF LIMBS(FINGER,TOE",4159766,Amputation of toe
+SR00175,"AMPUTATION OF LIMBS(HAND,FOOT)",4266202,Amputation of limb
+SR00176,AMT,4036571,AMT - Anxiety management training
+SR00177,"Anal Polypectomy,Transanal",4067440,Excision of anal polyp
+SR00178,Anastomosis of Intestine,4128868,Gastrointestinal tract anastomosis - intestine
+SR00179,Anoplasty(Stricturotomy),2003091,Repair of anus
+SR00180,Anoscopy,4230660,Anoscopy
+SR00181,Antepartum Care(제1태아),4173786,Antenatal care
+SR00182,Anterior & Posterior Colporrhaphy(방광및직장류 미동반),4030390,Combined anteroposterior colporrhaphy
+SR00183,Anterior Chamber Irrigation,4174057,Irrigation of anterior chamber of eye
+SR00184,Anterior Resection of Rectum c LND,4166855,Anterior resection of rectum
+SR00185,ANTERIOR RESECTION WITH LYMPHNODE,4166855,Anterior resection of rectum
+SR00185,ANTERIOR RESECTION WITH LYMPHNODE,4238646,Excision of lymph node
+SR00186,APICOECTOMY,40487004,Apicoectomy
+SR00187,APPEBDECTOMY,2109141,Appendectomy
+SR00188,APPENDECTOMY(PERFORATED),2002909,Other appendectomy
+SR00189,"Appendectomy,Perforated",2109141,Appendectomy
+SR00190,"Appendectomy,Simple",2109141,Appendectomy
+SR00191,Arterioplasty Arteriorrhaphy(End-to-End) L,4238384,Repair of artery with suture
+SR00191,Arterioplasty Arteriorrhaphy(End-to-End) L,4311041,Repair of artery
+SR00192,"Arterioplasty Arteriorrhaphy,간단",4302749,Tenotomy
+SR00193,"Arterioplasty(End-to-End),개복에의한것",4311041,Repair of artery
+SR00194,"Arterioplasty, Arteriorrhaphy(End-to-End)",4238384,Repair of artery with suture
+SR00194,"Arterioplasty, Arteriorrhaphy(End-to-End)",4311041,Repair of artery
+SR00195,"Arteriorrhaphy(End-to-End),개복에의한것",4238384,Repair of artery with suture
+SR00196,Arthrodesis spine(ant.cerv),4242873,Cervical spinal fusion by anterior technique
+SR00197,Arthrodesis spine(post.cervica,4235729,Cervical spinal fusion by posterior technique
+SR00198,Arthrodesis spine(post.lumbar),4208113,Spinal arthrodesis
+SR00199,Arthrodesis spine(post.thorax),4190374,Fusion of thoracic spine
+SR00200,"ARTHRODESIS(ELBOW,WRIST,ANKLE)",4199586,Arthrodesis of wrist joint
+SR00200,"ARTHRODESIS(ELBOW,WRIST,ANKLE)",4238673,Arthrodesis of elbow
+SR00200,"ARTHRODESIS(ELBOW,WRIST,ANKLE)",4270051,Arthrodesis of ankle
+SR00201,Arthroscopic Adhesiolysis of Joint,4117615,Division of adhesions
+SR00201,Arthroscopic Adhesiolysis of Joint,4313199,Arthroscopic procedure
+SR00202,"Arthrotomy for Acute Septic Joint, Knee",2005640,Other arthrotomy of knee
+SR00203,ARTIFICIAL TERMINATION OF PREG,4115153,Medical termination of pregnancy
+SR00203,ARTIFICIAL TERMINATION OF PREG,4119975,Surgical termination of pregnancy
+SR00204,Aseptic Dressing,4080499,Dressing of wound
+SR00205,"Aseptic Dressing, Skin Graft 후",4080499,Dressing of wound
+SR00206,"Aseptic Dressing, Skin Graft 후, 10-18%",4080499,Dressing of wound
+SR00207,"Aseptic Dressing, Skin Graft 후, 37% 이상",4080499,Dressing of wound
+SR00208,"Aseptic Dressing, Skin Graft 후,9% 이하",4080499,Dressing of wound
+SR00209,Astigmatism Correction,4338736,Correction of astigmatism
+SR00210,Augmentation Mammaplasty SM(200),2006435,Augmentation mammoplasty
+SR00211,Augmentation Mammaplasty SS(150),2102739,"Mammaplasty, augmentation; without prosthetic implant"
+SR00212,Augmentation Rhinoplasty MM(200),2001076,Augmentation rhinoplasty
+SR00213,Augmentation Rhinoplasty SM(150),2001076,Augmentation rhinoplasty
+SR00214,Augmentation Rhinoplasty SS(100),2001076,Augmentation rhinoplasty
+SR00215,"AV fistula, artificial",4101538,Arteriovenous fistulization
+SR00216,"AV Fistula, Artificial vein",2617462,"TRANSLUMINAL BALLOON ANGIOPLASTY, PERCUTANEOUS; FOR MAINTENANCE OF HEMODIALYSIS ACCESS, ARTERIOVENOUS FISTULA OR GRAFT; VENOUS"
+SR00217,"AV Fistula, Autologous vein",40660709,ARTERIOVENOUS FISTULA
+SR00218,"AV fistula,auto.vein",4101538,Arteriovenous fistulization
+SR00219,B12-Endoscopic Conchotomy,4028525,Conchotomy
+SR00220,"B12-Nasal Polypectomy, Diffuse",4067379,INP - Intranasal polypectomy
+SR00221,"B12-Nasal Polypectomy, Single",4067379,INP - Intranasal polypectomy
+SR00222,B13-Caldwell Luc Operation(ENT),4253894,Maxillary sinusotomy by Caldwell-Luc approach
+SR00223,B13-Caldwell-Luc Operation(DENT),4253894,Maxillary sinusotomy by Caldwell-Luc approach
+SR00224,B13-Endoscopic Radical Op of Frontal& Ethmoid Sinus,4067489,Functional endoscopic sinus surgery - anterior ethmoidectomy and frontal recess dissection
+SR00225,B13-Endoscopic Radical Op of MMA&Ethmoid Sinus,4217387,Maxillary sinus endoscopy with removal of mucous membrane
+SR00226,"B13-Endoscopic Radical Op of MMA,Ethmoid&Sphenoid Sinus",4067491,Functional endoscopic sinus surgery - antrostomy via middle meatus
+SR00226,"B13-Endoscopic Radical Op of MMA,Ethmoid&Sphenoid Sinus",4070019,Operation on sphenoid sinus
+SR00227,"B13-Endoscopic Redical of Frontal,Ethmoid & MMA Sinus",4067356,Operation on frontal sinus
+SR00227,"B13-Endoscopic Redical of Frontal,Ethmoid & MMA Sinus",4138127,Endoscopic operation
+SR00227,"B13-Endoscopic Redical of Frontal,Ethmoid & MMA Sinus",4189601,Nasal sinus procedure
+SR00228,"B13-Ethmoidectomy and Sphenoidectomy, Intranasal",2001110,Sphenoidectomy
+SR00228,"B13-Ethmoidectomy and Sphenoidectomy, Intranasal",4067358,Intranasal ethmoidectomy
+SR00229,"B13-Ethmoidectomy, Intranasal",4067358,Intranasal ethmoidectomy
+SR00230,B13-Radical Op of Frontal and Ethmoid Sinus,4067356,Operation on frontal sinus
+SR00231,B13-Radical Op of MMA and Ethmoid Sinus,4232331,Radical maxillary antrotomy
+SR00232,"B13-Radical Op of MMA, Ethmoid & Sphenoid Sinus",2001095,Radical maxillary antrotomy
+SR00232,"B13-Radical Op of MMA, Ethmoid & Sphenoid Sinus",2001102,Ethmoidotomy
+SR00232,"B13-Radical Op of MMA, Ethmoid & Sphenoid Sinus",4213281,Sphenoid sinusotomy
+SR00233,"B13-Radical Op of MMA,Ethmoid,Frontal&Sphenoid ",4049257,FESS - Middle meatal antrostomy
+SR00233,"B13-Radical Op of MMA,Ethmoid,Frontal&Sphenoid ",4067356,Operation on frontal sinus
+SR00233,"B13-Radical Op of MMA,Ethmoid,Frontal&Sphenoid ",4070019,Operation on sphenoid sinus
+SR00234,"B13-Redical Op of Frontal,Ethmoid & Shenoid Sinus",4067356,Operation on frontal sinus
+SR00234,"B13-Redical Op of Frontal,Ethmoid & Shenoid Sinus",4070019,Operation on sphenoid sinus
+SR00235,"B13-Redical OP.of Frontal, Ethmoid & MMA Sinus",2001095,Radical maxillary antrotomy
+SR00235,"B13-Redical OP.of Frontal, Ethmoid & MMA Sinus",2001102,Ethmoidotomy
+SR00235,"B13-Redical OP.of Frontal, Ethmoid & MMA Sinus",4067356,Operation on frontal sinus
+SR00236,"B13-Resection of Nasal Tumor,intranasal app.",4108171,Excision of intranasal lesion by internal approach
+SR00236,"B13-Resection of Nasal Tumor,intranasal app.",4152745,Excision of neoplasm
+SR00237,B17-O/R of Mandibular Bone Fx.(Angle),2004929,Open reduction of mandibular fracture
+SR00238,B17-O/R of Mandibular Bone Fx.(Body),2004929,Open reduction of mandibular fracture
+SR00239,B17-O/R of Mandibular Bone Fx.(Condylar Head),4271036,Open reduction of mandibular condylar fracture
+SR00240,B17-O/R of Mandibular Bone Fx.(Symphysis),2004929,Open reduction of mandibular fracture
+SR00241,B17-Open Reduction of Maxillary Bone Fracture,2004927,Open reduction of maxillary fracture
+SR00242,B17-Open Reduction of Zygomatic Bone Fracture,4075435,Reduction of fracture of zygomatic bone
+SR00243,"B17-Removal of Mandibular Fixation Plate, 정중부",4072550,Removal of fixation of mandible
+SR00244,"B18-Apicoectomy, Anterior Tooth(1치당)",40487004,Apicoectomy
+SR00245,"B18-Operation of Periapical Cyst, 1 Crown",4121815,Periapical curettage of tooth root
+SR00246,"B18-Operation of Periapical Cyst, 2 Crown",4121815,Periapical curettage of tooth root
+SR00247,"B18-Operation on Periapical Cyst, Above 3 Crown",4121815,Periapical curettage of tooth root
+SR00248,B18-Surgical Removal of Impacted Tooth,4120795,Surgical removal of impacted tooth
+SR00249,"B18-Surgical Removal of Impacted Tooth, 골삭제 및 치근불리술",4120795,Surgical removal of impacted tooth
+SR00250,B18-Surgical Removal of Tooth,2001119,Surgical removal of tooth
+SR00251,B20-Removal of The Fixation Mini Plate,4218109,Removal of internal fixation device
+SR00252,B5-Bone Biopsy,2102856,"Biopsy, bone, excisional; deep (eg, humerus, ischium, femur)"
+SR00253,BALLON DILATATION UPPER GASTROINTESTINAL,4168080,Dilation of gastrointestinal tract
+SR00254,BARTHOLIN CYSTECTOMY,4074000,Excision of Bartholin's gland
+SR00255,BILE DUCT (CHOLEDOCHOTOMY),4169514,Incision of common bile duct
+SR00256,Blepharoplasty (보험),4297770,Rhytidoplasty of eyelid
+SR00257,Blepharoplasty L(70),4297770,Rhytidoplasty of eyelid
+SR00258,"Blepharoplasty M,질병동반하지 않음",4297770,Rhytidoplasty of eyelid
+SR00259,Blepharoplasty MM(200),4161828,Repair of eyelid
+SR00260,Blepharoplasty S(50),4297770,Rhytidoplasty of eyelid
+SR00261,"Blepharoplasty S,질병동반하지 않음",4161828,Repair of eyelid
+SR00262,Blepharoplasty SM(150),4297770,Rhytidoplasty of eyelid
+SR00263,Blepharoplasty SS(100),4297770,Rhytidoplasty of eyelid
+SR00264,"Blepharoplasty, 안검 양성종양 적출술 및 성형술",4040924,Excision of benign neoplasm
+SR00264,"Blepharoplasty, 안검 양성종양 적출술 및 성형술",4065710,Excision of lesion of eyelid
+SR00264,"Blepharoplasty, 안검 양성종양 적출술 및 성형술",4297770,Rhytidoplasty of eyelid
+SR00265,BLEPHAROPTOSIS OPERATION,4321379,Repair of blepharoptosis
+SR00266,"Blepharoptosis,Fascia Lata Sling (보험)",4308286,Palpebral ligament sling operation
+SR00267,"Blepharoptosis,Muscle Resection (보험)",4275409,Resection of extraocular tarsal muscle for blepharoptosis
+SR00268,"Blepharoptosis,Others (보험)",4321379,Repair of blepharoptosis
+SR00269,bone curettage(others),4216057,Curettage of bone
+SR00270,bone curettage(pel.fem.tibia),4216057,Curettage of bone
+SR00271,Botox Injection A,4229563,Injection of botulinum toxin
+SR00272,Bougination of Esophagus,4043183,Procedure on esophagus
+SR00273,BREAST CARE(1회),4029907,Breast care procedure
+SR00274,"Brisement Force, Manipulation of Joint",4301348,Manipulation of joint
+SR00274,"Brisement Force, Manipulation of Joint",4339401,Arthrolysis by stretching or manipulation
+SR00275,Bronchoscopy (Diagnostic),4145244,Diagnostic bronchoscopy
+SR00276,Bronchoscopy하 기관지 확장술,4336914,Bronchoscopic placement of stent
+SR00277,Buckle Excision,4155600,Removal of scleral buckle
+SR00278,"Burr hole,trephination(others)",4312468,Trephination
+SR00279,"c Ligation,Stripping of Saphenous Vein",4098138,Stripping and ligation of saphenous vein
+SR00280,"C/R & Percutaneous Pinning, Femur",2005436,"Closed reduction of fracture with internal fixation, femur"
+SR00281,"C/R & Percutaneous Pinning, Humerus",4218936,Closed reduction of fracture of humerus with internal fixation
+SR00282,"C/R & Percutaneous Pinning, Tibia",4314994,Reduction of fracture of tibia with internal fixation
+SR00283,"C/R & Percutaneous Pinning, Wrist",4076443,Closed reduction of fracture of wrist
+SR00284,"C/R c Internal Fixation,Carpal,Tarsal bone,Clavicle,Patella",4188615,Closed reduction of fracture with internal fixation
+SR00285,"C/R c Internal Fixation,Femur",2005436,"Closed reduction of fracture with internal fixation, femur"
+SR00286,"C/R c Internal Fixation,Humerus",2005432,"Closed reduction of fracture with internal fixation, humerus"
+SR00287,"C/R c Internal Fixation,Other",4188615,Closed reduction of fracture with internal fixation
+SR00288,"C/R c Internal Fixation,Ulna or Radius/Tibia or Fibula",2005433,"Closed reduction of fracture with internal fixation, radius and ulna"
+SR00289,C/R Metacarpal Metatarsal Finger Toe,4079111,Closed reduction of fracture of finger
+SR00289,C/R Metacarpal Metatarsal Finger Toe,4279915,Closed reduction of fracture of tarsal or metatarsal
+SR00289,C/R Metacarpal Metatarsal Finger Toe,4289174,Closed reduction of fracture of phalanges of foot
+SR00289,C/R Metacarpal Metatarsal Finger Toe,4307225,Closed reduction of fracture of carpals and metacarpals
+SR00290,C/R of Nasal Bone Fracture,4097890,Closed reduction of nasal fracture
+SR00291,C/sec(repeat),4015701,CS - Caesarean section
+SR00292,CALDWELL-LUC OPERATION,4253894,Maxillary sinusotomy by Caldwell-Luc approach
+SR00293,CANAL FILLING(SINGLE CANAL),4122350,Root canal obturation
+SR00294,CANAL TREATMENT(SIMPLE CANAL),4208099,Endodontic procedure
+SR00295,CAPD CATHETER INSERTION,4108838,Insertion of chronic ambulatory peritoneal dialysis catheter
+SR00296,CAPD Operation,2003564,Peritoneal dialysis
+SR00297,CAPD도관 제거술,2003564,Peritoneal dialysis
+SR00298,C-Arm(NS),4137372,Portable X-ray
+SR00299,C-arm(OS),4137372,Portable X-ray
+SR00300,Carpal Tunnel Release,2000217,Release of carpal tunnel
+SR00301,"Cath.Remove(chemo port,PERM Cath,AVF)",4207339,Removal of Port-a-cath
+SR00302,"Celiec plexus block with fluoroscopic guide,Rt",4198754,Coeliac plexus block using fluoroscopic guidance
+SR00303,Cerebral Eneurysm(경부 clipping-복잡),4224511,"Application of clamp to cerebral aneurysm, Crutchfield or Silverstone"
+SR00304,"Cesarean Hysterectomy, Total,초산",4165077,Total hysterectomy after caesarean delivery
+SR00305,"Cesarean Section (1태아),경산",2004785,Classical cesarean section
+SR00306,"Cesarean Section (1태아),초산",2004785,Classical cesarean section
+SR00307,"Cesarean Section (다태아임신시),경산",4106559,Dilatation and evacuation termination of pregnancy
+SR00308,"Cesarean Section (제1태아),반복",2004785,Classical cesarean section
+SR00309,"Cesarean Section (twin), 초산",2004802,Other cesarean section of unspecified type
+SR00310,Cesarean Section(제1태아),2004802,Other cesarean section of unspecified type
+SR00311,Cheiloplasty (일측성)  S (35),4216088,Repair of lip
+SR00312,Cheiloplasty (일측성) L (50),4216088,Repair of lip
+SR00313,"Cheiloplasty,일측성 (보험)",4216088,Repair of lip
+SR00314,"Chemonucleolysis, Lumbar",4181895,Chemonucleolysis
+SR00315,"Chemoport Insertion(기타,동맥포트법)",4141149,Open insertion of central venous catheter
+SR00316,"Chemoport Insertion(기타,정맥포트법)",4141149,Open insertion of central venous catheter
+SR00317,CHOLEDOCHOENTEROSTOMY(ROU-Y),4068760,Roux-en-y choledochoenterostomy
+SR00318,"Choledochojejunostomy,Rou-Y Jejunostomy",4128303,Choledochojejunostomy to Roux loop
+SR00319,"Chondroplasty1.5cm이상(Microfracture,Multiple drilling)",4083246,Chondroplasty
+SR00320,Chromopertubation,4124762,Hydropertubation of fallopian tube
+SR00321,"Circumcision, 질병동반 않음",4218438,Circumcision
+SR00322,"Circumcision, 질병동반함, Preputial Incision",4218438,Circumcision
+SR00323,"Circumcision, 환상 질병동반함",4218438,Circumcision
+SR00324,CLOSE REDUCTION,4313275,Closed reduction of fracture
+SR00325,"Closed Pining of Fracture, Finger ",4237657,Closed reduction of fracture of phalanges of hand with internal fixation
+SR00326,"Closed Pining of Fracture, Toe ",4051625,Closed reduction of fracture of phalanges of foot with internal fixation
+SR00327,"CLOSED PINNING(METACARPAL,META",4174441,Closed reduction of fracture of carpals and metacarpals with internal fixation
+SR00328,"CLOSED PINNING,ULNA OR RADIUS",4071089,Internal fixation of bone of radius
+SR00328,"CLOSED PINNING,ULNA OR RADIUS",4222173,Internal fixation of bone of ulna
+SR00329,CLOSED REDUCTION,4313275,Closed reduction of fracture
+SR00330,Closed Reduction of Dislocated Nasal Bone,4106589,Closed reduction of dislocation of nasal bone
+SR00331,"Closed Reduction of Fracture, Carpal Bone",4307225,Closed reduction of fracture of carpals and metacarpals
+SR00332,"Closed Reduction of Fracture, Femur",4012182,Closed reduction of fracture of femur
+SR00333,"Closed Reduction of Fracture, Finger",4079111,Closed reduction of fracture of finger
+SR00334,"Closed Reduction of Fracture, Forearm",4224313,Closed reduction of fracture of arm
+SR00335,"Closed Reduction of Fracture, Humerus",4219029,Closed reduction of fracture of humerus
+SR00336,"Closed Reduction of Fracture, Metatarsal Bone",4279915,Closed reduction of fracture of tarsal or metatarsal
+SR00337,"Closed Reduction of Fracture, Pelvis",4076334,Closed reduction of fracture of hip
+SR00338,"Closed Reduction of Fracture, Tibia",4067547,Closed reduction of fracture of tibia
+SR00339,"Closed Reduction of Fracture, Toe",4289174,Closed reduction of fracture of phalanges of foot
+SR00340,"Closed Reduction of Joint Dislocation, Hip",2005554,Closed reduction of dislocation of hip
+SR00341,Closed Reduction of Mandibular Bone Fracture,4086986,Closed reduction of mandibular fracture
+SR00342,Closed Reduction of Maxillary Bone Fract,2004926,Closed reduction of maxillary fracture
+SR00343,Closed Reduction of Nasal Bone Fracture,4097890,Closed reduction of nasal fracture
+SR00344,Closed Reduction of Orbital Bone Fracture,4170614,Orbital # reduction
+SR00345,"CLOSED REDUCTION(ELBOW,KNEE)",4076441,Closed reduction of fracture of elbow
+SR00345,"CLOSED REDUCTION(ELBOW,KNEE)",4077777,Closed reduction of fracture of knee
+SR00346,CLOSED REDUCTION(HIP),4076334,Closed reduction of fracture of hip
+SR00347,CLOSED REDUCTION(PULLED ELBOW),2005541,Closed reduction of dislocation of elbow
+SR00348,CLOSED REDUCTION(SHOULDER),4076442,Closed reduction of fracture of shoulder
+SR00349,CLOSED THORACOTOMY,4142040,Closed drainage of chest
+SR00350,Closure of Colostomy (Suction),4135441,Closure of colostomy
+SR00351,"Closure of Colostomy(Ileostomy),Loop",4135441,Closure of colostomy
+SR00352,"Closure of Patent Ductus Arteriosus, Ligation Procedure",4019226,Ligation of ductus arteriosus
+SR00352,"Closure of Patent Ductus Arteriosus, Ligation Procedure",4321844,Ligation
+SR00353,Closure of Shunt,4224642,Surgical closure of shunt
+SR00354,COLECTOMY RIGHT OR LEFT HEMICO,4079713,Colectomy
+SR00355,COLECTOMY SEGMENTAL RESECTION,4181781,Extended hemicolectomy
+SR00356,"Colon polypectomy(5개까지,개당)",4170609,Colonic polypectomy
+SR00357,Colostomy(End),4306060,Construction of end colostomy
+SR00358,Colostomy(Loop),4322181,Loop colostomy
+SR00359,COLPORRHAPHY(ANTERIOR COLP),4218385,AC - Anterior colporrhaphy
+SR00360,COLPORRHAPHY(POSTERIOR COLPORR,4287790,Posterior repair of vagina
+SR00361,COMPLICATION,3009166,Complications
+SR00362,Congenital Preauricular Fistulectomy,4059759,"Excision of congenital preauricular cyst, fistula or sinus"
+SR00363,CONIZATION,2004391,Conization of cervix
+SR00364,"Conization of Cervix,Cold Knife",2004391,Conization of cervix
+SR00365,Conization(Loop Electrosurgical Excision),4285815,Loop electrosurgical excision procedure
+SR00366,"Conization,Cold Knife",2004391,Conization of cervix
+SR00367,CONJUNCTIVAL SUTURE,4294508,Repair of conjunctiva
+SR00368,Continuous V-V Hemodialysis(1st day),4051329,Continuous venovenous hemodialysis
+SR00369,Continuous V-V Hemodialysis(2nd day),4051329,Continuous venovenous hemodialysis
+SR00370,CONTROL OF EPISTAXIS,2001003,Control of epistaxis
+SR00371,CORNEAL SUTURE REMOVAL UNDER,4065834,Removal of corneal suture
+SR00372,Corrective Rhinoplasty (대),2001078,Other rhinoplasty
+SR00373,Corrective Rhinoplasty (소),4217826,Revision rhinoplasty
+SR00374,Cranioplasty with Dura Graft,4138816,Cranioplasty
+SR00374,Cranioplasty with Dura Graft,4237733,Transplantation of dura
+SR00375,CRANIOPLASTY(SIMPLE),4138816,Cranioplasty
+SR00376,CRANIOTOMY(EXPLORATORY),4075430,Exploratory craniotomy
+SR00377,CRYOPEXY FOR RETINAL TEAR,4183321,Cryopexy
+SR00378,C-T  Brain Routin,4145739,Computerized axial tomography of brain
+SR00379,C-T Brain 3D s,4145739,Computerized axial tomography of brain
+SR00380,Curettage,4286052,Curettage
+SR00381,CURETTAGE OF CONJUNCTIVAL CONC,4068445,Curettage of conjunctival lesion
+SR00382,CUT DOWN,4053718,Cut-down injection
+SR00383,CVP Catheter Insertion,4052413,Central venous cannula insertion
+SR00384,Cyclocryothermy,4324537,Cryotherapy of ciliary body
+SR00385,Cyclodiathermy,2000548,Cyclodiathermy
+SR00386,"Cystectomy, Partial",4010266,Partial cystectomy
+SR00387,"Cystectomy, Radical",2003805,Radical cystectomy
+SR00388,Cystoscopy,2109766,Cystourethroscopy (separate procedure)
+SR00389,"Cystostomy, open",4221381,Cystostomy
+SR00390,"Cystotomy, Foreign body(Stone)",2003767,Other cystotomy
+SR00391,Dacryocystorhinostomy,2111171,Dacryocystorhinostomy (fistulization of lacrimal sac to nasal cavity)
+SR00391,DACRYOCYSTORHINOSTOMY,4338167,Dacryocystorhinostomy
+SR00392,Davinch A(700N),2000841,Endoscopic robotic assisted procedure
+SR00393,Davinch B(1000N),2000841,Endoscopic robotic assisted procedure
+SR00394,Davinch E(500N),2000841,Endoscopic robotic assisted procedure
+SR00395,Davinch F(800N),2000841,Endoscopic robotic assisted procedure
+SR00396,Davinch G(900N),2000841,Endoscopic robotic assisted procedure
+SR00397,Davinch H(550N),2000841,Endoscopic robotic assisted procedure
+SR00398,Debridement,4272410,Debridement
+SR00399,Debridement  (안면),4272410,Debridement
+SR00400,"DEBRIDEMENT & SUTURE, FACE OR NECK, 1.5~3.0CM미만(1범위)",4057680,Debridement and suture
+SR00401,"DEBRIDEMENT & SUTURE, FACE OR NECK, 1.5CM미만(1범위)",4057680,Debridement and suture
+SR00402,"DEBRIDEMENT & SUTURE, FACE OR NECK, 3.0CM이상(1범위)",4057680,Debridement and suture
+SR00403,"DEBRIDEMENT & SUTURE, FACE OR NECK, 근육에 달하는 것(1범위)",4057680,Debridement and suture
+SR00404,"DEBRIDEMENT & SUTURE, OTHERS, 2.5~5.0CM미만(1범위)",4057680,Debridement and suture
+SR00405,"DEBRIDEMENT & SUTURE, OTHERS, 2.5~5.0CM미만(2범위)",4057680,Debridement and suture
+SR00406,"DEBRIDEMENT & SUTURE, OTHERS, 2.5CM미만(1범위)",4057680,Debridement and suture
+SR00407,"DEBRIDEMENT & SUTURE, OTHERS, 5.0CM이상(1범위)",4080499,Dressing of wound
+SR00408,"DEBRIDEMENT & SUTURE, OTHERS, 5.0CM이상(2범위)",4057680,Debridement and suture
+SR00409,"DEBRIDEMENT & SUTURE, OTHERS, 근육에 달하는 것(1범위)",4080499,Dressing of wound
+SR00410,"DEBRIDEMENT & SUTURE, OTHERS, 근육에 달하는 것(2범위)",4057680,Debridement and suture
+SR00411,Debridement M,4272410,Debridement
+SR00412,Debridement M (안면),4272410,Debridement
+SR00413,"Debridement, Extremity",4272410,Debridement
+SR00414,"DEBRIDEMENT, TRUNK",4272410,Debridement
+SR00415,"Debulking of Adnexal Malig. Tumor,Staging or Restaging(Second Look)",4030825,Debulking of pelvic tumor
+SR00416,Decompressive Neuroplasty,4166941,Repair of nerve
+SR00417,Dermabrasion M(50),2006536,Dermabrasion
+SR00418,Dermabrasion S(30),2006536,Dermabrasion
+SR00419,DESENSITIZING TREATMENT,4057262,Allergen immunotherapy
+SR00420,Diagnostic Arthroscopy,4343453,Diagnostic arthroscopy of joint
+SR00421,"Diagnostic Arthroscopy,Hip",4343820,Diagnostic arthroscopy of hip joint
+SR00422,Diagnostic Hysteroscopy,2004429,Hysteroscopy
+SR00423,Diagnostic Laparoscopy,2003504,Laparoscopy
+SR00424,DILATATION & CURETTAGE (D & C),4015660,Dilatation and curettage
+SR00425,Dilatation and curettage of Uterus,4106559,Dilatation and evacuation termination of pregnancy
+SR00426,Dilatation and Evacuation (D & E),4106559,Dilatation and evacuation termination of pregnancy
+SR00427,DISKECTOMY(OPEN.CERVICAL),4145274,Chondrectomy of spine
+SR00428,DISKECTOMY(OPEN.LUMBAR),4145274,Chondrectomy of spine
+SR00429,DISSECTION OF AXILLARY LYMPHAT,2002305,Excision of axillary lymph node
+SR00430,"Distant Flap Operation(Tubed,Pedicle) S (60)",4073101,Distant cutaneous pedicle skin flap
+SR00431,"DM FOOT DEBRIDEMENT, 우측하지",4209980,Debridement of foot ulcer
+SR00432,DPCP immunotherapy A,4295112,Immunotherapy
+SR00433,DPCP immunotherapy B,4295112,Immunotherapy
+SR00434,DRAINAGE PERIRECTAL ABSCECESS,4068525,Drainage of perirectal abscess
+SR00435,E/F.forearm bone,4121859,External fixation of bone
+SR00436,"E/F.meta-carpal&tarsal,fin,toe",40486726,External fixation of metacarpal bone
+SR00436,"E/F.meta-carpal&tarsal,fin,toe",40486727,External fixation of metatarsal bone
+SR00436,"E/F.meta-carpal&tarsal,fin,toe",40492004,External fixation of phalanx of finger
+SR00436,"E/F.meta-carpal&tarsal,fin,toe",40492005,External fixation of phalanx of toe
+SR00437,"E/F.tibia,humerus",40488932,External fixation of humerus
+SR00437,"E/F.tibia,humerus",40490980,External fixation of tibia
+SR00438,EAR CANAL FOREIGN BODY REMOVAL,4321430,FB - Removal of foreign body from external auditory canal
+SR00439,Electrical stimulate(1일당),4236835,Therapeutic electrical stimulation
+SR00440,Electrolysis of Eye Lash,4139407,Electrolysis procedure
+SR00441,Endolaser Photocoagulation,4170911,Endolaser photocoagulation
+SR00442,Endoscopic Adenoidectomy,4003875,Adenoid excision
+SR00442,Endoscopic Adenoidectomy,4313889,Endoscopy
+SR00443,Endoscopic Lacrimal Stent Insertion,4170890,Dilation of nasolacrimal duct with insertion of tube or stent
+SR00443,Endoscopic Lacrimal stent insertion,4196633,Catheterization of lacrimonasal duct
+SR00444,Endovascular treatment of Aneurysm,2002264,Other endovascular repair (of aneurysm) of other vessels
+SR00445,ENTEROSTOMY(LOOP),4314436,Exteriorisation of small intestine
+SR00446,ENTROPION OPERATION,4293475,Entropion correction
+SR00447,Entropion Operation(Both),4293475,Entropion correction
+SR00448,"Entropion Operation(Both,Upper,Lower)",4293475,Entropion correction
+SR00449,"Entropion Operation,Simple",4293475,Entropion correction
+SR00450,Enucleation and Tissue Implantation,4181060,Implantation of soft tissue
+SR00450,Enucleation and Tissue Implantation,4213548,Enucleation
+SR00451,Enucleation of Bartholin's Ductcyst,2110074,Excision of Bartholin's gland or cyst
+SR00452,Enucleation of Endometriosis,2110248,"Salpingo-oophorectomy, complete or partial, unilateral or bilateral (separate procedure)"
+SR00453,Enucleation of Eye Ball,4066557,Enucleation of eyeball
+SR00454,Epididymectomy,4289250,Epididymectomy
+SR00455,Epiduroscopy,4313889,Endoscopy
+SR00456,EPISIOTOMY,4311671,Episiotomy
+SR00457,"ESD(위,비급여)",4137228,Fiberoptic endoscopic submucosal resection of lesion of stomach
+SR00458,"Eso. Bypass Reconstruction(흉,복부접근)",4001359,Reconstruction of oesophagus
+SR00459,ESWL(4차.5차),4195791,Extracorporeal shockwave lithotripsy
+SR00460,ESWL(6-10차),4195791,Extracorporeal shockwave lithotripsy
+SR00461,ESWT(체외충격파치료-근골격계),4234302,Extracorporeal shock wave therapy of musculoskeletal system
+SR00462,ESWT-1st(체외충격파치료-근골격계초회),4234302,Extracorporeal shock wave therapy of musculoskeletal system
+SR00463,EVD,4271587,Ventriculostomy
+SR00464,EVD Change,4271587,Ventriculostomy
+SR00465,EVD(intracerebral),4045461,External drainage procedure from ventricle of brain
+SR00466,"EVD(subdural,epidural)",4045461,External drainage procedure from ventricle of brain
+SR00467,Evisceration of Eye Ball,2000727,Evisceration of eyeball
+SR00468,EVL(1차),40489324,Endoscopic ligation of varices of small intestine
+SR00469,EVL(2차),40489324,Endoscopic ligation of varices of small intestine
+SR00470,"Ex. of Soft Tissue Tumor, Benign 근막하(근육내)",4040924,Excision of benign neoplasm
+SR00470,"Ex. of Soft Tissue Tumor, Benign 근막하(근육내)",4167978,Excision of lesion of soft tissue
+SR00471,"Ex. of Soft Tissue Tumor, Benign 피하",4040924,Excision of benign neoplasm
+SR00471,"Ex. of Soft Tissue Tumor, Benign 피하",4167978,Excision of lesion of soft tissue
+SR00472,"Ex. of Soft Tissue Tumor, Malignancy",4157779,Excision of malignant neoplasm
+SR00472,"Ex. of Soft Tissue Tumor, Malignancy",4167978,Excision of lesion of soft tissue
+SR00473,Excision of Axillary Mass,4201101,Excision of lump of axilla
+SR00474,Excision of Branchial Cleft Cyst,2001255,Excision of branchial cleft cyst or vestige
+SR00475,Excision of Branchial Cleft Sinus,4114787,Operation on branchial cleft
+SR00476,Excision of Breast Benign Tumor,4271995,Excision of benign tumor of breast
+SR00477,"Excision of Breast Benign tumor,Multiple",4271995,Excision of benign tumor of breast
+SR00478,"Excision of Breast Benign tumor,Single",4271995,Excision of benign tumor of breast
+SR00479,"Excision of Breast Tumor,Benign,Multiple",4271995,Excision of benign tumor of breast
+SR00480,"Excision of Breast Tumor,Benign,Single",4271995,Excision of benign tumor of breast
+SR00481,Excision of Cervical Lymphadenoma(ENT),4122781,Excision of cervical lymph node
+SR00482,Excision of Cervical Lymphnode,4122781,Excision of cervical lymph node
+SR00483,Excision of Choledochal Cyst,4280083,Excision of choledochal cyst
+SR00484,EXCISION OF CONJUNCTIVAL FOREI,4122296,Conjunctival foreign body removal by incision
+SR00485,Excision of Conjunctival Mass,4214463,Removal of conjunctival lesion
+SR00486,Excision of Eyelid Tumor(Benign),4040924,Excision of benign neoplasm
+SR00486,Excision of Eyelid Tumor(Benign),4065710,Excision of lesion of eyelid
+SR00487,EXCISION OF GANGLION,4346301,Excision of lesion of ganglion
+SR00488,Excision of Inguinal Lymphnode,4120960,Excision of inguinal lymph nodes group
+SR00489,"Excision of Joint, Synovectomy, Elbow",2005728,Synovectomy of elbow
+SR00490,"Excision of Joint, Synovectomy, Wrist",2005729,Synovectomy of wrist
+SR00491,"Excision of Lymphnode, Axillary",2002305,Excision of axillary lymph node
+SR00492,"Excision of Lymphnode, Cervical",4122781,Excision of cervical lymph node
+SR00493,"Excision of Lymphnode, Inguinal",4120960,Excision of inguinal lymph nodes group
+SR00494,Excision of Rib(Others),4127484,Costatectomy
+SR00495,EXCISION OF SKIN BENIGN TUMOR,4040924,Excision of benign neoplasm
+SR00495,EXCISION OF SKIN BENIGN TUMOR,4147588,Excision of lesion of skin
+SR00496,Excision of Skin benign Tumor(MUSCLE 근육층),4119988,FB - Removal of foreign body from skin
+SR00497,"Excision of Skin benign Tumor(ORGANS,주요장기에 인접)",4119988,FB - Removal of foreign body from skin
+SR00498,Excision of Skin benign Tumor(SIM.SUP 표재성),4119988,FB - Removal of foreign body from skin
+SR00499,Excision of Skin Malignant Tumor,4201230,Excision of malignant skin tumour
+SR00500,"Excision of Skin Tumor, Benign, Other, E",4119988,FB - Removal of foreign body from skin
+SR00501,"Excision of Skin Tumor, Benign, Simple,",4119988,FB - Removal of foreign body from skin
+SR00502,"Excision of Skin Tumor, Malignancy, 광역",4201230,Excision of malignant skin tumour
+SR00503,Excision of Submandibular Gland or Sublingual Gland,4010263,Excision of sublingual gland
+SR00503,Excision of Submandibular Gland or Sublingual Gland,4187383,Excision of submandibular gland
+SR00504,Excision of Submandibular Gland or Sublingual Gland Tumor,4070735,Excision of lesion of sublingual gland
+SR00504,Excision of Submandibular Gland or Sublingual Gland Tumor,4071269,Excision of lesion of submandibular gland
+SR00504,Excision of Submandibular Gland or Sublingual Gland Tumor,4152745,Excision of neoplasm
+SR00505,Excision of Thyroglossal Duct Cyst,4287466,Excision of thyroglossal duct cyst
+SR00506,"EXCISION(SHOULDER,KNEE)",4002372,Shoulder excision
+SR00506,"EXCISION(SHOULDER,KNEE)",4197548,Arthrectomy of knee
+SR00507,"EXCISION,SKIN MALIGNANT TUMOR",4201230,Excision of malignant skin tumour
+SR00508,"Excisional Biopsy,Skin",2110149,"Biopsy, single or multiple, or local excision of lesion, with or without fulguration (separate procedure)"
+SR00508,"Excisional Biopsy,Skin",4321986,Incisional biopsy
+SR00509,EXCISIONAL OPERATION,4279903,Excision
+SR00510,explo Adhesive Salpingectomy (Unilateral),4336229,Unilateral salpingectomy
+SR00511,"explo Ectopic Gestation, Tubal or Ovarian Preg.",40493226,Excision of fallopian tube and surgical removal of ectopic pregnancy
+SR00512,explo Extirpation of Adnexal Tumor(Unilateral),2110248,"Salpingo-oophorectomy, complete or partial, unilateral or bilateral (separate procedure)"
+SR00513,"explo Extirpation of Adnexal Tumor, Benign",2110248,"Salpingo-oophorectomy, complete or partial, unilateral or bilateral (separate procedure)"
+SR00514,"explo Myomectomy, Abdominal,Complex",4169931,Excision fibroid
+SR00515,"explo Myomectomy, Abdominal,Subserosal",4169931,Excision fibroid
+SR00516,explo Salpingo-Oophorectomy(Bilateral),2004262,Bilateral salpingo-oophorectomy
+SR00516,explo Salpingo-Oophorectomy(Bilateral),4021363,Tubo-oophorectomy
+SR00517,explo Salpingo-Oophorectomy(Unilateral),2004246,Other unilateral salpingo-oophorectomy
+SR00518,Explo Tympanotomy (L),4266016,Tympanotomy
+SR00519,Explo Tympanotomy (S),4266016,Tympanotomy
+SR00520,Explolatory Laparotomy,2003490,Exploratory laparotomy
+SR00521,EXPLORATORY LAPAROTOMY,2003490,Exploratory laparotomy
+SR00522,"Exploratory Laparotomy,Only",2003490,Exploratory laparotomy
+SR00523,EXPLORATORY THORACOTOMY,2001391,Exploratory thoracotomy
+SR00524,Explothoractomy,2001391,Exploratory thoracotomy
+SR00525,External A-V Shunt,4050409,Creation of external arteriovenous shunt
+SR00526,"External Fixation, Femur",40488930,External fixation of femur
+SR00527,"External Fixation, Forearm",4121859,External fixation of bone
+SR00528,"External Fixation, Pelvis",40486659,External fixation of pelvis
+SR00529,"External Fixation, Tibia",40490980,External fixation of tibia
+SR00530,"Extirpation of Adnexal Malig. Tumor,Simple",4157779,Excision of malignant neoplasm
+SR00531,Extirpation of Adnexal Malig.Radical c Hysterectomy,4021530,Radical hysterectomy
+SR00531,Extirpation of Adnexal Malig.Radical c Hysterectomy,4157779,Excision of malignant neoplasm
+SR00532,EXTIRPATION OF ADNEXAL TUMOR,4152745,Excision of neoplasm
+SR00533,Extirpation of Benign Tongue Tumor,4119735,Tongue benign neoplasm excised
+SR00534,Extirpation of Benign Tumor of Palate and Tongue,4040924,Excision of benign neoplasm
+SR00534,Extirpation of Benign Tumor of Palate and Tongue,4068911,Excision of lesion of palate
+SR00534,Extirpation of Benign Tumor of Palate and Tongue,4069034,Excision of lesion of tongue
+SR00535,Extirpation of Ranula,4268746,Excision of ranula of sublingual gland
+SR00536,EXTIRPATION(BRAIN NEOPLASM),2110470,Craniotomy with elevation of bone flap; for excision of craniopharyngioma
+SR00537,extracoporeal shock wave litho,4195791,Extracorporeal shockwave lithotripsy
+SR00538,EXTRACORPOREAL CIRCULATION,4080965,Extracorporeal circulation procedure
+SR00539,Extraction of Lens Extra or Intra Capsular with Iridectomy,4169421,Extracapsular extraction of lens with iridectomy
+SR00540,EXTRACTION OF NAIL,4143663,Removal of nail
+SR00541,Extraction of Posterior Tooth,2001118,Extraction of other tooth
+SR00542,Extrafascial abdominal hysterectomy,2110268,"Bilateral salpingo-oophorectomy with omentectomy, total abdominal hysterectomy and radical dissection for debulking"
+SR00542,Extrafascial abdominal hysterectomy,4021530,Radical hysterectomy
+SR00543,"Facet joint B, with Fluorosopic guide",4197034,Fluoroscopic guidance for injection of facet joint
+SR00544,Facet Joint Block(OS),4333297,Local anesthetic lumbar facet joint nerve block
+SR00545,Facet Joint Block(PAN),4333297,Local anesthetic lumbar facet joint nerve block
+SR00546,FASCIOTOMY(COMPLEX),2006123,Fasciotomy
+SR00547,FASCIOTOMY(SIMPLE),2006123,Fasciotomy
+SR00548,FIBROSCOPIC FOREIGNBODY REMOVE(COMPLEX),4032408,Removal of foreign body
+SR00549,FIBROSCOPIC FORIENBODY REMOVE,4032408,Removal of foreign body
+SR00550,Filtering Operation,4159882,Filtering operation on eye
+SR00551,FLAP OPERATION,4254385,Flap graft
+SR00552,Flap Operation(Arterial) M (150),4254385,Flap graft
+SR00553,Flap Operation(Arterial) S (120),4254385,Flap graft
+SR00554,"FLAP OPERATION(TUBUD,PEDICLE)",4254385,Flap graft
+SR00555,Foreign Body Removal (근육내이물),4194199,FB - Removal of foreign body from muscle
+SR00556,Free Flap (보험),4071388,Distant muscle microvascular free flap
+SR00557,Free Flap MM (300),4254385,Flap graft
+SR00558,Free Flap SM (250),4254385,Flap graft
+SR00559,Free Flap SS (200),4254385,Flap graft
+SR00560,"Free Flap, 안면외",4071388,Distant muscle microvascular free flap
+SR00561,FRENULOTOMY,4320774,Frenotomy of tongue
+SR00562,"Frenulotomy ,Simple",4207622,Oral fraenectomy
+SR00563,"Frenulotomy, Complex",2108636,Excision of lingual frenum (frenectomy)
+SR00564,"Frenulotomy, Simple",4207622,Oral fraenectomy
+SR00565,Full Thickness Skin Graft(F.T.S.G)25cm미만,4324976,Full-thickness skin graft
+SR00566,"Full Thikness Skin Graft 25cm2 미만,수족부 (보험)",4324976,Full-thickness skin graft
+SR00567,Full Thikness Skin Graft 25cm미만 (보험),4324976,Full-thickness skin graft
+SR00568,FUNDUS PHOTO COAGULATION,4232642,Photocoagulation of eye
+SR00569,"Fundus Photocoagulation, 1/4범위당",4274801,Photocoagulation
+SR00570,GALL BLADDER (CHOLECYSTECTOMY),2109368,Cholecystectomy
+SR00571,"Gasrtostomy(endoscopy,percuta)",4122234,Percutaneous endoscopic gastrostomy
+SR00572,"Gastrectomy,Total c LND(Laparoscopic)",2002563,Total gastrectomy
+SR00573,"Gastrectomy,Total c LND,Abdominal Approach",2002563,Total gastrectomy
+SR00574,"Gastrectomy,Total,Abdominal Appro(s LND)",2002565,Other total gastrectomy
+SR00575,"Gastrectomy,Total,Extended,Including Lymphnode Dissection",4231795,Extended total gastrectomy
+SR00575,"Gastrectomy,Total,Extended,Including Lymphnode Dissection",4238646,Excision of lymph node
+SR00576,"Gastrectomy,Wedge Resection ",4174035,Subtotal gastrectomy
+SR00577,"Gastrectomy,Wedge Resection (Laparoscopic)",40489820,Laparoscopic wedge resection of lesion of stomach
+SR00577,"Gastrectomy,Wedge Resection (Laparoscopic)",4203442,Gastrectomy
+SR00578,GASTROJEJUNOSTOMY,4171187,Bypass gastrojejunostomy
+SR00579,Gastrojejunostomy Including Brown's Anastomosis,4171187,Bypass gastrojejunostomy
+SR00580,"Gastrostomy,관혈적,일시적",4224661,Temporary gastrostomy
+SR00581,"Gastrostomy,Permanent",4244866,Permanent gastrostomy
+SR00582,Gastrotomy,2002528,Gastrotomy
+SR00583,General ECT,4030840,ECT - Electroconvulsive therapy
+SR00584,GINGIVECTOMY,4125944,Excision of gingiva
+SR00585,Gingivectomy(1치당),4125944,Excision of gingiva
+SR00586,Glaucoma Implant Surgery,4144573,Glaucoma tube shunt
+SR00587,Hartman's Operation c LND,4314569,Excision of lesion of colon
+SR00588,Heart Lung Bypass,4272324,Cardiopulmonary bypass operation
+SR00589,HEMIARTHROPLASTY(HIP),4302543,Insertion of prosthesis or prosthetic device of femoral head
+SR00590,Hemoperfusion,4050868,Hemoperfusion
+SR00591,Hemorrhoidectomy(원형자동문합기사용건),4074077,Excision of pile
+SR00592,"Hemorrhoidectomy, Coagulation, Cauterization",4287936,Clamp and cautery of haemorrhoids
+SR00593,"Hemorrhoidectomy, Excision of Thrombosed Hemorrhoids",4240717,Excision of external thrombotic hemorrhoid
+SR00594,"Hemorrhoidectomy, Radical",2003083,Excision of hemorrhoids
+SR00595,"Hemorrhoidectomy, Radical(PPH이용)",2003083,Excision of hemorrhoids
+SR00596,"Hepatectomy(Lt,Rt. Lobe),living donor",4125320,Live donor partial hepatectomy
+SR00597,"Hepatectomy(Total),cadaver donor",4344636,Removal of liver from cadaver donor
+SR00598,"Hepatectomy, Lobectomy",4312613,Lobectomy of liver
+SR00599,"Hepatectomy, Segmentectomy",4067461,Resection of segment of liver
+SR00600,"Hepatectomy, Trisegmentectomy",4251035,"Hepatectomy, trisegmentectomy"
+SR00601,"Hepatectomy,Wedge Resection",4337034,Wedge excision of lung
+SR00602,Hepatic segmentectomy,4067461,Resection of segment of liver
+SR00603,Herniorrhaphy & Hydrocelectomy,4171196,Hydrocelectomy
+SR00603,Herniorrhaphy & Hydrocelectomy,4196678,Hernia repair
+SR00604,Hickman Catheter Insertion,4346850,Hickman line injection
+SR00605,High Vessle Ligation,4234382,Ligation of blood vessel
+SR00606,"Hip Spica Cast, Bilateral",4132400,Application of hip spica cast
+SR00607,HOMORRHOIDECTOMY(WHITE HEAD S),4074077,Excision of pile
+SR00608,"HUMER,SCAPULAR PINNING",4343340,Fixation of fracture using pins
+SR00609,Hysteroscopic Endometrial Ablation,4236006,Hysteroscopy with endometrial ablation
+SR00610,Hysteroscopic Endometrial polypectomy,4172203,Endoscopic endometrial polypectomy
+SR00611,"Hysterotomy (제1태아),초산",2004785,Classical cesarean section
+SR00612,I & D OF PERITONSILLAR ABSCESS,4214117,Incision and drainage of peritonsillar abscess
+SR00613,I & D or Incision of Vulva and perineum,2004648,Incision of vulva and perineum
+SR00614,I&D of Otohematoma,40481439,Incision and drainage of haematoma
+SR00615,I&D of Perianal Abscess,4167809,Incision and drainage of perianal abscess
+SR00616,I&D of Periappendical Abscess,4108316,Incision and drainage of abscess
+SR00617,I&D후 Dressing,4080499,Dressing of wound
+SR00618,ICP Monitoring Insertion,2000097,Intracranial pressure monitoring
+SR00618,ICP Monitoring Insertion,4075431,Exploratory burrhole of cranium
+SR00619,Ileostomy(Tube),2002809,Ileostomy
+SR00620,"ILEOSTOMY,COLOSTOMY REVISION",4017998,Creation of ileostomy
+SR00620,"ILEOSTOMY,COLOSTOMY REVISION",4187786,Revision of colostomy
+SR00621,IMPACTED TOOTH,3046028,Tooth impaction
+SR00622,impacted tooth(communited),3046028,Tooth impaction
+SR00623,impacted tooth(complete),3046028,Tooth impaction
+SR00624,IMPLANT,40762832,Procedure implants
+SR00625,Implant Branemark Abutment Connection/Fixture,2001130,Prosthetic dental implant
+SR00626,Implant Branemark Fixture Installation/Fixture,2001130,Prosthetic dental implant
+SR00627,Implant Removal OP. LL(150),4154603,Removal of implant
+SR00628,Implant Removal OP. ML(100),4154603,Removal of implant
+SR00629,Implant Removal OP. MM(50),4154603,Removal of implant
+SR00630,Implant Removal OP. SS(15),4154603,Removal of implant
+SR00631,Incision & Drainage 2.5cm 미만,4108316,Incision and drainage of abscess
+SR00632,Incision & Drainage 2.5cm 이상,4108316,Incision and drainage of abscess
+SR00633,"INCISION & DRAINAGE, FACE OR NECK, 1~2CM미만(1범위)",4030746,Incision and drainage of neck
+SR00634,"INCISION & DRAINAGE, FACE OR NECK, 1CM미만(1범위)",4030746,Incision and drainage of neck
+SR00635,"INCISION & DRAINAGE, FACE OR NECK, 2CM이상(1범위)",4030746,Incision and drainage of neck
+SR00636,"INCISION & DRAINAGE, OTHER, 1~2CM미만(1범위)",4211374,I and D
+SR00637,"INCISION & DRAINAGE, OTHER, 1CM미만(1범위)",4211374,I and D
+SR00638,"INCISION & DRAINAGE, OTHER, 2CM이상(1범위)",4108316,Incision and drainage of abscess
+SR00639,"INCISION & DRAINAGE, OTHER, 2CM이상(2범위)",4211374,I and D
+SR00640,Incision & Excsional Biopsy,2110149,"Biopsy, single or multiple, or local excision of lesion, with or without fulguration (separate procedure)"
+SR00640,Incision & Excsional Biopsy,4321986,Incisional biopsy
+SR00641,"Incision and Drainage, 2.5cm 미만",4108316,Incision and drainage of abscess
+SR00642,"Incision and Drainage, 2.5cm 이상",4108316,Incision and drainage of abscess
+SR00643,Incision Mass,4108316,Incision and drainage of abscess
+SR00644,INCISION OF BARTHOLIN ABSCESS,2110055,Incision and drainage of Bartholin's gland abscess
+SR00645,Incision of Chalazion,4319443,Incision of chalazion
+SR00646,INCISION OF HORDEOLUM,4197960,Incision of hordeolum
+SR00647,incision안면부1범위2.5cm이상,4031191,Incision of face
+SR00648,incision안면이외1범위2.5미만,4147894,Incision
+SR00649,incision안면이외1범위2.5이상,4147894,Incision
+SR00650,"Incisional & Excisional Biopsy,Muscle & Soft Tissue",4329833,Excisional biopsy of muscle
+SR00651,"Incisional & Excisional Biopsy,Others",2110149,"Biopsy, single or multiple, or local excision of lesion, with or without fulguration (separate procedure)"
+SR00651,"Incisional & Excisional Biopsy,Others",4321986,Incisional biopsy
+SR00652,"Incisional & Excisional Biopsy,Skin",4081731,Biopsy of skin
+SR00653,"Incisional Biopsy,피부",4081732,Incisional biopsy of skin lesion
+SR00654,"incisional Biopsy,Others",2102673,"Biopsy of breast; open, incisional"
+SR00654,"incisional Biopsy,Others",2110149,"Biopsy, single or multiple, or local excision of lesion, with or without fulguration (separate procedure)"
+SR00654,"incisional Biopsy,Others",4321986,Incisional biopsy
+SR00655,Induction Abortion,2110329,"Induced abortion, by dilation and curettage"
+SR00656,Infectious or Dirty Wound Dressing L,4080499,Dressing of wound
+SR00657,Infectious or Dirty Wound Dressing S,4080499,Dressing of wound
+SR00658,INFERIOR ON MIDDLE TURBINECTOM,2001047,Other turbinectomy
+SR00659,Inguinal Herniorrhaphy,4167072,Inguinal or femoral herniorrhaphy
+SR00660,"Inguinal Herniorrhaphy c 장관절제,고위결찰",4195307,Inguinal hernioplasty
+SR00661,"Inguinal Herniorrhaphy c 장관절제,후벽보강,고위결찰",4195307,Inguinal hernioplasty
+SR00662,INGUINAL HERNIORRHAPHY OTHER,4195307,Inguinal hernioplasty
+SR00663,"Inguinal Herniorrhaphy,기타,고위결찰",4167072,Inguinal or femoral herniorrhaphy
+SR00664,"Inguinal Herniorrhaphy,기타,후벽보강,고위결찰",4167072,Inguinal or femoral herniorrhaphy
+SR00665,"Int. Obstruction, Adhesiolysis",4117615,Division of adhesions
+SR00666,"Int. Obstruction, Entero-enterostomy",4128868,Gastrointestinal tract anastomosis - intestine
+SR00667,Inter.juglar v.cath for HD,2002176,Venous catheterization for renal dialysis
+SR00668,Intermaxillary Fixation,4072250,Intermaxillary fixation of maxilla
+SR00668,Intermaxillary Fixation,4075449,Intermaxillary fixation of mandible
+SR00669,Internal A-V Shunt,4119723,Arteriovenous anastomosis
+SR00670,INTESTINAL ANASTOMOSIS,2002771,Intestinal anastomosis
+SR00671,INTRA AORTIC BALLON PUMPING,4060257,Insertion of intra-aortic balloon counterpulsation
+SR00672,INTRA OR EXTRA-CATARACT EXTRAT,4208126,Extraction of cataract
+SR00673,Intraaortic ballon pump,4060257,Insertion of intra-aortic balloon counterpulsation
+SR00674,INTRACRANIAL OPERATION OTOLOGI,4163026,Intracranial procedure
+SR00675,Intralesional inj(비보험),4299663,Intralesional injection
+SR00676,intraocular lens impiant(50%),4159965,Implantation of posterior chamber intraocular lens
+SR00676,intraocular lens impiant(50%),4190187,Implantation of anterior chamber intraocular lens
+SR00677,intraocular lens implantation,4159965,Implantation of posterior chamber intraocular lens
+SR00677,intraocular lens implantation,4190187,Implantation of anterior chamber intraocular lens
+SR00678,Intravitreous Injection,4217211,Injection of vitreous substitute into vitreous body
+SR00679,Jejunostomy(Tube),4144714,"Surmay operation, jejunostomy"
+SR00680,"Kenalog 주사,소",4102527,Excision of keloid
+SR00681,"Keratoplasty, Penetrating",4172642,Penetrating graft to cornea
+SR00682,"Kidney Biopsy, Percutaneous(초음파유도하)",3005695,US Guidance for biopsy of Kidney
+SR00683,Kyphoplasty(1 level),4139039,Balloon kyphoplasty of fracture of spine
+SR00684,Kyphoplasty(2 level이상),4139039,Balloon kyphoplasty of fracture of spine
+SR00685,"L/T(Rt.lobe),living donor",2000087,Transplant from live related donor
+SR00686,"L/T(Total),cadaver donor",2000089,Transplant from cadaver
+SR00687,Laminectomy(cervical spine),40483740,Cervical laminectomy
+SR00688,Laminectomy(lumbar spine),4179533,Decompression laminectomy of lumbar spine
+SR00689,"Laparoscopic Adrenalectomy, unilateral",4177376,Laparoscopic adrenalectomy
+SR00690,"Laparoscopic Appendectomy,Simple",2109141,Appendectomy
+SR00691,Laparoscopic Cholecystectomy,2003223,Laparoscopic cholecystectomy
+SR00692,laparoscopic Extirpation of Adnexal Tumor(Unilateral),4074423,Unilateral excision of adnexa of uterus
+SR00693,"laparoscopic Extirpation of Adnexal Tumor, Benign",2110248,"Salpingo-oophorectomy, complete or partial, unilateral or bilateral (separate procedure)"
+SR00694,"laparoscopic Myomectomy, Abdominal,Complex",42872568,Laparoscopic excision of leiomyoma of uterus
+SR00695,Laryngeal Polypectomy,4242117,Excision of laryngeal polyp
+SR00696,"Laryngectomy, Total",4280225,Total laryngectomy
+SR00697,"Laryngectomy, with Neck Dissection",4075296,Neck dissection
+SR00697,"Laryngectomy, with Neck Dissection",4217829,Laryngectomy
+SR00698,"Laryngoplasty, 성대내 이물 주입술",4213312,Repair of larynx
+SR00699,LASER 시술 (大),4219551,Laser procedure
+SR00700,LASER 시술 (小),4219551,Laser procedure
+SR00701,Laser 치료 A,4040252,Low power laser therapy
+SR00702,Laser 치료 B,4040252,Low power laser therapy
+SR00703,Laser 치료 C,4219551,Laser procedure
+SR00704,"Laser CO2 Laser,소",4219551,Laser procedure
+SR00705,Laser Retinal Detachment,4309528,Laser photocoagulation of retina for detachment
+SR00706,LASER SURGERY,4261829,Laser surgery
+SR00707,Laser Therapy,4040252,Low power laser therapy
+SR00708,LAVH,2004467,Laparoscopically assisted vaginal hysterectomy (LAVH)
+SR00709,LAVH c BPLD c PALD,4021530,Radical hysterectomy
+SR00710,LEEP Conization,2004391,Conization of cervix
+SR00711,Lens Exchange,4333163,Lens exchange
+SR00712,LIGATION AND STRIPPING OF THE,4314888,Stripping and ligation
+SR00713,LIGATION PROCEDURE,4321844,Ligation
+SR00714,"Lingua,Floor,Palate sucture(2.5cm초과)",4231454,Suture mouth
+SR00715,Liposuction(PAN),4118090,Liposuction
+SR00716,Liver Transplantation,4076862,Tx - Liver transplantation
+SR00717,LOBECTOMY,4054047,Lobectomy
+SR00718,local flap op(facial),4127137,Local transposition flap
+SR00719,"Local Flap Operation (Tubed,Pedicle) (보험)",4072053,Local muscle rotation flap
+SR00719,"Local Flap Operation (Tubed,Pedicle) (보험)",4324976,Full-thickness skin graft
+SR00720,"Local Flap Operation(Tubed,Pedicle) L (50)",4254385,Flap graft
+SR00721,"Local Flap Operation(Tubed,Pedicle) S (30)",4127137,Local transposition flap
+SR00722,"Local Flap, 안면",4127137,Local transposition flap
+SR00723,"Local Flap, 안면외",4072053,Local muscle rotation flap
+SR00723,"Local Flap, 안면외",4324976,Full-thickness skin graft
+SR00724,LOCAL PERFUSION,2002284,Other perfusion
+SR00725,"LOW ANTERIO RESECTION ,LYMPHNODE",4238646,Excision of lymph node
+SR00726,Low Anterior Resection c LND,4151121,Low anterior resection of rectum
+SR00727,Low Anterior Resection s LND,4151121,Low anterior resection of rectum
+SR00728,LRH c BPLD c PALD,4030412,Pelvic lymphadenectomy
+SR00728,LRH c BPLD c PALD,4032735,Radical laparoscopic hysterectomy
+SR00729,Lt.Cardiac Cath.(8세 이상),40756991,"Left heart catheterization including intraprocedural injection(s) for left ventriculography, imaging supervision and interpretation, when performed"
+SR00730,Lumbar Puncture,4080549,Lumbar puncture
+SR00731,"Lumbar sympathetic ganglion B. with Fluoroscopic guide, Rt",4160549,Biopsy of sympathetic nerve ganglion
+SR00731,"Lumbar sympathetic ganglion B. with Fluoroscopic guide, Rt",4325363,Biopsy using fluoroscopic guidance
+SR00732,Lumboperitoneal Shunt,4066308,Creation of lumboperitoneal shunt
+SR00733,Lung Decortication,2001412,Decortication of lung
+SR00734,"Lymphnode Open Biopsy,Neck",40492412,Excisional biopsy of lymph node of neck
+SR00735,Malignant-radical&TAH,2004463,Total abdominal hysterectomy
+SR00736,Mammotome System,4154201,Incision of breast
+SR00737,Mandible Fracture(Closed Reduction),4146406,Reduction of fracture of mandible
+SR00738,Marsupialization,4040382,Construction of pouch
+SR00739,"MASTECTOMY(EXCISION,BREAST)",2006416,Mastectomy
+SR00740,"MASTECTOMY(EXCISION,BREAST,MULTIPLE)",2006416,Mastectomy
+SR00741,MASTECTOMY(Partial),4275911,Partial mastectomy
+SR00742,MASTECTOMY(RADICAL MASTECTOMY),4298492,Radical mastectomy
+SR00743,"Mastectomy, Radical",2006416,Mastectomy
+SR00744,"Mastectomy, Simple",2102732,"Mastectomy, simple, complete"
+SR00745,"Mastectomy, Subcutaneous",2102733,"Mastectomy, subcutaneous"
+SR00746,MASTICTOMY(SIMPLE MASTECTOMY),4066543,Total mastectomy
+SR00747,"Mastoidectomy, Complex",2000947,Mastoidectomy
+SR00748,Maxillar Open Reduction(Lefort I),2103296,Open treatment of palatal or maxillary fracture (LeFort I type)
+SR00749,McDonald's Operation,4130310,Macdonald cervical cerclage
+SR00750,Mediastinoscopy,2001401,Mediastinoscopy
+SR00751,"Menipulative Correction, 골절 변형 고정술",4078521,Manipulation
+SR00752,"Menipulative Correction, Other Congenital Deformity",4034374,Correction of congenital deformity
+SR00753,"Meniscectomy, External and Internal",4343904,Repair of meniscus
+SR00754,"Meniscectomy, Internal",4343904,Repair of meniscus
+SR00755,Meniscus Repair External & Internal,4343904,Repair of meniscus
+SR00756,"Meniscus Repair,External or Internal",4343904,Repair of meniscus
+SR00757,MENISECTOMY,4263550,Chondrectomy of semilunar cartilage of knee
+SR00758,"Menisectomy ,External & Internal",4343904,Repair of meniscus
+SR00759,"Menisectomy, External or Internal",4343904,Repair of meniscus
+SR00760,"Microscopic Tuboplasty, Reanastomosis",4338954,Surgical repair and revision of anastomosis
+SR00761,microscopy (2hr),4036697,Microscopy
+SR00762,microscopy (3hr),4036697,Microscopy
+SR00763,microscopy(1hr),4036697,Microscopy
+SR00764,microscopy(4hr),4036697,Microscopy
+SR00765,Mile's Operation c LND,4022910,"Miles operation, complete proctectomy"
+SR00766,"MR (Brain, MRA) s",4167390,MRI angiography of head
+SR00767,MR Brain Routin c Contrast,4329773,Magnetic resonance imaging of hand with contrast
+SR00768,MR Brain s,2006956,Magnetic resonance imaging of brain and brain stem
+SR00769,MR Brain s (Limi),2006956,Magnetic resonance imaging of brain and brain stem
+SR00770,MR L-Spine s,4305538,MRI of thoracolumbar spine
+SR00771,Muscle Flap OP.,4310051,Transplantation of muscle
+SR00772,Musle Resection,4263918,Myectomy
+SR00773,MYOMECTOMY,4169931,Excision fibroid
+SR00774,MYOMECTOMY 50%,4169931,Excision fibroid
+SR00775,Myomectomy(Complex),4169931,Excision fibroid
+SR00776,"Myomectomy, Abdominal,Complex",4169931,Excision fibroid
+SR00777,"Myomectomy, Vaginal",4130188,Vaginal myomectomy
+SR00778,Myringoplasty,2111233,Myringoplasty (surgery confined to drumhead and donor area)
+SR00778,MYRINGOPLASTY,4245362,Myringoplasty
+SR00779,MYRINGOTOMY,2000925,Myringotomy
+SR00780,Nail extraction-ingrowing Nail,4166446,Repair of ingrown toenail
+SR00781,NASAL POLYPECTOMY,4067379,INP - Intranasal polypectomy
+SR00782,"Neck Dissection(Uni),Radical,타수술과 동시실시",4122781,Excision of cervical lymph node
+SR00783,Neck lymphatic dissection,4302897,Radical lymph node dissection of neck region
+SR00784,"Neck Lymphatic Dissection,Radical(편측)",4302897,Radical lymph node dissection of neck region
+SR00785,Neck Node Biopsy,4120962,Biopsy of cervical lymph node
+SR00786,NEPHRECTOMY RADICAL TOTAL NEPH,4022014,Radical nephrectomy
+SR00787,NEPHRECTOMY SIMPLE TOTAL NEPHR,4021108,Simple nephrectomy
+SR00788,"Nephrectomy, Donor, for Transplantation",4045251,Removal of kidney from donor
+SR00789,"Nephrectomy, Partial",2109574,"Nephrectomy, partial"
+SR00790,"Nephrectomy, Radical,(LN Dissection)",4022014,Radical nephrectomy
+SR00790,"Nephrectomy, Radical,(LN Dissection)",4238646,Excision of lymph node
+SR00791,"Nephrectomy, Simple",4021108,Simple nephrectomy
+SR00792,Nephro - Ureterectomy,2003610,Nephroureterectomy
+SR00793,Neurolysis,4223677,Neurolysis
+SR00794,NEUROPLASTY,4166941,Repair of nerve
+SR00795,Neurorrapy,4119237,Nerve sutured
+SR00796,"Neurorrhaphy,Extracranial Cerebral Nerve",4049209,Cranial neurorrhaphy
+SR00797,"Neurorrhaphy,Hand or Foot",4250330,Neurorrhaphy
+SR00798,Nevus Excision MM(50),4167081,Excision of intradermal nevus
+SR00799,Nevus Excision SM(30),4167081,Excision of intradermal nevus
+SR00800,Nevus Excision SS(15),4167081,Excision of intradermal nevus
+SR00801,Nucleotome Discectomy (1부위),4124750,Total laminectomy
+SR00802,"O/R Others, Hand, Foot",4070398,Open reduction of fracture of foot
+SR00802,"O/R Others, Hand, Foot",4234082,Open reduction of fracture of hand
+SR00803,OCCLUSAL ADJUSTMENT,4122351,Occlusal adjustment
+SR00804,Off pump CABG(2개소이상),4305852,Off-pump coronary artery bypass
+SR00805,One visit endodontics(deciduous,4208099,Endodontic procedure
+SR00806,"OP for Congenital Megacolon,Segmental Colonic Aganglionosis(Radical)",4123910,Duhamel procedure
+SR00807,"OP. for Cataract or Lens,Pars Plana",4260913,Pars plana lensectomy of cataract
+SR00808,"OP. for Cataract or Lens,Phacoemulsification",2000581,Phacoemulsification and aspiration of cataract
+SR00809,Op. For Cleft Hard Palate,4126758,Repair of cleft palate
+SR00810,Op. For Cleft soft Palate,4234902,Palatoplasty for cleft palate
+SR00811,OP. for Incisional Hernia c Intestinal Resection,2003449,Incisional hernia repair
+SR00811,OP. for Incisional Hernia c Intestinal Resection,40482705,Excision of intestinal structure
+SR00812,"OP. for Incisional Hernia, Others",2003449,Incisional hernia repair
+SR00813,OP. for Umbilical Hernia c Intestinal Resection,2003443,Repair of umbilical hernia
+SR00813,OP. for Umbilical Hernia c Intestinal Resection,40482705,Excision of intestinal structure
+SR00814,"OP. for Umbilical Hernia, Others",2003443,Repair of umbilical hernia
+SR00815,"OP. of Anal Fistula,Hanley's OP & Other Spincter Preserving Procedure",4166294,Anal fistula operation
+SR00816,"OP. of Anal Fistula,Low Type,Fistulotomy & Fistulectomy",2003048,Anal fistulectomy
+SR00816,"OP. of Anal Fistula,Low Type,Fistulotomy & Fistulectomy",4196919,Incision of anal fistula
+SR00817,Open Cholecystectomy,2109368,Cholecystectomy
+SR00818,"Open Reduation of Fracture, Bimalleolus",4313570,Open reduction of fracture
+SR00819,open reduc(tibia&fibula.ulna&r,4047768,Open reduction of fracture of radius and ulna
+SR00819,open reduc(tibia&fibula.ulna&r,4066415,Open reduction of fracture of tibia and fibula
+SR00820,"open reduc.(tibia,fibula,ulna,",4066415,Open reduction of fracture of tibia and fibula
+SR00820,"open reduc.(tibia,fibula,ulna,",4290017,Open reduction of fracture of ulna
+SR00821,OPEN REDUCTION,4045714,Open reduction
+SR00822,OPEN REDUCTION (LEFORT 1),4205426,"Reduction of palatal fractures, open treatment, Lefort I type"
+SR00823,OPEN REDUCTION OF FRACTURE,4313570,Open reduction of fracture
+SR00824,"Open Reduction of Fracture, Carpal or Tarsal bone",40479730,Open reduction of fracture of carpal bone
+SR00825,"Open Reduction of Fracture, Clavicle",43531084,Open reduction of fracture of clavicle with internal fixation
+SR00826,"Open Reduction of Fracture, Femur",4286744,Open reduction of fracture of femur
+SR00827,"Open Reduction of Fracture, Fibula",4238865,Open reduction of fracture of fibula
+SR00828,"Open Reduction of Fracture, Humerus",4311828,Open reduction of fracture of humerus
+SR00829,"Open Reduction of Fracture, Other",4313570,Open reduction of fracture
+SR00830,"Open Reduction of Fracture, Patella",4313570,Open reduction of fracture
+SR00831,"Open Reduction of Fracture, Radius",4172914,Open reduction of fracture of radius
+SR00832,"Open Reduction of Fracture, Radius and Ulna",4047768,Open reduction of fracture of radius and ulna
+SR00833,"Open Reduction of Fracture, Tibia",4274961,Open reduction of fracture of tibia
+SR00834,"Open Reduction of Fracture, Tibia and Fibula",4066415,Open reduction of fracture of tibia and fibula
+SR00835,"Open Reduction of Fracture, Trimalleolus",4313570,Open reduction of fracture
+SR00836,"Open Reduction of Fracture, Ulna",4290017,Open reduction of fracture of ulna
+SR00837,"Open Reduction of Joint Dislocation, Ankle",2005577,Open reduction of dislocation of ankle
+SR00838,"Open Reduction of Joint Dislocation, Elbow",4310395,Open reduction of dislocation of elbow
+SR00839,"Open Reduction of Joint Dislocation, Hip",4294667,Open reduction of dislocation of hip
+SR00840,"Open Reduction of Joint Dislocation, Knee",4136219,Open reduction of dislocation of knee
+SR00841,"Open Reduction of Joint Dislocation, Shoulder",2005561,Open reduction of dislocation of shoulder
+SR00842,"Open Reduction of Joint Dislocation, Wrist",4261636,Open reduction of dislocation of wrist
+SR00843,Open Reduction of Nasal Fracture,2001050,Open reduction of nasal fracture
+SR00844,Open Reduction of Zygomatic Bone Fracture,4075435,Reduction of fracture of zygomatic bone
+SR00845,open reduction(humerus),4311828,Open reduction of fracture of humerus
+SR00846,OPEN REDUCTION(OTHERS),4045714,Open reduction
+SR00847,OPERATION FOR AFTER CATARACT,2000589,Excision of secondary membrane [after cataract] Capsulectomy
+SR00848,OPERATION FOR GLAUCOMA,4313281,Operation for glaucoma
+SR00849,OPERATION FOR INCISIONAL HERNI,2003449,Incisional hernia repair
+SR00850,Operation for Ingrowing Nail,4166446,Repair of ingrown toenail
+SR00851,OPERATION FOR INGROWING NAIL),4166446,Repair of ingrown toenail
+SR00852,OPERATION FOR INTRA CRANIAL AN,4163026,Intracranial procedure
+SR00853,OPERATION FOR MYOSITIS,4071387,Muscle operation
+SR00854,Operation for Osmidrosis,4168446,Excision of lesion of sweat gland
+SR00855,"Operation for Osmidrosis, Bilateral",4168446,Excision of lesion of sweat gland
+SR00856,"Operation for Pancreatic Tumor,Benign",4040924,Excision of benign neoplasm
+SR00856,"Operation for Pancreatic Tumor,Benign",4168628,Excision of lesion of pancreas
+SR00857,"Operation for pancreatic Tumor,Malignancy",4105909,Pancreas operation
+SR00857,"Operation for pancreatic Tumor,Malignancy",4157779,Excision of malignant neoplasm
+SR00858,"Operation for Polydactyly, Other",4267421,Removal of supernumerary digit
+SR00859,Operation for Syndactyly,4078366,Repair of syndactyly
+SR00860,Operation for Torticollis,4078246,Release of torticollis
+SR00861,Operation of Anal Atresia(Low Type),4087575,Operation on anus
+SR00862,"Operation of Anal Atresia,Pena's OP.(High Type)",4087575,Operation on anus
+SR00863,Operation of Anal Fissure,2109239,"Fissurectomy, with or without sphincterotomy"
+SR00864,"Operation of Blepharoptosis,Fascia Lata Sling",4308286,Palpebral ligament sling operation
+SR00865,"Operation of Blepharoptosis,Muscle Resection",4275409,Resection of extraocular tarsal muscle for blepharoptosis
+SR00866,"Operation of Blepharoptosis,Others",4321379,Repair of blepharoptosis
+SR00867,"Operation of Corneal Ulcer, Conjunctival Flap",4203605,Repair of corneal laceration with conjunctival flap
+SR00868,OPERATION OF ECTOPIC PREGNANCY,2110295,Surgical treatment of ectopic pregnancy; abdominal pregnancy
+SR00869,"Operation of Ectropion,Simple",4323685,Repair of ectropion
+SR00870,"Operation of Entropion,광범위(피부와피하,근육,검판등 교정)",4293475,Entropion correction
+SR00871,"Operation of Entropion,단순",4293475,Entropion correction
+SR00872,"Operation of Pterygium, Other",4244070,Operation on pterygium
+SR00873,"Operation of Pterygium, Transplantation",4081322,Transplantation of conjunctiva for pterygium
+SR00874,"Operation of Squint(단순,단일 안근)",4214521,Squint correction operation
+SR00875,"Operation of Squint(단순,복수 안근)",4214521,Squint correction operation
+SR00876,"Operation of Squint(복잡,단일안근)",4214521,Squint correction operation
+SR00877,"Operation of Squint(복잡,복수안근)",4214521,Squint correction operation
+SR00878,OPERATION ON PROCIDENTIA,2109224,Reduction of procidentia (separate procedure) under anesthesia
+SR00879,"OPERATION,OSTEOMYELITIS(FOREA)",4101040,Osteomyelitis drainage
+SR00880,"OPERATION,OSTEOMYELITIS(OTHER)",4101040,Osteomyelitis drainage
+SR00881,"Operative Biopsy, Intrathoraxic",42742506,"Thoracotomy, with diagnostic biopsy(ies) of lung nodule(s) or mass(es) (eg, wedge, incisional), unilateral"
+SR00882,Oral Cavity Mass Excision(Benign),4228472,Excision of hyperplastic oral soft tissue
+SR00883,Orchiectomy for Mailg. Tumor(Others),4341536,Orchidectomy
+SR00884,"Orchiectomy,Total",4341536,Orchidectomy
+SR00885,"Orchiectomy,Undescended Testis",4341536,Orchidectomy
+SR00886,Orchiopexy(Abdominal Testis),2109982,"Orchiopexy, abdominal approach, for intra-abdominal testis (eg, Fowler-Stephens)"
+SR00887,Orchiopexy(Inguinal or Scrotal Testis),2004067,Orchiopexy
+SR00888,Orchiopexy(inguinal&scrotal te,2004067,Orchiopexy
+SR00889,OSTECTOMY(OBTAINING DONOR BONE,2005118,Excision of bone for graft
+SR00890,"osteotomy&int.fix(fin,toe)",42872810,Osteotomy and internal fixation
+SR00891,"OSTEOTOMY(SPINE,PELVIS)",4119995,Osteotomy of vertebra
+SR00891,"OSTEOTOMY(SPINE,PELVIS)",4178136,Pelvic osteotomy
+SR00892,OSTEOTOMY(UPPER),4305752,Osteotomy
+SR00893,Other Operation of Eyelid L(70),2000408,Other operations on eyelids
+SR00894,Other Operation of Eyelid M(50),2000408,Other operations on eyelids
+SR00895,Other Operation of Eyelid S(30),2000408,Other operations on eyelids
+SR00896,Other Operation On Hand M(30),4010247,Operative procedure on hand
+SR00897,Other Operation On Hand S(15),4010247,Operative procedure on hand
+SR00898,Other Operation on Maxilla MM(200),4048327,Operation on maxillary antrum
+SR00899,Other Operation on Maxilla SM(150),4048327,Operation on maxillary antrum
+SR00900,Other Operation on Maxilla SS(100),4048327,Operation on maxillary antrum
+SR00901,Other Plastic Operation On Lip SS(30),4223516,Operation on lip
+SR00902,Other's Operation of External Ear S(30),2000886,Other operations on external ear
+SR00903,Ovary cyst aspiration,4306209,Removal of ovarian cyst
+SR00904,"Pancreatectomy,Distal",2003348,Distal pancreatectomy
+SR00905,"Pancreatectomy,Total",2109410,"Pancreatectomy, total"
+SR00906,"Pancreaticoduodenectomy,Pylorus-Preserving",4022013,Pylorus-sparing Whipple operation
+SR00907,Paper Patch of T.M Perforation by Microscopy,4194119,"Tympanic membrane repair with perforation, closure with patch"
+SR00908,Paracentesis(Anterior Chamber),4150502,Paracentesis of anterior chamber of eye
+SR00909,"Parathyroidectomy, Total, single",2000281,Complete parathyroidectomy
+SR00910,Partial Mastectomy,4275911,Partial mastectomy
+SR00911,"Partial Mastectomy,Axillary Dissection for Breast Ca.",2006416,Mastectomy
+SR00912,PARTIAL VIRECTOMY,4294683,Vitrectomy
+SR00913,PCL Reconstruction,4346964,PCL - Reconstruction of posterior cruciate ligament
+SR00914,Pelvic Adhesiolysis,4117615,Division of adhesions
+SR00915,Penoplasty,4324260,Operation on penis
+SR00916,Percu.Balloon Kyphoplasty(1level),4139039,Balloon kyphoplasty of fracture of spine
+SR00917,Percu.Balloon Kyphoplasty(2level),4139039,Balloon kyphoplasty of fracture of spine
+SR00918,Percu.Vertebroplasty(2level부터),2005924,Percutaneous vertebroplasty
+SR00919,PERCUTANEOUS NEPHROLITHOTOMY,4298166,Removal of calculus of renal pelvis through percutaneous nephrostomy
+SR00920,Percutaneous Vertebroplasty(제2부위부터),2005924,Percutaneous vertebroplasty
+SR00921,Percutaneous Vertebroplasty(Including Discography),2005924,Percutaneous vertebroplasty
+SR00921,Percutaneous Vertebroplasty(Including Discography),4298664,Discogram
+SR00922,Pericardial Window Formation by Thoracoscopy,4238653,Pericardiostomy
+SR00922,Pericardial Window Formation by Thoracoscopy,4330099,Thoracoscopic procedure
+SR00923,PERIODONTAL CURETTAGE,4136086,Periodontic procedure
+SR00924,Peritoneal Venous Shunt,4231590,Insertion of peritoneovenous shunt
+SR00925,Phacoemulsification,4223363,Aspiration of cataract by phacoemulsification
+SR00926,pin remove,4218109,Removal of internal fixation device
+SR00927,"pin remove,humerus",4078211,Removal of internal fixation device from humerus
+SR00928,pin remove.femur,4141907,Removal of internal fixation device of femur
+SR00929,"pin remove.tib orfib,ul or rad",4067827,Removal of fixation from fracture of orbit
+SR00929,"pin remove.tib orfib,ul or rad",4189009,Removal of internal fixation device of tibia
+SR00929,"pin remove.tib orfib,ul or rad",4218085,Removal of internal fixation device of ulna
+SR00929,"pin remove.tib orfib,ul or rad",4272168,Removal of internal fixation device of radius
+SR00930,"pin.remove clavicle,patella",4093280,Removal of internal fixation device from patella
+SR00930,"pin.remove clavicle,patella",4142634,Removal of internal fixation device from clavicle
+SR00931,pin.remove others,4218109,Removal of internal fixation device
+SR00932,"pin.remove tib&fib,ulna&radius",4189009,Removal of internal fixation device of tibia
+SR00932,"pin.remove tib&fib,ulna&radius",4290330,Removal of internal fixation device from radius AND ulna
+SR00932,"pin.remove tib&fib,ulna&radius",4314005,Removal of internal fixation device of fibula
+SR00933,Plastic Surgery on Nippl SS(100),4193059,Plastic operations on nipple
+SR00934,PLATE SPLINT,4194049,Application of splint
+SR00935,Pleurodesis,2001430,Thoracentesis
+SR00936,Pleurodesis by Thoracoscope,4244210,Endoscopic pleurodesis
+SR00937,Pneumonectomy,4172438,Pneumonectomy
+SR00938,Polydactyly (Others),4267421,Removal of supernumerary digit
+SR00939,Polypectomy,4217766,Resection of polyp
+SR00940,Polypectomy of Rectum,4166761,Rectal polypectomy
+SR00941,Posterior Division of Spinal Nerve Block,4333816,Spinal nerve root block
+SR00942,"Posterior Spinal Fusion, Cervical, Instrument",4150854,Spinal instrumentation
+SR00942,"Posterior Spinal Fusion, Cervical, Instrument",4235729,Cervical spinal fusion by posterior technique
+SR00943,"Posterior Spinal Fusion, Lumbar, without Instrument",4143671,Primary posterior fusion of lumbar spine
+SR00944,postOP bleeding control,4168088,Postoperative haemorrhage control
+SR00945,Postoperative Bleeding Control,4168088,Postoperative haemorrhage control
+SR00946,Primary Closure of Cornea,4004030,Cornea closure
+SR00947,PROCIDENTIA(VAGINAL TOTAL HYST,4138738,Vaginal hysterectomy
+SR00948,"Prolapse uteri,Vag.Hysterectomy",2004468,Other and unspecified vaginal hysterectomy
+SR00949,"Prolapse uteri,Vag.Hysterectomy & APR",2110181,Vaginal hysterectomy
+SR00950,prophylaxis,4061660,Prophylaxis
+SR00951,"Prostatectomy, Open",4071665,Open prostatectomy
+SR00952,Pulley Release,4346393,Release of trigger finger
+SR00953,PULP EXTIRPATION(SINGLE CANAL),4103016,Pulpectomy
+SR00954,PULP TEST,4046955,Dental pulp vitality test
+SR00955,PULPOTOMY,4205303,Vital pulpotomy
+SR00956,Punctal Occlusion,4068429,Punctal occlusion
+SR00957,Pyeloplasty,4299367,Pyeloplasty
+SR00958,"Pyloromyotomy, Fredet-Ramstedt Operation",2108957,"Pyloromyotomy, cutting of pyloric muscle (Fredet-Ramstedt type operation)"
+SR00959,Radical Cholecystectomy of GB Cancer,2109368,Cholecystectomy
+SR00960,Radical Hydrocelectomy,4171196,Hydrocelectomy
+SR00961,Radical Hysterectomy c Pelvic L/D & Paraaortic LN Bx.,2110268,"Bilateral salpingo-oophorectomy with omentectomy, total abdominal hysterectomy and radical dissection for debulking"
+SR00961,Radical Hysterectomy c Pelvic L/D & Paraaortic LN Bx.,4021530,Radical hysterectomy
+SR00962,"Radical Neck Dissection(Uni),타수술과동시실시시",4122781,Excision of cervical lymph node
+SR00963,"Radical op frontal,ehmoid&",4189601,Nasal sinus procedure
+SR00964,Radical OP. of Malig. Thyroid Tumor,4066442,Excision of lesion of thyroid
+SR00964,Radical OP. of Malig. Thyroid Tumor,4157779,Excision of malignant neoplasm
+SR00965,Radical OP. of Malignant Thyroid Tumor,2000271,Excision of lesion of thyroid
+SR00965,Radical OP. of Malignant Thyroid Tumor,4157779,Excision of malignant neoplasm
+SR00966,RADICAL OPERATION OF MAXILLARY,2001095,Radical maxillary antrotomy
+SR00967,Radical Orchiectomy(Including LN),4238646,Excision of lymph node
+SR00967,Radical Orchiectomy(Including LN),4286887,Radical orchiectomy
+SR00968,Radical sigmoid colectomy c LND,4100937,Radical excision of lymph nodes
+SR00968,Radical sigmoid colectomy c LND,4225427,Excision of sigmoid colon
+SR00969,RADICAL SURGERY FOR URINARY IN,4041263,Procedure on urinary system
+SR00970,Reattachment of retina,4230961,Repair of retinal detachment
+SR00971,RECONSTRUCTION OF ACHILLES TEN,4072039,Repair of tendo achilles
+SR00972,Reconstruction of Achilles Tendon,4072039,Repair of tendo achilles
+SR00973,"Reconstruction of Conjunctival Sac, Partial",4192551,Reconstruction of conjunctival cul-de-sac
+SR00974,"Reconstruction of Conjunctival Sac, Total",4192551,Reconstruction of conjunctival cul-de-sac
+SR00975,RECONSTRUCTION OF CRUCIATE LIG,2005886,Other repair of the cruciate ligaments
+SR00976,"Reconstruction of Cruciate Ligament, Ant",4186462,Plastic repair with augmentation
+SR00977,"Reconstruction of Cruciate Ligament, Pos",4346964,PCL - Reconstruction of posterior cruciate ligament
+SR00978,Reconstruction of Eye Ball for Insertion of Hydroxyapettite,4001552,Eye reconstruction
+SR00979,Reconstruction of Funnel Chest,4299797,PE - Correction of pectus excavatum
+SR00980,Reconstruction of Lacrimal Canaliculi,4296164,Repair of canaliculus of lacrimal system
+SR00981,RECONSTRUCTION OF MUSCLE,2006166,Reconstruction of muscle and tendon
+SR00982,RECONSTRUCTION OF ORBITAL FRAC,4049515,Repair of orbit proper
+SR00983,"Reconstruction of Orbital Fracture,Closed Reduction",4170614,Orbital # reduction
+SR00984,Reconstruction of Tendon & Ligament,4072048,Reconstruction of tendon sheath
+SR00984,Reconstruction of Tendon & Ligament,4343908,Ligament reconstruction
+SR00985,RECONSTRUCTION OF TENDON AND L,4072048,Reconstruction of tendon sheath
+SR00985,RECONSTRUCTION OF TENDON AND L,4343908,Ligament reconstruction
+SR00986,RECONSTRUCTION OF TENDON LIGAM,4072048,Reconstruction of tendon sheath
+SR00986,RECONSTRUCTION OF TENDON LIGAM,4343908,Ligament reconstruction
+SR00987,"Recur. Inguinal Herniorrhaphy,기타,고위결찰",4195307,Inguinal hernioplasty
+SR00988,"Recur. Inguinal Herniorrhaphy,기타,후벽보강,고위결찰",4000158,Herniorrhaphy for recurrent inguinal hernia
+SR00989,REDICAL HYDROCELECTOMY,4171196,Hydrocelectomy
+SR00990,REDICAL MASTOIDECTOMY,2000949,Radical mastoidectomy
+SR00991,Reduction Luxated teeth(1치당),4046267,Reduction procedure
+SR00992,Reduction Mammplasty SS(300),2102738,Reduction mammaplasty
+SR00993,REDUCTION OF DISLOCATION,4049125,Reduction of dislocation
+SR00994,Reduction of Zygomatic Bone(open) L (100),4075435,Reduction of fracture of zygomatic bone
+SR00995,Reduction of Zygomatic Bone(open) S (70),4075435,Reduction of fracture of zygomatic bone
+SR00996,Reduction Rhinoplasty SM(200),4066082,Reduction rhinoplasty
+SR00997,Reduction Rhinoplasty SS(150),4066082,Reduction rhinoplasty
+SR00998,Release of cerclage of cervix,4123182,Removal of cerclage material from cervix
+SR00999,Release of S.C c FTSG(25미만),4119985,Removal of suture from skin
+SR00999,Release of S.C c FTSG(25미만),4324976,Full-thickness skin graft
+SR01000,Release of S.C c FTSG(25이상),4324976,Full-thickness skin graft
+SR01001,"Release of S.C c Skin Graft(Face,Joint,25미만）",4324976,Full-thickness skin graft
+SR01002,Release of S.C c STSG(100-400미만),4291637,SSG - Split skin graft
+SR01003,Release of S.C c STSG(25미만),4119985,Removal of suture from skin
+SR01003,Release of S.C c STSG(25미만),4291637,SSG - Split skin graft
+SR01004,Release of S.C c STSG(25이상-100미만),4291637,SSG - Split skin graft
+SR01005,Release of S.C. with Skin Graft,4324976,Full-thickness skin graft
+SR01006,Release of Scar Contracture,4103283,Relaxation of scar contracture of skin
+SR01007,Remaval of Larynx Cyst,40489954,Excision of cyst of larynx
+SR01008,REMOVAL (MEIBOMIAN INFARCTION),4100493,Excision of meibomian gland
+SR01009,REMOVAL DENTAL CALCULUS(HEAVY),4071011,Scaling of tooth
+SR01010,"REMOVAL DENTAL CALCULUS,SIMPLE",4071011,Scaling of tooth
+SR01011,REMOVAL FOREIGN BODY IN MUSCLE,4194199,FB - Removal of foreign body from muscle
+SR01012,Removal of Blood Clot of Bladder,4189250,Endoscopic removal of blood clot from bladder
+SR01013,"Removal of Brain Tumor, Medium",4234486,Craniectomy and excision of infratentorial brain tumor
+SR01014,Removal of Bronchial Foreign Body(Flexible bronchoscopic),4032408,Removal of foreign body
+SR01015,Removal of Cholesteatoma,4069889,Excision of cholesteatoma
+SR01016,Removal of Conjunctival Foreign  Body,4122296,Conjunctival foreign body removal by incision
+SR01017,Removal of Corneal Foreign Body,4067028,Removal of foreign body from cornea
+SR01018,Removal of Corneal Stitches Under Microscopy,4065834,Removal of corneal suture
+SR01019,Removal of Dermoid Cyst,4228472,Excision of hyperplastic oral soft tissue
+SR01020,Removal of distraction device L(50),4134423,Removal of device
+SR01021,Removal of distraction device M(30),4134423,Removal of device
+SR01022,Removal of distraction device S(15),4321684,Traction removal
+SR01023,Removal of Esophageal Foreign Body by Endoscopy,40485973,Oesophagogastroduodenoscopy and removal of foreign body from oesophagus
+SR01024,Removal of F.Body(others),4032408,Removal of foreign body
+SR01025,"Removal of Fixation Device, Clavicle,Carpal",4142634,Removal of internal fixation device from clavicle
+SR01025,"Removal of Fixation Device, Clavicle,Carpal",4200846,Removal of internal fixation device from carpals and metacarpals
+SR01026,"Removal of Fixation Device, Femur",4141907,Removal of internal fixation device of femur
+SR01027,"Removal of Fixation Device, Finger,Metacarpal",4200846,Removal of internal fixation device from carpals and metacarpals
+SR01027,"Removal of Fixation Device, Finger,Metacarpal",4331576,Removal of internal fixation device from phalanges of hand
+SR01028,"Removal of Fixation Device, Forearm",4218109,Removal of internal fixation device
+SR01029,"Removal of Fixation Device, Humerus",4078211,Removal of internal fixation device from humerus
+SR01030,"Removal of Fixation Device, Patella,Tarsal",4093280,Removal of internal fixation device from patella
+SR01030,"Removal of Fixation Device, Patella,Tarsal",4227441,Removal of internal fixation device from tarsals and metatarsals
+SR01031,"Removal of Fixation Device, Radius & Ulnar",4218109,Removal of internal fixation device
+SR01032,"Removal of Fixation Device, Tibia",4189009,Removal of internal fixation device of tibia
+SR01033,"Removal of Fixation Device, Tibia & Fibula",4189009,Removal of internal fixation device of tibia
+SR01033,"Removal of Fixation Device, Tibia & Fibula",4314005,Removal of internal fixation device of fibula
+SR01034,"Removal of Fixation Device, Toe,Metatarsal",4227441,Removal of internal fixation device from tarsals and metatarsals
+SR01034,"Removal of Fixation Device, Toe,Metatarsal",4302583,Removal of internal fixation device from phalanges of foot
+SR01035,"Removal of Fixation Device,대퇴부위,간단한 Pin 제거",4141907,Removal of internal fixation device of femur
+SR01036,"Removal of Fixation Device,대퇴부위이외,간단",4218109,Removal of internal fixation device
+SR01037,"Removal of Fixation Device,수족지",4218109,Removal of internal fixation device
+SR01038,Removal of Foreign Body in Muscle,4194199,FB - Removal of foreign body from muscle
+SR01039,Removal of Foreign Body(Others),2102892,Removal of foreign body in muscle or tendon sheath; simple
+SR01040,REMOVAL OF INTRACEREBRAL,4175191,Incision of brain
+SR01041,Removal of Intraocular Foreign Body with Magnet,2000508,Removal of intraocular foreign body from anterior segment of eye with use of magnet
+SR01042,REMOVAL OF LARYNGEAL POLYP,4242117,Excision of laryngeal polyp
+SR01043,"Removal of Laryngeal Tumor, Benign",4040924,Excision of benign neoplasm
+SR01043,"Removal of Laryngeal Tumor, Benign",4229284,Excision of lesion of larynx
+SR01044,"Removal of Laryngeal Tumor, Malignancy",4157779,Excision of malignant neoplasm
+SR01044,"Removal of Laryngeal Tumor, Malignancy",4229284,Excision of lesion of larynx
+SR01045,REMOVAL OF MALIGNANT TUMOR IN,4157779,Excision of malignant neoplasm
+SR01046,Removal of Neck Lymphatics,4302897,Radical lymph node dissection of neck region
+SR01047,"Removal of Oral Cavity Tumor, Benign",4228472,Excision of hyperplastic oral soft tissue
+SR01048,"Removal of Oral Cavity Tumor, Malignancy",4157779,Excision of malignant neoplasm
+SR01048,"Removal of Oral Cavity Tumor, Malignancy",4310389,Excision of lesion of mouth
+SR01049,"Removal of Orbital Tumor, Simple",2000785,Excision of lesion of orbit
+SR01049,"Removal of Orbital Tumor, Simple",4152745,Excision of neoplasm
+SR01050,REMOVAL OF PAROTID TUMOR BENIG,4040924,Excision of benign neoplasm
+SR01050,REMOVAL OF PAROTID TUMOR BENIG,4296079,Excision of lesion of parotid gland
+SR01051,Removal of Parotid Tumor(Benign),4237760,Operation on parotid gland
+SR01052,"Removal of Parotid Tumor, Benign",4237760,Operation on parotid gland
+SR01053,"Removal of Parotid Tumor, Malignancy",4157779,Excision of malignant neoplasm
+SR01053,"Removal of Parotid Tumor, Malignancy",4296079,Excision of lesion of parotid gland
+SR01054,Removal of Pectus Bar(or Metal strut),4030837,Removal of pectus bar
+SR01055,Removal of Penile Paraffinoma(소),4217604,Destruction of lesion of penis
+SR01056,Removal of Penile Paraffinoma(중),4217604,Destruction of lesion of penis
+SR01057,Removal of Perineal Condyloma,4125305,Excision of condylomata acuminatum
+SR01058,REMOVAL OF PHARYNGEAL FOREIGN,2108811,Removal of foreign body from pharynx
+SR01059,"Removal of Pharyngeal Tumor, Benign",4228472,Excision of hyperplastic oral soft tissue
+SR01060,Removal of Pin,4034373,Removal of external fixator pin
+SR01061,Removal of Plate or Screw,4112784,Removal of screws from bone
+SR01061,Removal of Plate or Screw,4116584,Removal of plate from bone
+SR01062,Removal of Scalp Abscess,4108316,Incision and drainage of abscess
+SR01063,"Removal of Scalp Tumor, Benign",4036110,Excision of benign lesion of scalp and neck
+SR01063,"Removal of Scalp Tumor, Benign",4040924,Excision of benign neoplasm
+SR01064,Removal of Shunt,2000144,Extracranial ventricular shunt
+SR01065,Removal of Silicon Oil,4333974,Removal of silicone oil from vitreous
+SR01066,"Removal of Skin Tomor, Benign, Superficial",4119988,FB - Removal of foreign body from skin
+SR01067,"Removal of Skin Tumor, Benign, Extended to Muscle Layer",4119988,FB - Removal of foreign body from skin
+SR01068,"Removal of Skin Tumor, Benign, Superfici",4119988,FB - Removal of foreign body from skin
+SR01069,"Removal of Skin Tumor,Benign,Superficial",4119988,FB - Removal of foreign body from skin
+SR01070,REMOVAL OF SMALL INTESTINAL TU,2008090,Removal of tube from small intestine
+SR01071,"Removal of Soft Tissue Benign tumor,Subcutaneous",4040924,Excision of benign neoplasm
+SR01071,"Removal of Soft Tissue Benign tumor,Subcutaneous",4167978,Excision of lesion of soft tissue
+SR01072,"Removal of Soft Tissue Tumor, Benign",4040924,Excision of benign neoplasm
+SR01072,"Removal of Soft Tissue Tumor, Benign",4167978,Excision of lesion of soft tissue
+SR01073,"Removal of Soft Tissue Tumor, Benign,근막하,근육내",4040924,Excision of benign neoplasm
+SR01073,"Removal of Soft Tissue Tumor, Benign,근막하,근육내",4167978,Excision of lesion of soft tissue
+SR01074,"Removal of Soft Tissue Tumor, Benign,Subcutaneous",4040924,Excision of benign neoplasm
+SR01074,"Removal of Soft Tissue Tumor, Benign,Subcutaneous",4167978,Excision of lesion of soft tissue
+SR01075,"Removal of Soft Tissue Tumor, Malignancy",4157779,Excision of malignant neoplasm
+SR01075,"Removal of Soft Tissue Tumor, Malignancy",4167978,Excision of lesion of soft tissue
+SR01076,REMOVAL OF SPLINT,4224170,Splint removal
+SR01077,Removal of Stone in Salivary Gland,4142625,Sialolithotomy
+SR01078,"Removal of Stone in Salivary Gland, Excision",2108761,"Sialolithotomy; parotid, extraoral or complicated intraoral"
+SR01079,"Removal of Stone in Salivary Gland, Simple",2108761,"Sialolithotomy; parotid, extraoral or complicated intraoral"
+SR01080,"Removal of Subdural Hematoma, Burrhole Drainage",4075431,Exploratory burrhole of cranium
+SR01081,Removal of Thyroglossal Duct Cyst,4287466,Excision of thyroglossal duct cyst
+SR01082,Removal of Tracheal Granulation,4336544,Trachea operation
+SR01083,REMOVAL OF TUMOR IN ORAL CAVIT,4152745,Excision of neoplasm
+SR01083,REMOVAL OF TUMOR IN ORAL CAVIT,4310389,Excision of lesion of mouth
+SR01084,Removal of Urethral Caruncle,4058653,Excision of urethral caruncle
+SR01085,Removal of Vacal Nodule or Polyp,4054047,Lobectomy
+SR01086,REMOVAL STONE SALIVARY GLAND S,2108761,"Sialolithotomy; parotid, extraoral or complicated intraoral"
+SR01087,REMOVAL URETHRAL CARUNCLE,4058653,Excision of urethral caruncle
+SR01088,REMOVAL(CONJUNCTVAL FOREIGN BD,4122296,Conjunctival foreign body removal by incision
+SR01089,REMOVAL(CORNEAL FOREIGN BODY),4067028,Removal of foreign body from cornea
+SR01090,"REMOVAL,SOFT TISSUE TUMOR(BEN)",4152745,Excision of neoplasm
+SR01090,"REMOVAL,SOFT TISSUE TUMOR(BEN)",4167978,Excision of lesion of soft tissue
+SR01091,removam of old root canal fill,4124051,Irrigation of root canal
+SR01092,RENAL TRANSPLANTATION,4322471,Transplant of kidney
+SR01093,Repair A-V F.renal transplantation,4141148,Repair of acquired arteriovenous fistula
+SR01094,Repair Diaphragmatic Hernia,4012461,Repair of diaphragmatic hernia
+SR01095,Repair of Arterio-Venous Fistula for HD,2002225,Repair of arteriovenous fistula
+SR01096,REPAIR OF ATRIAL SEPTAL DEFECT,4012932,Atrioseptoplasty
+SR01097,"Repair of A-V Shunt(aneurysm resection,ligation)",4296871,Repair of arteriovenous fistula
+SR01098,REPAIR OF BLADDER RUPTURE,4023287,Repair of rupture of bladder
+SR01099,Repair of Cruciate Ligament,4147773,Repair of knee cruciate ligaments
+SR01100,Repair of Eso. Atresia c Bronch-Esophageal Fistula,4016014,Repair of bronchoesophageal fistula
+SR01100,Repair of Eso. Atresia c Bronch-Esophageal Fistula,4058673,Repair oesophageal atresia
+SR01101,Repair of Meniscus(Medial or Lat.),4343904,Repair of meniscus
+SR01102,REPAIR OF MESENTERIC INJURY OT,4247278,Repair of mesentery
+SR01103,REPLACEMENT ARTHROPLAPSTY(HIP),2005891,Total hip replacement
+SR01104,"Resection of Aneurysm, Abdominal Aorta and lliac Artery",4236715,Repair of aneurysm of abdominal aorta
+SR01105,"Resection of Aneurysm, Others",4050565,Resection of conduit aneurysm
+SR01106,"Resection of ChestWall Tumor,Others(Benign)",4040924,Excision of benign neoplasm
+SR01106,"Resection of ChestWall Tumor,Others(Benign)",4073385,Excision of lesion of chest wall
+SR01107,"Resection of Colon, Hemicolectomy c LND",4314569,Excision of lesion of colon
+SR01108,"Resection of Colon, Hemicolectomy s LND",4314569,Excision of lesion of colon
+SR01109,"Resection of Colon, Total Colectomy c LND",4314569,Excision of lesion of colon
+SR01110,"Resection of Colon,Segmental c LND",4314569,Excision of lesion of colon
+SR01111,"Resection of Colon,Segmental,Without Lymphnode Dissection",4181781,Extended hemicolectomy
+SR01112,"Resection of Colon,Total Colectomy, Without LND",4096461,Total removal of colon
+SR01113,"Resection of Eso. Ca. c LND(흉,복부접근)",4152745,Excision of neoplasm
+SR01113,"Resection of Eso. Ca. c LND(흉,복부접근)",4238646,Excision of lymph node
+SR01113,"Resection of Eso. Ca. c LND(흉,복부접근)",4296537,Excision of oesophageal lesion
+SR01114,"Resection of External Genitalia Tumor, Benign",4040924,Excision of benign neoplasm
+SR01115,Resection of Lung Wedge(2개이상 쐐기),4337034,Wedge excision of lung
+SR01116,Resection of Lung Wedge(단일쐐기),4337034,Wedge excision of lung
+SR01117,"Resection of Lung, Bilobectomy",4067713,Bilobectomy of lung
+SR01118,"Resection of Lung, Bullae",4337610,Excision of bulla of lung
+SR01119,"Resection of Lung, Lobectomy",4054047,Lobectomy
+SR01120,"Resection of Lung, Segmental",2001335,Segmental resection of lung
+SR01121,RESECTION OF MEDIASTINAL TUMOR,2108498,Excision of mediastinal tumor
+SR01122,"Resection of Rectum,Anterior Resection s LND",4166855,Anterior resection of rectum
+SR01122,"Resection of Rectum,Anterior Resection s LND",4238646,Excision of lymph node
+SR01123,RESECTION OF SMALL INTESTINE,4030148,Small intestine excision
+SR01124,RESECTION OF THE SMALL INTESTI,4030148,Small intestine excision
+SR01125,Reservoir Insersion,2000097,Intracranial pressure monitoring
+SR01126,RETINAL DETACHEMENT SURGERY,4230961,Repair of retinal detachment
+SR01127,REVISION OF AMPUTATED STUMP,2006268,Revision of amputation stump
+SR01128,Revision of Amputation Stump L (50),2006268,Revision of amputation stump
+SR01129,Revision of Amputation Stump S (35),2006268,Revision of amputation stump
+SR01130,Revision of Ileostomy or Colostomy,4017451,Revision of ileostomy
+SR01130,Revision of Ileostomy or Colostomy,4187786,Revision of colostomy
+SR01131,Revision of Scar,4154598,Revision of scar
+SR01132,"Revision of Tracheostoma,simple",2106570,"Tracheostoma revision; simple, without flap rotation"
+SR01133,Rhinoplasty MM(200),4048622,Rhinoplasty
+SR01134,Rhinoplasty SM(150),4048622,Rhinoplasty
+SR01135,Rhinoplasty SS(100),4048622,Rhinoplasty
+SR01136,"Rigid Ureteroscopy, Diagnostic",4263100,Simple diagnostic ureteroscopy
+SR01137,root planing,4121940,Root planing of tooth
+SR01138,Rt.Cardiac Cath-기타(8세 이상),40756947,"Right heart catheterization including measurement(s) of oxygen saturation and cardiac output, when performed"
+SR01139,RUBBER DAM ISOLATION TECHNIQUE,4337520,Surgical procedure for isolation of tooth with rubber dam
+SR01140,S.R.S (Gamma knife surgery),4021989,Stereotactic radiosurgery
+SR01141,"S10-Mediastinotomy, by Thoracotomy",2001397,Incision of mediastinum
+SR01141,"S10-Mediastinotomy, by Thoracotomy",4073393,Opening of chest
+SR01142,"S10-Mediastinotomy, not Thoracotomy",2001397,Incision of mediastinum
+SR01143,S10-OPCAB (2개소이상),4305852,Off-pump coronary artery bypass
+SR01144,S10-Operation of Cardiac Complex Anomaly,2107269,"Repair of complex cardiac anomalies (eg, single ventricle) by modified Fontan procedure"
+SR01145,S10-Pericardiotomy,2001533,Pericardiotomy
+SR01146,S10-Pulmonary Artery Embolectomy,4296462,Removal of pulmonary embolus
+SR01147,S10-Repair of Atriar Septal Defect (ASD),4012932,Atrioseptoplasty
+SR01148,"S10-Repair of VSD (VSD,선천성)",4338731,Repair of ventricular septal defect
+SR01149,"S10-Replacement of Artificial Valve, Aortic Valve",4095407,AVR - Aortic valve replacement
+SR01150,"S10-Replacement of Artificial Valve, Mitral Valve",4203153,Replacement of mitral valve
+SR01151,"S10-Resection of Aneurysm, Ascending Aorta",4110840,Excision of lesion of ascending aorta
+SR01152,"S10-Resection of Aneurysm, Descending  Aorta",4050565,Resection of conduit aneurysm
+SR01153,S10-Resection of Mediastinal Benign Tumor,2108498,Excision of mediastinal tumor
+SR01154,S10-Thymectomy,2000335,Thymectomy
+SR01155,S10-Total Correction of Tetralogy of Fallot(TOF),2001485,Total repair of tetralogy of Fallot
+SR01156,"S10-Valvuloplasty, Tricuspid Valve",4293619,Repair of tricuspid valve
+SR01157,"S10-Vascular Bypass Op.Aortico-Coronary Bypass,1개소",2001510,(Aorto)coronary bypass of one coronary artery
+SR01158,"S10-Vascular Bypass Op.Aortico-Coronary Bypass,2개소이상",2001511,(Aorto)coronary bypass of two coronary arteries
+SR01159,"S11-Re-replacement of Artificial Valve, Mitral",4203153,Replacement of mitral valve
+SR01160,S12-Conchotomy,4028525,Conchotomy
+SR01161,"S12-Turbinectomy, Inferior",4028525,Conchotomy
+SR01162,S13-Radical Operation of Frontal Sinus,4067356,Operation on frontal sinus
+SR01163,S14-Thyroplasty,4335751,Arytenoid adduction/rotation
+SR01164,"S14-Vocal Surgery, Complex",4247666,Operation on vocal cord
+SR01165,S15-Canal down Mastoidectomy,2000947,Mastoidectomy
+SR01166,S15-Canal up Mastoidectomy,2000947,Mastoidectomy
+SR01167,S15-Cochlear Implant,40662117,COCHLEAR IMPLANT
+SR01168,S15-ICWM & Ossiculoplasty,4174519,Mastoidectomy
+SR01168,S15-ICWM & Ossiculoplasty,4265725,Reconstruction of ossicular chain
+SR01169,S15-Meatoplasty and Canaloplasty,4067135,Meatoplasty of ear
+SR01169,S15-Meatoplasty and Canaloplasty,4111026,Auditory canaloplasty
+SR01170,S15-OCM & Ossiculoplasty,4174519,Mastoidectomy
+SR01170,S15-OCM & Ossiculoplasty,4265725,Reconstruction of ossicular chain
+SR01171,S15-Operation of Stapes,4166759,Stapes operation
+SR01172,S15-Ossicular Reconstruction,4265725,Reconstruction of ossicular chain
+SR01173,S15-Removal of External Ear Benign Tumor,4040924,Excision of benign neoplasm
+SR01173,S15-Removal of External Ear Benign Tumor,4315047,Excision of lesion of external ear
+SR01174,S15-Revision of Tympanoplasty,4066064,Revision of tympanoplasty
+SR01175,S15-Tympanoplasty,2000907,Other tympanoplasty
+SR01176,S15-Tympanoplasty c Canal up Mastoidectomy,4335617,Tympanomastoid re-aeration
+SR01177,S15-Tympanoplasty c OCM c Palva flap,4174519,Mastoidectomy
+SR01177,S15-Tympanoplasty c OCM c Palva flap,4254385,Flap graft
+SR01177,S15-Tympanoplasty c OCM c Palva flap,4302414,Repair of middle ear
+SR01178,"S16-Reconstruction of Orbital Bone Fracture,Blow-out골절",4061557,Reconstruction of orbital cavity
+SR01179,"S16-Reconstruction of Orbital Bone Fracture,Others",4170614,Orbital # reduction
+SR01180,"S16-Reconstruction of Orbital Fracture,Open,기타골절",4049515,Repair of orbit proper
+SR01181,"S16-Reconstruction of Orbital Fracture,Open,Blow-out골절",4061557,Reconstruction of orbital cavity
+SR01182,S17-Le Fort III,4075901,Le Fort III osteotomy
+SR01183,"S17-Lower Jaw Tumor, Benign,편측악골 1/3미만",4040924,Excision of benign neoplasm
+SR01183,"S17-Lower Jaw Tumor, Benign,편측악골 1/3미만",4189722,Excision of lesion of jaw bone
+SR01184,S17-Mandible Fracture(Open Reduction) A,4145887,Open reduction of mandibular fracture
+SR01185,S17-Mandible Fracture(Open Reduction) C,4145887,Open reduction of mandibular fracture
+SR01186,S17-O/R of Zygomatic Bone B,2004925,Open reduction of malar and zygomatic fracture
+SR01187,"S17-Open Multiple Reduction,Mandible",4145887,Open reduction of mandibular fracture
+SR01188,S17-Open Reduction of Zygomatic Bone (보험),2004925,Open reduction of malar and zygomatic fracture
+SR01189,S17-Red. of Zygomatic Bone(Gilles's Method),2004924,Closed reduction of malar and zygomatic fracture
+SR01190,"S17-Upper Jaw Tumor, Benign(3cm미만)",4040924,Excision of benign neoplasm
+SR01190,"S17-Upper Jaw Tumor, Benign(3cm미만)",4189722,Excision of lesion of jaw bone
+SR01191,S18-Alveoloplasty,2001148,Alveoloplasty
+SR01192,"S1-Amputation Of Limbs, A-K(thigh)",4195136,Amputation above-knee
+SR01193,"S1-Arthrodesis, Knee",4167075,Fusion of knee
+SR01194,"S1-Disarticulation of Limbs, Knee",2006244,Disarticulation of knee
+SR01195,"S1-Excision of Benign Bone Tumor(Pelvis,Femur,Tibia)",42872595,Curettage of neoplasm of bone
+SR01196,S1-Excision of Loose body (knee),40489402,Removal of loose body from knee joint
+SR01197,"S1-Operation for Osteomyelitis, Femur",4101040,Osteomyelitis drainage
+SR01198,"S1-Operation for Osteomyelitis, Tibia",4101040,Osteomyelitis drainage
+SR01199,"S1-Operation of Non-Union, Femur",4087552,Operative procedure on femur
+SR01200,S1-Osteotomy & Internal Fixation Femur,4157076,Reduction of fracture of femur with internal fixation
+SR01201,S1-Removal of Cement spacer & Revision TKR,2006316,Removal of (cement) spacer
+SR01201,S1-Removal of Cement spacer & Revision TKR,4138870,Total prosthetic replacement of knee joint using cement
+SR01202,"S1-Removal of Loose Body, by Arthroscopy",4116497,Arthroscopic removal of loose body from joint
+SR01203,"S1-Replacement of Hemiarthroplasty, Hip",2104835,"Hemiarthroplasty, hip, partial (eg, femoral stem prosthesis, bipolar arthroplasty)"
+SR01204,"S1-Replacement of Hemiarthroplasty, knee",4106397,Revision of knee replacement
+SR01205,"S1-Replacement of Total Arthroplasty, Knee",2005904,Total knee replacement
+SR01206,"S1-Replacement of Total Arthroplasty, Total Hip",2005891,Total hip replacement
+SR01207,S1-Shaving Cartilage (knee),4071675,Shaving of patella
+SR01208,"S2-Amputation of Limbs, B-K(lower leg)",2105446,"Amputation, leg, through tibia and fibula"
+SR01209,"S2-Amputation of Limbs, Foot",4219032,Amputation of lower limb
+SR01210,"S2-Amputation of Limbs, Forearm",2105446,"Amputation, leg, through tibia and fibula"
+SR01211,"S2-Amputation of Limbs, Hand",4271020,Amputation of upper limb
+SR01212,"S2-Amputation of Limbs, Upper Arm",2105446,"Amputation, leg, through tibia and fibula"
+SR01213,"S2-Amputation, Hand, Foot",4108565,Amputation of the foot
+SR01213,"S2-Amputation, Hand, Foot",4263590,Amputation of hand
+SR01214,"S2-Arthrodesis, Ankle",4270051,Arthrodesis of ankle
+SR01215,"S2-Arthrodesis, Wrist",4199586,Arthrodesis of wrist joint
+SR01216,"S2-Bone Revision, Lower Extremity",4044364,Procedure on bone of lower extremity
+SR01217,"S2-Excision of Benign Bone Tumor(Humerus,Forearm,Clavicle)",42872595,Curettage of neoplasm of bone
+SR01218,S2-Excision of Bony Spur,4034662,Excision of osteophyte
+SR01219,"S2-Micro Surgery(Hand Foot)  (손목, 발목)",4010247,Operative procedure on hand
+SR01219,"S2-Micro Surgery(Hand Foot)  (손목, 발목)",4267745,Operative procedure on foot or toes
+SR01220,"S2-Operation of Non-Union, Tibia",4044031,Procedure on tibia
+SR01221,S2-Osteotomy & Internal Fixation Tibia,4314994,Reduction of fracture of tibia with internal fixation
+SR01222,S2-Osteotomy & Internal Fixation Ulna,4314994,Reduction of fracture of tibia with internal fixation
+SR01223,"S2-Osteotomy, Lower Extremity",4305752,Osteotomy
+SR01224,"S2-Osteotomy, Upper Extremity",4199959,Osteotomy of bone of upper extremity
+SR01225,"S3-Amputation Finger, Toe",4159766,Amputation of toe
+SR01226,"S3-Amputation of Limbs, Finger",4297321,"Amputation of finger, except thumb"
+SR01227,"S3-Amputation of Limbs, Toe",4219032,Amputation of lower limb
+SR01228,"S3-Arthrodesis, Finger",4114318,Arthrodesis of finger
+SR01229,"S3-Arthrodesis, Toe",40487076,Arthrodesis of toe
+SR01230,"S3-Bone Revision, Finger",2104554,"Correction claw finger, other methods"
+SR01231,"S3-Curettage of Benign Bone Tumor, Other",42872595,Curettage of neoplasm of bone
+SR01232,S3-Excision of Benign Bone Tumor(Others),4003708,Removal of benign tumor from bone
+SR01233,S3-Excision of Bone Tumor(Benign),4003708,Removal of benign tumor from bone
+SR01234,S3-Micro Surgery (수지재접합수술 자-58-1) 1지,4118094,Reattachment of finger
+SR01235,"S3-Operation for Osteomyelitis, Other",4101040,Osteomyelitis drainage
+SR01236,"S3-Operation for Polydactyly, 건 및 골 성형포함",4267421,Removal of supernumerary digit
+SR01237,"S3-Osteotomy & Internal Fixation Foot,Toe",42872810,Osteotomy and internal fixation
+SR01238,"S3-Osteotomy, Toe",4305752,Osteotomy
+SR01239,"S3-Polydactyly Construction(Tendon,Bone)",4267421,Removal of supernumerary digit
+SR01240,S4-Autobone Graft,4020472,Autogenous bone graft
+SR01241,S4-Bone Graft,4214028,Bone graft
+SR01242,"S5-Mechanical Correction,Deformity of Extremity",4034374,Correction of congenital deformity
+SR01243,"S5-Transplantation of Muscle and Tendon, Tendon Graft",2006163,Rotator cuff repair
+SR01244,"S5-Transplantation of Muscle and Tendon, Tendon Transfer",2006163,Rotator cuff repair
+SR01245,"S6-Anterior Fusion, Cervical,Other",4242873,Cervical spinal fusion by anterior technique
+SR01246,"S6-Anterior Lumbar Spine Fusion, with Instrument",40490415,Fusion of joint of lumbar spine by anterior approach
+SR01246,"S6-Anterior Lumbar Spine Fusion, with Instrument",4150854,Spinal instrumentation
+SR01247,"S6-Anterior Spinal Fusion, Cervical, Plate",2005863,"Refusion of other cervical spine, anterior technique"
+SR01247,"S6-Anterior Spinal Fusion, Cervical, Plate",4242873,Cervical spinal fusion by anterior technique
+SR01248,"S6-Anterior Spinal Fusion, Cervical, Wiring",2005863,"Refusion of other cervical spine, anterior technique"
+SR01248,"S6-Anterior Spinal Fusion, Cervical, Wiring",4242873,Cervical spinal fusion by anterior technique
+SR01249,"S6-Anterior Spinal Fusion, Lumbar",40490415,Fusion of joint of lumbar spine by anterior approach
+SR01250,"S6-Anterior Spine Fusion, Cervical Spine,Other",4242873,Cervical spinal fusion by anterior technique
+SR01251,"S6-Anterior Spine Fusion, Lumbar Spine",4177164,Lumbar spinal fusion
+SR01252,"S6-Corpectomy with AIF, Cervical",4034798,Excision of vertebral body
+SR01252,"S6-Corpectomy with AIF, Cervical",4242873,Cervical spinal fusion by anterior technique
+SR01253,"S6-Curettage of Vertebral Body,Cervical",4286052,Curettage
+SR01254,"S6-Curettage of vertebral Body,Lumbar",4216057,Curettage of bone
+SR01255,S6-Decompressive Laminectomy,4124750,Total laminectomy
+SR01255,S6-Decompressive Laminectomy,4179533,Decompression laminectomy of lumbar spine
+SR01256,"S6-Discectomy, Cervical",40480417,Primary laminoplasty of cervical spine
+SR01257,"S6-Discectomy, Lumbar",2110642,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or diskectomy, (eg, spinal stenosis), more than 2 vertebral segments; lumbar"
+SR01257,"S6-Discectomy, Lumbar",4124750,Total laminectomy
+SR01258,"S6-Open Reduction of Fracture, Spine and Pelvis",43531114,Open reduction of fracture of iliac spine of pelvis with internal fixation
+SR01259,S6-Open Reduction of Fractured and Dislocation,4193630,Reduction of fracture and dislocation
+SR01260,"S6-Operation of Herniated Disc, Lumbar Spine",2110642,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or diskectomy, (eg, spinal stenosis), more than 2 vertebral segments; lumbar"
+SR01260,"S6-Operation of Herniated Disc, Lumbar Spine",4124750,Total laminectomy
+SR01261,S6-Operation of Lumbar Dural Ectasia(3구간미만),4140268,Operation on lumbar spine
+SR01262,"S6-Operation of Spinal Stenosis, Lumbar",4306206,Laminectomy
+SR01263,"S6-PHL, with Discectomy, Lumbar",2110642,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or diskectomy, (eg, spinal stenosis), more than 2 vertebral segments; lumbar"
+SR01263,"S6-PHL, with Discectomy, Lumbar",4124750,Total laminectomy
+SR01264,"S6-PLIF, Lumbar",4145292,Lumbar and lumbosacral fusion by posterior technique
+SR01265,"S6-Posterior Fusion, Haid Plate,Other",2005864,"Refusion of other cervical spine, posterior"
+SR01265,"S6-Posterior Fusion, Haid Plate,Other",40492498,Fusion of thoracolumbar region of spine by posterior approach
+SR01265,"S6-Posterior Fusion, Haid Plate,Other",4235729,Cervical spinal fusion by posterior technique
+SR01266,"S6-Posterior Lumbar Spine Fusion, with Instrument",4145292,Lumbar and lumbosacral fusion by posterior technique
+SR01267,"S6-Posterior Spinal Fusion, Lumbar, with Instrument",4145292,Lumbar and lumbosacral fusion by posterior technique
+SR01268,"S6-Posterior Spinal Fusion, Thoracic",40492498,Fusion of thoracolumbar region of spine by posterior approach
+SR01269,"S6-Posterior Spine Fusion, Cervical Spine,Other",2005813,"Other cervical fusion, posterior technique"
+SR01270,"S6-Posterior Spine Fusion, Lumbar Spine",4145292,Lumbar and lumbosacral fusion by posterior technique
+SR01271,"S6-Posterior Spine Fusion, Thoracic Spine",40492498,Fusion of thoracolumbar region of spine by posterior approach
+SR01272,"S6-Posterior Thoracic Spine Fusion,with instrument",40492498,Fusion of thoracolumbar region of spine by posterior approach
+SR01273,"S6-Posterolateral Fusion, Lumbar Spine",4145292,Lumbar and lumbosacral fusion by posterior technique
+SR01274,"S6-Removal of Extradural Tumor(Hematoma),Cervical(척추경및척추체 미포함)",4333694,Removal of spinal extradural tumour
+SR01275,"S6-Removal of Extradural Tumor(Hematoma),Lumbar(척추경및척추체 미포함)",4333694,Removal of spinal extradural tumour
+SR01276,"S6-Removal of Extradural Tumor(Hematoma),Thoracic(척추경및척추체 미포함)",4333694,Removal of spinal extradural tumour
+SR01277,S6-Removal of Extramedullary Tumor(척추경및척추체 미포함),4332313,Removal of spinal intradural extramedullary tumor
+SR01278,"S6-Removal of Fixation Device, Spine",4210325,Removal of posterior nonsegmental instrumentation of spine
+SR01279,"S6-Removal of Intradural Tumor,Cervical spine",4332313,Removal of spinal intradural extramedullary tumor
+SR01280,"S6-Removal of Intradural Tumor,Lumbar spine",4332313,Removal of spinal intradural extramedullary tumor
+SR01281,"S6-Removal of Intradural Tumor,Thoracic spine",4332313,Removal of spinal intradural extramedullary tumor
+SR01282,"S6-Removal of Spinal Abscess, Lumbar(척추경및척추체 미포함)",4333812,Aspiration of spinal abscess
+SR01283,"S6-Segmental AIF, Cervical,Other",4242873,Cervical spinal fusion by anterior technique
+SR01284,"S6-Subtotal Laminectomy with Discectomy, Lumbar",40488920,Laminectomy and discectomy
+SR01285,"S6-Total Laminectomy with Discectomy, Lumbar",40488920,Laminectomy and discectomy
+SR01286,"S6-Total Laminectomy, Cervical",40480417,Primary laminoplasty of cervical spine
+SR01287,"S6-Total Laminectomy, Lumbar",4179533,Decompression laminectomy of lumbar spine
+SR01288,"S7-Craniectomy,Excision of Cranial Lesion or Benign Tumor",2110442,Craniectomy; with excision of tumor or other bone lesion of skull
+SR01289,"S7-Cranioplasty, Cranioplastic Kit",2000130,Cranioplasty
+SR01290,"S7-Cranioplasty, Split Cranioplasty",2000130,Cranioplasty
+SR01291,"S7-Cranioplasty, with Dura Repair",4138816,Cranioplasty
+SR01291,"S7-Cranioplasty, with Dura Repair",4279633,Cerebral duraplasty
+SR01292,"S7-Cranioplasty,Complex with Autologous Bone gragt",4072529,Cranioplasty using bone graft
+SR01293,S7-Decompressive Craniotomy,2110483,Craniectomy or craniotomy; with excision of foreign body from brain
+SR01294,S7-Exploratory Craniotomy,4075430,Exploratory craniotomy
+SR01295,S7-Operation of F.C.C.D-Simple,2110569,"Elevation of depressed skull fracture; compound or comminuted, extradural"
+SR01296,S7-Removal of Skull Bone Tumor,2110479,"Excision, intra and extracranial, benign tumor of cranial bone (eg, fibrous dysplasia); without optic nerve decompression"
+SR01297,S7-T.S.A,4343132,TSA - Testicular sperm aspiration
+SR01298,S8-Cerebral Lobotomy,4165623,Lobotomy of brain
+SR01299,"S8-Cranioplasty, Rib",2000130,Cranioplasty
+SR01300,S8-EIAB(External Internal Arterial Bypass),4196038,Creation of external-internal carotid bypass
+SR01301,"S8-Operation of Aneurysm, Neck Clipping(Simple)",2002223,Clipping of aneurysm
+SR01302,"S8-Operation of Aneurysm,neck clipping(Complex)",2002223,Clipping of aneurysm
+SR01303,"S8-Removal of AVM,Intracranial(Simple)",4045953,Excision of intracranial venous malformation
+SR01304,S8-Removal of Brain Abscess,4139410,Aspiration of brain abscess
+SR01305,"S8-Removal of Brain Tumor,Supratentorial(Complex)",4046930,Destruction of brain tumour
+SR01306,"S8-Removal of Brain Tumor,Supratentorial(Simple)",4234486,Craniectomy and excision of infratentorial brain tumor
+SR01307,"S8-Removal of Epidural Hematoma, Acute",4042179,Evacuation of hematoma
+SR01308,S8-Removal of Intracerebral Hematoma,4019540,Evacuation of intracerebral hematoma
+SR01309,"S8-Removal of Subdural Hematoma, Craniotomy",4101626,Craniotomy
+SR01309,"S8-Removal of Subdural Hematoma, Craniotomy",4242877,Evacuation of subdural hematoma
+SR01310,S8-Temporal Lobectomy,40493259,Temporal lobectomy
+SR01311,S9-N.V.D for Facial Nerve,4142091,Decompression of facial nerve (VII)
+SR01312,"S9-Removal of Brain Tumor,Infratentorial(Simple)",4234486,Craniectomy and excision of infratentorial brain tumor
+SR01313,S9-Skull Base Surgery(Ant.Cranial Fossa),2110485,"Transoral approach to skull base, brain stem or upper spinal cord for biopsy, decompression or excision of lesion"
+SR01314,S9-Skull Base Surgery(Middle Cranial Fossa),4072164,Excision of base of skull in middle cranial fossa
+SR01315,Salpingectomy (Unilateral),4336229,Unilateral salpingectomy
+SR01316,S-B TUBE INSERTION,4125150,Balloon tamponade of oesophagus using Sengstaken-Blakemore tube
+SR01317,scaling,4071011,Scaling of tooth
+SR01318,Scar Revision Cosmetic case LL (300),4154598,Revision of scar
+SR01318,Scar Revision Cosmetic case LL (300),4207050,Cosmetic surgery
+SR01319,Scar Revision Cosmetic case MM (100),4154598,Revision of scar
+SR01319,Scar Revision Cosmetic case MM (100),4207050,Cosmetic surgery
+SR01320,Scar Revision Cosmetic case SM (50),4154598,Revision of scar
+SR01320,Scar Revision Cosmetic case SM (50),4207050,Cosmetic surgery
+SR01321,Scar Revision Cosmetic case SS (30),4154598,Revision of scar
+SR01321,Scar Revision Cosmetic case SS (30),4207050,Cosmetic surgery
+SR01322,Schirodker's Operation,4127241,Shirodkar cervical cerclage
+SR01323,SCLERAL SUTURE,4327660,Suture of laceration of sclera
+SR01324,Sclerotherpy(1차),4213465,Injection of sclerosing agent in vein
+SR01325,Scrotal Exploration,2110005,Scrotal exploration
+SR01326,Secondary Suture of Abdominal Wall,2003489,Laparotomy
+SR01327,Secondary Suture of OP. Wound,4118879,Resuture wound
+SR01328,Secondary Suture of Operation Wound,4118879,Resuture wound
+SR01329,"Segmental Resection of Bile Duct,Malignacy",4069231,Excision of lesion of bile ducts
+SR01329,"Segmental Resection of Bile Duct,Malignacy",4157779,Excision of malignant neoplasm
+SR01330,Septoplasty,4030087,Nasal septoplasty
+SR01331,"Sesarean section Delivery,First Fetus,Initial mult",4015701,CS - Caesarean section
+SR01332,"Sesarean section Delivery,First Fetus,Initial,prim",2004789,Cesarean section of other specified type
+SR01333,"Sesarean section Delivery,Multiple preg.Initial Pr",4015701,CS - Caesarean section
+SR01334,Shunt Externalization,4050409,Creation of external arteriovenous shunt
+SR01335,Shunt Internalization,2000144,Extracranial ventricular shunt
+SR01336,"Shunt Revision,Subdural/Subarachnoid-Other",4045449,Revision of shunt in intracranial subdural space
+SR01336,"Shunt Revision,Subdural/Subarachnoid-Other",4332715,Revision of spinal subarachnoid shunt
+SR01337,"Shunt Revision,Ventriculo-Other",4188466,Ventriculoperitoneal shunt
+SR01338,Simple Dressing,4080499,Dressing of wound
+SR01339,SIMPLE MASTOIDECTOMY,2000948,Simple mastoidectomy
+SR01340,SIMPLE TREATMENT,4172515,Procedure - therapeutic
+SR01341,Sinus Elevation / Complex,4304182,Elevation
+SR01342,Sinus Elevation / Simple,4189601,Nasal sinus procedure
+SR01342,Sinus Elevation / Simple,4304182,Elevation
+SR01343,SIPLE CLOSURE OF PERFORATED ST,4123756,Closure of perforated stomach
+SR01344,SKIN ELECTRIC CAUTERIZATION,4178917,Cauterisation of skin
+SR01345,Skin Graft / Complex,4118634,Skin graft operation
+SR01346,Skin Graft / Simple,4118634,Skin graft operation
+SR01347,Skin Graft 100cm2이상 400cm2미만(보험),4324976,Full-thickness skin graft
+SR01348,Skin Graft 25cm2 - 100cm2 (보험),4324976,Full-thickness skin graft
+SR01349,Skin Graft 25cm2미만 (보험),4324976,Full-thickness skin graft
+SR01350,Skin Graft L (100cm2 이상) (70),4118634,Skin graft operation
+SR01351,Skin Graft L (25-100cm2) (50),4118634,Skin graft operation
+SR01352,Skin Graft L (25cm2 미만) (20),4118634,Skin graft operation
+SR01353,Skin Graft S (100cm2 이상) (50),4118634,Skin graft operation
+SR01354,Skin Graft S (25-100cm2) (30),4118634,Skin graft operation
+SR01355,Skin Graft S (25cm2 미만) (15),4118634,Skin graft operation
+SR01356,SKIN GRAFT(BIOLOGIC DRESSING),4118634,Skin graft operation
+SR01357,"SKIN GRAFT(EXTREMITIES,25cm미만)",4261828,Skin graft to extremity
+SR01358,"SKIN GRAFT(FACE,JOINT SCAR)",4118634,Skin graft operation
+SR01359,SKIN GRAFT(FULL THICKNESS),4324976,Full-thickness skin graft
+SR01360,"Soft Tissue Revision, Finger",4043161,Procedure on soft tissue
+SR01361,"Soft Tissue Revision, Lower Extremity",4159949,Surgical procedure on soft tissue
+SR01362,"Soft Tissue Revision, Toe",4079405,Soft tissue operations on joint of toe
+SR01363,"Soft Tissue Revision, Upper Extremity",4043025,Procedure on upper extremity
+SR01364,"Spinal Cord Stimulation,Implant",4139773,Implantation of neurostimulator in spine
+SR01365,"Spinal Cord Stimulation,Trial",4336307,Spinal cord stimulation
+SR01366,Spinal nerve root B. with Fluoroscopic guide,4329656,Local anaesthetic block of spinal nerve root using fluoroscopic guidance
+SR01367,SPLENECTOMY,4125482,Splenectomy
+SR01368,"Splenectomy,Total",4018300,Total splenectomy
+SR01369,S-Repair of Bankart lesion,2006163,Rotator cuff repair
+SR01370,S-Repair of Rotator Cuff(2.5cm미만의 1개),2006163,Rotator cuff repair
+SR01371,"SSRO,C",4075570,Sagittal split mandibular osteotomy
+SR01372,"SSRO,M",4075570,Sagittal split mandibular osteotomy
+SR01373,Stereotactic Aspiration of Hematoma,4019540,Evacuation of intracerebral hematoma
+SR01373,Stereotactic Aspiration of Hematoma,4062876,Stereotactic biopsy of brain
+SR01374,Stereotactic Biopsy,4062876,Stereotactic biopsy of brain
+SR01375,"Stitch out ,중",4147691,Removal of suture
+SR01376,"STRABISMUS(COMPLEX,MULTIPLE)",4214521,Squint correction operation
+SR01377,"STRABISMUS(COMPLEX,SINGLE)",4214521,Squint correction operation
+SR01378,"STRABISMUS(SIMPLE,MULTIPLE)",4214521,Squint correction operation
+SR01379,"STRABISMUS(SINGLE,SIMPLE)",4214521,Squint correction operation
+SR01380,Subclavian Catheter Insertion,4234955,Catheterisation of subclavian vein
+SR01381,Subconjunctival Injection,2111146,Subconjunctival injection
+SR01382,SUBCUTANEOUS TENOTOMY,4041632,Subcutaneous tenotomy
+SR01383,"Subduroperitoneal Shunt, Single",4090310,Subdural-peritoneal shunt operation
+SR01384,SUBMUCOSAL INFERIOR TURBINECTO,2001047,Other turbinectomy
+SR01385,"Submucosal Resection, 연골에 달하는것",4067374,Nasal septectomy
+SR01386,Subtotal Gastrectomy c Distal,4310408,Distal subtotal gastrectomy
+SR01387,Subtotal Gastrectomy c Distal(Laparoscopic),4196148,Laparoscopic subtotal hysterectomy
+SR01388,"Subtotal Gastrectomy c LND,유문부보존(근위부절제포함)",4174035,Subtotal gastrectomy
+SR01389,"Subtotal Gastrectomy c LND,유문부보존(Laparoscopic)",40492339,Laparoscopic D1 lymph node dissection
+SR01389,"Subtotal Gastrectomy c LND,유문부보존(Laparoscopic)",4070869,Maki's pylorus-preserving gastrectomy
+SR01390,"Subtotal Gastrectomy c LND,Distal",4174035,Subtotal gastrectomy
+SR01391,"Subtotal Gastrectomy c LND,Distal(Laparoscopic)",40492339,Laparoscopic D1 lymph node dissection
+SR01391,"Subtotal Gastrectomy c LND,Distal(Laparoscopic)",4174035,Subtotal gastrectomy
+SR01392,SUBTOTAL GASTRECTOMY INCLUDING,4174035,Subtotal gastrectomy
+SR01393,SUBTOTAL GASTRECTOMY OTHERS,4174035,Subtotal gastrectomy
+SR01394,Subtotal Gastrectomy-Distal(림프절청소포함),4238646,Excision of lymph node
+SR01394,Subtotal Gastrectomy-Distal(림프절청소포함),4310408,Distal subtotal gastrectomy
+SR01395,Sucbclavian v.cath for HD,2002176,Venous catheterization for renal dialysis
+SR01396,Suction and Curettage (S & C),4106559,Dilatation and evacuation termination of pregnancy
+SR01397,Surgery for Entropion,4293475,Entropion correction
+SR01398,Surgery for Peripheral Nerve,4040709,Procedure on peripheral nerve
+SR01399,Surgical removal condyloma,4125305,Excision of condylomata acuminatum
+SR01400,SURGICAL REMOVAL OF TOOTH,2001119,Surgical removal of tooth
+SR01401,Surgical Wound Dressing L,4080499,Dressing of wound
+SR01402,Surgical Wound Dressing M,4080499,Dressing of wound
+SR01403,Surgical Wound Dressing S,4080499,Dressing of wound
+SR01404,Suture of Conjunctiva,4219893,Suture of conjunctiva
+SR01405,SUTURE OF INTRA ORAL WOUND,4231454,Suture mouth
+SR01406,"Suture of Lacerated Eyelid,simple",4097674,Repair of eyelid laceration
+SR01407,Suture of Sclera,4068554,Suture of sclera
+SR01408,Suture of Stomach and Duodeum Perforation,4123268,Closure of perforated duodenum
+SR01408,Suture of Stomach and Duodeum Perforation,4123756,Closure of perforated stomach
+SR01409,Suture of The Wound  2.5cm 미만,4125906,Suture open wound
+SR01410,Suture of The Wound  2.5cm~5.0cm 미만,4125906,Suture open wound
+SR01411,Suture of The Wound  5cm 이상,4125906,Suture open wound
+SR01412,Suture of Wound,4125906,Suture open wound
+SR01413,Suture Remove,4080499,Dressing of wound
+SR01414,"Suture, Transsection of Muscle, Tendon, Ligament",4195276,Suture of ligament
+SR01414,"Suture, Transsection of Muscle, Tendon, Ligament",4283540,Tenorrhaphy
+SR01414,"Suture, Transsection of Muscle, Tendon, Ligament",4296614,Suture of muscle
+SR01415,"Sympathectomy, Thoracic, Uni.",2110857,"Sympathectomy, thoracolumbar"
+SR01416,"Sympathetic Ganglionectomy, Thoracic, with Fleuroscopy",2110857,"Sympathectomy, thoracolumbar"
+SR01417,Syndactyly(Hand.Foot),4078366,Repair of syndactyly
+SR01418,Synovectomy (ankle),4178270,Synovectomy of ankle
+SR01419,"T&A, 15세이하",4104016,Ts and As - Tonsillectomy and adenoidectomy
+SR01420,"TAH&without Lymphadenectomy,complex",2004463,Total abdominal hysterectomy
+SR01421,Tarsorrhaphy,2000381,Blepharorrhaphy
+SR01422,temporary splinting(4치이상),4071010,Immobilisation of teeth
+SR01423,"Tendon Repair, Finger, Toe",4346308,Repair of multiple tendons
+SR01424,TENOLYSIS,4196231,Freeing of tendon
+SR01425,"Tenolysis,간단",4196231,Freeing of tendon
+SR01426,"Tenolysis,복잡",4196231,Freeing of tendon
+SR01427,"Tenorraphy, Simple",4283540,Tenorrhaphy
+SR01428,Tenotomy,4302749,Tenotomy
+SR01429,"Testis or Epididymis Biopsy,Operative",2109970,"Biopsy of testis, incisional (separate procedure)"
+SR01430,Thoracic sympathetic ganglion B. with Fluoroscopic guide,4145563,Sympathetic ganglion block
+SR01430,Thoracic sympathetic ganglion B. with Fluoroscopic guide,4195288,Fluoroscopy
+SR01431,Thoracoscopy with Biopsy,4094651,Thoracoscopy and biopsy
+SR01432,"Thoracostomy, Closed",4217188,Closure of stoma of thorax
+SR01433,"Thoracostomy, Open",4073393,Opening of chest
+SR01434,"Thoracotomy, Exploratory",2001391,Exploratory thoracotomy
+SR01435,"Thrombectomy,Others Artery",4287324,Thrombectomy of artery
+SR01436,THYROIDECTOMY SUBTOTAL UNILATE,4149106,Subtotal thyroidectomy
+SR01437,"Thyroidectomy Subtotal,Unilateral",4149106,Subtotal thyroidectomy
+SR01438,THYROIDECTOMY TOTAL BILATERAL,4073199,Total thyroidectomy
+SR01439,THYROIDECTOMY TOTAL UNILATERAL,4073199,Total thyroidectomy
+SR01440,"Thyroidectomy Total,Bilateral",2110371,"Thyroidectomy, total or complete"
+SR01441,"Thyroidectomy Total,Unilateral",2110371,"Thyroidectomy, total or complete"
+SR01442,"Thyroidectomy, Subtotal + Total",4030107,Thyroidectomy
+SR01443,"Thyroidectomy,Subtotal,Bi.",4129352,Bilateral subtotal thyroidectomy
+SR01444,"Thyroidectomy,Subtotal,Uni.",4149106,Subtotal thyroidectomy
+SR01445,"Thyroidectomy,Subtotal+Total",4073199,Total thyroidectomy
+SR01446,"Thyroidectomy,Total,Bi.",2110371,"Thyroidectomy, total or complete"
+SR01447,"Thyroidectomy,Total,Bi. by Endoscopy",4030107,Thyroidectomy
+SR01448,"Thyroidectomy,Total,Uni.",2110371,"Thyroidectomy, total or complete"
+SR01449,"Thyroidectomy,Total,Uni. by Endoscopy",4073199,Total thyroidectomy
+SR01450,TMJ Arthrocentesis(Unilateral),40488485,Arthrocentesis of temporomandibular joint
+SR01451,Tonsillectomy,4070719,Tonsillectomy
+SR01452,TOPOGRAPHY,4099372,Corneal topography
+SR01453,Total Abdominal Hysterectomy,4021531,Total abdominal hysterectomy
+SR01454,TOTAL GASTRECTOMY,4131021,Total gastrectomy
+SR01455,TOTAL HISTRECTOMY,4023403,Total hysterectomy
+SR01456,TOTAL HYSTERECTOMY,4023403,Total hysterectomy
+SR01457,"Total Hysterectomy,단순",2110175,"Total abdominal hysterectomy (corpus and cervix), with or without removal of tube(s), with or without removal of ovary(s)"
+SR01458,Total Prostato-Seminal Vesiculectomy,4139758,Seminal vesiculectomy
+SR01459,"Total remove Revision of Total Arthroplasty, Knee",4090451,Revision of knee arthroplasty
+SR01460,"Total spinal block,기본 1시간기준",4333816,Spinal nerve root block
+SR01461,TOTAL VIRECTOPMY,4294683,Vitrectomy
+SR01462,TRABECULECTOMY,4159882,Filtering operation on eye
+SR01463,Trabeculotomy with Operation Micoroscopy,4036697,Microscopy
+SR01463,Trabeculotomy with Operation Micoroscopy,4220988,Trabeculotomy
+SR01464,TRACHELOTTHAPLY(MC DONALD),4309294,Suture of trachea
+SR01465,TRACHEOSTOMY,4143728,Percutaneous tracheostomy
+SR01465,Tracheostomy,4166281,Anterior tracheostomy
+SR01466,TRACTIO(EXTREMITY BONE),4290250,Skeletal traction
+SR01467,TRACTION,4280205,Traction
+SR01468,Transburr Hole of Skull,4075431,Exploratory burrhole of cranium
+SR01469,TRANSCUTANEOUS CARDIAC PACING,4049402,Transcutaneous pacing
+SR01470,TRANSFER SET EXCHANGE,3047009,Modes of transfer Set
+SR01471,"Transplantation of Muscle and Tendon, Carpal Tunnel Release",2000217,Release of carpal tunnel
+SR01471,"Transplantation of Muscle and Tendon, Carpal Tunnel Release",2006030,Transplantation of muscle and tendon of hand
+SR01472,Transurethral Bladder Neck Suspension,4124165,Transurethral bladder neck excision
+SR01473,"Transurethral Bladder Surgery, Stone or Foreign Body",4342000,Transurethral operation on bladder contents
+SR01474,"Transurethral Bladder Surgery, Tumor",4342000,Transurethral operation on bladder contents
+SR01475,TRANSURETHRAL BLADDER(TUMOR),4305077,Transurethral resection of bladder neoplasm
+SR01476,Transurethral Coagulation of bladder lesion,4296684,Transurethral destruction of lesion of bladder
+SR01477,Transurethral Ureteral Balloon Dilatation,4238999,Dilation of ureter
+SR01478,TREATMENT PERIODONTAL DISEASE,4125943,Periodontal operation
+SR01479,Trigger Finger,4346393,Release of trigger finger
+SR01480,TROCA CYSTOSTOMY,4221381,Cystostomy
+SR01481,TRUNCAL VAGOTOMY(WITH PYLOROPLASTY),4186613,V&P - Vagotomy and pyloroplasty
+SR01482,T-tube Insertion and Removal of Tracheal Grnulation,4337048,Insertion of tracheal T-tube
+SR01483,Tubaligation(wanted),4298948,Ligation of fallopian tube
+SR01484,Tube Insert Into Nasolacrimal Duct,4170890,Dilation of nasolacrimal duct with insertion of tube or stent
+SR01485,TUIP (Transurethral Incision of Prostate),4209601,Prostatotomy by transurethral approach
+SR01486,Tunnel or subcutaneous implant,4215793,Implantation procedure
+SR01487,Turbinate outfracture,4240016,Outfracture of nasal turbinate
+SR01488,TURP (Transurethral Resection of Prostat),2003964,Transurethral prostatectomy
+SR01489,TYMPANO PLASTY,4302414,Repair of middle ear
+SR01490,Umbilical Catheterization,2002173,Umbilical vein catheterization
+SR01491,Under suspension laryngoscopy,4335480,Oral laryngoscopy
+SR01492,URETERAL BALLON DILATATION,4073135,Dilatation of urethral meatus
+SR01493,URETERAL DILATION,2003744,Dilation of ureteral meatus
+SR01494,Ureteral stent indwelling(cystoscopic),4113464,Cystoscopic ureteric stent procedure
+SR01495,"Ureteral Stent Indwelling,요관경하",4343010,Ureteroscopic insertion of ureteric stent
+SR01496,"Ureteral Stent, 방광경하 삽입",4343010,Ureteroscopic insertion of ureteric stent
+SR01497,"Ureteral Stent, 방광경하 제거",4021434,Cystoscopic removal of ureteric stent
+SR01498,"Ureterocystostomy, Unilateral",4023268,Ureterocystostomy
+SR01499,"Ureterolithotomy, Upper Ureter",2109641,Ureterolithotomy; upper one-third of ureter
+SR01500,"Ureteroscopic stone removal, Lower ureter",4143508,Ureteroscopic removal of ureteric calculus
+SR01501,"Ureteroscopic stone removal, Middle ureter",4143508,Ureteroscopic removal of ureteric calculus
+SR01502,"Ureteroscopic stone removal, Upper ureter",4221391,"Ureterolithotomy, upper one-third of ureter"
+SR01502,"Ureteroscopic stone removal, Upper ureter",4301429,Ureteroscopy
+SR01503,URETHROSCOPIC SURGERY,4343120,Urethroscopic operation
+SR01504,"Urinary Incontinence, Transvaginal appro.Others",4329270,Total removal of tension free vaginal tape
+SR01505,"Urinary Incontinence,Transvaginal appro.Others",4343103,Bladder neck operation for female stress incontinence
+SR01506,Uterine Polypectomy,4130184,Excision of endometrial polyp
+SR01507,Uvulopharyngopalatoplasty,4180122,Uvulopalatoplasty
+SR01507,Uvulopharyngopalatoplasty,4234902,Palatoplasty for cleft palate
+SR01508,Vaginal Hysterectomy,2110181,Vaginal hysterectomy
+SR01509,Vaginal Hysterectomy & Anterior and Posterior Colporrhapy,2110181,Vaginal hysterectomy
+SR01510,VAGOTOMY & PYLOROPLASTY,4186613,V&P - Vagotomy and pyloroplasty
+SR01511,Valvuloplasty(mitral v),4297236,Mitral valvuloplasty
+SR01512,"Varicoccele, Microvascular surgery",4073860,Operation on varicocele
+SR01513,VARICOCELECTOMY,4265676,Excision of varicocele
+SR01514,"Vascular Bypass Op. Other, Use of Artificial Vessel",4029076,Bypass graft with artificial transplant
+SR01515,"Vascular Bypass Op. Other, Use of Own Vessel",4045839,Creation of vascular bypass
+SR01516,VASCULAR BYPASS OPERATION,4045839,Creation of vascular bypass
+SR01517,Vasectomy,2004124,Vasectomy
+SR01518,"Vasovasostomy, Microscopic",4072179,Vasovasostomy
+SR01519,Vasovasotomy,4072179,Vasovasostomy
+SR01520,VENTILATION TUBE INSERTION,4168987,Myringotomy and insertion of long-term ventilation tube
+SR01521,"Ventilation Tube Insertion, Myringotomy",4168987,Myringotomy and insertion of long-term ventilation tube
+SR01522,Ventriculoatrial Shunt,4164437,Creation of ventriculo-atrial shunt
+SR01523,"Ventriculoperitoneal Shunt, Bilateral",4188466,Ventriculoperitoneal shunt
+SR01524,"Ventriculoperitoneal Shunt, Single",4188466,Ventriculoperitoneal shunt
+SR01525,VEP(Full Field),2007845,Visual evoked potential [VEP]
+SR01526,Vericose Vein Stripping,4146548,Varicose vein stripping
+SR01527,Vertebroplasty(1 level),4268439,Vertebroplasty
+SR01528,"Vessel Ligation, Others",4234382,Ligation of blood vessel
+SR01529,"Vessel Ligation, Simple",4302749,Tenotomy
+SR01530,Video Thoracoscopic Surgery A,40486150,Video assisted thoracoscopy
+SR01531,Visual Urethrotomy,4072073,Optical urethrotomy
+SR01532,"Vitrectomy, Partial",4294683,Vitrectomy
+SR01533,"Vitrectomy, Total",2111028,"Vitrectomy, mechanical, pars plana approach"
+SR01534,"Vocal Surgery, Laser Cordectomy",2001279,Vocal cordectomy
+SR01535,VSD REPAIR(CONGENITAL),4294387,Correction of ventricular septal defect
+SR01536,WEDGE RESECTION OF LUNG,4337034,Wedge excision of lung
+SR01537,WEDGE RESECTION OF OVARIES,2004226,Wedge resection of ovary
+SR01538,WERTHEIM OPERATION,4263094,Wertheim operation
+SR01539,WHIPPLE OPERATION,4020329,Pancreaticoduodenectomy
+SR01540,Whipple's Operation (Pancreato-Duodenect),4020329,Pancreaticoduodenectomy
+SR01541,WITH TRANSPLANTATION,4300185,Transplant procedure
+SR01542,Wound Irrigation,4080499,Dressing of wound
+SR01543,Z-Plasty,4072053,Local muscle rotation flap
+SR01543,Z-Plasty,4324976,Full-thickness skin graft

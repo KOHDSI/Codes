@@ -1,0 +1,2414 @@
+mapping_num,description,omop_concept_id,omop_concept_name
+DR00001,(국가지원)Tamiflu cap 75mg,1799141,Oseltamivir 75 MG Oral Capsule
+DR00002,(노란색)Cozaar Plus tab,40184187,Hydrochlorothiazide 12.5 MG / Losartan Potassium 50 MG Oral Tablet
+DR00003,(마) Jurnista IR tab 2mg,40173098,Hydromorphone Hydrochloride 2 MG Oral Tablet
+DR00004,(마) Jurnista SR tab 4mg,40173131,Hydromorphone Hydrochloride 4 MG Oral Tablet
+DR00005,(마)12ug/h Durogesic D-trans PA,19121195,Fentanyl 0.012 MG/HR 72 Hour Transdermal Patch
+DR00006,(마)40MG/Tab. Oxycontin CR Tab.,40232750,Oxycodone Hydrochloride 40 MG Extended Release Tablet
+DR00007,(마)황몰핀주사 30mg/2ml/AM,40169936,Morphine Sulfate 15 MG/ML Injectable Solution
+DR00008,(마)Alfentanil inj 2ml/AM(하나),19072389,Alfentanil 0.5 MG/ML Injectable Solution
+DR00009,(마)Morphine HCl 10mg/1ml/AM,40169902,Morphine Sulfate 10 MG/ML Injectable Solution
+DR00010,(마)Ocodone SR 10mg tab,40232704,Oxycodone Hydrochloride 10 MG Extended Release Tablet
+DR00011,(마)Oxycontin CR 10MG/Tab.,40232704,Oxycodone Hydrochloride 10 MG Extended Release Tablet
+DR00012,(마)Pethidine 50mg/1ml/AM,40165020,Meperidine Hydrochloride 50 MG/ML Injectable Solution
+DR00013,(마)Ultiva inj 1mg/VI,19016773,remifentanil 1 MG/ML Injectable Solution
+DR00014,(마약)IRcodon tab 5mg,40232756,Oxycodone Hydrochloride 5 MG Oral Tablet
+DR00015,(마취)Marcaine Heavy inj 20mg/4ml,40225967,Bupivacaine Hydrochloride 5 MG/ML Injectable Solution
+DR00016,(마취용)Zofran inj 8mg/4ml,19070869,Ondansetron 2 MG/ML Injectable Solution
+DR00017,(삼남)Loperamide cap 2mg,40184727,Loperamide Hydrochloride 2 MG Oral Capsule
+DR00018,(서방정)Diamicron MR tab 30mg,19101729,Gliclazide 30 MG Extended Release Tablet
+DR00019,(수)Perlinganit inj (50mg/50ml),1361860,Nitroglycerin 1 MG/ML Injectable Solution
+DR00020,(신일)Pyridoxine tab 50mg,1353578,Vitamin B6 50 MG Oral Tablet
+DR00021,(중외)Calcium chloride 3% 20ml/AM,19036781,Calcium Chloride
+DR00022,(하원)Ceftriaxone inj. 2g/vi,1777806,Ceftriaxone
+DR00023,(한림)Heparin inj 25000IU/5ml/VI,19077987,Heparin 5000 UNT/ML Injectable Solution
+DR00024,* Depas Tab. 0.5MG/Tab.(향),1548197,Estradiol 0.5 MG Oral Tablet
+DR00025,*10mg Penid Tab.(향),40236419,Methylphenidate Hydrochloride 10 MG Oral Tablet
+DR00026,*Ketamine inj 500mg/10ml(향),19057197,Ketamine 50 MG/ML Injectable Solution
+DR00027,*Midazolam inj 15mg/3ml(향),19078925,Midazolam 5 MG/ML Injectable Solution
+DR00028,*Sentil tab 5mg (향),19106229,clobazam 5 MG Oral Tablet
+DR00029,<40mg> Indenol tab,40163342,Propranolol Hydrochloride 40 MG Oral Tablet
+DR00030,0.3%NERISONA CREAM 10G/TB,19026097,Diflucortolone 0.003 MG/MG Topical Ointment
+DR00031,0.3%OFLXACIN 5ML,19079151,Ofloxacin 3 MG/ML Ophthalmic Solution
+DR00032,0.45% NS 1L/Bag,967905,Sodium Chloride 4.5 MG/ML Injectable Solution
+DR00033,0.45% NS 1L/Bot (약국용),967905,Sodium Chloride 4.5 MG/ML Injectable Solution
+DR00034,0.5% timoptic eyedrop(5ML/B),19079776,Timolol 5 MG/ML Ophthalmic Solution
+DR00035,0.9% NS 100ml/Bag,19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00036,0.9% NS 100ml/POT (약국용),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00037,0.9% NS 150ml/Bot,19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00038,0.9% NS 1L/Bag,19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00039,0.9% NS 20ml(50A/box),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00040,0.9% NS 250ml/Bag,19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00041,0.9% NS 3L/Bag,19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00042,0.9% NS 500ml/Bag,19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00043,0.9% NS 50ml/Bag,19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00044,1% Banan syr. 1ml,19074935,cefpodoxime 10 MG/ML Oral Suspension
+DR00045,1% CYCLOGYL EYE DROP 1BT,42800620,Cyclopentolate hydrochloride 10 MG/ML Ophthalmic Solution
+DR00046,1% lacticare HC lotion,19002274,Hydrocortisone 10 MG/ML Topical Lotion
+DR00047,1:2 SD 500ml/Bag,1560524,Glucose
+DR00047,1:2 SD 500ml/Bag,967823,Sodium Chloride
+DR00048,1:4 SD 1L/Bag,1560524,Glucose
+DR00048,1:4 SD 1L/Bag,967823,Sodium Chloride
+DR00049,1:4 SD 500ml/Bag,1560524,Glucose
+DR00049,1:4 SD 500ml/Bag,967823,Sodium Chloride
+DR00050,10% D/W 1000ML,1560553,Glucose 100 MG/ML Injectable Solution
+DR00051,10% D/W 1L/BOT,1560553,Glucose 100 MG/ML Injectable Solution
+DR00052,10% D/W 500ML,1560553,Glucose 100 MG/ML Injectable Solution
+DR00053,10% DW 1L/Bag,1560553,Glucose 100 MG/ML Injectable Solution
+DR00054,10% DW 1L/POT,1560553,Glucose 100 MG/ML Injectable Solution
+DR00055,10% DW 500ml/Bag,1560553,Glucose 100 MG/ML Injectable Solution
+DR00056,10% DW 500ml/Bot(약국용),1560553,Glucose 100 MG/ML Injectable Solution
+DR00057,100/25/200mg Stalevo tab,19102489,Carbidopa 25 MG / entacapone 200 MG / Levodopa 100 MG Oral Tablet
+DR00058,100mg Clozaril Tab (극),800881,Clozapine 100 MG Oral Tablet
+DR00059,100mg Cozaar tab,40185276,Losartan Potassium 100 MG Oral Tablet
+DR00060,100mg Lamictal Tab.,705108,lamotrigine 100 MG Oral Tablet
+DR00061,100mg Pletaal tab.,1350311,cilostazol 100 MG Oral Tablet
+DR00062,100mg Topamax Tab,742304,topiramate 100 MG Oral Tablet
+DR00063,10mg Kerlone Tab,42800545,Betaxolol Hydrochloride 10 MG Oral Tablet
+DR00064,10mg Torem tab,942382,torsemide 10 MG Oral Tablet
+DR00065,10mg Torsemide tab.,942382,torsemide 10 MG Oral Tablet
+DR00066,10mg Zyprexa Tab(수),785821,olanzapine 10 MG Oral Tablet
+DR00067,10ml Megetrol oral susp.,40164972,Megestrol Acetate 40 MG/ML Oral Suspension
+DR00068,12.5mg Dilatrend Tab,19022750,carvedilol 12.5 MG Oral Tablet
+DR00069,125mg Madopar Tab,789621,Benserazide 25 MG / Levodopa 100 MG Oral Tablet
+DR00070,150/37.5/200mg Stalevo tab,19102490,Carbidopa 37.5 MG / entacapone 200 MG / Levodopa 150 MG Oral Tablet
+DR00071,150mg Curan tab,961050,Ranitidine 150 MG Oral Tablet
+DR00072,150mg Entelon tab.,42904225,Vitis vinifera whole extract
+DR00073,150mg Lyrica cap.,19112670,pregabalin 150 MG Oral Capsule
+DR00074,150mg Orfil ratard Tab,745466,Valproate
+DR00075,15mg Abilify tab,19096776,aripiprazole 15 MG Oral Tablet
+DR00076,160mg Diovan tab,19096678,valsartan 160 MG Oral Tablet
+DR00077,16mg Atacand tab.,1351583,candesartan cilexetil 16 MG Oral Tablet
+DR00078,1mg Mirapex tab,40165177,Pramipexole dihydrochloride 1 MG Oral Tablet
+DR00079,1mg Requip tab,19080241,ropinirole 1 MG Oral Tablet
+DR00080,20% Albumin 100ML(동신),1344177,"ALBUMIN,HUMAN 200 MG/ML Injectable Solution"
+DR00081,20% DW 20ml,1560554,Glucose 200 MG/ML Injectable Solution
+DR00082,20% DW 600ml/Bag,1560554,Glucose 200 MG/ML Injectable Solution
+DR00083,20% Mannitol 100ml/Bag,994096,Mannitol 200 MG/ML Injectable Solution
+DR00084,20% Mannitol inj 100ml/PA,994096,Mannitol 200 MG/ML Injectable Solution
+DR00085,20% Mannitol(대한) 100ml/Bag,994096,Mannitol 200 MG/ML Injectable Solution
+DR00086,200mg Ursa Tab.,988095,ursodeoxycholate
+DR00087,200MG/Tab. Oxiklorin Tab.,40184084,Hydroxychloroquine Sulfate 200 MG Oral Tablet
+DR00088,20mg Lipitor tab,19123592,atorvastatin 20 MG Oral Tablet
+DR00089,25mg Capril Tab,1340161,Captopril 25 MG Oral Tablet
+DR00090,2mg Hytrin tab,1341271,terazosine 2 MG Oral Tablet
+DR00091,2mg Requip tab,713853,ropinirole 2 MG Oral Tablet
+DR00092,3% NaCl Sol 500ml/Bot,19127417,Sodium Chloride 0.513 MEQ/ML Injectable Solution
+DR00093,30MG Remeron soltab.,19070748,Mirtazapine 30 MG Disintegrating Tablet
+DR00094,35mg Actonel tab,40174494,risedronate sodium 35 MG Oral Tablet
+DR00095,40mg Mevalotin tab,40175400,Pravastatin Sodium 40 MG Oral Tablet
+DR00096,40MG OMP  tab,19102190,Omeprazole 40 MG Enteric Coated Tablet
+DR00097,40mg Zocor tab,1539407,Simvastatin 40 MG Oral Tablet
+DR00098,4mg  Amaryl tab.,1597773,glimepiride 4 MG Oral Tablet
+DR00099,4mg Vaxar tab,19011549,lacidipine 4 MG Oral Tablet
+DR00100,5% D/S 1000ML,967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
+DR00101,5% D/S 1L/BOT,967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
+DR00102,5% D/S 500ML,967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
+DR00103,5% D/W 1000ML,19076324,Glucose 50 MG/ML Injectable Solution
+DR00104,5% D/W 1L/BAG,19076324,Glucose 50 MG/ML Injectable Solution
+DR00105,5% D/W 500ML,19076324,Glucose 50 MG/ML Injectable Solution
+DR00106,5% D/W 500ml/BAG,19076324,Glucose 50 MG/ML Injectable Solution
+DR00107,5% D/W 500ml/BOT(약국용),19076324,Glucose 50 MG/ML Injectable Solution
+DR00108,5% DS 1L/Bag,967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
+DR00109,5% DS 1L/POT,967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
+DR00110,5% DW 100ml/Bag,19076324,Glucose 50 MG/ML Injectable Solution
+DR00111,5% DW 100ml/Bot (약국용),19076324,Glucose 50 MG/ML Injectable Solution
+DR00112,5% DW 1L/Bot (약국용),19076324,Glucose 50 MG/ML Injectable Solution
+DR00113,5% DW 1L/POT,19076324,Glucose 50 MG/ML Injectable Solution
+DR00114,5% DW 200ml/Bot,19076324,Glucose 50 MG/ML Injectable Solution
+DR00115,5% DW 500ml/Bag,19076324,Glucose 50 MG/ML Injectable Solution
+DR00116,5%Dextrose NAK inj 2호 1L,19123351,Glucose 50 MG/ML / Potassium Chloride 0.02 MEQ/ML / Sodium Chloride 0.0769 MEQ/ML Injectable Solution
+DR00117,50% D/W 500ML,1560556,Glucose 500 MG/ML Injectable Solution
+DR00118,50% D/W 500ml/BOT,1560556,Glucose 500 MG/ML Injectable Solution
+DR00119,50% DW 100ml/POT,1560556,Glucose 500 MG/ML Injectable Solution
+DR00120,50% DW 500ml/Bag,1560556,Glucose 500 MG/ML Injectable Solution
+DR00121,500mg Claroma tab,1750562,Clarithromycin 500 MG Oral Tablet
+DR00122,500mg Xeloda Tab,19023530,capecitabine 500 MG Oral Tablet
+DR00123,500mg/VI Predisol inj,1506270,Methylprednisolone
+DR00124,50mg Aldactone Tab,970283,Spironolactone 50 MG Oral Tablet
+DR00125,50mg Capril Tab,19074673,Captopril 50 MG Oral Tablet
+DR00126,50mg Ixel cap,19103538,Midalcipran 50 MG Oral Capsule
+DR00127,5-FU Inj 1000mg/20ml,955641,Fluorouracil 50 MG/ML Injectable Solution
+DR00128,5-FU inj 1000mg/20ml/VI,955641,Fluorouracil 50 MG/ML Injectable Solution
+DR00129,5-FU Inj 250mg/5ml,955641,Fluorouracil 50 MG/ML Injectable Solution
+DR00130,5-FU Inj 500mg/10ml,955641,Fluorouracil 50 MG/ML Injectable Solution
+DR00131,5-FU inj 500mg/10ml/VI,955641,Fluorouracil 50 MG/ML Injectable Solution
+DR00132,6.25mg Dilatrend tab,19022749,carvedilol 6.25 MG Oral Tablet
+DR00133,600mg Orfil retard tab.,745466,Valproate
+DR00134,60mg Adalat oros tab.,19112981,Nifedipine 60 MG Extended Release Tablet
+DR00135,625mg Augmentin Tab,1713694,Amoxicillin 500 MG / Clavulanate 125 MG Oral Tablet
+DR00136,70mg Fosamax Tab.,40173612,Alendronic acid 70 MG Oral Tablet
+DR00137,건일네틸마이신주100mg,19017588,Netilmicin 50 MG/ML Injectable Solution
+DR00138,건일네틸마이신주150mg,19057566,Netilmicin 100 MG/ML Injectable Solution
+DR00139,대원페노바르비탈정 60MG,734711,Phenobarbital 30 MG Oral Tablet
+DR00140,동신 Albumin 20%(100ml),1344177,"ALBUMIN,HUMAN 200 MG/ML Injectable Solution"
+DR00141,산화마그네슘 정 250mg,993690,Magnesium Oxide 250 MG Oral Tablet
+DR00142,산화마그네슘 정 500mg,993732,Magnesium Oxide 500 MG Oral Tablet
+DR00143,슈다페드 정 60MG,40232259,Pseudoephedrine Hydrochloride 60 MG Oral Tablet
+DR00144,옥시마이신안 연고 3.5G,925989,Oxytetracycline 0.005 MG/MG / Polymyxin B 10 UNT/MG Ophthalmic Ointment
+DR00145,유박스B 주 0.5ml(소아용간염),528325,Hepatitis B Surface Antigen Vaccine 0.02 MG/ML Injectable Suspension
+DR00146,제니칼 캅셀 120MG/cap.,741572,orlistat 120 MG Oral Capsule
+DR00147,제당 10% D/W 1000ml (bag),1560553,Glucose 100 MG/ML Injectable Solution
+DR00148,제당 10% D/W 500ml (bag),1560553,Glucose 100 MG/ML Injectable Solution
+DR00149,제당 5% D/W 1000ml (bag),19076324,Glucose 50 MG/ML Injectable Solution
+DR00150,제당 5% D/W 500ml (bag),19076324,Glucose 50 MG/ML Injectable Solution
+DR00151,제당 하트만 1000ml (bag),19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
+DR00152,제당 D/S 1000ml (bag),967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
+DR00153,제당 D/S 500ml (bag),967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
+DR00154,제당 Hartman 500ml (bag),19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
+DR00155,제당 Normal saline 1000ml(P),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00156,제당 Normal saline 500ml (bag),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00157,중외생리식염주사액100ml(IV용),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR00158,A Fluid 1L/Bag,19076330,Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution
+DR00159,Abeltan tab 150mg,19022948,irbesartan 150 MG Oral Tablet
+DR00160,A-Ben tab 100mg,19107415,ALIBENDOL 100 MG Oral Tablet
+DR00161,Abilify tab 10mg,757690,aripiprazole 10 MG Oral Tablet
+DR00162,Acertil Tab 4mg,40163271,Perindopril Erbumine 4 MG Oral Tablet
+DR00163,Acertil Tab 8mg(원외),40163275,Perindopril Erbumine 8 MG Oral Tablet
+DR00164,ACETAMINOPHEN 300MG,1127078,Acetaminophen 160 MG Oral Tablet
+DR00165,Acetaminophen Tab 300mg 경동,19096574,Acetaminophen 300 MG Oral Tablet
+DR00166,Aclaton Tab 50mg,21600139,"SYNTH ANTICHOLINERGICS,QUATERNARY AMMONIUM CMPDS"
+DR00167,Actifed Syr,40237805,Pseudoephedrine Hydrochloride 6 MG/ML / Triprolidine Hydrochloride 0.25 MG/ML Oral Solution
+DR00168,Actifed Tab,40237822,Pseudoephedrine Hydrochloride 60 MG / Triprolidine Hydrochloride 2.5 MG Oral Tablet
+DR00169,Actinamide Inj 1mg/2ml,19048026,cobamamide
+DR00170,Actiq Tab 200mcg,19077250,Fentanyl 0.2 MG Lozenge
+DR00171,active inj.,19023701,HAEMOPHILUS B CONJUGATE VACCINE 0.02 MG/ML Injectable Solution
+DR00172,Actonel Tab 35mg,40174494,risedronate sodium 35 MG Oral Tablet
+DR00173,Actonel Tab 5mg,40174498,risedronate sodium 5 MG Oral Tablet
+DR00174,Actos Tab 15mg,1525221,pioglitazone 15 MG Oral Tablet
+DR00175,Acupan Inj 20mg/2ml,19104216,Nefopam 10 MG/ML Injectable Solution
+DR00176,Acupan inj 20mg/2ml/AM,19104216,Nefopam 10 MG/ML Injectable Solution
+DR00177,ADALAT 10MG,19019309,Nifedipine 10 MG Oral Capsule
+DR00178,ADALAT 5MG,1318859,Nifedipine 5 MG Oral Capsule
+DR00179,Adalat Cap 10mg,19019309,Nifedipine 10 MG Oral Capsule
+DR00180,Adalat Cap 5mg(내시경용),1318859,Nifedipine 5 MG Oral Capsule
+DR00181,Adalat oros 30mg,19112979,Nifedipine 30 MG Extended Release Tablet
+DR00182,Adalat Oros Tab 30mg,19101807,Nifedipine 30 MG Oral Tablet
+DR00183,Adalat Oros Tab 60mg,19101798,Nifedipine 60 MG Oral Tablet
+DR00184,Adcal Tab,19009405,Vitamin D
+DR00184,Adcal Tab,19058896,calcium lactate
+DR00185,Adelavin-9 Inj 1ml,19091701,Liver Extract
+DR00185,Adelavin-9 Inj 1ml,42903868,Flavin-Adenine Dinucleotide
+DR00186,Adenocor inj 6mg/2ml/VI(수),19029092,Adenosine 3 MG/ML Injectable Solution
+DR00187,ADM inj 10mg/VI(Angio실),40243759,Doxorubicin Hydrochloride 2 MG/ML Injectable Solution
+DR00188,ADRIAMYCIN 10MG,40243759,Doxorubicin Hydrochloride 2 MG/ML Injectable Solution
+DR00189,ADRIAMYCIN 50MG,40243759,Doxorubicin Hydrochloride 2 MG/ML Injectable Solution
+DR00190,Advantan 연고(10g)),1506270,Methylprednisolone
+DR00191,Advantan 크림 10g,1506270,Methylprednisolone
+DR00192,Advantan cream 10g/tb,1506270,Methylprednisolone
+DR00193,Aerane,782047,Isoflurane 999 MG/ML Inhalant Solution
+DR00194,Agio Granule 6g,19132965,Plantago Seed
+DR00195,Airtal Tab 100mg,19029394,aceclofenac 100 MG Oral Tablet
+DR00196,Akocin Inj 100mg/2ml,19017588,Netilmicin 50 MG/ML Injectable Solution
+DR00197,Akocin Inj 150mg/1.5ml,19057566,Netilmicin 100 MG/ML Injectable Solution
+DR00198,Alaxyl Granule 5g/P,19132965,Plantago Seed
+DR00198,Alaxyl Granule 5g/P,938268,Sennosides
+DR00198,Alaxyl Granule 5g/P,957797,Psyllium
+DR00199,Alaxyl Granule 8g/p,19132965,Plantago Seed
+DR00199,Alaxyl Granule 8g/p,938268,Sennosides
+DR00199,Alaxyl Granule 8g/p,957797,Psyllium
+DR00200,Albis Tab,1036228,Sucralfate
+DR00200,Albis Tab,19025138,Bismuth
+DR00200,Albis Tab,961047,Ranitidine
+DR00201,Albumax Sol 10ml,1360067,Iron
+DR00202,Albumin Inj 20% 100ml,1344177,"ALBUMIN,HUMAN 200 MG/ML Injectable Solution"
+DR00203,Albumin Inj 5% 250ml,1344176,"ALBUMIN,HUMAN 50 MG/ML Injectable Solution"
+DR00204,Albumin(녹십자) inj 20% 100ml,1344177,"ALBUMIN,HUMAN 200 MG/ML Injectable Solution"
+DR00205,Albumin(SK) inj 20% 100ml,1344177,"ALBUMIN,HUMAN 200 MG/ML Injectable Solution"
+DR00206,Aldactazide Tab 25/25mg,974226,Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet
+DR00207,Aldactone Tab 25mg,19079658,Spironolactone 25 MG Oral Tablet
+DR00208,Alesion Tab 10mg,943634,epinastine
+DR00209,Alesion Tab. 10MG/Tab.,943634,epinastine
+DR00210,Alfentanil inj 0.05%,19072389,Alfentanil 0.5 MG/ML Injectable Solution
+DR00211,Alfentanil Inj 1mg/2ml,19072389,Alfentanil 0.5 MG/ML Injectable Solution
+DR00212,Alginase inj. 0.25단위/VI,19006410,Arginine
+DR00213,Algiron Inj 5mg/1ml,21600200,CIMETROPIUM BROMIDE
+DR00214,Algiron Tab 50mg,21600200,CIMETROPIUM BROMIDE
+DR00215,ALKYLOXAN 50MG,19018903,Cyclophosphamide 50 MG Oral Tablet
+DR00216,Alkyloxan inj 500mg,1310347,Cyclophosphamide 20 MG/ML Injectable Solution
+DR00217,Allegra Tab 120mg,40223807,Fexofenadine hydrochloride 120 MG Oral Tablet
+DR00218,Allegra Tab 180mg,40223815,Fexofenadine hydrochloride 180 MG Oral Tablet
+DR00219,Allegra Tab. 120Mg/Tab.,40223807,Fexofenadine hydrochloride 120 MG Oral Tablet
+DR00220,Allegra Tab. 180Mg/Tab.,40223815,Fexofenadine hydrochloride 180 MG Oral Tablet
+DR00221,Allelock tab 5mg,915855,olopatadine
+DR00222,Almagel Tab 500mg,21600071,ALMAGATE
+DR00223,Almax Susp(15ml),21600071,ALMAGATE
+DR00224,Aloxi inj < 0.25mg/5ml/VI >,19102506,palonosetron 0.05 MG/ML Injectable Solution
+DR00225,Aloxi Inj 0.075mg/1.5ml,19102506,palonosetron 0.05 MG/ML Injectable Solution
+DR00226,Aloxi Inj 0.25mg/5ml,19102506,palonosetron 0.05 MG/ML Injectable Solution
+DR00227,Aloxi inj. 0.075mg/1.5ml/VI,19102506,palonosetron 0.05 MG/ML Injectable Solution
+DR00228,Alphacoline inj 500mg,19011183,Cytidine Diphosphate Choline 250 MG/ML Injectable Solution
+DR00229,Alphagan-P eye drop 0.15% 5ML/BT,40164134,Brimonidine tartrate 1.5 MG/ML Ophthalmic Solution
+DR00230,Alphagan-P Eye Drop 5ml,40164134,Brimonidine tartrate 1.5 MG/ML Ophthalmic Solution
+DR00231,Alporin inj 750mg/VI,40223437,Cefuroxime 225 MG/ML Injectable Suspension
+DR00232,Alvityl I Syr(150ml/BOT),19135832,Multivitamin preparation
+DR00233,Alyrane,743196,Enflurane
+DR00234,Amaryl M Tab 1/250mg,1503297,Metformin
+DR00234,Amaryl M Tab 1/250mg,1597756,glimepiride
+DR00235,Amaryl M Tab 2/500mg,1503297,Metformin
+DR00235,Amaryl M Tab 2/500mg,1597756,glimepiride
+DR00236,Amaryl Tab 2mg,1597772,glimepiride 2 MG Oral Tablet
+DR00237,Amaryl Tab 4mg,1597773,glimepiride 4 MG Oral Tablet
+DR00238,Amaryl-Mex Tab 2/500mg,1503297,Metformin
+DR00238,Amaryl-Mex Tab 2/500mg,1597756,glimepiride
+DR00239,Ambisome inj 50mg/VI(수),19057592,Amphotericin B 5 MG/ML Injectable Solution
+DR00240,Amikin Inj 250mg/2ml,40173554,Amikacin Sulfate 125 MG/ML Injectable Solution
+DR00241,Amikin inj 250mg/2ml/VI,40173554,Amikacin Sulfate 125 MG/ML Injectable Solution
+DR00242,Amikin Inj 500mg/2ml,40173556,Amikacin Sulfate 250 MG/ML Injectable Solution
+DR00243,AMILO 5MG,40177829,Amiloride Hydrochloride 5 MG Oral Tablet
+DR00244,Amilo Tab 5mg,40177829,Amiloride Hydrochloride 5 MG Oral Tablet
+DR00245,AMINOPHYLLIN 100MG,1105837,Aminophylline 100 MG Oral Tablet
+DR00246,Aminophylline Inj 250mg/10ml,19073072,Aminophylline 25 MG/ML Injectable Solution
+DR00247,Aminophylline inj.250mg/10ml/AM,19073072,Aminophylline 25 MG/ML Injectable Solution
+DR00248,Aminosteril Ped 100ml(6%),19124969,Amino Acids
+DR00249,Amitriptyline Tab 10mg (명인),40162672,Amitriptyline Hydrochloride 10 MG Oral Tablet
+DR00250,Amocla DUO syr.,1713697,Amoxicillin 40 MG/ML / Clavulanate 5.7 MG/ML Oral Suspension
+DR00251,Amodipin tab 5mg,1332419,Amlodipine 5 MG Oral Tablet
+DR00252,Amodipine Tab 5mg,1332419,Amlodipine 5 MG Oral Tablet
+DR00253,Amoxapen Cap 250mg,19073183,Amoxicillin 250 MG Oral Capsule
+DR00254,Amoxicillin Cap 500mg 종근당,19073187,Amoxicillin 500 MG Oral Capsule
+DR00255,AMPHOGEL,985247,Aluminum Hydroxide
+DR00256,Ampibactam Inj 750mg,19058200,Ampicillin 100 MG/ML / Sulbactam 50 MG/ML Injectable Solution
+DR00257,A-namin 500ml/Bot,19131018,Alanine 7.7 MG/ML / Arginine 6 MG/ML / Cysteine 0.2 MG/ML / Glycine 9 MG/ML / Histidine 2.4 MG/ML / Isoleucine 9 MG/ML / Leucine 11 MG/ML / Lysine 6.1 MG/ML / Methionine 1 MG/ML / Phenylalanine 1 MG/ML / Phosphoric acid 1.15 MG/ML / Proline 8 MG/ML / Serin
+DR00258,ANAPROX TAB 275MG,1115126,Naproxen sodium 275 MG Oral Tablet
+DR00259,Andilac Cap,19000813,Enterococcus faecalis
+DR00259,Andilac Cap,19056614,Lactobacillus bifidus
+DR00259,Andilac Cap,987153,Lactobacillus acidophilus
+DR00260,Anorex Cap 25mg,40162278,Dantrolene Sodium 25 MG Oral Capsule
+DR00261,Anplag Tab 100mg,21600985,PLATELET AGGREGATION INHIBITORS EXCL. HEPARIN
+DR00262,Antibio Cap 300mg,987191,Lactobacillus acidophilus 100000000 UNT Oral Capsule
+DR00263,ANTIBIOPHILLUS 1G,987153,Lactobacillus acidophilus
+DR00264,ANTIRIOD 50MG,1554073,Propylthiouracil 50 MG Oral Tablet
+DR00265,Antiroid Tab 50mg,1554073,Propylthiouracil 50 MG Oral Tablet
+DR00266,Antithrombin III Inj 500unit,43012500,"Antithrombin III, Human 50 UNT/ML Injectable Solution"
+DR00267,antithrombin3 inj.500iu,1436169,Antithrombin III
+DR00268,Anycough Cap 300mg,19137056,Theobromine
+DR00269,Anydipin tab 5MG,1332419,Amlodipine 5 MG Oral Tablet
+DR00270,ANYdipine Tab 5mg,1332419,Amlodipine 5 MG Oral Tablet
+DR00271,Anytal Triple Tab,19005512,Trimebutine
+DR00271,Anytal Triple Tab,19018438,aluminum magnesium silicate
+DR00271,Anytal Triple Tab,19035704,Calcium Carbonate
+DR00271,Anytal Triple Tab,43013634,Glycyrrhiza glabra extract
+DR00271,Anytal Triple Tab,939506,Sodium Bicarbonate
+DR00271,Anytal Triple Tab,990760,Lipase
+DR00272,Anzemet Inj 100mg/5ml,19022974,Dolasetron 20 MG/ML Injectable Solution
+DR00273,Anzemet Tab 200mg,19102151,Dolasetron 200 MG Oral Tablet
+DR00274,Apetrol Oral Susp. 20ml/pack,40164972,Megestrol Acetate 40 MG/ML Oral Suspension
+DR00275,Apidra Inj Solostar 300unit/3ml/Pen,1544872,"3 ML Insulin, Glulisine, Human 100 UNT/ML Prefilled Syringe"
+DR00276,Aprovel Tab 150mg,19022948,irbesartan 150 MG Oral Tablet
+DR00277,Aranesp prefilled 40mcg/0.4ml/syr,1304792,0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe
+DR00278,Aricept 5mg (수),40223778,Donepezil hydrochloride 5 MG Oral Tablet
+DR00279,Aricept Tab 10mg,40223768,Donepezil hydrochloride 10 MG Oral Tablet
+DR00280,Aricept Tab 5mg,40223778,Donepezil hydrochloride 5 MG Oral Tablet
+DR00281,Arobest Tab 20mg,21604114,OTHER CENTRALLY ACTING AGENTS
+DR00282,Aronamin C Plus Tab(원외),19135832,Multivitamin preparation
+DR00283,Artrodar Cap 50mg,19088916,diacetylrhein 50 MG Oral Capsule
+DR00284,Ascite Gran 4.1g/PAK,19007572,Valine
+DR00284,Ascite Gran 4.1g/PAK,19082306,Isoleucine
+DR00284,Ascite Gran 4.1g/PAK,19088571,Leucine
+DR00285,Ascorbic acid Inj 100mg/2ml,19011972,Ascorbic Acid 50 MG/ML Injectable Solution
+DR00286,Ascorbic acid Tab 500mg,19069200,Ascorbic Acid 500 MG Oral Tablet
+DR00287,Asima Tab 400mg,42900552,xanthine
+DR00288,Aspirin Protect Tab 100mg,19021575,Aspirin 100 MG Enteric Coated Tablet
+DR00289,Aspirin(소아용) Tab 100mg ,1113143,Aspirin 100 MG Oral Tablet
+DR00290,Astrix 100mg Cap,19103854,Aspirin 100 MG Enteric Coated Capsule
+DR00291,Astrix Cap 100mg,19103854,Aspirin 100 MG Enteric Coated Capsule
+DR00292,Astrix cap 100mg(Boryungbio),19103854,Aspirin 100 MG Enteric Coated Capsule
+DR00293,Atacand tab 16mg,1351583,candesartan cilexetil 16 MG Oral Tablet
+DR00294,Atacand Tab 8mg,1351586,candesartan cilexetil 8 MG Oral Tablet [Atacand]
+DR00295,Atenolol Tab 25mg 대웅,19018811,Atenolol 25 MG Oral Tablet
+DR00296,ATIVAN 0.5MG,19019112,Lorazepam 0.5 MG Oral Tablet
+DR00297,Ativan Inj 4mg/1ml,19057272,Lorazepam 4 MG/ML Injectable Solution
+DR00298,Ativan Tab 0.5mg,19019112,Lorazepam 0.5 MG Oral Tablet
+DR00299,Ativan Tab 1mg,19019113,Lorazepam 1 MG Oral Tablet
+DR00300,ATOCCK 40MG,1196677,formoterol
+DR00301,Atock Dry syr,1196677,formoterol
+DR00302,ATOCK SYRUP 0.5G/PACK,1196677,formoterol
+DR00303,Atock Tab 40ug,1196677,formoterol
+DR00304,Atorva Tab 10mg,1545997,atorvastatin 10 MG Oral Tablet
+DR00305,Atorva Tab 20mg,19123592,atorvastatin 20 MG Oral Tablet
+DR00306,Atosan tab. 10mg,1545997,atorvastatin 10 MG Oral Tablet
+DR00307,ATP Inj 20mg/2ml,19015230,Adenosine Triphosphate
+DR00308,Atropine Inj 0.5mg/1ml,40243420,Atropine Sulfate 0.5 MG/ML Injectable Solution
+DR00309,Atropine inj 0.5mg/1ml/AM(대원),40243420,Atropine Sulfate 0.5 MG/ML Injectable Solution
+DR00310,Atrovent aerosol(15ml),42902953,Ipratropium Bromide 0.021 MG/ACTUAT Nasal Inhaler
+DR00311,Atrovent Nebulizer sol,19134101,Ipratropium Bromide 0.25 MG/ML Inhalant Solution
+DR00312,Atrovent UDV Soln 250ug,19135767,Ipratropium Bromide 0.125 MG/ML Inhalant Solution
+DR00313,Atrovent UDV Soln 500uG,19134101,Ipratropium Bromide 0.25 MG/ML Inhalant Solution
+DR00314,AUGMENTIN 375MG,1713671,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+DR00315,Augmentin Inj 0.6g,1759851,Amoxicillin 50 MG/ML / Clavulanate 10 MG/ML Injectable Solution
+DR00316,Augmentin Inj 1.2g,1759851,Amoxicillin 50 MG/ML / Clavulanate 10 MG/ML Injectable Solution
+DR00317,AUGMENTIN SY.,19123585,Amoxicillin 25 MG/ML / Clavulanate 6.25 MG/ML Oral Suspension
+DR00318,Augmentin Syr,19123585,Amoxicillin 25 MG/ML / Clavulanate 6.25 MG/ML Oral Suspension
+DR00319,Augmentin Tab 375mg,1713671,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+DR00320,Augmentin Tab 625mg,1713694,Amoxicillin 500 MG / Clavulanate 125 MG Oral Tablet
+DR00321,AugMEX 625mg Tab,1713694,Amoxicillin 500 MG / Clavulanate 125 MG Oral Tablet
+DR00322,Augmex Duo Syr,1713697,Amoxicillin 40 MG/ML / Clavulanate 5.7 MG/ML Oral Suspension
+DR00323,Avamys Nasal Spray,40169238,120 ACTUAT fluticasone furoate 0.0275 MG/ACTUAT Nasal Inhaler
+DR00324,Avamys nasal spray 120회/BT,40169238,120 ACTUAT fluticasone furoate 0.0275 MG/ACTUAT Nasal Inhaler
+DR00325,Avandia Tab 4mg,19079465,rosiglitazone 4 MG Oral Tablet
+DR00326,Avandia Tab. 4Mg,19079465,rosiglitazone 4 MG Oral Tablet
+DR00327,Avelox Inj 400mg/250ml,1716908,moxifloxacin 1.6 MG/ML Injectable Solution
+DR00328,Avelox inj 400mg/250ml/BT,1716908,moxifloxacin 1.6 MG/ML Injectable Solution
+DR00329,Avelox Tab 400mg,1716905,moxifloxacin 400 MG Oral Tablet
+DR00330,Avitene (70*35*1mm),19069049,Collagen
+DR00331,Avodart Cap 0.5mg,989485,Dutasteride 0.5 MG Oral Capsule
+DR00332,Avodart SC cap 0.5mg,989485,Dutasteride 0.5 MG Oral Capsule
+DR00333,Axid Cap 150mg,19079088,Nizatidine 150 MG Oral Capsule
+DR00334,Azathioprine PCH Tab 50mg,19014880,Azathioprine 50 MG Oral Tablet
+DR00335,AZEPTIN 1MG,934075,Azelastine
+DR00336,Azeptin Tab 1mg,934075,Azelastine
+DR00337,B.A.S.A 100MG,1113143,Aspirin 100 MG Oral Tablet
+DR00338,Baby Aspirin 100mg 신풍,1113143,Aspirin 100 MG Oral Tablet
+DR00339,Baclofen Tab 10mg 태평양,715235,Baclofen 10 MG Oral Tablet
+DR00340,Bactacin Inj 1.5g,19073215,Ampicillin 250 MG/ML / Sulbactam 125 MG/ML Injectable Solution
+DR00341,bactroban oint 10g/tb,19008723,Mupirocin 0.02 MG/MG Topical Ointment
+DR00342,Bactroban Oint(10g),19008723,Mupirocin 0.02 MG/MG Topical Ointment
+DR00343,Bambec tab 10mg,19004167,bambuterol 10 MG Oral Tablet
+DR00344,Banan -Dry Syr 10mg/ml,19074935,cefpodoxime 10 MG/ML Oral Suspension
+DR00345,Banan Tab 100mg,19074932,cefpodoxime 100 MG Oral Tablet
+DR00346,Banepo Oint 20g,19027805,Bacitracin 0.4 UNT/MG / Neomycin 0.0035 MG/MG / Polymyxin B 5 UNT/MG Topical Ointment
+DR00347,Baraclude Tab 0.5mg,1711248,entecavir 0.5 MG Oral Tablet
+DR00348,Basen Tab 0.2mg,21600778,VOGLIBOSE
+DR00349,Basen Tab 0.3mg,21600778,VOGLIBOSE
+DR00350,BCG vaccine Percutaneous 1인분,911486,Glutamate
+DR00351,Bearse Tab,926487,Pancreatin
+DR00351,Bearse Tab,966991,Simethicone
+DR00351,BEARSE TAB,986515,CELLULASE
+DR00351,BEARSE TAB,988095,ursodeoxycholate
+DR00351,BEARSE TAB,990760,Lipase
+DR00352,Beecom hexa Inj 2ml,19010970,Vitamin B Complex
+DR00353,Beecom Tab,19010970,Vitamin B Complex
+DR00354,Benforex Cap,19010970,Vitamin B Complex
+DR00355,BENZTROPIN 2MG,40168896,benztropine mesylate 2 MG Oral Tablet
+DR00356,Benztropin Tab 1mg 환인,40168888,benztropine mesylate 1 MG Oral Tablet
+DR00357,Berast Tab 0.02mg,21601002,BERAPROST
+DR00358,Berotec Tab 2.5mg,19053980,Fenoterol 2.5 MG Oral Tablet
+DR00359,Bestidine Inj 20mg,953102,Famotidine 0.4 MG/ML Injectable Solution
+DR00360,Bestidine inj 20mg/AM,953076,Famotidine
+DR00361,Beszyme Tab,19030387,Bromelains
+DR00361,Beszyme Tab,916662,Dimethicone
+DR00361,Beszyme Tab,926487,Pancreatin
+DR00362,Betagargle (10%),1750322,Povidone-Iodine 10 MG/ML Topical Solution
+DR00363,Betaloc Tab 100mg,40167202,Metoprolol Tartrate 100 MG Oral Tablet
+DR00364,Betamethasone inj. 4mg/1ml/AM,19074185,Betamethasone 4 MG/ML Injectable Solution
+DR00365,Betasin Inj 100mg/20ml,40169706,Labetalol hydrochloride 5 MG/ML Injectable Solution
+DR00366,Bi-bag 650g/1EA,939506,Sodium Bicarbonate
+DR00367,Bidoxin Inj 50mg/1ml,1353270,Vitamin B6 50 MG/ML Injectable Solution
+DR00368,Bifen Cataplasma 6매/PAK,1156378,Flurbiprofen
+DR00369,Biofle-S.Cap.,991855,Saccharomyces boulardii
+DR00370,Bioflor 250 Cap.,19121591,Saccharomyces boulardii 250 MG Oral Capsule
+DR00371,Bioflor 250 Powder,19123015,Saccharomyces boulardii 250 MG Oral Powder
+DR00372,Biperin Tab 2mg(원외),40162855,Biperiden Hydrochloride 2 MG Oral Tablet
+DR00373,Bisolvon Tab 8mg,19030494,Bromhexine 8 MG Oral Tablet
+DR00374,Bithree Tab,21600668,ANTIDIARRHEAL MICROORGANISMS
+DR00375,Bivon Inj 8.4% 1.68g/20ml,939534,Sodium Bicarbonate 1 MEQ/ML Injectable Solution
+DR00376,Bivon Inj. 8.4%(20ml),939534,Sodium Bicarbonate 1 MEQ/ML Injectable Solution
+DR00377,BLUTAL 10ML(수),19095761,ferric chloride
+DR00378,Blutal Inj,19095761,ferric chloride
+DR00379,Bolgre Cap 200mg,21601099,FERRIC ACETYL TRANSFERRIN
+DR00380,Bolgre Sol 10ml,1360067,Iron
+DR00381,Bonaling-A Tab 50MG,19020367,Dimenhydrinate 50 MG Oral Tablet
+DR00382,Bonky Cap 0.25mcg,19074492,Calcitriol 0.00025 MG Oral Capsule
+DR00383,Bonky Inj 1mcg/1ml,19074494,Calcitriol 0.001 MG/ML Injectable Solution
+DR00384,Bonky inj. 1mcg/1ml/AM,19074494,Calcitriol 0.001 MG/ML Injectable Solution
+DR00385,Bonviva inj 3mg/PFS,40173414,3 ML ibandronic acid 1 MG/ML Prefilled Syringe
+DR00386,Bosmin Liq 0.1%,1343916,Epinephrine
+DR00387,Botropase Inj 2ml,21601074,BATROXOBIN
+DR00388,breviblock inj.100mg,40182870,Esmolol hydrochloride 10 MG/ML Injectable Solution
+DR00389,Brexin Tab 10mg,1146847,Piroxicam 10 MG Oral Tablet
+DR00390,Bricanyl Syr,40163427,Terbutaline Sulfate 0.3 MG/ML Oral Solution
+DR00391,Bricanyl Tab 5mg,40163449,Terbutaline Sulfate 5 MG Oral Tablet
+DR00392,Bromeel Inj 2.2ml,1391199,ECHINACEA ANGUSTIFOLIA Extract
+DR00392,Bromeel Inj 2.2ml,1399063,Echinacea purpurea extract
+DR00392,Bromeel Inj 2.2ml,19071836,Calendula officinalis extract
+DR00392,Bromeel Inj 2.2ml,19135846,calcium sulfide
+DR00392,Bromeel Inj 2.2ml,42898402,Aconitum napellus extract
+DR00392,Bromeel Inj 2.2ml,42898758,Chamomile extract
+DR00392,Bromeel Inj 2.2ml,42899139,Hypericum extract
+DR00392,Bromeel Inj 2.2ml,42903910,Hamamelis virginiana whole extract
+DR00392,Bromeel Inj 2.2ml,42903989,Bellis perennis extract
+DR00392,Bromeel Inj 2.2ml,43012989,Symphytum uplandicum leaf extract
+DR00392,Bromeel Inj 2.2ml,43525846,Yarrow extract
+DR00392,Bromeel Inj 2.2ml,919839,Arnica extract
+DR00392,Bromeel Inj 2.2ml,958527,Belladonna Extract
+DR00393,Bromhexine Inj 4mg/2ml,19064796,Bromhexine 2 MG/ML Injectable Solution
+DR00394,Bromhexine inj 4mg/2ml/AM,19064796,Bromhexine 2 MG/ML Injectable Solution
+DR00395,BRUFEN 100MG,19019979,Ibuprofen 100 MG Oral Tablet
+DR00396,Brufen Syr 20mg/ml,19019050,Ibuprofen 20 MG/ML Oral Suspension
+DR00397,BRUFEN SYRUP 20MG/1ML,19019050,Ibuprofen 20 MG/ML Oral Suspension
+DR00398,Budecort Resp Sol 2ml,19098138,Budesonide 0.25 MG/ML Inhalant Solution
+DR00399,BUP-4 Tab 20mg,19077093,propiverine
+DR00400,BUP-4 tab.,19077093,propiverine
+DR00401,Buscopan Inj 20mg/1ml,966034,Scopolamine 20 MG/ML Injectable Solution
+DR00402,Buscopan Tab 10mg,19021828,Butylscopolammonium Bromide 10 MG Oral Tablet
+DR00403,BUSPAR 5MG,40167443,buspirone hydrochloride 5 MG Oral Tablet
+DR00404,Buspar Tab 5mg,40167443,buspirone hydrochloride 5 MG Oral Tablet
+DR00405,Busron tab 5mg,40167443,buspirone hydrochloride 5 MG Oral Tablet
+DR00406,Bycan Cap,43525878,Bacillus polyfermenticus
+DR00407,Ca. lactate,19058896,calcium lactate
+DR00408,Cacepin Tab 100mg,766819,quetiapine 100 MG Oral Tablet
+DR00409,CACL2 3% 20ML,19036781,Calcium Chloride
+DR00410,Cadef Elixir 0.05mg/ml,1326437,Digoxin 0.05 MG/ML Oral Solution
+DR00411,Cadil Tab 1mg,1363057,Doxazosin 1 MG Oral Tablet
+DR00412,Cadil Tab 2mg,1363058,Doxazosin 2 MG Oral Tablet
+DR00413,Caduet Tab 5/10mg(원외),1332497,Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet
+DR00414,Ca-Gluconate 20ML,19037061,Calcium Gluconate 100 MG/ML Injectable Solution
+DR00415,Cal. Carbonate Tab 500mg 한국유나이트,19082680,Calcium Carbonate 500 MG Oral Tablet
+DR00416,Cal.chloride Inj 0.6g/20ml,19036781,Calcium Chloride
+DR00417,Cal.gluconate Inj 2g/20ml,19037061,Calcium Gluconate 100 MG/ML Injectable Solution
+DR00418,Cal.gluconate Inj(20ml),19037061,Calcium Gluconate 100 MG/ML Injectable Solution
+DR00419,CALCIUM CABONATE 500MG,19082680,Calcium Carbonate 500 MG Oral Tablet
+DR00420,Calcium Gluconate inj 2g/20ml/AM,19037061,Calcium Gluconate 100 MG/ML Injectable Solution
+DR00421,CALCORT 6MG,19016866,deflazacort 6 MG Oral Tablet
+DR00422,Calcort tab 6mg,19016866,deflazacort 6 MG Oral Tablet
+DR00423,Caldiol Soft Cap 20mcg,19035570,Calcifediol 0.02 MG Oral Capsule
+DR00424,Cal-D-Vita Chew Tab,19036366,Calcium Carbonate 1500 MG / Cholecalciferol 400 UNT Oral Tablet
+DR00425,Campto inj 100mg/5ml/VI,40174870,Irinotecan hydrochloride 20 MG/ML Injectable Solution
+DR00426,Campto inj 40mg/2ml/VI,40174870,Irinotecan hydrochloride 20 MG/ML Injectable Solution
+DR00427,Candemore Tab 16mg,1351583,candesartan cilexetil 16 MG Oral Tablet
+DR00428,Candemore tab 8mg,1351586,candesartan cilexetil 8 MG Oral Tablet [Atacand]
+DR00429,CANESTEN CREAM 20G/TB,40231759,Clotrimazole 0.01 MG/MG Topical Gel
+DR00430,Cantan Inj 100mg/2ml,19011972,Ascorbic Acid 50 MG/ML Injectable Solution
+DR00431,CAPRIL 12.5MG,19074672,Captopril 12.5 MG Oral Tablet
+DR00432,Capril Tab 12.5mg,19074672,Captopril 12.5 MG Oral Tablet
+DR00433,Capril Tab 25mg,1340161,Captopril 25 MG Oral Tablet
+DR00434,Carbenin Inj 0.5g,21602926,PANIPENEM AND BETAMIPRON
+DR00435,Cardioxane inj.500mg/VI,1353011,Dexrazoxane
+DR00436,Cardura Tab.1mg(원내),1363057,Doxazosin 1 MG Oral Tablet
+DR00437,Cardura Tab.2mg(원내),1363058,Doxazosin 2 MG Oral Tablet
+DR00438,Cardura-XL 4mg,1363086,Doxazosin 4 MG Extended Release Tablet
+DR00439,Cardura-XL tab 4mg,1363086,Doxazosin 4 MG Extended Release Tablet
+DR00440,CARMEX 500MG,19074847,Cefadroxil 500 MG Oral Capsule
+DR00441,Carmine-CR Tab 200mg,740302,Carbamazepine 200 MG Extended Release Tablet
+DR00442,Carnit(CaCO3) Tab 500mg,19082680,Calcium Carbonate 500 MG Oral Tablet
+DR00443,Carnitil Tab.,19037597,Acetylcarnitine 590 MG Oral Tablet
+DR00444,Carol Syr,19019050,Ibuprofen 20 MG/ML Oral Suspension
+DR00445,Carol-F tab,19078461,Ibuprofen 200 MG Oral Tablet
+DR00446,Casodex Tab 50mg(수),1344403,bicalutamide 50 MG Oral Tablet
+DR00447,Ceclor Cap 250mg,19074843,Cefaclor 250 MG Oral Capsule
+DR00448,Ceclor Syr 25mg/ml,19074842,Cefaclor 25 MG/ML Oral Suspension
+DR00449,CECLOR-SY 25MG/1ML,19115225,Cefaclor 25 MG/ML Oral Solution
+DR00450,Cefamandole inj 1g/VI,19074848,Cefamandole 285 MG/ML Injectable Solution
+DR00451,Cefamezine Inj 1g,1771162,Cefazolin
+DR00452,CefaZIME Inj 1g,19079951,Ceftazidime 280 MG/ML Injectable Solution
+DR00453,Cefazolin inj. 1g/VI,1771215,Cefazolin 330 MG/ML Injectable Solution
+DR00454,Cefecin Tab 500mg,19107453,cefetamet 500 MG Oral Tablet
+DR00455,Cefirad Inj 1g,21602905,CEFPIRAMIDE
+DR00456,Cefmetazole Inj 1g,19029143,Cefmetazole 370 MG/ML Injectable Solution
+DR00457,Cefotaxime Inj 0.5g ,19074905,Cefotaxime 230 MG/ML Injectable Solution
+DR00458,Cefotaxime Inj 1g,19074903,Cefotaxime 300 MG/ML Injectable Solution
+DR00459,Cefotaxime Inj 2g,19074904,Cefotaxime 330 MG/ML Injectable Solution
+DR00460,Cefotaxime inj. 1g/VI(한미),1774470,Cefotaxime
+DR00461,Cefotaxime(한미) inj. 2g/VI,1774470,Cefotaxime
+DR00462,Cefotazol inj. 1g/VI,19029143,Cefmetazole 370 MG/ML Injectable Solution
+DR00463,Cefotazole Inj 1g,19029143,Cefmetazole 370 MG/ML Injectable Solution
+DR00464,Cefotetan Inj 1g,19095155,Cefotetan 400 MG/ML Injectable Solution
+DR00465,Cefotetan inj 1g/VI,19095155,Cefotetan 400 MG/ML Injectable Solution
+DR00466,Cefotiam IV Inj.1g,19051271,Cefotiam
+DR00467,Ceftem cap 200mg,19061882,ceftibuten 200 MG Oral Capsule
+DR00468,Ceftriaxone Bag Inj (1g+100ml),19028313,Ceftriaxone 350 MG/ML Injectable Solution
+DR00469,Ceftriaxone Inj 2g(보령),19074978,Ceftriaxone 40 MG/ML Injectable Solution
+DR00470,Ceftriaxone inj. 1g/vi,1777806,Ceftriaxone
+DR00471,Ceftriaxone inj. 2g/VI(보령),1777806,Ceftriaxone
+DR00472,Cefzil Dry Syr 25mg/ml,19074936,cefprozil 25 MG/ML Oral Suspension
+DR00473,Cefzil syr. 25mg/ml,19115159,cefprozil 25 MG/ML Oral Solution
+DR00474,Cefzil Tab 250mg,1738367,cefprozil 250 MG Oral Tablet
+DR00475,celance 0.05mg,19079241,Pergolide 0.05 MG Oral Tablet
+DR00476,Celebrex Cap 200mg,19029025,celecoxib 200 MG Oral Capsule
+DR00477,Celebrex Cap.200MG,19029025,celecoxib 200 MG Oral Capsule
+DR00478,Cellcept Cap 250mg,19021102,mycophenolate mofetil 250 MG Oral Capsule
+DR00479,Cenasert Vag.Tab 2mg,1340532,Succinic Acid
+DR00479,Cenasert Vag.Tab 2mg,19009686,methylbenzethonium
+DR00480,Cenital tab,19029394,aceclofenac 100 MG Oral Tablet
+DR00481,Centrum Tab,19135832,Multivitamin preparation
+DR00482,Ceperatam Inj 500mg,1773402,Cefoperazone
+DR00482,Ceperatam Inj 500mg,1836241,Sulbactam
+DR00483,Cephamethyl Tab 500mg,1786652,Cephalexin 500 MG Oral Tablet
+DR00484,Ceradolan(iv) inj 1g/VI,19051271,Cefotiam
+DR00485,Ceradoran Inj  0.5g,19051271,Cefotiam
+DR00486,Ceradoran Inj 1g,19051271,Cefotiam
+DR00487,Cerebrolycin-c Inj(214mg/1ml/Amp),21604768,OTHER PSYCHOSTIMULANTS AND NOOTROPICS
+DR00488,Cerebrolysin Inj 10ML(수입),21604768,OTHER PSYCHOSTIMULANTS AND NOOTROPICS
+DR00489,Ceroxim Tab 250mg,19075001,Cefuroxime 250 MG Oral Tablet
+DR00490,Cetam Inj 1g,21602881,CEFTEZOLE
+DR00491,Chirocaine inj. 25mg/10ml/AM,40226925,Levobupivacaine hydrochloride 2.5 MG/ML Injectable Solution
+DR00492,Chirocaine inj. 50mg/10ml/AM,40226929,Levobupivacaine hydrochloride 5 MG/ML Injectable Solution
+DR00493,Chlorpromazine Tab 100mg 명인,40179642,Chlorpromazine hydrochloride 100 MG Oral Tablet
+DR00494,Chlorpromazine Tab 50mg 명인,40179703,Chlorpromazine hydrochloride 50 MG Oral Tablet
+DR00495,Cicibon tab 500mg,19082680,Calcium Carbonate 500 MG Oral Tablet
+DR00496,Cilapenem inj 500mg,1797275,Cilastatin 5 MG/ML / Imipenem 5 MG/ML Injectable Solution
+DR00497,Cinalong Tab 10mg,21601760,CILNIDIPINE
+DR00498,Cinalong Tab 5mg,21601760,CILNIDIPINE
+DR00499,Cipol-N Cap 100mg,19082899,Cyclosporine 100 MG Oral Capsule
+DR00500,Cipol-N Cap 25mg,19010484,Cyclosporine 25 MG Oral Capsule
+DR00501,CIPROBAY 500MG,19075380,Ciprofloxacin 500 MG Oral Tablet
+DR00502,Ciprobay Inj 200mg/100ml,19075375,Ciprofloxacin 2 MG/ML Injectable Solution
+DR00503,Ciprobay Inj 400mg/200ml,19075375,Ciprofloxacin 2 MG/ML Injectable Solution
+DR00504,Ciprobay Inj. 200MG/V,19075375,Ciprofloxacin 2 MG/ML Injectable Solution
+DR00505,Ciprobay Tab 250mg,1797515,Ciprofloxacin 250 MG Oral Tablet
+DR00506,Cispatin Inj 10mg/20ml,19080674,Cisplatin 0.5 MG/ML Injectable Solution
+DR00507,Cispatin Inj 50mg/100ml,19080674,Cisplatin 0.5 MG/ML Injectable Solution
+DR00508,Cisplan inj 10mg/20ml,19080674,Cisplatin 0.5 MG/ML Injectable Solution
+DR00509,Cisplan inj 50mg/100ml,19080674,Cisplatin 0.5 MG/ML Injectable Solution
+DR00510,CITOPCIN,1797515,Ciprofloxacin 250 MG Oral Tablet
+DR00511,Citopcin inj <400mg/200ml>,19075375,Ciprofloxacin 2 MG/ML Injectable Solution
+DR00512,Citopcin Inj 200mg,19075375,Ciprofloxacin 2 MG/ML Injectable Solution
+DR00513,Citopcin inj.,19075375,Ciprofloxacin 2 MG/ML Injectable Solution
+DR00514,Citri-Lactitol powder 10g,19071236,lactitol
+DR00515,Claforan Inj 1g,19074903,Cefotaxime 300 MG/ML Injectable Solution
+DR00516,Clamoxin Inj 0.6g,1759851,Amoxicillin 50 MG/ML / Clavulanate 10 MG/ML Injectable Solution
+DR00517,Clanza CR Tab 200mg,19029393,aceclofenac
+DR00518,Clanza S soft cap,19029393,aceclofenac
+DR00519,Clanza-S Soft Cap 100mg(원외),19029393,aceclofenac
+DR00520,Clarityne Tab 10mg,1107882,Loratadine 10 MG Oral Tablet
+DR00521,Claroma Tab 250mg,1750501,Clarithromycin 250 MG Oral Tablet
+DR00522,Clease Tab,906149,TRYPSIN
+DR00523,CLEOCIN 2ML,19030822,Clindamycin 150 MG/ML Injectable Solution
+DR00524,Cleocin Inj 300mg,19030822,Clindamycin 150 MG/ML Injectable Solution
+DR00525,Clexane 40mg/0.4ml/PFS,40160973,0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+DR00526,Clid Tab 100mg,1302398,Ticlopidine
+DR00527,Clid Tab 250mg,19038901,Ticlopidine 250 MG Oral Tablet [Ticlid]
+DR00528,CLID TAB. 250MG,19079773,Ticlopidine 250 MG Oral Tablet
+DR00529,ClinOleic 20% 250ml/Bag,19070224,Soybean Oil
+DR00529,ClinOleic 20% 250ml/Bag,42900448,olive oil
+DR00530,Clobazam Tab 10mg,19021852,clobazam 10 MG Oral Tablet
+DR00531,Closerin Cap 250mg,1710447,Cycloserine 250 MG Oral Capsule
+DR00532,Clozaril Tab 100mg,800881,Clozapine 100 MG Oral Tablet
+DR00533,Clozaril Tab 25mg,800892,Clozapine 25 MG Oral Tablet
+DR00534,CoAprovel Tab 150/12.5mg,19078080,Hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet
+DR00535,COBALEXIN 2ML,19048026,cobamamide
+DR00536,CODARONE 200MG,1309992,Amiodarone hydrochloride 200 MG Oral Tablet
+DR00537,Codein 20mg,1201620,Codeine
+DR00538,Codeine Phosphate Tab 20mg,1201620,Codeine
+DR00539,Co-Diovan Tab 160/12.5mg(원외),19023454,Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet
+DR00540,Co-Diovan Tab 80/12.5mg,19023453,Hydrochlorothiazide 12.5 MG / valsartan 80 MG Oral Tablet
+DR00541,Codipine Tab 4mg,21601761,BENIDIPINE
+DR00542,COFREL 20MG,19056541,benproperine
+DR00543,Cofrel Tab 20mg,19056541,benproperine
+DR00544,COLCHICIN 0.6MG,1101556,Colchicine 0.6 MG Oral Tablet
+DR00545,Colchine Tab 0.6mg,1101556,Colchicine 0.6 MG Oral Tablet
+DR00546,Colistimethate inj. 150mg/VI,901845,Colistin
+DR00547,COLMIN ELIXIR/1ML,42901955,Brompheniramine Maleate 0.4 MG/ML / Phenylpropanolamine Hydrochloride 2.5 MG/ML Oral Solution
+DR00548,Colmin syr,42901955,Brompheniramine Maleate 0.4 MG/ML / Phenylpropanolamine Hydrochloride 2.5 MG/ML Oral Solution
+DR00549,Colmin-A Syr,19075187,Chlorpheniramine 0.4 MG/ML / Phenylephrine 1 MG/ML Oral Solution
+DR00550,Colyte F Pow(4L),986417,POLYETHYLENE GLYCOL 3350
+DR00551,Combiflex 1000ml (Central),21601159,COMBINATIONS
+DR00552,Combiflex Lipid Peri 1440ml,21601159,COMBINATIONS
+DR00553,Combiflex Lipid Peri 1920ml,21601159,COMBINATIONS
+DR00554,Combiflex Peri 1100ml,21601159,COMBINATIONS
+DR00555,Combizyme Tab,42904002,Aspergillus flavus var. oryzae
+DR00555,Combizyme Tab,926487,Pancreatin
+DR00556,Concor tab <5mg>,1338005,Bisoprolol
+DR00557,Concor Tab 2.5mg,40166188,Bisoprolol Fumarate 2.5 MG Oral Tablet
+DR00558,Concor Tab 5mg,40162878,Bisoprolol Fumarate 5 MG Oral Tablet
+DR00559,Copan Syr 0.1%,19097826,Clenbuterol 0.001 MG/ML Oral Solution
+DR00560,COPAN SYRUP 1ML,19097826,Clenbuterol 0.001 MG/ML Oral Solution
+DR00561,COPOLANG CAP 500MG,19135781,Polysaccharides
+DR00562,Copolang Gran 1.5g,19135781,Polysaccharides
+DR00563,Cordaron Tab 200mg,1309992,Amiodarone hydrochloride 200 MG Oral Tablet
+DR00564,Cordarone Inj 150mg/3ml,1309995,Amiodarone hydrochloride 50 MG/ML Injectable Solution
+DR00565,Cordarone inj 150mg/3ml/AM,1309995,Amiodarone hydrochloride 50 MG/ML Injectable Solution
+DR00566,Corticap Inj 100mg,975505,Hydrocortisone 50 MG/ML Injectable Solution
+DR00567,Corticap inj 100mg/VI,975505,Hydrocortisone 50 MG/ML Injectable Solution
+DR00568,Cortisolu inj 100mg/VI,975505,Hydrocortisone 50 MG/ML Injectable Solution
+DR00569,Cosopt Eye Drop 5ml,902489,dorzolamide 20 MG/ML / Timolol 5 MG/ML Ophthalmic Solution
+DR00570,Cosopt Eye Drops  5ML/BTL,902489,dorzolamide 20 MG/ML / Timolol 5 MG/ML Ophthalmic Solution
+DR00571,Cough Syr,1189596,dihydrocodeine
+DR00571,Cough Syr,19127637,Chlopheniramine
+DR00571,Cough Syr,42899698,N-methylephedrine
+DR00571,Cough Syr,912362,Ammonium Chloride
+DR00572,Cough syr-s(기침약),1119510,Dextromethorphan
+DR00572,Cough syr-s(기침약),19127637,Chlopheniramine
+DR00572,Cough syr-s(기침약),42899698,N-methylephedrine
+DR00572,Cough syr-s(기침약),912362,Ammonium Chloride
+DR00573,COUMADIN 5MG,40163554,Warfarin Sodium 5 MG Oral Tablet
+DR00574,Coumadin Tab 5mg,40163554,Warfarin Sodium 5 MG Oral Tablet
+DR00575,COUMADIN TAB.2MG,40163524,Warfarin Sodium 2 MG Oral Tablet
+DR00576,Cozaar Plus Tab,40184187,Hydrochlorothiazide 12.5 MG / Losartan Potassium 50 MG Oral Tablet
+DR00577,Cozaar Tab 100mg,40185276,Losartan Potassium 100 MG Oral Tablet
+DR00578,Cozaar Tab 50mg,40185304,Losartan Potassium 50 MG Oral Tablet
+DR00579,Cravit Inj 250mg/50ml,1742256,Levofloxacin 5 MG/ML Injectable Solution
+DR00580,Cravit inj 250mg/50ml/VI,1742256,Levofloxacin 5 MG/ML Injectable Solution
+DR00581,Cravit Inj 500mg/100ml,1742256,Levofloxacin 5 MG/ML Injectable Solution
+DR00582,Cravit inj 750mg/150ml/BT,1742256,Levofloxacin 5 MG/ML Injectable Solution
+DR00583,Cravit inj. 500mg/100ml/BT,1742256,Levofloxacin 5 MG/ML Injectable Solution
+DR00584,Cravit ophthalmic solutin,19080152,Levofloxacin 5 MG/ML Ophthalmic Solution
+DR00585,Cravit Opth Sol(5ml),19080152,Levofloxacin 5 MG/ML Ophthalmic Solution
+DR00586,Cravit tab <500mg>,1742255,Levofloxacin 500 MG Oral Tablet
+DR00587,Cravit Tab 100mg,19107185,Levofloxacin 100 MG Oral Tablet
+DR00588,Cravit Tab 250mg,1742254,Levofloxacin 250 MG Oral Tablet
+DR00589,Cravit Tab 500mg,1742255,Levofloxacin 500 MG Oral Tablet
+DR00590,Crenol Inj 100mg/1ml,19063806,Tolperisone 100 MG/ML Injectable Solution
+DR00591,Crestor tab 10mg,40165245,Rosuvastatin calcium 10 MG Oral Tablet
+DR00592,Curan inj 100mg/4ml/AM,961167,Ranitidine 25 MG/ML Injectable Solution
+DR00593,Curan Inj 50mg/2ml,961167,Ranitidine 25 MG/ML Injectable Solution
+DR00594,Curan Tab 150mg,961050,Ranitidine 150 MG Oral Tablet
+DR00595,Curan Tab 75mg,961168,Ranitidine 75 MG Oral Tablet
+DR00596,Curan Tab. 300MG/Tab.,961082,Ranitidine 300 MG Oral Tablet
+DR00597,CURAsthen Sol 1g/20ml/PAK,19097664,Citrulline
+DR00598,Cycin inj <400mg/200ml>,19075375,Ciprofloxacin 2 MG/ML Injectable Solution
+DR00599,Cycin Inj 200mg,19075375,Ciprofloxacin 2 MG/ML Injectable Solution
+DR00600,Cycin inj 200mg/100ml/VI,19075375,Ciprofloxacin 2 MG/ML Injectable Solution
+DR00601,Cycin Inj 400mg/200ml(Bag),19075375,Ciprofloxacin 2 MG/ML Injectable Solution
+DR00602,Cymbalta Cap 60mg,715300,duloxetine 60 MG Enteric Coated Capsule
+DR00603,cymevene 500mg,1757803,Ganciclovir
+DR00604,Cymevene Inj 500mg,1757803,Ganciclovir
+DR00605,Cytosar-U inj 100mg/VI,19057780,Cytarabine 20 MG/ML Injectable Solution
+DR00606,CYTOTEC 200MG,1150926,Misoprostol 0.2 MG Oral Tablet
+DR00607,Cytotec Tab 200ug,1150926,Misoprostol 0.2 MG Oral Tablet
+DR00608,Dages Cap ,19031378,Pepsin A
+DR00608,Dages Cap ,919204,Amylases
+DR00608,dages cap,926487,Pancreatin
+DR00608,dages cap,926770,Papain
+DR00608,dages cap,986515,CELLULASE
+DR00608,dages cap,988095,ursodeoxycholate
+DR00608,dages cap,990340,Pancrelipase
+DR00609,Daonil Tab 5mg,19077682,Glyburide 5 MG Oral Tablet
+DR00610,DAONIL TAB. 5MG,19077682,Glyburide 5 MG Oral Tablet
+DR00611,Decapeptyl-Depot Inj 3.75mg/PFS,42903025,Triptorelin 1.88 MG/ML Prefilled Syringe
+DR00612,DECAQUINON 5MG,1351115,coenzyme Q10
+DR00613,Dendri sol'n 0.1% (30ml),19063848,Betamethasone 1 MG/ML Topical Solution
+DR00614,Denogan Inj 1g,1125315,Acetaminophen
+DR00615,Denol Tab 300mg(원외),19107204,bismuth tripotassium dicitrate 300 MG Oral Tablet
+DR00616,depakin inj. 400mg,40237993,Valproic Acid 100 MG/ML Injectable Solution
+DR00617,depakin tab 500mg,40238256,Divalproex Sodium 500 MG Extended Release Tablet
+DR00618,Depakine 300mg Chrono Tab,745466,Valproate
+DR00619,Depakine 500mg Chrono Tab,40237529,24 HR Divalproex Sodium 500 MG Extended Release Tablet
+DR00620,Depakine Inj 400mg,40237993,Valproic Acid 100 MG/ML Injectable Solution
+DR00621,Depakote ER Tab 500mg,40238256,Divalproex Sodium 500 MG Extended Release Tablet
+DR00622,Depakote tab 250mg,40238248,Divalproex Sodium 250 MG Extended Release Tablet
+DR00623,Depas Tab 0.5mg,21604584,ETIZOLAM
+DR00624,DEPO-FEMIN 5MG/VIAL,19077055,Estradiol 5 MG/ML Injectable Solution
+DR00625,Depomedrol Inj 40mg/1ml,42902110,methylprednisolone acetate 40 MG/ML Injectable Suspension
+DR00626,dermatop cream 10g,19104872,prednicarbate 0.0025 MG/MG Topical Ointment
+DR00627,Dermatop Oint 0.25%(10g),19104872,prednicarbate 0.0025 MG/MG Topical Ointment
+DR00628,DesOwen Lotion (0.05% 120ml),917207,Desonide 0.5 MG/ML Topical Lotion
+DR00629,DesOwen Lotion 0.05%,917205,Desonide
+DR00630,Detrusitol SR Cap 2mg,40163787,tolterodine tartrate 2 MG Extended Release Capsule
+DR00631,Detrusitol SR cap 4mg,40163793,tolterodine tartrate 4 MG Extended Release Capsule
+DR00632,Detrusitol SR cap.2mg,40163787,tolterodine tartrate 2 MG Extended Release Capsule
+DR00633,Detrusitol Tab. 2MG/Tab.,40163789,tolterodine tartrate 2 MG Oral Tablet
+DR00634,DEXAMETHASONE 0.5MG,1518258,Dexamethasone 0.5 MG Oral Tablet
+DR00635,Dexamethasone Inj.5MG/1ML(통증),19006963,Dexamethasone 5 MG/ML Injectable Solution
+DR00636,Dexamethasone Tab 0.5mg 유한,1518258,Dexamethasone 0.5 MG Oral Tablet
+DR00637,Dexa-S Inj 5mg/1ml,19006963,Dexamethasone 5 MG/ML Injectable Solution
+DR00638,Dextrose(D/W) 10% 1000ml,1560553,Glucose 100 MG/ML Injectable Solution
+DR00639,Dextrose(D/W) 15% 1000ml,19009602,Glucose 150 MG/ML Injectable Solution
+DR00640,Dextrose(D/W) 20% 20ml,1560554,Glucose 200 MG/ML Injectable Solution
+DR00641,Dextrose(D/W) 20% 300ml(대한),1560554,Glucose 200 MG/ML Injectable Solution
+DR00642,Dextrose(D/W) 5% 1000ml(대한),19076324,Glucose 50 MG/ML Injectable Solution
+DR00643,Dextrose(D/W) 5% 100ml(iv용)(PP)(중외),19076324,Glucose 50 MG/ML Injectable Solution
+DR00644,Dextrose(D/W) 5% 100ml(mix용)(PP)(중외),19076324,Glucose 50 MG/ML Injectable Solution
+DR00645,Dextrose(D/W) 5% 200ml,19076324,Glucose 50 MG/ML Injectable Solution
+DR00646,Dextrose(D/W) 5% 200ml(대한),19076324,Glucose 50 MG/ML Injectable Solution
+DR00647,Dextrose(D/W) 5% 200ml(CJ)(bag),19076324,Glucose 50 MG/ML Injectable Solution
+DR00648,Dextrose(D/W) 5% 500ml(대한),19076324,Glucose 50 MG/ML Injectable Solution
+DR00649,Dextrose(D/W) 5% 50ml(PP)(중외),19076324,Glucose 50 MG/ML Injectable Solution
+DR00650,Dextrose(D/W) 50% 100ml,1560556,Glucose 500 MG/ML Injectable Solution
+DR00651,Dextrose5% NaCl(D/S) 1000ml(bag),967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
+DR00652,Dextrose5% NaCl(D/S) 500ml(bag),967825,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution
+DR00653,Diabex XR Tab 500mg,40164925,Metformin hydrochloride 500 MG Extended Release Tablet
+DR00654,Diabex XR tab. 500MG,40164925,Metformin hydrochloride 500 MG Extended Release Tablet
+DR00655,DIAMICRON 80MG,19059797,Gliclazide 80 MG Oral Tablet
+DR00656,Diamicron MR 30mg,19101729,Gliclazide 30 MG Extended Release Tablet
+DR00657,Diamicron Tab 80mg,19059797,Gliclazide 80 MG Oral Tablet
+DR00658,DIAMOX 250MG,19018781,Acetazolamide 250 MG Oral Tablet
+DR00659,Diamox Tab 250mg,19018781,Acetazolamide 250 MG Oral Tablet
+DR00660,Dianeal 1.5% (2L/TB),21601191,PERITONEAL DIALYTICS
+DR00661,Dianeal 4.25% (2L/TB),21601191,PERITONEAL DIALYTICS
+DR00662,DIAZEPAM 10MG,19076374,Diazepam 5 MG/ML Injectable Solution
+DR00663,DIAZEPAM 2MG,19018909,Diazepam 2 MG Oral Tablet
+DR00664,DIAZEPAM 5MG,723042,Diazepam 5 MG Oral Tablet
+DR00665,Diazepam Inj 10mg/2ml,19076374,Diazepam 5 MG/ML Injectable Solution
+DR00666,Dicamax Tab,19016422,Calcium Carbonate 1250 MG / Cholecalciferol 0.01 MG Oral Tablet
+DR00667,DICETEL 50MG,19025200,pinaverium 50 MG Oral Tablet
+DR00668,Dicetel Tab 50mg,19025200,pinaverium 50 MG Oral Tablet
+DR00669,DICHLOZID (=D-C) 25MG,19078106,Hydrochlorothiazide 25 MG Oral Tablet
+DR00670,Dichlozid Tab 25mg,19078106,Hydrochlorothiazide 25 MG Oral Tablet
+DR00671,Dicknol Inj 90mg/2ml,21603945,DICLOFENAC
+DR00672,Diflucan Cap 50mg,1755001,Fluconazole 50 MG Oral Capsule
+DR00673,Diflucan Inj 100mg/50ml,1755040,Fluconazole 2 MG/ML Injectable Solution
+DR00674,Diflucan inj 100mg/50ml/VI,1755040,Fluconazole 2 MG/ML Injectable Solution
+DR00675,Diflucan Syrup 10mg/ml,19077380,Fluconazole 10 MG/ML Oral Suspension
+DR00676,Digosin Tab 0.25mg 한일,19018937,Digoxin 0.25 MG Oral Tablet
+DR00677,DIGOXIN 0.25MG,19018937,Digoxin 0.25 MG Oral Tablet
+DR00678,Digoxin Inj 0.25mg/1ml,19003514,Digoxin 0.25 MG/ML Injectable Solution
+DR00679,Digoxin inj 0.25mg/1ml/AM,19003514,Digoxin 0.25 MG/ML Injectable Solution
+DR00680,DILANTIN 100MG,40163210,Phenytoin sodium 100 MG Oral Capsule
+DR00681,Dilatrend 25mg (=carvedilol),19022781,carvedilol 25 MG Oral Tablet
+DR00682,Dilatrend Tab 12.5mg,19022750,carvedilol 12.5 MG Oral Tablet
+DR00683,Dilatrend Tab 25mg,19022781,carvedilol 25 MG Oral Tablet
+DR00684,Dilatrend Tab 6.25mg,19022749,carvedilol 6.25 MG Oral Tablet
+DR00685,Diltelan S.R Cap 180mg,1328585,Diltiazem Hydrochloride 180 MG Extended Release Capsule
+DR00686,Dimcef inj. 1g/VI,19079951,Ceftazidime 280 MG/ML Injectable Solution
+DR00687,Diogel Susp 17g/P,21600048,MAGNESIUM COMPOUNDS
+DR00688,Diovan Tab 160mg,19096678,valsartan 160 MG Oral Tablet
+DR00689,Diovan tab 80mg,1308851,valsartan 80 MG Oral Tablet
+DR00690,Dipexin Inj 90mg/2ml,1124300,Diclofenac
+DR00691,Diprivan PFS 500mg,753629,Propofol 10 MG/ML Injectable Suspension
+DR00692,Disgren Cap 300mg,19042779,triflusal 300 MG Oral Capsule
+DR00693,Disgren cap. 300mg,19042779,triflusal 300 MG Oral Capsule
+DR00694,DITROPAN 5MG,40166448,Oxybutynin chloride 5 MG Oral Tablet
+DR00695,Doburan Inj 250mg/5ml,19065473,Dobutamine 50 MG/ML Injectable Solution
+DR00696,Dobutamine 1000mg/500ml,1337720,Dobutamine
+DR00696,Dobutamine 1000mg/500ml,19097059,DEXTROSE SOLUTION
+DR00697,Dobutamine 2000mg/500ml,1337720,Dobutamine
+DR00697,Dobutamine 2000mg/500ml,19097059,DEXTROSE SOLUTION
+DR00698,Dobutamine Inj 250mg/5ml,19065473,Dobutamine 50 MG/ML Injectable Solution
+DR00699,Doltramcet tab.,1103359,Acetaminophen 325 MG / Tramadol Hydrochloride 37.5 MG Oral Tablet
+DR00700,Domperidone granule 10mg/g,19062160,Domperidone 10 MG Granules
+DR00701,Domperidone Susp(대원) 1mg/ml,19062181,Domperidone 1 MG/ML Oral Suspension
+DR00702,Dopamin prefilled 400mg,40240704,Dopamine Hydrochloride 80 MG/ML Injectable Solution
+DR00703,Dopamine 800mg/500ml,1337860,Dopamine
+DR00703,Dopamine 800mg/500ml,19097059,DEXTROSE SOLUTION
+DR00704,Dopasin Inj 200mg/5ml,40240700,Dopamine Hydrochloride 40 MG/ML Injectable Solution
+DR00705,Dopramin Inj 200mg/5ml,40240700,Dopamine Hydrochloride 40 MG/ML Injectable Solution
+DR00706,Dopramin Inj 50mg,42799677,Dopamine Hydrochloride 10 MG/ML Injectable Solution
+DR00707,Dopramine inj 200mg/5ml/AM,40240700,Dopamine Hydrochloride 40 MG/ML Injectable Solution
+DR00708,Dormicum 15mg/3ml Inj (향),19078925,Midazolam 5 MG/ML Injectable Solution
+DR00709,DORMICUM 주 5mg(수),19078924,Midazolam 1 MG/ML Injectable Solution
+DR00710,Dormicum Inj 15mg/3ml,19078925,Midazolam 5 MG/ML Injectable Solution
+DR00711,Dormicum Inj 5mg/5ml,19078924,Midazolam 1 MG/ML Injectable Solution
+DR00712,Doxazosin Tab 2mg,1363058,Doxazosin 2 MG Oral Tablet
+DR00713,DOXIUM 250MG,19107815,Calcium Dobesilate 250 MG Oral Tablet
+DR00714,Doxium Tab 250mg,19107815,Calcium Dobesilate 250 MG Oral Tablet
+DR00715,DRAMAMIN 50MG,19020367,Dimenhydrinate 50 MG Oral Tablet
+DR00716,Dramamin Tab 50mg,19020367,Dimenhydrinate 50 MG Oral Tablet
+DR00717,DULCOLAX SUP,19020131,Bisacodyl 10 MG Rectal Suppository
+DR00718,Dulcolax Suppo,19020131,Bisacodyl 10 MG Rectal Suppository
+DR00719,Duolax Tab,924939,Bisacodyl
+DR00719,Duolax Tab,941258,Docusate
+DR00720,Duphalac syr 15ml/PA,19003454,Lactulose 670 MG/ML Oral Solution
+DR00721,DUPHALAC SYRUP,19003454,Lactulose 670 MG/ML Oral Solution
+DR00722,Duphalac(간성혼수) Syr,19003454,Lactulose 670 MG/ML Oral Solution
+DR00723,Duphalac-easy syrup 15ml/PA,19003454,Lactulose 670 MG/ML Oral Solution
+DR00724,Duraprox tab 200mg,19106212,oxaprozin 200 MG Oral Tablet
+DR00725,Duratears Eye oint(3.5g),19087317,Lanolin
+DR00726,DURATEARS OINT 3.5MG,19087317,Lanolin
+DR00727,Duricef Cap 500mg,19074847,Cefadroxil 500 MG Oral Capsule
+DR00728,Duricef Syr 25mg/ml,19006468,Cefadroxil 25 MG/ML Oral Suspension
+DR00729,durogesic patch 5.0mg,1154063,Fentanyl 0.05 MG/HR 72 Hour Transdermal Patch
+DR00730,Durogesic Patch(100mcg/hr),1154064,Fentanyl 0.1 MG/HR 72 Hour Transdermal Patch
+DR00731,Durogesic Patch(12mcg/hr),19121195,Fentanyl 0.012 MG/HR 72 Hour Transdermal Patch
+DR00732,Durogesic Patch(25mcg/hr),1154062,Fentanyl 0.025 MG/HR 72 Hour Transdermal Patch
+DR00733,Durogesic Patch(50mcg/hr),1154063,Fentanyl 0.05 MG/HR 72 Hour Transdermal Patch
+DR00734,durogesic patch2.5mg,1154062,Fentanyl 0.025 MG/HR 72 Hour Transdermal Patch
+DR00735,Dutenol Inj 500mg/2ml,19079982,dexpanthenol 250 MG/ML Injectable Solution
+DR00736,Dutenol inj 500mg/2ml/AM,19079982,dexpanthenol 250 MG/ML Injectable Solution
+DR00737,Dynabac Tab. 250Mg,1790024,dirithromycin
+DR00738,Ebastel syr 1mg/ml,19092435,ebastine 1 MG/ML Oral Solution
+DR00739,Ebastel Tab,19064800,ebastine 10 MG Oral Tablet
+DR00740,Ebiose Pow.,19066564,"ENZYMES,DIGESTIVE (PLANT)"
+DR00741,Ebixa Tab 10mg,40222834,Memantine hydrochloride 10 MG Oral Tablet
+DR00742,Ecolicin 안연고 3.5g/Tube,1701677,colistimethate
+DR00742,Ecolicin 안연고 3.5g/Tube,1746940,Erythromycin
+DR00743,Ecolicin Eye Drop (5ml/Bot),1701677,colistimethate
+DR00743,Ecolicin Eye Drop (5ml/Bot),1746940,Erythromycin
+DR00744,Efexor XR 75mg,19103819,venlafaxine 75 MG Extended Release Capsule
+DR00745,Efexor XR SR Cap.75MG/CAP,19103819,venlafaxine 75 MG Extended Release Capsule
+DR00746,Eglandin Inj 10mcg/2ml,1381509,Alprostadil 0.005 MG/ML Injectable Solution
+DR00747,Eglandin inj 10mcg/2ml/AM,1381509,Alprostadil 0.005 MG/ML Injectable Solution
+DR00748,ELANTAN 20MG,1383851,Isosorbide Mononitrate 20 MG Oral Tablet
+DR00749,Elantan SR Tab 60mg,1383862,Isosorbide Mononitrate 60 MG Extended Release Tablet
+DR00750,Elidel Cr 1% 30g,19115253,Pimecrolimus 10 MG/ML Topical Cream
+DR00751,Eloxatin Inj 100mg/20ml,1318042,oxaliplatin 5 MG/ML Injectable Solution
+DR00752,Eloxatin inj 100mg/20ml/VI,1318042,oxaliplatin 5 MG/ML Injectable Solution
+DR00753,Eloxatin inj. 50mg/10ml/VI,1318042,oxaliplatin 5 MG/ML Injectable Solution
+DR00754,Emend Cap 80mg,19102465,aprepitant 80 MG Oral Capsule
+DR00755,Emend cap. 125mg,19102466,aprepitant 125 MG Oral Capsule
+DR00756,Emend cap. 80mg,19102465,aprepitant 80 MG Oral Capsule
+DR00757,Empynase-S Tab 36mg,21604175,ENZYMES
+DR00758,Enafon Tab 10mg,40162672,Amitriptyline Hydrochloride 10 MG Oral Tablet
+DR00759,ENAPRIN 10MG,40165762,Enalapril Maleate 10 MG Oral Tablet
+DR00760,Enaprin Tab 10mg,40165762,Enalapril Maleate 10 MG Oral Tablet
+DR00761,Encover Sol 400ml,21600801,"MULTIVITAMINS, COMBINATIONS"
+DR00762,Encover Sol(밀크맛) 200ml,21600801,"MULTIVITAMINS, COMBINATIONS"
+DR00763,Endoxan inj 500mg/VI,1310317,Cyclophosphamide
+DR00764,Ensure (250ml/Can),21600801,"MULTIVITAMINS, COMBINATIONS"
+DR00765,Entelon Tab 150mg,42904225,Vitis vinifera whole extract
+DR00766,Entelon tab 50mg,42904225,Vitis vinifera whole extract
+DR00767,Entelon Tab 50mg(원외),42904225,Vitis vinifera whole extract
+DR00768,Entobar Inj 100mg/2ml,19057198,Pentobarbital 50 MG/ML Injectable Solution
+DR00769,Ephedrine Inj 4% 40mg/1ml,1143374,Ephedrine
+DR00770,Ephedrine inj 40mg/1ml/AM,1143374,Ephedrine
+DR00771,EPInephrine Inj 1mg/1ml,19076899,Epinephrine 1 MG/ML Injectable Solution
+DR00772,Epinephrine inj 1mg/1ml/AM,19076899,Epinephrine 1 MG/ML Injectable Solution
+DR00773,Epocelin Inj 1g,19028313,Ceftriaxone 350 MG/ML Injectable Solution
+DR00774,Epocerin 1G,1777254,Ceftizoxime
+DR00775,Epokine 2000IU/Vial,1301169,Epoetin Alfa 2000 UNT/ML Injectable Solution
+DR00776,Epokine 2000unit/0.5ml/PFS,19129864,0.5 ML Epoetin Alfa 4000 UNT/ML Prefilled Syringe
+DR00777,Epokine 4000unit/0.4ml/PFS,19129860,0.4 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
+DR00778,Epokine 6000unit/0.6ml/PFS,19127226,0.6 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
+DR00779,Epokine prefilled 10000IU/1ml(냉),19129863,1 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
+DR00780,Epokine prefilled 3000U(냉),19129859,0.3 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
+DR00781,Epokine prefilled 4000IU/syr.(냉),19129860,0.4 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
+DR00782,Epokine prefilled 6000IU/0.6ml(냉),19127226,0.6 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
+DR00783,Epokine prefilled 8000IU/0.8ml(냉),19129861,0.8 ML Epoetin Alfa 10000 UNT/ML Prefilled Syringe
+DR00784,Epokine prefilled Inj. 2000iu,19129864,0.5 ML Epoetin Alfa 4000 UNT/ML Prefilled Syringe
+DR00785,Eposin Inj 100mg/5ml,19077215,Etoposide 20 MG/ML Injectable Solution
+DR00786,EPS inj 150mg/7.5ml/VI,19077215,Etoposide 20 MG/ML Injectable Solution
+DR00787,Ercefuryl susp,19060196,nifuroxazide 44 MG/ML Oral Suspension
+DR00788,Erdos Cap 300mg,19103434,erdosteine 300 MG Oral Capsule
+DR00789,Erdos Syr,19105308,erdosteine 35 MG/ML Oral Suspension
+DR00790,Erdos syrup 35mg/ml,19105308,erdosteine 35 MG/ML Oral Suspension
+DR00791,ERGONOVIN,1305637,Methylergonovine
+DR00792,Eruvin Inj 0.2mg/1ml,40222885,Methylergonovine Maleate 0.2 MG/ML Injectable Solution
+DR00793,Esbix Inj 50mg/5ml,19104404,4-aminomethylbenzoic acid 10 MG/ML Injectable Solution
+DR00794,Esmeron Inj 25mg/2.5ml,42707627,rocuronium bromide 10 MG/ML Injectable Solution
+DR00795,Esmeron Inj 50mg/5ml,42707627,rocuronium bromide 10 MG/ML Injectable Solution
+DR00796,Esmeron Inj. 50MG/Vial,42707627,rocuronium bromide 10 MG/ML Injectable Solution
+DR00797,Esomezole cap 20mg,904456,Esomeprazole 20 MG Oral Capsule
+DR00798,Esperson gel 0.05% (15g),19080680,Desoximetasone 0.0005 MG/MG Topical Gel
+DR00799,Esperson Lotion 0.25% (20ml),19115084,Desoximetasone 2.5 MG/ML Topical Lotion
+DR00800,Esperson Lotion 20ML,917336,Desoximetasone
+DR00801,Essential Forte Cap,1308738,Vitamin B 12
+DR00801,Essential Forte Cap,19005046,pyridoxine
+DR00801,Essential Forte Cap,19018419,Niacinamide
+DR00801,Essential Forte Cap,19062817,Riboflavin
+DR00801,Essential Forte Cap,19137312,Thiamine
+DR00801,Essential Forte Cap,42709318,Tocopherol
+DR00802,Etheophyl Cap 100mg,1237050,Theophylline 100 MG Oral Capsule
+DR00803,Etomidate-Lipuro Inj 20mg/10ml,19050489,Etomidate 2 MG/ML Injectable Solution
+DR00804,ETRAVIL 10MG,40162672,Amitriptyline Hydrochloride 10 MG Oral Tablet
+DR00805,Etravil Tab 10mg,40162672,Amitriptyline Hydrochloride 10 MG Oral Tablet
+DR00806,Etravil Tab 25mg,40162717,Amitriptyline Hydrochloride 25 MG Oral Tablet
+DR00807,Eutropin Inj 4unit,1585211,Somatropin 1.33 MG/ML Injectable Solution
+DR00808,Evista Tab 60mg,1513105,Raloxifene 60 MG Oral Tablet
+DR00809,Evoprim Cap,19123763,gamma-Linolenate 40 MG Oral Capsule
+DR00810,Evoprim soft cap 40mg,19123763,gamma-Linolenate 40 MG Oral Capsule
+DR00811,Excegran tab 100mg,19066366,zonisamide 100 MG Oral Tablet
+DR00812,Exforge Tab 5/160mg,1332527,Amlodipine 5 MG / valsartan 160 MG Oral Tablet
+DR00813,Exforge Tab 5/80mg,1308842,valsartan
+DR00813,Exforge Tab 5/80mg,1332418,Amlodipine
+DR00814,Exoperine Tab 50mg,21604123,EPERISONE
+DR00815,Fastic Tab 90mg,19107110,nateglinide 90 MG Oral Tablet
+DR00816,FD Caine (1:10만)(처치용) 1.8ml,42799043,1.8 ML Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe
+DR00817,Fenatussin Cap 200mg,1163948,Guaifenesin 200 MG Oral Capsule
+DR00818,Fentanyl 0.1mg/2ml inj.,19034073,Fentanyl 0.05 MG/ML Injectable Solution
+DR00819,Fentanyl 0.5MG/10ML Inj.,19034073,Fentanyl 0.05 MG/ML Injectable Solution
+DR00820,FENTANYL 2ML,19034073,Fentanyl 0.05 MG/ML Injectable Solution
+DR00821,Fentanyl Inj 0.1mg/2ml,19034073,Fentanyl 0.05 MG/ML Injectable Solution
+DR00822,Fentanyl Inj 1000mcg/20ml,19034073,Fentanyl 0.05 MG/ML Injectable Solution
+DR00823,Fentanyl inj 1000mcg/20ml(PP),19034073,Fentanyl 0.05 MG/ML Injectable Solution
+DR00824,Fentanyl Inj 500mcg/10ml,19034073,Fentanyl 0.05 MG/ML Injectable Solution
+DR00825,Fentanyl inj 500mcg/10ml(PP),19034073,Fentanyl 0.05 MG/ML Injectable Solution
+DR00826,FENTANYL Inj 50mcg/1ml,19034073,Fentanyl 0.05 MG/ML Injectable Solution
+DR00827,Ferbon inj 1% 300mg/30ml/VI,1388826,Leucovorin 10 MG/ML Injectable Solution
+DR00828,Ferbon inj. 100mg/10ml/AM,1388826,Leucovorin 10 MG/ML Injectable Solution
+DR00829,Ferbon inj. 15mg/1ml/AM,1388796,Leucovorin
+DR00830,Ferbon inj. 3mg/1ml/AM,19062464,Leucovorin 3 MG/ML Injectable Solution
+DR00831,Feroba-U tab.,19107039,ferrous sulfate 256 MG Oral Tablet
+DR00832,Feroba-You SR 256mg,19107039,ferrous sulfate 256 MG Oral Tablet
+DR00833,Ferrum Kid Sol 45ml,19041135,teferrol
+DR00834,Ferrumkid solution,19041135,teferrol
+DR00835,Festal Gold Tab,42904002,Aspergillus flavus var. oryzae
+DR00835,Festal Gold Tab,926487,Pancreatin
+DR00835,Festal Gold Tab,966991,Simethicone
+DR00835,Festal Gold Tab,986515,CELLULASE
+DR00835,Festal Gold Tab,988095,ursodeoxycholate
+DR00835,Festal Gold Tab,990760,Lipase
+DR00836,Festal Plus Tab,926487,Pancreatin
+DR00836,Festal Plus Tab,966991,Simethicone
+DR00836,Festal Plus Tab,986515,CELLULASE
+DR00836,Festal Plus Tab,988095,ursodeoxycholate
+DR00837,FEXADINE 100MG,19103421,fenoverine 100 MG Oral Capsule
+DR00838,Fibrix inj 50mg/5ml/AM,1726228,p-Aminosalicylic Acid
+DR00839,Finastar tab 5mg,19077375,Finasteride 5 MG Oral Tablet
+DR00840,Finibax inj 0.25g/VI,1713905,doripenem
+DR00841,Finte Tab 40mg,21601746,DIHYDROPYRIDINE DERIVATIVES
+DR00842,Flacin Tab 100mg,19106088,Ofloxacin 100 MG Oral Tablet
+DR00843,Flagyl Inj 500mg,1707348,Metronidazole 5 MG/ML Injectable Solution
+DR00844,Flagyl inj 500mg/100ml/BT,1707348,Metronidazole 5 MG/ML Injectable Solution
+DR00845,FLASINYL 250MG,19080187,Metronidazole 250 MG Oral Tablet
+DR00846,Flasinyl Tab 250mg,19080187,Metronidazole 250 MG Oral Tablet
+DR00847,Fleet Enema 133ml,991740,"Sodium Phosphate, Monobasic 160 MG/ML / SODIUM PHOSPHATE,DIBASIC 60 MG/ML Enema"
+DR00848,Fleet Phospho-Soda 45ml,991732,"Sodium Phosphate, Monobasic 480 MG/ML / SODIUM PHOSPHATE,DIBASIC 180 MG/ML Oral Solution"
+DR00849,Fleet Phospho-Soda 90ml,991732,"Sodium Phosphate, Monobasic 480 MG/ML / SODIUM PHOSPHATE,DIBASIC 180 MG/ML Oral Solution"
+DR00850,Flivas tab 75mg,21602667,ALPHA-ADRENORECEPTOR ANTAGONISTS
+DR00851,Flixonase Nasal Spray,40169220,120 ACTUAT Fluticasone propionate 0.05 MG/ACTUAT Nasal Inhaler
+DR00852,Flixonase Nasal Spray 50mcg(수,40169220,120 ACTUAT Fluticasone propionate 0.05 MG/ACTUAT Nasal Inhaler
+DR00853,Flomox Tab 100mg,21602911,CEFCAPENE
+DR00854,Flospan Tab 80mg,19041222,Phloroglucinol
+DR00855,FLUCON EYE DROP 5ML,19077438,Fluorometholone 1 MG/ML Ophthalmic Suspension
+DR00856,Fluconazole cap 50mg,1755001,Fluconazole 50 MG Oral Capsule
+DR00857,Fludex SR 1.5mg,19063005,Indapamide 1.5 MG Extended Release Tablet
+DR00858,Flumarin Inj 0.5g,40255562,FLOMOXEF
+DR00859,Flumetholon Eye Drop 5ml(0.1%),19077438,Fluorometholone 1 MG/ML Ophthalmic Suspension
+DR00860,Flunil Inj 0.5mg/5ml,19027624,Flumazenil 0.1 MG/ML Injectable Solution
+DR00861,Fluoron T eye drop 5ml/BT,19062157,Fluorometholone 1 MG/ML / tetrahydrozoline 0.25 MG/ML Ophthalmic Solution
+DR00862,Foipan Tab 100mg,43532444,mesylate
+DR00863,FOLIC ACID 1MG,19077513,Folic Acid 1 MG Oral Tablet
+DR00864,Folic acid Tab 1mg,19077513,Folic Acid 1 MG Oral Tablet
+DR00865,Folin Tab 1mg,19077513,Folic Acid 1 MG Oral Tablet
+DR00866,Fontiam inj. 1g/VI,19051271,Cefotiam
+DR00867,Forlax Powder 10g,948515,Polyethylene Glycols
+DR00868,Fortimicin Inj 200mg,21602994,OTHER AMINOGLYCOSIDES
+DR00869,Fortum inj. 1g/VI,19079951,Ceftazidime 280 MG/ML Injectable Solution
+DR00870,Fosamax Plus D Tab 70mg/5600,40173609,Alendronic acid 70 MG / Cholecalciferol 5600 UNT Oral Tablet
+DR00871,Fosamax plus-D tab.,40173609,Alendronic acid 70 MG / Cholecalciferol 5600 UNT Oral Tablet
+DR00872,Fostase Tab,19005512,Trimebutine
+DR00872,Fostase Tab,19018438,aluminum magnesium silicate
+DR00872,Fostase Tab,19035704,Calcium Carbonate
+DR00872,Fostase Tab,43013634,Glycyrrhiza glabra extract
+DR00872,Fostase Tab,939506,Sodium Bicarbonate
+DR00872,Fostase Tab,990760,Lipase
+DR00873,Foy Inj 100mg,21601027,OTHER ANTITHROMBOTIC AGENTS
+DR00874,Fragmin inj 7500IU/0.3ml/syr.,40177152,0.3 ML Dalteparin Sodium 25000 UNT/ML Prefilled Syringe
+DR00875,Fravasol 10% 500ml/Bag,19130902,Alanine 5.4 MG/ML / Arginine 12 MG/ML / Aspartate 3.2 MG/ML / Cysteine 0.24 MG/ML / Glutamate 5 MG/ML / Glycine 3.6 MG/ML / Histidine 4.8 MG/ML / Isoleucine 8.2 MG/ML / Leucine 1.4 MG/ML / Lysine 1.2 MG/ML / Methionine 3.4 MG/ML / Phenylalanine 4.8 MG/ML /
+DR00876,Fraxiparine inj 2850IU/0.3ml(Pre-filled),19001016,Nadroparin 9500 UNT/ML Injectable Solution
+DR00877,Fraxiparine inj. 5700IU/0.6ml(Pre-filled),19001016,Nadroparin 9500 UNT/ML Injectable Solution
+DR00878,Freamine 10% 500ml/Bag,19130902,Alanine 5.4 MG/ML / Arginine 12 MG/ML / Aspartate 3.2 MG/ML / Cysteine 0.24 MG/ML / Glutamate 5 MG/ML / Glycine 3.6 MG/ML / Histidine 4.8 MG/ML / Isoleucine 8.2 MG/ML / Leucine 1.4 MG/ML / Lysine 1.2 MG/ML / Methionine 3.4 MG/ML / Phenylalanine 4.8 MG/ML /
+DR00879,Freamine 8.5% 500ml/Bag,19130649,Alanine 8.44 MG/ML / Arginine 8.65 MG/ML / Aspartate 5.95 MG/ML / Glutamate 6.27 MG/ML / Glycine 4.25 MG/ML / Histidine 2.55 MG/ML / Isoleucine 5.61 MG/ML / Leucine 8.5 MG/ML / Lysine 8.93 MG/ML / Methionine 1.46 MG/ML / Phenylalanine 2.53 MG/ML / Proline
+DR00880,Fresofol Inj 1% 200mg/20ml,753629,Propofol 10 MG/ML Injectable Suspension
+DR00881,Fresofol inj 1% 20ml(200mg/20ml/AM)(향),753629,Propofol 10 MG/ML Injectable Suspension
+DR00882,Fresofol inj 1% 20ml(내시경실전용)(향),753629,Propofol 10 MG/ML Injectable Suspension
+DR00883,Fresofol inj 2% 50ml(1000mg/50ml/VI)(향),753627,Propofol 20 MG/ML Injectable Suspension
+DR00884,Fresofol Inj 2%1000mg/50ml,753627,Propofol 20 MG/ML Injectable Suspension
+DR00885,Fresofol MCT Inj 2% 1000mg/50ml,753627,Propofol 20 MG/ML Injectable Suspension
+DR00886,Fullgram Inj 300mg/2ml,19030822,Clindamycin 150 MG/ML Injectable Solution
+DR00887,Fullgram Inj 600mg/4ml,19030822,Clindamycin 150 MG/ML Injectable Solution
+DR00888,Fungizone Inj 50mg,1717240,Amphotericin B
+DR00889,Fungizone inj. 50mg/VI,19057592,Amphotericin B 5 MG/ML Injectable Solution
+DR00890,Furtman Inj,19008897,manganese sulfate
+DR00890,Furtman Inj,19044522,Zinc Sulfate
+DR00890,Furtman Inj,19049877,chromic chloride
+DR00890,Furtman Inj,43525928,Cupric
+DR00891,FurTMAn Inj 2ml,19008897,manganese sulfate
+DR00891,FurTMAn Inj 2ml,19044522,Zinc Sulfate
+DR00891,FurTMAn Inj 2ml,19049877,chromic chloride
+DR00891,FurTMAn Inj 2ml,43525928,Cupric
+DR00892,Fusidin cream 10g,19010492,Fusidate 0.02 MG/MG Topical Gel
+DR00893,Futhan Inj 10mg,21601027,OTHER ANTITHROMBOTIC AGENTS
+DR00894,Futhan Inj 50mg,21601027,OTHER ANTITHROMBOTIC AGENTS
+DR00895,Gabapentin Cap 100mg,19077547,gabapentin 100 MG Oral Capsule
+DR00896,Gabapentin Cap 300mg,19077548,gabapentin 300 MG Oral Capsule
+DR00897,Gabapentin Cap 400mg,19077549,gabapentin 400 MG Oral Capsule
+DR00898,Gabatin cap 400mg,19077549,gabapentin 400 MG Oral Capsule
+DR00899,Galamint inj.10mg/2ml/AM,19057690,Gallamine
+DR00900,GALANTASE (POWDER) 1G,950183,Lactase
+DR00901,Galantase Pow,950183,Lactase
+DR00902,Galspa Soft Cap,1517824,Nicotinic Acid
+DR00903,Galvus Tab 50mg,19129179,vildagliptin 50 MG Oral Tablet
+DR00904,GanaTON Tab 50mg,21600483,PROPULSIVES
+DR00905,Gasmotin Tab 5mg,19106796,mosapride 5 MG Oral Tablet
+DR00906,Gaster D Tab 20mg,19077241,Famotidine 20 MG Oral Tablet
+DR00907,Gaster D tab 20mg (가스터 디),19019002,Famotidine 20 MG Disintegrating Tablet
+DR00908,Gaster Inj 20mg,953076,Famotidine
+DR00909,Gaster inj 20mg/VI,953076,Famotidine
+DR00910,Gaster Tab 20mg,19077241,Famotidine 20 MG Oral Tablet
+DR00911,Gaster tab.20mg,19077241,Famotidine 20 MG Oral Tablet
+DR00912,Gastrex Granule 1.5g/PAK,21600109,OTHER DRUGS FOR PEPTIC ULCER AND GORD
+DR00913,Gatiflo Ophthalmic Solution 5ML/BT,19102197,gatifloxacin 3 MG/ML Ophthalmic Solution
+DR00914,Gatiflo tab 200mg,19077575,gatifloxacin 200 MG Oral Tablet
+DR00915,Gatrin inj 10mg/2ml/AM,19057690,Gallamine
+DR00916,Gelma Susp,19068893,guaiazulene
+DR00916,Gelma Susp,916662,Dimethicone
+DR00917,GELOFUSIN INJ. 500ML,19058092,Gelatin
+DR00918,Gelomyrtol forte soft cap,19018433,myrtol
+DR00919,Gemtan inj. 1g/VI,1314924,gemcitabine
+DR00920,Gemtan inj. 200mg/VI,1314924,gemcitabine
+DR00921,Gemtra inj. 1G/VI,1314924,gemcitabine
+DR00922,Gemzar inj. 1g/VI(수),1314924,gemcitabine
+DR00923,Gemzar inj. 200mg/VI,1314924,gemcitabine
+DR00924,Genexol inj 100mg/16.7ml/VI,1378385,Paclitaxel 6 MG/ML Injectable Solution
+DR00925,Gentamicin Inj 80mg/2ml,919532,Gentamicins 40 MG/ML Injectable Solution
+DR00926,Gentamycin(=G-M) inj 80mg/2ml/AM,919532,Gentamicins 40 MG/ML Injectable Solution
+DR00927,Gettwo Gel 50G,1185922,Ketoprofen
+DR00928,Ginexin-F Tab 40mg,1391913,Ginkgo biloba extract 40 MG Oral Tablet
+DR00929,Ginexin-F Tab 80mg,1391915,Ginkgo biloba extract 80 MG Oral Tablet
+DR00930,Glamin 500ml/Bot,19124969,Amino Acids
+DR00931,Gliatilin inj 1g/4ml/AM,1195372,Choline 250 MG/ML Injectable Solution
+DR00932,Gliatilin Soft Cap,19063928,Choline 400 MG Oral Capsule
+DR00933,Gliatilin soft cap 400mg,19063928,Choline 400 MG Oral Capsule
+DR00934,Glibomet Tab,1503297,Metformin
+DR00934,Glibomet Tab,1559684,Glyburide
+DR00935,Glimel tab 2mg,1597772,glimepiride 2 MG Oral Tablet
+DR00936,Glimine soft cap 400mg,19063928,Choline 400 MG Oral Capsule
+DR00937,GlipTIDE Tab 200mg,21600117,SULGLICOTIDE
+DR00938,Glucobay Tab 100mg,19021312,Acarbose 100 MG Oral Tablet
+DR00939,Glucobay Tab 50mg,1529352,Acarbose 50 MG Oral Tablet
+DR00940,glucobay tab. 50mg,1529352,Acarbose 50 MG Oral Tablet
+DR00941,glucobay tab.100mg,19021312,Acarbose 100 MG Oral Tablet
+DR00942,Glucophage Tab 250mg,19106521,Metformin 250 MG Oral Tablet
+DR00943,Glucophage Tab 500mg,40164929,Metformin hydrochloride 500 MG Oral Tablet
+DR00944,GLUCOPHAGY TAB. 500MG,40164929,Metformin hydrochloride 500 MG Oral Tablet
+DR00945,Glupa Tab 850mg,40164946,Metformin hydrochloride 850 MG Oral Tablet
+DR00946,Glurenorm Tab 30mg,19006931,gliquidone 30 MG Oral Tablet
+DR00947,Glycomin Tab 250mg,19106521,Metformin 250 MG Oral Tablet
+DR00948,Glycomin Tab 500mg,40164929,Metformin hydrochloride 500 MG Oral Tablet
+DR00949,Glycopyrrolate Inj 0.2mg/1ml,963359,Glycopyrrolate 0.2 MG/ML Injectable Solution
+DR00950,GlyPRESSIN Inj 1mg,19007068,terlipressin 0.2 MG/ML Injectable Solution
+DR00951,Glypressin inj 1mg/VI,19007068,terlipressin 0.2 MG/ML Injectable Solution
+DR00952,G-M CREAM 1G,919345,Gentamicin Sulfate
+DR00953,Godex Cap,19050104,Carnitine
+DR00953,Godex Cap,19091701,Liver Extract
+DR00954,Grandpaze-F Tab,19005512,Trimebutine
+DR00954,Grandpaze-F Tab,19030387,Bromelains
+DR00954,Grandpaze-F Tab,19052817,Dehydrocholate
+DR00954,Grandpaze-F Tab,926487,Pancreatin
+DR00954,Grandpaze-F Tab,966991,Simethicone
+DR00955,Granule Kalimate 5g/pack,19112563,Calcium polystyrene sulfonate product
+DR00956,Grasin Inj 300mcg/0.7ml/PFS,1304850,Filgrastim
+DR00957,Grasin prefilled syringe 300mcg,1304850,Filgrastim
+DR00958,Gyno-betadine Vag. Tab,19007150,Povidone-Iodine 200 MG Vaginal Tablet
+DR00959,H2 200MG,19018874,Cimetidine 300 MG Oral Tablet
+DR00960,H2 Inj 200mg/2ml,19062433,Cimetidine 100 MG/ML Injectable Solution
+DR00961,H2 Tab 200mg,19018873,Cimetidine 200 MG Oral Tablet
+DR00962,HALCION 0.25MG TAB,704601,Triazolam 0.25 MG Oral Tablet
+DR00963,Halcion Tab 0.25mg,704601,Triazolam 0.25 MG Oral Tablet
+DR00964,Half saline 1000ml/BT,967905,Sodium Chloride 4.5 MG/ML Injectable Solution
+DR00965,Half Saline(0.45%) 1000ml(CJ),967905,Sodium Chloride 4.5 MG/ML Injectable Solution
+DR00966,Haloperidol Inj 5mg/1ml,19027427,Haloperidol 5 MG/ML Injectable Solution
+DR00967,Harnal Cap 0.2mg,924566,tamsulosin
+DR00968,Harnal Cap. 0.2mg,924566,tamsulosin
+DR00969,Harnal D tab 0.2mg,924566,tamsulosin
+DR00970,Hartman soln. 1000ML,19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
+DR00971,Hartman soln. 500ML,19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
+DR00972,Hartmann soln 1000ml(bag)(중외),19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
+DR00973,Hartmann soln 500ml(bag)(중외),19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
+DR00974,HD 1L/Bag,1560524,Glucose
+DR00974,HD 1L/Bag,967823,Sodium Chloride
+DR00975,HD 500ml/Bag,1560524,Glucose
+DR00975,HD 500ml/Bag,967823,Sodium Chloride
+DR00976,Healon inj 8.5mg/0.85ml/관,19115175,Sodium Hyaluronate 10 MG/ML Ophthalmic Solution
+DR00977,Helocetin Cap 500mg,19062576,Chloramphenicol 500 MG Oral Capsule
+DR00978,HEMO-B-DEX 0.15% 2호 12.6L,939506,Sodium Bicarbonate
+DR00979,Hemocontin Tab,19000753,Ferrous glycine sulfate
+DR00979,Hemocontin Tab,19005046,pyridoxine
+DR00979,Hemocontin Tab,19048026,cobamamide
+DR00979,Hemocontin Tab,19111620,Folic Acid
+DR00980,HEMO-Q,19069133,iron protein succinylate
+DR00981,Hemosol BO 5L,19011035,Lactate
+DR00981,Hemosol BO 5L,19086233,"calcium chloride, dihydration"
+DR00981,Hemosol BO 5L,19092849,Magnesium Chloride
+DR00981,Hemosol BO 5L,939506,Sodium Bicarbonate
+DR00981,Hemosol BO 5L,967823,Sodium Chloride
+DR00982,Hemotrate-B No.2 12.6L/BT,939506,Sodium Bicarbonate
+DR00983,Hepabig inj 100IU/0.5ml/VI,501343,hepatitis B hyperimmune globulin
+DR00984,Hepabig(i.v) inj 2000IU/10ml,501346,HEPATITIS B IMMUNE GLOBULIN 200 UNT/ML Injectable Solution
+DR00985,Hepadial L Tab 50mg,19107509,DIMECROTIC ACID 50 MG Oral Tablet
+DR00986,Hepadial Tab 50mg,19107509,DIMECROTIC ACID 50 MG Oral Tablet
+DR00987,Hepa-Merz Infusion 10ml,19024365,Ornithine
+DR00988,Hepa-Merz powder 5g,19024365,Ornithine
+DR00989,Heparin 20000unit/20ml,1367571,Heparin
+DR00990,Heparin 25000unit/5ml,19077987,Heparin 5000 UNT/ML Injectable Solution
+DR00991,Heparin 25000unit/5ml(한림),19077987,Heparin 5000 UNT/ML Injectable Solution
+DR00992,Heparin inj 25000IU/5ml/VI,19077987,Heparin 5000 UNT/ML Injectable Solution
+DR00993,Hepatofalk Tab,1195334,Choline
+DR00993,Hepatofalk Tab,19010955,Cysteine
+DR00993,Hepatofalk Tab,19016537,Frangula preparation
+DR00993,Hepatofalk Tab,19018419,Niacinamide
+DR00993,Hepatofalk Tab,19059511,Ox bile extract
+DR00993,Hepatofalk Tab,19060995,Rhubarb preparation
+DR00993,Hepatofalk Tab,19071835,Chelidonium majus preparation
+DR00993,Hepatofalk Tab,19091110,Cynara Preparation
+DR00993,Hepatofalk Tab,19111620,Folic Acid
+DR00993,Hepatofalk Tab,19123346,Khellin
+DR00993,Hepatofalk Tab,19135931,Cyanocobalamin Co57
+DR00993,Hepatofalk Tab,19137312,Thiamine
+DR00993,Hepatofalk Tab,42899623,Peumus boldus leaf extract
+DR00993,Hepatofalk Tab,43533029,Artemisia absinthium extract
+DR00993,Hepatofalk Tab,43533032,tumeric extract
+DR00994,Hepavax Gene-0.5,528325,Hepatitis B Surface Antigen Vaccine 0.02 MG/ML Injectable Suspension
+DR00995,Hepavax-Gene TF inj 1ml,568231,Hepatitis B Surface Antigens 0.02 MG/ML Injectable Solution
+DR00996,HEPAVAX-GENE TF INJ. 0.5ML,568231,Hepatitis B Surface Antigens 0.02 MG/ML Injectable Solution
+DR00997,Hepsera tab 10mg,40168220,adefovir dipivoxil 10 MG Oral Tablet
+DR00998,HERBEN 30MG,1328689,Diltiazem Hydrochloride 30 MG Oral Tablet
+DR00999,HERBEN 90MG,19134552,Diltiazem 90 MG Extended Release Tablet
+DR01000,Herben inj 50mg/VI,1328165,Diltiazem
+DR01001,Herben retard Tab 90mg,19133612,Diltiazem Hydrochloride 90 MG Extended Release Tablet
+DR01002,Herben SR tab 90mg,19133612,Diltiazem Hydrochloride 90 MG Extended Release Tablet
+DR01003,Herben Tab 30mg,1328689,Diltiazem Hydrochloride 30 MG Oral Tablet
+DR01004,Herceptin inj 150mg/VI,1387104,trastuzumab
+DR01005,Hexamedin 0.1%(100ml),19105992,Chlorhexidine 1 MG/ML Mouthwash
+DR01006,Hexamedine soln 100ml/BT,1790812,Chlorhexidine
+DR01007,Hextend Inj 500ml/Bag,1560524,Glucose
+DR01007,Hextend Inj 500ml/Bag,19011035,Lactate
+DR01007,Hextend Inj 500ml/Bag,19036781,Calcium Chloride
+DR01007,Hextend Inj 500ml/Bag,19049105,Potassium Chloride
+DR01007,Hextend Inj 500ml/Bag,19092849,Magnesium Chloride
+DR01007,Hextend Inj 500ml/Bag,43012293,hydroxyethyl starch 130-0.4
+DR01007,Hextend Inj 500ml/Bag,967823,Sodium Chloride
+DR01008,Hinechol tab 25mg,40162835,Bethanechol Chloride 25 MG Oral Tablet
+DR01009,Hismanal Tab.10mg,1150771,Astemizole 10 MG Oral Tablet
+DR01010,Histobulin Inj ,19069019,Histamine
+DR01010,Histobulin Inj ,19117912,Immunoglobulin G
+DR01011,H-Lase Inj 1500unit,19057319,Hyaluronidase 1500 UNT/ML Injectable Solution
+DR01012,Hokunalin patch 0.5mg,19043191,tulobuterol
+DR01013,Holoxan inj 1g/VI,19078187,Ifosfamide
+DR01014,HOSTACORTIN,1550560,Prednisolone 5 MG Oral Tablet
+DR01015,HS 1L/Bag,19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
+DR01016,HS 1L/Bot (수술실용),19011035,Lactate
+DR01016,HS 1L/Bot (수술실용),19036781,Calcium Chloride
+DR01016,HS 1L/Bot (수술실용),19049105,Potassium Chloride
+DR01016,HS 1L/Bot (수술실용),967823,Sodium Chloride
+DR01017,HS 500ml/Bag,19135831,"calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution"
+DR01018,Humalog 25MIX KPen 300unit/3ml,19135266,3 ML Insulin Lispro 100 UNT/ML Prefilled Syringe
+DR01019,Humalog inj 1000IU/10ml/VI,19058398,"Insulin, Lispro, Human 100 UNT/ML Injectable Solution"
+DR01020,Human velosulin 1000IU/10ml,19078555,"Insulin, Regular, Human 100 UNT/ML Injectable Solution"
+DR01021,Humulin N quickpen 300IU/3ml,19078555,"Insulin, Regular, Human 100 UNT/ML Injectable Solution"
+DR01022,Humulin-R Inj 1000unit/10ml,19078555,"Insulin, Regular, Human 100 UNT/ML Injectable Solution"
+DR01023,Hyal plus inj 12.75mg/0.85ml/관,787787,hyaluronate
+DR01024,Hyalein Drop 0.1%,787787,hyaluronate
+DR01025,Hyalein eye drop 5ml(수),787787,hyaluronate
+DR01026,Hyalein Mini 0.1% Eye Drop,787787,hyaluronate
+DR01027,Hyalein Mini eye drop 0.1%,798336,Hyaluronan
+DR01028,Hydantoin Tab 100mg,40163213,Phenytoin sodium 100 MG Oral Tablet
+DR01029,Hydralazin Tab 25mg,40174811,Hydralazine Hydrochloride 25 MG Oral Tablet
+DR01030,Hydralazine Inj 20mg/1ml,40174776,Hydralazine Hydrochloride 20 MG/ML Injectable Solution
+DR01031,Hydrin Cap 500mg,1377163,Hydroxyurea 500 MG Oral Capsule
+DR01032,Hydrocortisone Tab 10mg(Jena Pharm),975168,Hydrocortisone 10 MG Oral Tablet
+DR01033,Hypertet  Inj 250unit/1ml,561424,"Tetanus immune globulin, human 250 UNT/ML Injectable Solution"
+DR01034,Hyper-Tet inj 250IU/VI,561401,"Tetanus immune globulin, human"
+DR01035,Hyroxon Tab 10mg,975168,Hydrocortisone 10 MG Oral Tablet
+DR01036,Hyruan plus inj 20mg/2ml/VI,19115123,Sodium Hyaluronate 10 MG/ML Injectable Solution
+DR01037,Hyspan inj.,40236758,BUTYLSCOPOLAMINE BROMIDE 20 MG/ML Injectable Solution
+DR01038,Hytrine Tab 1mg,1341269,terazosine 1 MG Oral Tablet
+DR01039,Hytrine Tab 2mg,1341271,terazosine 2 MG Oral Tablet
+DR01040,Hytrine Tab 5mg,19079718,terazosine 5 MG Oral Tablet
+DR01041,Ibustrin Tab 200mg,19107396,indobufen 200 MG Oral Tablet
+DR01042,Ibustrin Tab. 200Mg,19107396,indobufen 200 MG Oral Tablet
+DR01043,Imdur Tab 60mg,1383862,Isosorbide Mononitrate 60 MG Extended Release Tablet
+DR01044,Imipramine Tab 25mg 환인,778296,Imipramine Hydrochloride 25 MG Oral Tablet
+DR01045,Imotun Cap 300mg,40254364,"AVOCADO AND SOYABEAN OIL, UNSAPONIFIABLES"
+DR01046,Imovane Tab 7.5mg,19044885,zopiclone 7.5 MG Oral Tablet
+DR01047,implanta cap. 25mg,19010559,"CYCLOSPORINE, MODIFIED 25 MG Oral Capsule"
+DR01048,implanta cap.100mg,19010522,"CYCLOSPORINE, MODIFIED 100 MG Oral Capsule"
+DR01049,IMURAN 50MG,19014880,Azathioprine 50 MG Oral Tablet
+DR01050,INAH 100MG,1782573,Isoniazid 100 MG Oral Tablet
+DR01051,Indenol Tab 10mg,40163312,Propranolol Hydrochloride 10 MG Oral Tablet
+DR01052,INDENOL Tab 40mg,40163342,Propranolol Hydrochloride 40 MG Oral Tablet
+DR01053,Indenol Tab. 10mg,40163312,Propranolol Hydrochloride 10 MG Oral Tablet
+DR01054,Inhibace Tab 2.5mg,19022242,Cilazapril 2.5 MG Oral Tablet
+DR01055,Inhibase 2.5mg,19022242,Cilazapril 2.5 MG Oral Tablet
+DR01056,Insulatard human 1000IU/10ml/VI,19078555,"Insulin, Regular, Human 100 UNT/ML Injectable Solution"
+DR01057,Insulatard Innolet inj 100IU/ml(휴먼인슐린),19078555,"Insulin, Regular, Human 100 UNT/ML Injectable Solution"
+DR01058,Intra MCT 10% 500ml/Bot,19070224,Soybean Oil
+DR01058,Intra MCT 10% 500ml/Bot,42899398,Medium chain triglycerides
+DR01059,Intra MCT 20% (250ml),19070224,Soybean Oil
+DR01059,Intra MCT 20% (250ml),42899398,Medium chain triglycerides
+DR01060,Intralipos 10%(250ml),19023490,Soybean Oil 100 MG/ML Injectable Suspension
+DR01061,Intralipose inj 10% 250ML,19023490,Soybean Oil 100 MG/ML Injectable Suspension
+DR01062,Intralipose inj 10% 500ML,19023490,Soybean Oil 100 MG/ML Injectable Suspension
+DR01063,Invanz inj 1g/VI,1717963,ertapenem
+DR01064,Invega SR tab 3mg,19134800,paliperidone 3 MG Extended Release Tablet
+DR01065,IRcodon Tab 5mg,40232756,Oxycodone Hydrochloride 5 MG Oral Tablet
+DR01066,Irritren Tab 200mg,19106828,lonazolac 200 MG Oral Tablet
+DR01067,Isepacin Inj 200mg/2ml,21603004,ISEPAMICIN
+DR01068,Ismo tab 20mg,1383851,Isosorbide Mononitrate 20 MG Oral Tablet
+DR01069,Isoket Inj 10mg/10ml,19003962,Isosorbide Dinitrate 1 MG/ML Injectable Solution
+DR01070,Isoket Inj 50mg/50ml,19003962,Isosorbide Dinitrate 1 MG/ML Injectable Solution
+DR01071,Isoket retard Cap 120mg,19103776,Isosorbide Dinitrate 120 MG Extended Release Capsule
+DR01072,Isoket retard Tab 40mg,1383988,Isosorbide Dinitrate 40 MG Extended Release Tablet
+DR01073,Isoket spray 15ml,1383925,Isosorbide Dinitrate
+DR01074,isoket SR tab 40mg,1383988,Isosorbide Dinitrate 40 MG Extended Release Tablet
+DR01075,isoket tab. 40mg,1383988,Isosorbide Dinitrate 40 MG Extended Release Tablet
+DR01076,ISOPTIN 40MG,40171905,Verapamil hydrochloride 40 MG Oral Tablet
+DR01077,isoptin sr 180mg,40171863,Verapamil hydrochloride 180 MG Extended Release Tablet
+DR01078,Isoptin SR Tab 180mg,40171863,Verapamil hydrochloride 180 MG Extended Release Tablet
+DR01079,Isoptoatropine Drop 1%(15ml),40243447,Atropine Sulfate 10 MG/ML Ophthalmic Solution
+DR01080,isosorbide dinitrate 10mg,19003962,Isosorbide Dinitrate 1 MG/ML Injectable Solution
+DR01081,Isotonic saline(N/S) 1000ml(대한),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01082,Isotonic saline(N/S) 1000ml(처치용),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01083,Isotonic saline(N/S) 3L,19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01084,Isotonic saline(N/S) 500ml(대한),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01085,Isotonic saline(N/S)150ml(대한),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01086,Isotril ER  Tab. 60MG,1383862,Isosorbide Mononitrate 60 MG Extended Release Tablet
+DR01087,Itra tab. 100mg,19106152,Itraconazole 100 MG Oral Tablet
+DR01088,IV Globulin S Inj 2.5g/50ml,19027390,"Immunoglobulins, Intravenous 50 MG/ML Injectable Solution"
+DR01089,IVF-C inj. 5000IU/VI,19077733,Chorionic Gonadotropin 5000 UNT/ML Injectable Solution
+DR01090,IVF-M inj 75IU/VI,19125388,Menotropins
+DR01091,IV-Globulin SN inj 1g/20ml/BT,19117912,Immunoglobulin G
+DR01092,IV-Globulin SN inj 2.5g/50ml/BT,19117912,Immunoglobulin G
+DR01093,Ixel Cap.25MG,19103539,Midalcipran 25 MG Oral Capsule
+DR01094,Januvia tab 100mg,19125041,sitagliptin 100 MG Oral Tablet
+DR01095,Jeidin Tab 75mg,961168,Ranitidine 75 MG Oral Tablet
+DR01096,Jetiam inj 1g/VI,19051271,Cefotiam
+DR01097,Joins tab 200mg,42899952,Prunella vulgaris flowering top extract
+DR01097,Joins Tab 200mg,42900044,Trichosanthes kirilowii root extract
+DR01098,Jumex Tab 5mg,40171282,selegiline hydrochloride 30 MG Oral Tablet
+DR01099,jumex tab. 5mg,40165271,Selegiline Hydrochloride 5 MG Oral Tablet
+DR01100,Jurnista Oros Tab 4mg,40173131,Hydromorphone Hydrochloride 4 MG Oral Tablet
+DR01101,K-40 Inj 20ml,19027661,Potassium Chloride 2 MEQ/ML Injectable Solution
+DR01102,Kabitwin Inj 1000ml (Central),21601159,COMBINATIONS
+DR01103,Kabiven peri 1500,21601159,COMBINATIONS
+DR01104,Kabiven peri 2000,21601159,COMBINATIONS
+DR01105,Kalimate Pow,19112563,Calcium polystyrene sulfonate product
+DR01106,KALIMATE POWDER 5G(1PACK),19112563,Calcium polystyrene sulfonate product
+DR01107,Kanamycin Inj 1g,1784749,Kanamycin
+DR01108,KCL (=K-40) 20ML,19049105,Potassium Chloride
+DR01109,KCL 250MG,19049375,Potassium Chloride 8 MEQ Extended Release Tablet
+DR01110,KCL-20 Inj 20ml/Amp,19049105,Potassium Chloride
+DR01111,K-contin Tab 600mg,19049375,Potassium Chloride 8 MEQ Extended Release Tablet
+DR01112,Keppra Inj 500mg/5ml,711620,Levetiracetam 100 MG/ML Injectable Solution
+DR01113,Keppra inj 500mg/5ml/VI,711620,Levetiracetam 100 MG/ML Injectable Solution
+DR01114,Keppra Soln 100mg/ml,19102504,Levetiracetam 100 MG/ML Oral Solution
+DR01115,Keppra Tab 250mg,711588,Levetiracetam 250 MG Oral Tablet
+DR01116,Keppra Tab 500mg,711589,Levetiracetam 500 MG Oral Tablet
+DR01117,Keppra tab. 500mg,711589,Levetiracetam 500 MG Oral Tablet
+DR01118,KERLONE,42800549,Betaxolol Hydrochloride 20 MG Oral Tablet
+DR01119,Keromin Inj 30mg/1ml,40164851,Ketorolac Tromethamine 30 MG/ML Injectable Solution
+DR01120,Keromin Inj 30mg/AM(통증제거용),40164851,Ketorolac Tromethamine 30 MG/ML Injectable Solution
+DR01121,Keromin inj. 30mg/1ml/AM,40164851,Ketorolac Tromethamine 30 MG/ML Injectable Solution
+DR01122,Ketalar Inj 50mg/ml,19057197,Ketamine 50 MG/ML Injectable Solution
+DR01123,KeTamine Inj 250mg/5ml/Amp,19057197,Ketamine 50 MG/ML Injectable Solution
+DR01124,Ketamine Inj 500mg/10ml,19057197,Ketamine 50 MG/ML Injectable Solution
+DR01125,Ketas Cap 10mg,21601587,OTHER PERIPHERAL VASODILATORS
+DR01126,Ketocin inj 30mg/1ml/AM,40164851,Ketorolac Tromethamine 30 MG/ML Injectable Solution
+DR01127,Ketotop 6매/PAK,1185922,Ketoprofen
+DR01128,Ketotop EL 7매/PAK,1185922,Ketoprofen
+DR01129,ketotop plaster 1pack,1185922,Ketoprofen
+DR01130,Keydipin ER tab 5mg,1353818,Felodipine 5 MG Extended Release Tablet
+DR01131,Klaricid 25mg/ml Susp ,19058072,Clarithromycin 25 MG/ML Oral Suspension
+DR01132,Klaricid 50mg/ml Dry Syr ,19075422,Clarithromycin 50 MG/ML Oral Suspension
+DR01133,Klaricid Inj 500mg,1750500,Clarithromycin
+DR01134,Klaricid IV inj 500mg/VI,1750500,Clarithromycin
+DR01135,Klaricid Tab 500mg,1750562,Clarithromycin 500 MG Oral Tablet
+DR01136,Klaricid XL 500mg Tab,1750562,Clarithromycin 500 MG Oral Tablet
+DR01137,Klenzo 1L/Bot,968205,Sodium Chloride 9 MG/ML Irrigation Solution
+DR01138,K-Phos Inj 30mM/30ml,19027362,potassium phosphate
+DR01139,Kran Inj10mg/ml*20ML(케타라),19057195,Ketamine 10 MG/ML Injectable Solution
+DR01140,Krein tab.,19123342,Kininogenase
+DR01141,Kremezin Gran 2g,21605228,ALL OTHER THERAPEUTIC PRODUCTS
+DR01142,Kynex Eye Drop 0.1% 0.8ml(원외),787787,hyaluronate
+DR01143,Kyominotin Inj 20ml,19010955,Cysteine
+DR01143,Kyominotin Inj 20ml,42898316,Ammonium Glycyrrhizate
+DR01143,Kyominotin Inj 20ml,962398,Glycine
+DR01144,Kytril inj 1mg/1ml/AM,19058193,Granisetron 1 MG/ML Injectable Solution
+DR01145,kytril inj. 3mg/3ml/AM,19058193,Granisetron 1 MG/ML Injectable Solution
+DR01146,LABESIN INJ. 100MG,40169706,Labetalol hydrochloride 5 MG/ML Injectable Solution
+DR01147,Lacidofil Cap,19000811,Lactobacillus casei rhamnosus
+DR01147,Lacidofil Cap,987153,Lactobacillus acidophilus
+DR01148,Lacteol Granule,987153,Lactobacillus acidophilus
+DR01149,Lacteol Tab,987153,Lactobacillus acidophilus
+DR01150,Lacticare-HC 1% 로션 118ml ,19002274,Hydrocortisone 10 MG/ML Topical Lotion
+DR01151,Lactitol Pow(간성혼수) 20g,19071236,lactitol
+DR01152,Lacto-Q granule,987153,Lactobacillus acidophilus
+DR01153,Lactose,19087208,Lactose
+DR01154,Laennec Inj 2ml,42904003,human placenta hydrolysate
+DR01155,Lamictal Chewable 5mg Tab,705161,lamotrigine 5 MG Chewable Tablet
+DR01156,Lamictal Tab 100mg,705108,lamotrigine 100 MG Oral Tablet
+DR01157,Lamictal Tab 25mg,19069199,lamotrigine 25 MG Oral Tablet
+DR01158,Lamictal Tab 50mg,705152,lamotrigine 50 MG Oral Tablet
+DR01159,Lamictal Tab. 50MG,705152,lamotrigine 50 MG Oral Tablet
+DR01160,lamina G sol.1ml,43013872,alginate
+DR01161,Lamina-G 15ml/PA,19030059,alginic acid
+DR01162,Lamina-G 5% 1ml(50mg),43013872,alginate
+DR01163,Lamina-G Soln 15ml/PAK,43013872,alginate
+DR01164,-Lamina-G soln 20ml/PA,43013872,alginate
+DR01165,Lamisil Tab 125mg,19107132,terbinafine 125 MG Oral Tablet
+DR01166,Lanston cap. 30mg,929889,lansoprazole 30 MG Enteric Coated Capsule
+DR01167,Lanston LFDT Tab 15mg,929924,lansoprazole 15 MG Disintegrating Tablet
+DR01168,Lanston LFDT Tab 30mg,19098167,lansoprazole 30 MG Disintegrating Tablet
+DR01169,Lanston LFDT tab.15mg,929924,lansoprazole 15 MG Disintegrating Tablet
+DR01170,Lantus Inj Solostar 300unit/3ml/Pen,19135276,3 ML Insulin Glargine 100 UNT/ML Prefilled Syringe
+DR01171,Lantus solostar 300IU/3ml/pen,19135276,3 ML Insulin Glargine 100 UNT/ML Prefilled Syringe
+DR01172,Lasix Inj 20mg/2ml,957134,Furosemide 10 MG/ML Injectable Solution
+DR01173,Lasix inj 20mg/2ml/AM,957134,Furosemide 10 MG/ML Injectable Solution
+DR01174,Lasix Tab 40mg,957136,Furosemide 40 MG Oral Tablet
+DR01175,LASTET 100MG,19077215,Etoposide 20 MG/ML Injectable Solution
+DR01176,Lavopa Inj 50mg/5ml,40239867,Ritodrine hydrochloride 10 MG/ML Injectable Solution
+DR01177,L-Carn Inj 1g/5ml,19058551,Levocarnitine 200 MG/ML Injectable Solution
+DR01178,L-Carn Tab,1553611,Levocarnitine 330 MG Oral Tablet
+DR01179,Ledercort Tab 4mg,19019893,Triamcinolone 4 MG Oral Tablet
+DR01180,Legalon Cap 140,19103635,Silymarin 140 MG Oral Capsule
+DR01181,LEGARLON-COMP,19097617,CARDUUS MARIANUS preparation
+DR01182,Lescol Cap 40mg,19077498,fluvastatin 40 MG Oral Capsule
+DR01183,Lescol XL Tab 80mg(원외),19077499,fluvastatin 80 MG Extended Release Tablet
+DR01184,Letozole Tab 50mg,19103860,letosteine 50 MG Enteric Coated Capsule
+DR01185,Leucostim inj 300mcg/VI,1304850,Filgrastim
+DR01186,Leucovorin Inj 15mg/2ml,19007618,Leucovorin 7.5 MG/ML Injectable Solution
+DR01187,Leuplin Inj 3.75mg,1351624,Leuprolide Acetate 3.75 MG/ML Injectable Suspension
+DR01188,leuplin inj.,1351624,Leuprolide Acetate 3.75 MG/ML Injectable Suspension
+DR01189,Levemir flexpen inj 300IU/3ml/pen,1516980,3 ML insulin detemir 100 UNT/ML Prefilled Syringe
+DR01190,Levofloxacin(CJ) inj 250mg/50ml/PA,1742256,Levofloxacin 5 MG/ML Injectable Solution
+DR01191,Levofloxacin(CJ) inj 500mg/100ml/PA,1742256,Levofloxacin 5 MG/ML Injectable Solution
+DR01192,Levopride Tab 25mg,21600483,PROPULSIVES
+DR01193,Levotus tab. 60mg,19067412,"dipropizine, (S)-isomer"
+DR01194,Levotuss Syr 6mg/ml,19128936,"dipropizine, (S)-isomer 6 MG/ML Oral Solution"
+DR01195,Levotuss Syr. 6MG/ML,19128936,"dipropizine, (S)-isomer 6 MG/ML Oral Solution"
+DR01196,Lexapro tab 10mg,715940,Escitalopram 10 MG Oral Tablet
+DR01197,Libendol Tab 100mg,19107415,ALIBENDOL 100 MG Oral Tablet
+DR01198,Lido/Epi(1:10만) 2% 1.8ml,42799043,1.8 ML Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe
+DR01199,Lido/Epi(1:10만)(20ML/V),40226840,Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution
+DR01200,LIDO/EPI(1:10만)(처치용) 2% 1.8ml,42799043,1.8 ML Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe
+DR01201,Lido/Epi(1:8만)(처치용) 2% 1.8ml,40226851,Epinephrine 0.0125 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution
+DR01202,LIDOCAIN INJ.,40227049,Lidocaine Hydrochloride 20 MG/ML Injectable Solution
+DR01203,Lidocaine Inj 1% 200mg/20ml,40227012,Lidocaine Hydrochloride 10 MG/ML Injectable Solution
+DR01204,Lidocaine Inj 2% 400mg/20ml,40227049,Lidocaine Hydrochloride 20 MG/ML Injectable Solution
+DR01205,"Lidocaine.EP(1:100,000) inj 1.8ml/AM",40226840,Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution
+DR01206,Lidocatone 2%(1:10만),42799043,1.8 ML Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe
+DR01207,Lipid LCT 20% inj 250ml/PA,19023521,Soybean Oil 200 MG/ML Injectable Suspension
+DR01208,Lipidil 200mg Cap,19101756,Fenofibrate 160 MG Extended Release Tablet
+DR01209,Lipidil Cap 200mg,19077245,Fenofibrate 200 MG Oral Capsule
+DR01210,Lipidil Supra Tab,1551838,Fenofibrate 160 MG Oral Tablet
+DR01211,Lipilou Tab 10mg,1545997,atorvastatin 10 MG Oral Tablet
+DR01212,Lipistop tab 10mg,1545997,atorvastatin 10 MG Oral Tablet
+DR01213,Lipitor Tab 10mg,1545997,atorvastatin 10 MG Oral Tablet
+DR01214,Lipitor Tab 20mg,19123592,atorvastatin 20 MG Oral Tablet
+DR01215,Litain Inj 4% 800mg/20ml,40227099,Lidocaine Hydrochloride 40 MG/ML Injectable Solution
+DR01216,LITHANE 300MG,19019111,Lithium Carbonate 300 MG Oral Tablet
+DR01217,Lithium Tab 300mg 환인,19019111,Lithium Carbonate 300 MG Oral Tablet
+DR01218,Livact 4.15g/PAK,19007572,Valine
+DR01218,Livact 4.15g/PAK,19082306,Isoleucine
+DR01218,Livact 4.15g/PAK,19088571,Leucine
+DR01219,Livalo Tab 2mg,40165642,pitavastatin 2 MG Oral Tablet
+DR01220,Livalo tab.2mg,40165642,pitavastatin 2 MG Oral Tablet
+DR01221,Liv-GAMMA SN Inj 2.5g/50ml,19027390,"Immunoglobulins, Intravenous 50 MG/ML Injectable Solution"
+DR01222,LIVIAL 2.5MG,19041934,tibolone 2.5 MG Oral Tablet
+DR01223,Livial Tab 2.5mg (30T/P),19041934,tibolone 2.5 MG Oral Tablet
+DR01224,Livital Tab 25mg,21600522,LIVER THERAPY
+DR01225,Livostin Eye Drop(4ml/BOT),907556,levocabastine 0.5 MG/ML Ophthalmic Suspension
+DR01226,Lodien Tab 2.5mg,1332418,Amlodipine
+DR01227,Lodin Cap 200mg,1195496,Etodolac 200 MG Oral Capsule
+DR01228,Lodine SR 600mg,19071692,Etodolac 600 MG Extended Release Tablet
+DR01229,Lomaxacin Cap 100mg(원외),1707800,lomefloxacin
+DR01230,LOMEXACIN 100MG CAP,1707800,lomefloxacin
+DR01231,Loperamide Cap 2mg (휴온스),40184727,Loperamide Hydrochloride 2 MG Oral Capsule
+DR01232,LOPERIN (LOP) 2MG,40184727,Loperamide Hydrochloride 2 MG Oral Capsule
+DR01233,Lopmin Cap 2mg,40184727,Loperamide Hydrochloride 2 MG Oral Capsule
+DR01234,Lorabid 200mg Cap.,1708101,loracarbef 200 MG Oral Capsule
+DR01235,Lorabid syr 20mg,19078815,loracarbef 20 MG/ML Oral Suspension
+DR01236,Losartan Tab 50mg,40185304,Losartan Potassium 50 MG Oral Tablet
+DR01237,Losec Cap.20mg,19019418,Omeprazole 20 MG Enteric Coated Capsule
+DR01238,Loxfen Tab 60mg,19106551,loxoprofen 60 MG Oral Tablet
+DR01239,LUCRIN Depot Inj 3.75mg,1351541,Leuprolide
+DR01240,Lukair tab 10mg,19023368,montelukast 10 MG Oral Tablet
+DR01241,LUMINAL 100MG,734488,Phenobarbital 100 MG/ML Injectable Solution
+DR01242,Luminal Inj 100mg/1ml,734488,Phenobarbital 100 MG/ML Injectable Solution
+DR01243,Luphere Depot Inj 3.75mg,1351624,Leuprolide Acetate 3.75 MG/ML Injectable Suspension
+DR01244,Luphere depot inj 3.75mg/PFS,1351541,Leuprolide
+DR01245,Lyrica Cap 150mg,19112670,pregabalin 150 MG Oral Capsule
+DR01246,Lyrica Cap 75mg,19112671,pregabalin 75 MG Oral Capsule
+DR01247,Lyrica cap.75mg,19112671,pregabalin 75 MG Oral Capsule
+DR01248,M.V.H. Inj,19135832,Multivitamin preparation
+DR01249,Maalox TC Susp 10ml/P,19073021,Aluminum Hydroxide 120 MG/ML / Magnesium Hydroxide 60 MG/ML Oral Suspension
+DR01250,MACperan Inj 10mg/2ml,19078921,Metoclopramide 5 MG/ML Injectable Solution
+DR01251,Macperan inj 10mg/2ml/AM,19078921,Metoclopramide 5 MG/ML Injectable Solution
+DR01252,Macperan Tab 5mg,906933,Metoclopramide 5 MG Oral Tablet
+DR01253,Madipine Tab 10mg,19106593,manidipine 10 MG Oral Tablet
+DR01254,Madocef  Inj 1g,19074848,Cefamandole 285 MG/ML Injectable Solution
+DR01255,Madopar 250mg,789652,Benserazide 50 MG / Levodopa 200 MG Oral Tablet
+DR01256,Magcorol Soln 250ml,908464,magnesium carbonate
+DR01256,Magcorol Soln 250ml,950435,Citric Acid
+DR01257,Magenal -F Tab,21600698,"DIGESTIVES, INCL. ENZYMES"
+DR01258,Magnes Tab,19106383,Magnesium lactate 470 MG / Pyridoxine 5 MG Oral Tablet
+DR01259,Magnesin Inj 50% 10g/20ml,19093879,Magnesium Sulfate 4 MEQ/ML Injectable Solution
+DR01260,MagneSIUM Inj 10%  2g/20ml,19093850,Magnesium Sulfate 0.8 MEQ/ML Injectable Solution
+DR01261,MagO Cap 250mg,19103850,Magnesium Oxide 250 MG Oral Capsule
+DR01262,Mannitol inj 15% 100ml/PA,994095,Mannitol 150 MG/ML Injectable Solution
+DR01263,Mannitol inj 15% 500ml/PA,994095,Mannitol 150 MG/ML Injectable Solution
+DR01264,Marcaine Spinal Heavy Inj 0.5% 20mg/4ml,40225967,Bupivacaine Hydrochloride 5 MG/ML Injectable Solution
+DR01265,Marobiven Inj 300mg,43525849,Melilotus extract
+DR01266,Marvil Tab 10mg,40173590,Alendronic acid 10 MG Oral Tablet
+DR01267,Maxibupen Syr 12mg/ml,21603980,DEXIBUPROFEN
+DR01268,Maxipime Inj 1g,19074873,cefepime 20 MG/ML Injectable Solution
+DR01269,Maxipime inj 1g/VI,1748975,cefepime
+DR01270,Maxitrol 안연고 3.5g,1518254,Dexamethasone
+DR01270,Maxitrol 안연고 3.5g,915981,Neomycin
+DR01270,Maxitrol 안연고 3.5g,948582,Polymyxin B
+DR01271,Maxmarvil Tab 5mg,1557272,Alendronate
+DR01271,Maxmarvil Tab 5mg,19035631,Calcitriol
+DR01272,MEDERGIN    0.2MG,40222885,Methylergonovine Maleate 0.2 MG/ML Injectable Solution
+DR01273,Medilac DS Cap,42898675,Bacillus subtilis
+DR01274,Medilac-S enteric cap,42898675,Bacillus subtilis
+DR01275,Medilac-S Powder,42898675,Bacillus subtilis
+DR01276,Mega-C Inj 10g/20ml,19073642,Ascorbic Acid 500 MG/ML Injectable Solution
+DR01277,Megace F susp. 5ml/PA,1301001,Megestrol Acetate 125 MG/ML Oral Suspension
+DR01278,Megace Susp ,40164972,Megestrol Acetate 40 MG/ML Oral Suspension
+DR01279,MEGACE Susp 20ml/PAK,40164972,Megestrol Acetate 40 MG/ML Oral Suspension
+DR01280,Megace susp 40mg/ml,40164972,Megestrol Acetate 40 MG/ML Oral Suspension
+DR01281,MEGE-2,40164972,Megestrol Acetate 40 MG/ML Oral Suspension
+DR01282,Megestrol Susp 10ml/PAK,40164972,Megestrol Acetate 40 MG/ML Oral Suspension
+DR01283,Megestrol Susp 20ml/PAK,40164972,Megestrol Acetate 40 MG/ML Oral Suspension
+DR01284,Megestrol Tab 40mg 엘지,40164968,Megestrol Acetate 40 MG Oral Tablet
+DR01285,Meiact fine granule 100mg/g,1747005,cefditoren
+DR01286,Meiact Tab 100mg,1747005,cefditoren
+DR01287,Meicelin Inj 1g,40255560,CEFMINOX
+DR01288,Melanitec(=Enalapril 10mg),40165762,Enalapril Maleate 10 MG Oral Tablet
+DR01289,Melcox Cap 7.5mg,19103398,meloxicam 7.5 MG Oral Capsule
+DR01290,Melocox cap 7.5MG,19103398,meloxicam 7.5 MG Oral Capsule
+DR01291,Mepem inj 1g/VI,1709170,meropenem
+DR01292,Mephirol Cap,19039512,sobrerol
+DR01293,Mephirol Syrup,19128746,Carbocysteine 50 MG/ML / sobrerol 8 MG/ML Oral Solution
+DR01294,Mephirol syrup 1ml,19128746,Carbocysteine 50 MG/ML / sobrerol 8 MG/ML Oral Solution
+DR01295,MEPSOLONE_125MG,1506270,Methylprednisolone
+DR01296,MEPTIN 0.05MG,19028983,Procaterol 0.05 MG Oral Tablet
+DR01297,Merit-C inj 10g/20ml/VI,19073642,Ascorbic Acid 500 MG/ML Injectable Solution
+DR01298,Meropen inj 0.5g/VI,1709202,meropenem 50 MG/ML Injectable Solution
+DR01299,Meropen Inj 500mg,1709170,meropenem
+DR01300,MESIMA CAP 550MG,42903513,Phellinus linteus mycelium extract
+DR01301,Mesocan cap 50mg,21601027,OTHER ANTITHROMBOTIC AGENTS
+DR01302,Mestinon Tab 60mg,40173888,Pyridostigmine Bromide 60 MG Oral Tablet
+DR01303,Mesulid Tab 100mg,19069426,nimesulide 100 MG Oral Tablet
+DR01304,Metazol 1G,19072255,Cefmetazole
+DR01305,METHIMAZOLE 5MG,1504672,Methimazole 5 MG Oral Tablet
+DR01306,METHOTREXATE 2.5MG,19007332,Methotrexate 2.5 MG Oral Tablet
+DR01307,Methotrexate Inj 50mg/2ml,1305124,Methotrexate 25 MG/ML Injectable Solution
+DR01308,Methotrexate Tab 2.5mg,19007332,Methotrexate 2.5 MG Oral Tablet
+DR01309,Methycobal Tab 0.5mg,19107255,mecobalamin 0.5 MG Oral Tablet
+DR01310,Methylon Tab 4mg,1506426,Methylprednisolone 4 MG Oral Tablet
+DR01311,Methylon Tab.4MG,1506426,Methylprednisolone 4 MG Oral Tablet
+DR01312,Methysol Inj 125mg,19080181,Methylprednisolone 62.5 MG/ML Injectable Solution
+DR01313,Methysol Inj. 125Mg/Vial,1506270,Methylprednisolone
+DR01314,methysol inj. 500mg,1506270,Methylprednisolone
+DR01315,Metimazole Tab 5mg,1504672,Methimazole 5 MG Oral Tablet
+DR01316,Metrinal inj 500mg/100ml/BT,1707348,Metronidazole 5 MG/ML Injectable Solution
+DR01317,Metronidazole Inj 500mg/100ml/Bag,1707348,Metronidazole 5 MG/ML Injectable Solution
+DR01318,MEVALOTIN 5MG,19022104,Pravastatin 5 MG Oral Tablet
+DR01319,Mevalotin Tab 10mg,40175390,Pravastatin Sodium 10 MG Oral Tablet
+DR01320,Mevalotin Tab 40mg,40175400,Pravastatin Sodium 40 MG Oral Tablet
+DR01321,Mevan Inj 400mg,40227177,Mepivacaine Hydrochloride 20 MG/ML Injectable Solution
+DR01322,Mevan(처치용) Inj 400mg/20ml,40227177,Mepivacaine Hydrochloride 20 MG/ML Injectable Solution
+DR01323,Meverstin Tab 20mg,19019116,Lovastatin 20 MG Oral Tablet
+DR01324,MEXOLON 5MG,906933,Metoclopramide 5 MG Oral Tablet
+DR01325,Meyful Powder 1g,19136028,Saccharomyces cerevisiae
+DR01326,MG TNA 1540ml (Central),21601159,COMBINATIONS
+DR01327,MG TNA Peri 1680ml,21601159,COMBINATIONS
+DR01328,MG TNA Peri 960ml,21601159,COMBINATIONS
+DR01329,MgO Tab  250mg 삼천당(원외),993690,Magnesium Oxide 250 MG Oral Tablet
+DR01330,MgO Tab.500mg 삼천당,993732,Magnesium Oxide 500 MG Oral Tablet
+DR01331,MgSo4,19093850,Magnesium Sulfate 0.8 MEQ/ML Injectable Solution
+DR01332,Micardis P Tab 40/12.5mg(원외),974473,Hydrochlorothiazide 12.5 MG / telmisartan 40 MG Oral Tablet
+DR01333,Micardis P Tab 80/12.5mg(원외),974474,Hydrochlorothiazide 12.5 MG / telmisartan 80 MG Oral Tablet
+DR01334,Micardis Tab 40mg,19028935,telmisartan 40 MG Oral Tablet
+DR01335,Micardis Tab 80mg,19028936,telmisartan 80 MG Oral Tablet
+DR01336,Midazolam Inj 15mg,19078925,Midazolam 5 MG/ML Injectable Solution
+DR01337,Midazolam inj 5mg/5ml,19078924,Midazolam 1 MG/ML Injectable Solution
+DR01338,Midron Tab 2.5mg,40222924,Midodrine Monohydrochloride 2.5 MG Oral Tablet
+DR01339,Mikcin Inj 60MG,19072089,micronomicin
+DR01340,Mikcin Inj. 120MG,19072089,micronomicin
+DR01341,Minirin Tab 0.1mg,1517147,Desmopressin Acetate 0.1 MG Oral Tablet
+DR01342,Minirin Tab 0.1mg (수),1517147,Desmopressin Acetate 0.1 MG Oral Tablet
+DR01343,Minirin Tab 0.2mg,19133766,Desmopressin Acetate 0.2 MG Oral Tablet
+DR01344,MINOCIN 50MG,1708904,Minocycline 50 MG Oral Capsule
+DR01345,Minocin Cap 50mg,1708904,Minocycline 50 MG Oral Capsule
+DR01346,Miostat inj 1.5ml/VI,19074674,Carbachol 0.1 MG/ML Injectable Solution
+DR01347,Mirapex tab 0.25mg,40165165,Pramipexole dihydrochloride 0.25 MG Oral Tablet
+DR01348,MISTABRON SOL 600MG/3ML,1354732,Mesna 200 MG/ML Injectable Solution
+DR01349,Mitomycin-C Inj. 2mg(수),1389036,Mitomycin
+DR01350,Mixtard 30 Innolet inj 100IU/ml(휴먼인슐린),1596977,"Insulin, Regular, Human"
+DR01351,Mixtard human 100u/ml,1596977,"Insulin, Regular, Human"
+DR01352,Mizollen tab 10mg,19107209,mizolastine 10 MG Oral Tablet
+DR01353,Mobic 7.5mg/cap,19103398,meloxicam 7.5 MG Oral Capsule
+DR01354,Mobic Cap 7.5mg,19103398,meloxicam 7.5 MG Oral Capsule
+DR01355,Mocomyst soln 800mg/4ml/VI,19072270,Acetylcysteine 200 MG/ML Inhalant Solution
+DR01356,Molsiton Tab 2mg,19063962,Molsidomine 2 MG Oral Tablet
+DR01357,Molsiton tab 4mg,19009891,Molsidomine 4 MG Oral Tablet
+DR01358,Monocid Inj.1g,19072858,Cefonicid 10 MG/ML Injectable Solution
+DR01359,Monocin tab 100mg,1738542,Doxycycline 100 MG Oral Tablet
+DR01360,Monopril Tab 10mg(원외),40163753,Fosinopril Sodium 10 MG Oral Tablet
+DR01361,Monopril Tab. 10Mg/Tab.,40163753,Fosinopril Sodium 10 MG Oral Tablet
+DR01362,Moprid tab 5mg,19106796,mosapride 5 MG Oral Tablet
+DR01363,MORPHINE HCL 10MG/1ML,40169902,Morphine Sulfate 10 MG/ML Injectable Solution
+DR01364,Morphine HCl Inj 10mg/1ml,40169902,Morphine Sulfate 10 MG/ML Injectable Solution
+DR01365,Morphine sulfate Inj 15MG/1ml,40169936,Morphine Sulfate 15 MG/ML Injectable Solution
+DR01366,Morphine Sulfate Inj 30mg/2ml,40169936,Morphine Sulfate 15 MG/ML Injectable Solution
+DR01367,Morphine Sulfate Inj 5mg/5ml,40169883,Morphine Sulfate 1 MG/ML Injectable Solution
+DR01368,Mosaone tab 5mg,19106796,mosapride 5 MG Oral Tablet
+DR01369,MotiliTONE Tab 30mg,42903568,Corydalis yanhusuo tuber extract
+DR01370,MOTILIUM-M,19037834,Domperidone 10 MG Oral Tablet
+DR01371,Motilium-M Tab 10mg,19037834,Domperidone 10 MG Oral Tablet
+DR01372,MOTILIUM-SYRUP 1ML,19062181,Domperidone 1 MG/ML Oral Suspension
+DR01373,Motin inj 20mg/VI,953076,Famotidine
+DR01374,MS-CONTHIN 30MG,40169988,Morphine Sulfate 30 MG Extended Release Tablet
+DR01375,MS-Contin Tab 10mg,40169893,Morphine Sulfate 10 MG Extended Release Tablet
+DR01376,MS-Contin Tab 30mg,40169988,Morphine Sulfate 30 MG Extended Release Tablet
+DR01377,MTX inj 50mg/2ml/VI,1305058,Methotrexate
+DR01378,MTX Tab 2.5mg,19007332,Methotrexate 2.5 MG Oral Tablet
+DR01379,Mucolase tab,19106160,Streptodornase 2500 UNT / Streptokinase 10000 UNT Oral Tablet
+DR01380,Mucomyst Sol,19072270,Acetylcysteine 200 MG/ML Inhalant Solution
+DR01381,MUCOPECT,19060251,Ambroxol 30 MG Oral Tablet
+DR01382,MUCOSOL 8MG,19030494,Bromhexine 8 MG Oral Tablet
+DR01383,Mucosta Tab 100mg,21600109,OTHER DRUGS FOR PEPTIC ULCER AND GORD
+DR01384,Mucosten Inj 10%(300mg/3ml),1139042,Acetylcysteine
+DR01385,MultiBic 4.5L,19036781,Calcium Chloride
+DR01385,MultiBic 4.5L,19092849,Magnesium Chloride
+DR01385,MultiBic 4.5L,19096877,"DEXTROSE, ANHYDROUS"
+DR01385,MultiBic 4.5L,939506,Sodium Bicarbonate
+DR01385,MultiBic 4.5L,967823,Sodium Chloride
+DR01386,MULTIVITON INJ,19135832,Multivitamin preparation
+DR01387,mutacil 6g/pk,19137031,Ispaghula husk
+DR01388,Mutacil Pack(4g/pack),957797,Psyllium
+DR01389,Muteran Cap 200mg,19103575,Acetylcysteine 200 MG Oral Capsule
+DR01390,Muteran cap.,19103575,Acetylcysteine 200 MG Oral Capsule
+DR01391,Muteran Gran 200mg/1g,1139042,Acetylcysteine
+DR01392,Muteran granule 200mg/g,1139042,Acetylcysteine
+DR01393,Muteran Inj 300mg/3ml,1139042,Acetylcysteine
+DR01394,Muteran inj 300mg/3ml/AM,1139042,Acetylcysteine
+DR01395,MVH Inj 5ml,19135832,Multivitamin preparation
+DR01396,MYAMBUTOL,40222616,Ethambutol Hydrochloride 400 MG Oral Tablet
+DR01397,Myambutol Tab 400mg,40222616,Ethambutol Hydrochloride 400 MG Oral Tablet
+DR01398,Mycin(Benzathine Pc)120만 IU,1728416,Penicillin G
+DR01399,Mycostatin Syr,19079119,Nystatin 100000 UNT/ML Oral Suspension
+DR01400,MYCOSTATIN SYRUP,19105647,Nystatin 100000 UNT/ML Oral Solution
+DR01401,Mydrin-P optic soln(10ml),1135766,Phenylephrine
+DR01401,Mydrin-P optic soln(10ml),906072,Tropicamide
+DR01402,Myfortic Tab 360mg,19112758,Mycophenolic Acid 360 MG Enteric Coated Tablet
+DR01403,MYLANTA 10ML/1PACK,19057064,Aluminum Hydroxide 80 MG/ML / Magnesium Hydroxide 80 MG/ML / Simethicone 8 MG/ML Oral Suspension
+DR01404,Mylanta A Tab.,19046269,Aluminum Hydroxide 200 MG / Magnesium Hydroxide 200 MG / Simethicone 20 MG Chewable Tablet [Almacone]
+DR01405,Mylanta-II soln,19057064,Aluminum Hydroxide 80 MG/ML / Magnesium Hydroxide 80 MG/ML / Simethicone 8 MG/ML Oral Suspension
+DR01406,Mylaxan Inj 10mg/2ml,19057690,Gallamine
+DR01407,Myonal Tab 50mg,21604114,OTHER CENTRALLY ACTING AGENTS
+DR01408,Mypol Cap,1125315,Acetaminophen
+DR01408,Mypol Cap,1177480,Ibuprofen
+DR01408,Mypol Cap,1201620,Codeine
+DR01409,Myprodol Cap,19107122,Acetaminophen 250 MG / Codeine 10 MG / Ibuprofen 200 MG Oral Tablet
+DR01410,Myraxan inj 10mg/2ml/AM,19057690,Gallamine
+DR01411,Mytob Inj 80mg/2ml,902807,Tobramycin 40 MG/ML Injectable Solution
+DR01412,Mytonin Tab 25mg,40162835,Bethanechol Chloride 25 MG Oral Tablet
+DR01413,N/S  500ml/BOT(약국용),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01414,N/S (20ml),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01415,N/S 1L/BOT(약국용),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01416,N/S 3L(Bag),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01417,N/S 500ML (P),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01418,N/S irrigation soln 3000ml(CJ)(bag),968205,Sodium Chloride 9 MG/ML Irrigation Solution
+DR01419,Na-40 Inj 20ml,967823,Sodium Chloride
+DR01420,NACL (=N-A 40) 20ML,967823,Sodium Chloride
+DR01421,Nadoxol(=Mucopect) Inj.15mg,19088170,Ambroxol 7.5 MG/ML Injectable Solution
+DR01422,Nafcillin sodium inj 1g/VI,1713930,Nafcillin
+DR01423,NAHCO3,939506,Sodium Bicarbonate
+DR01424,Naitral Cr 20g,19104612,flutrimazole 10 MG/ML Topical Cream
+DR01425,Nalador Inj 500mcg,21602442,SULPROSTONE
+DR01426,Naloxone Inj 2mg/2ml,40244030,Naloxone Hydrochloride 1 MG/ML Injectable Solution
+DR01427,Naloxone Inj. 2MG/2ML,40244030,Naloxone Hydrochloride 1 MG/ML Injectable Solution
+DR01428,Naloxone Inj. 5mg/5ml/amp,40244030,Naloxone Hydrochloride 1 MG/ML Injectable Solution
+DR01429,Naloxone Inj.2mg/2ml,40244030,Naloxone Hydrochloride 1 MG/ML Injectable Solution
+DR01430,Naramig tab 2.5mg,1118121,naratriptan 2.5 MG Oral Tablet
+DR01431,Nasea Inj 0.3mg/2ml,21600492,SEROTONIN (5HT3) ANTAGONISTS
+DR01432,Nasea OD Tab 0.1mg,21600492,SEROTONIN (5HT3) ANTAGONISTS
+DR01433,Nasonex Nasal Spray 140dose,905237,mometasone furoate 0.05 MG/ACTUAT Nasal Spray
+DR01434,navelbine inj. 10mg,19124142,vinorelbine 10 MG/ML Injectable Solution
+DR01435,Navoban cap 5mg,19002832,tropisetron 5 MG Oral Capsule
+DR01436,Navoban Inj 5mg/5ml,19002831,tropisetron 1 MG/ML Injectable Solution
+DR01437,Navoban inj 5mg/5ml/AMP,19002831,tropisetron 1 MG/ML Injectable Solution
+DR01438,Naxen-F CR 1G,19022103,Naproxen 1000 MG Extended Release Tablet
+DR01439,Neometho Inj 50mg/2ml,1305124,Methotrexate 25 MG/ML Injectable Solution
+DR01440,Neo-minophagen-C Inj 20ml,19010955,Cysteine
+DR01440,Neo-minophagen-C Inj 20ml,42898316,Ammonium Glycyrrhizate
+DR01440,Neo-minophagen-C Inj 20ml,962398,Glycine
+DR01441,Neoplatin inj 150mg/15ml/VI,1344909,Carboplatin 10 MG/ML Injectable Solution
+DR01442,Neosetin solution,40163626,levocetirizine dihydrochloride 0.5 MG/ML Oral Solution
+DR01443,Nephrosteril 250ml/Bot,19130689,Alanine 6.6 MG/ML / Arginine 5.07 MG/ML / Glycine 6.6 MG/ML / Histidine 1.54 MG/ML / Isoleucine 7.89 MG/ML / Leucine 15.8 MG/ML / Lysine 2.65 MG/ML / Methionine 2.06 MG/ML / Phenylalanine 2.28 MG/ML / Proline 4.48 MG/ML / Serine 2.21 MG/ML / Threonine 2.72
+DR01444,Neph-vita Tab,40167860,Ascorbic Acid 60 MG / Calcium Pantothenate 10 MG / D-BIOTIN 0.3 MG / Folic Acid 0.8 MG / Niacinamide 20 MG / pyridoxine 10 MG / Riboflavin 1.7 MG / Thiamine 1.5 MG / Vitamin B 12 0.006 MG Oral Tablet
+DR01445,Nerisona Oint 0.3%(10g),19026097,Diflucortolone 0.003 MG/MG Topical Ointment
+DR01446,Nesp PFS inj 40mcg/1ml,1304645,darbepoetin alfa 0.04 MG/ML Injectable Solution
+DR01447,Netilmicin inj 100mg/2ml/AM,19017588,Netilmicin 50 MG/ML Injectable Solution
+DR01448,Netilmicin inj. 150mg/1.5ml/AM,19057566,Netilmicin 100 MG/ML Injectable Solution
+DR01449,Netilmicin inj. 150mg/AM,19057566,Netilmicin 100 MG/ML Injectable Solution
+DR01450,NEUCOMIT SOL,19072270,Acetylcysteine 200 MG/ML Inhalant Solution
+DR01451,Neuer Cap 200mg,21600109,OTHER DRUGS FOR PEPTIC ULCER AND GORD
+DR01452,Neuromed Tab 800mg,19106778,oxiracetam 800 MG Oral Tablet
+DR01453,Neurontin Cap 100mg(원외),19077547,gabapentin 100 MG Oral Capsule
+DR01454,Neurontin cap 300mg,19077548,gabapentin 300 MG Oral Capsule
+DR01455,Neurontin Cap 300mg(원외),19077548,gabapentin 300 MG Oral Capsule
+DR01456,Neurontin Cap 400mg(원외),19077549,gabapentin 400 MG Oral Capsule
+DR01457,Neurontin Tab 600mg(원외),19077550,gabapentin 600 MG Oral Tablet
+DR01458,Newbutin SR 300mg,19108102,Trimebutine 300 MG Extended Release Tablet
+DR01459,Newdizime inj 1g/VI,19028286,cefodizime
+DR01460,Nexium inj 40mg/VI,904453,Esomeprazole
+DR01461,Nexium Tab 20mg,19101746,Esomeprazole 20 MG Oral Tablet
+DR01462,Nexium Tab 40mg,19101745,Esomeprazole 40 MG Oral Tablet
+DR01463,Nicetile Pow 500mg/P,19037596,Acetylcarnitine
+DR01464,Nicetile Tab 500mg,19107043,Acetylcarnitine 500 MG Oral Tablet
+DR01465,Nicetile tab.,19037597,Acetylcarnitine 590 MG Oral Tablet
+DR01466,Nifedipine Cap 5mg 한미,1318859,Nifedipine 5 MG Oral Capsule
+DR01467,Nifedipine Tab 10mg,1318914,Nifedipine 10 MG Oral Tablet
+DR01468,Nifedix SR tab 30mg,19112979,Nifedipine 30 MG Extended Release Tablet
+DR01469,Niferon CR 40 Tab,19134566,Nifedipine 40 MG Extended Release Tablet
+DR01470,Nimodipin Inj 10mg,1319135,Nimodipine 0.2 MG/ML Injectable Solution
+DR01471,Nimodipine Inj 10mg/50ml,1319135,Nimodipine 0.2 MG/ML Injectable Solution
+DR01472,NIMOTOP 30MG,1319136,Nimodipine 30 MG Oral Tablet
+DR01473,Nimotop Inj 10mg/50ml,1319135,Nimodipine 0.2 MG/ML Injectable Solution
+DR01474,Nimotop Inj.10mg.50ml,1319135,Nimodipine 0.2 MG/ML Injectable Solution
+DR01475,Nimotop Tab 30mg,1319136,Nimodipine 30 MG Oral Tablet
+DR01476,Nitcerin inj.10mg/10ml Amp,19025295,Nitroglycerin 1 MG/ML Injectable Solution [Nitrocine]
+DR01477,NITROGLYCERIN 0.6MG,19019337,Nitroglycerin 0.6 MG Sublingual Tablet
+DR01478,Nitroglycerin Tab 0.6mg 하나,19019337,Nitroglycerin 0.6 MG Sublingual Tablet
+DR01479,Nitrolingual inj 10mg/10ml/AM,19025295,Nitroglycerin 1 MG/ML Injectable Solution [Nitrocine]
+DR01480,Nitrolingual inj 50mg/50ml/VI,19025295,Nitroglycerin 1 MG/ML Injectable Solution [Nitrocine]
+DR01481,Nitropress inj 50mg/2ml/VI,19058101,Nitroprusside 25 MG/ML Injectable Solution
+DR01482,Nolvadex Tab 10mg,19019851,Tamoxifen 10 MG Oral Tablet
+DR01483,Noradrenaline 10mg Inj,1321363,Norepinephrine 1 MG/ML Injectable Solution
+DR01484,Norcuron inj 4mg/VI,19022616,Vecuronium 4 MG/ML Injectable Solution
+DR01485,Normal saline 1000ML(처치용),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01486,Normal saline 1000ml(CJ)(처치용)(bag),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01487,Normal saline 100ml(CJ)(bag),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01488,Normal saline 100ml(iv용)(PP)(중외),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01489,Normal saline 150ml(BT),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01490,Normal saline 20ml,19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01491,Normal saline 20ml(대한),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01492,Normal saline 20ml(suction용),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01493,Normal saline 50ml(PP)(중외),19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01494,Normix Tab 200mg,1735948,rifaximin 200 MG Oral Tablet
+DR01495,Norpin Inj 20mg/20ml,1321363,Norepinephrine 1 MG/ML Injectable Solution
+DR01496,Norpine inj 4ml/AM,1321363,Norepinephrine 1 MG/ML Injectable Solution
+DR01497,Norumo A Tab,1307213,Ginger extract
+DR01497,Norumo A Tab,1359143,Cinnamon Bark
+DR01497,Norumo A Tab,19018438,aluminum magnesium silicate
+DR01497,Norumo A Tab,19082736,Gentian preparation
+DR01497,Norumo A Tab,901656,Menthol
+DR01497,Norumo A Tab,908360,magaldrate
+DR01497,Norumo A Tab,939506,Sodium Bicarbonate
+DR01498,Norvasc Tab 5mg,1332419,Amlodipine 5 MG Oral Tablet
+DR01499,Norzyme Cap,926487,Pancreatin
+DR01500,Norzyme cap. 457.7mg,926487,Pancreatin
+DR01501,Novalgin Inj.1g,19031455,Dipyrone 500 MG/ML Injectable Solution
+DR01502,Novasc Tab 5mg,1332419,Amlodipine 5 MG Oral Tablet
+DR01503,Novastan Inj. 20Ml/Amp.,1322207,Argatroban
+DR01504,novolet 30u/70u,1596977,"Insulin, Regular, Human"
+DR01505,novolet inj. 20u/80u,1596977,"Insulin, Regular, Human"
+DR01506,novolet N 100u,19078555,"Insulin, Regular, Human 100 UNT/ML Injectable Solution"
+DR01507,Novolet-N Inj 300unit/3ml/Pen,1596959,"3 ML NPH Insulin, Human 100 UNT/ML Prefilled Syringe"
+DR01508,Novolin R 1000IU/10ml/VI,19078555,"Insulin, Regular, Human 100 UNT/ML Injectable Solution"
+DR01509,Novolin-N Inj 1000unit/10ml,19078555,"Insulin, Regular, Human 100 UNT/ML Injectable Solution"
+DR01510,Novolin-R Inj 1000unit/10ml,19078555,"Insulin, Regular, Human 100 UNT/ML Injectable Solution"
+DR01511,NovoMix 30 Flexpen Inj 300unit/3ml,1567235,"3 ML Insulin, Aspart, Human 100 UNT/ML Prefilled Syringe"
+DR01512,Novomix30 flexpen inj 300IU/3ml/pen,1567234,"3 ML Insulin, Aspart Protamine, Human 70 UNT/ML / Insulin, Aspart, Human 30 UNT/ML Prefilled Syringe"
+DR01513,Novorapid flexpen 300IU/3ml/pen,1567235,"3 ML Insulin, Aspart, Human 100 UNT/ML Prefilled Syringe"
+DR01514,NovoRapid Flexpen Inj 300unit/3ml,1567235,"3 ML Insulin, Aspart, Human 100 UNT/ML Prefilled Syringe"
+DR01515,Novorapid inj.100IU/ml,19078558,"Insulin, Aspart, Human 100 UNT/ML Injectable Solution"
+DR01516,Nubain Inj 10mg,40175249,Nalbuphine Hydrochloride 10 MG/ML Injectable Solution
+DR01517,NuTRIflex  Lipid Special 1250ml (Central),21601159,COMBINATIONS
+DR01518,Nutriflex 48 1000ml (Central),21601159,COMBINATIONS
+DR01519,NuTRIflex Lipid Peri 1875ml,21601159,COMBINATIONS
+DR01520,Nutriflex Peri 40 1000ml,21601159,COMBINATIONS
+DR01521,Nutrilan Sol 500ml,21605350,"FAT/CARBOHYDRATES/PROTEINS/MINERALS/VITAMINS, COMB"
+DR01522,nutrogin 250mcg,19009705,lenograstim
+DR01523,O.M.P 20MG,19102189,Omeprazole 20 MG Enteric Coated Tablet
+DR01524,OcuFlox Eye Drop 5ml,19079151,Ofloxacin 3 MG/ML Ophthalmic Solution
+DR01525,Ocupred Eye Drop 10ml,1551005,prednisolone 1.2 MG/ML Ophthalmic Suspension
+DR01526,Okifen Sol,1185922,Ketoprofen
+DR01527,Oldeca Cap 10mg,19102106,mepirodipine
+DR01528,OliClinomel N4-550E 1500ml,21601159,COMBINATIONS
+DR01529,Olmetec tab 20mg,19096740,Olmesartan medoxomil 20 MG Oral Tablet
+DR01530,Olybiol 250 Cap,19121591,Saccharomyces boulardii 250 MG Oral Capsule
+DR01531,Omacor cap. 1000mg,19121242,Omega-3 Acid Ethyl Esters 1000 MG Oral Capsule
+DR01532,Omacor Soft Cap 1g,19121242,Omega-3 Acid Ethyl Esters 1000 MG Oral Capsule
+DR01533,Omed Tab 10mg,19101742,Omeprazole 10 MG Oral Tablet
+DR01534,Omed tab.10mg,19101742,Omeprazole 10 MG Oral Tablet
+DR01535,Omnaris Nasal Spray,19129669,120 ACTUAT ciclesonide 0.05 MG/ACTUAT Nasal Inhaler
+DR01536,Omnicef 100mg,1796458,cefdinir
+DR01537,Omnicef Cap 100mg,1796458,cefdinir
+DR01538,Omnicef Gran(100mg/1g),1796458,cefdinir
+DR01539,OMP Tab 20mg,19101743,Omeprazole 20 MG Oral Tablet
+DR01540,OMP Tab 40mg,19101744,Omeprazole 40 MG Oral Tablet
+DR01541,Ondant inj 4mg/2ml/AM,19070869,Ondansetron 2 MG/ML Injectable Solution
+DR01542,One Alfa Tab 0.5mcg,19014202,Alfacalcidol
+DR01543,ONEALFA 0.5MCG,19014202,Alfacalcidol
+DR01544,Onon Cap,21603355,PRANLUKAST
+DR01545,Opalmon Tab,21601587,OTHER PERIPHERAL VASODILATORS
+DR01546,Optagent optic soln 2%(10ml),950056,Povidone
+DR01547,Optiderm Cr 50g/Tube,40175900,polidocanol
+DR01547,Optiderm Cr 50g/Tube,906914,Urea
+DR01548,Oradexon Inj. 5MG/1ML,19006963,Dexamethasone 5 MG/ML Injectable Solution
+DR01549,Orfil inj 300mg/3ml/AM,40237993,Valproic Acid 100 MG/ML Injectable Solution
+DR01550,ORFIL RETARD 300MG,745466,Valproate
+DR01551,Orfil Retard 600mg,745466,Valproate
+DR01552,Orfil Retard Tab 300mg,745466,Valproate
+DR01553,Orfil Syr 60mg/ml,745466,Valproate
+DR01554,ORFIL SYRUP 60MG/1ML,745466,Valproate
+DR01555,OSTEMIN CAP,19103697,Glucosamine Sulfate 250 MG Oral Capsule
+DR01556,Ostemin Cap 250mg,19103697,Glucosamine Sulfate 250 MG Oral Capsule
+DR01557,OXIKLORIN 100MG,1777087,Hydroxychloroquine
+DR01558,Oxiklorin Tab 100mg,1777087,Hydroxychloroquine
+DR01559,Oxiklorin Tab 200mg,40184084,Hydroxychloroquine Sulfate 200 MG Oral Tablet
+DR01560,Oxiton Inj 5unit/1ml,1326119,Oxytocin 5 UNT/ML Injectable Solution
+DR01561,Oxycontin CR 10mg,40232704,Oxycodone Hydrochloride 10 MG Extended Release Tablet
+DR01562,Oxycontin CR 20mg,40232727,Oxycodone Hydrochloride 20 MG Extended Release Tablet
+DR01563,Oxycontin CR 40mg,40232750,Oxycodone Hydrochloride 40 MG Extended Release Tablet
+DR01564,Oxytocin inj 10IU/1ml/AM,19057128,Oxytocin 10 UNT/ML Injectable Solution
+DR01565,Pacetin Inj 1g,19115098,Cefoxitin 95 MG/ML Injectable Solution
+DR01566,Pacetin inj 1g/VI,19115098,Cefoxitin 95 MG/ML Injectable Solution
+DR01567,Pamu-A inj 500mg/VI,19021911,pralidoxime 25 MG/ML Injectable Solution
+DR01568,Pancron Tab,967343,hemicellulase 50 MG / Ox bile extract 25 MG / Pancreatin 175 MG / Simethicone 25 MG Oral Tablet
+DR01569,Panorin inj 15mg/1ml/AM,19064879,amidronate 15 MG/ML Injectable Solution
+DR01570,Pantoloc Inj 40mg,948080,pantoprazole 4 MG/ML Injectable Solution
+DR01571,Pantoloc inj 40mg/VI,948078,pantoprazole
+DR01572,Pantoloc Tab 20mg,948079,pantoprazole 20 MG Enteric Coated Tablet
+DR01573,Pantoloc Tab 40mg,19080217,pantoprazole 40 MG Enteric Coated Tablet
+DR01574,Paramacet SEMI Tab,1103314,Tramadol
+DR01574,Paramacet SEMI Tab,1125315,Acetaminophen
+DR01575,Paramacet Tab,1103359,Acetaminophen 325 MG / Tramadol Hydrochloride 37.5 MG Oral Tablet
+DR01576,Pariet tab 10mg,40163283,Rabeprazole sodium 10 MG Enteric Coated Tablet
+DR01577,Pariet tab 20mg,40163285,Rabeprazole sodium 20 MG Enteric Coated Tablet
+DR01578,Parlodel Tab.2.5mg,730551,Bromocriptine 2.5 MG Oral Tablet
+DR01579,Paxil CR Tab 12.5mg,19115249,Paroxetine 12.5 MG Extended Release Tablet
+DR01579,Paxil CR tab 12.5mg,722031,Paroxetine
+DR01580,P-BCG Inj,19015423,BCG Vaccine
+DR01581,ped. rulid tab.50mg,19063877,Roxithromycin 50 MG Oral Tablet
+DR01582,PEGAMOL 75MG,19076623,Dipyridamole 75 MG Oral Tablet
+DR01583,Pegasys prefilled syringe 135mcg,19127528,0.5 ML peginterferon alfa-2a 0.27 MG/ML Prefilled Syringe
+DR01584,Pegasys prefilled syringe 180mcg,722453,0.5 ML Interferon beta-1a 0.06 MG/ML Prefilled Syringe
+DR01585,Pelubi Tab 30mg,21603966,PROPIONIC ACID DERIVATIVES
+DR01586,Penbrex Inj 500mg,1717327,Ampicillin
+DR01587,Penbrex inj 500mg/VI,1717327,Ampicillin
+DR01588,Penicillin G kalium 500만단위,1728416,Penicillin G
+DR01589,Penid Tab 10mg,40236419,Methylphenidate Hydrochloride 10 MG Oral Tablet
+DR01590,PENIRAMIN 2MG,40241775,Chlorpheniramine Maleate 2 MG Oral Tablet
+DR01591,Peniramin Inj 4mg/2ml,1192710,Chlorpheniramine
+DR01592,Peniramin Tab 2mg,40241775,Chlorpheniramine Maleate 2 MG Oral Tablet
+DR01593,Pennel Cap,42899536,Oil of garlic
+DR01594,Pentasa SR tab 500mg,19064967,Mesalamine 500 MG Extended Release Tablet
+DR01595,pentaspan 500ml,40161356,Pentastarch 100 MG/ML Injectable Solution
+DR01596,Pentaspan Inj 10% 500ml/Bag,40161356,Pentastarch 100 MG/ML Injectable Solution
+DR01597,PENTAZOCIN 30MG,1130589,Pentazocine 30 MG/ML Injectable Solution
+DR01598,Pentolair Eye 1% 15ml,42800620,Cyclopentolate hydrochloride 10 MG/ML Ophthalmic Solution
+DR01599,Pentothal Sod Inj 250mg,700253,Thiopental
+DR01600,Pentothal Sod Inj 500mg,700253,Thiopental
+DR01601,PERAtam Inj 1g,1773402,Cefoperazone
+DR01601,PERAtam Inj 1g,1836241,Sulbactam
+DR01602,Perdipine Inj 10mg/10ml,40165072,Nicardipine hydrochloride 1 MG/ML Injectable Solution
+DR01603,Perdipine inj 10mg/10ml/AM,40165072,Nicardipine hydrochloride 1 MG/ML Injectable Solution
+DR01604,Perdipine Retard Cap 40mg,1318137,Nicardipine
+DR01605,PERIDOL  5MG,19027427,Haloperidol 5 MG/ML Injectable Solution
+DR01606,Perphenazine Tab 4mg,19019530,Perphenazine 4 MG Oral Tablet
+DR01607,PETHIDINE,40165020,Meperidine Hydrochloride 50 MG/ML Injectable Solution
+DR01608,pethidine 50mg,40165020,Meperidine Hydrochloride 50 MG/ML Injectable Solution
+DR01609,Pethidine Inj 25mg/0.5ml,40165020,Meperidine Hydrochloride 50 MG/ML Injectable Solution
+DR01610,Pethidine Inj 50mg/1ml,40165020,Meperidine Hydrochloride 50 MG/ML Injectable Solution
+DR01611,Pharmasorb susp,933797,attapulgite 40 MG/ML Oral Suspension
+DR01612,Phenobarbital Tab 30mg,734711,Phenobarbital 30 MG Oral Tablet
+DR01613,Phenylephrine Inj 10mg/1ml,42707286,Phenylephrine Hydrochloride 10 MG/ML Injectable Solution
+DR01614,Phenylephrine inj 10mg/1ml/VI,42707286,Phenylephrine Hydrochloride 10 MG/ML Injectable Solution
+DR01615,Phenytoin Cap 100mg,40163210,Phenytoin sodium 100 MG Oral Capsule
+DR01616,Phenytoin Inj 100mg/2ml,40163244,Phenytoin sodium 50 MG/ML Injectable Solution
+DR01617,Phenytoin sodium inj 250mg/5ml/AM,40163244,Phenytoin sodium 50 MG/ML Injectable Solution
+DR01618,Phosbine tab,951469,calcium acetate
+DR01619,PhosLo Tab 710mg,951469,calcium acetate
+DR01620,Phosten Inj 20mM/20ml,19017290,Monobasic potassium phosphate 1 MMOL/ML Injectable Solution
+DR01621,Pigmin Inj 5mg/1ml,40173882,Pyridostigmine Bromide 5 MG/ML Injectable Solution
+DR01622,Pigmin inj 5mg/1ml/AM,40173882,Pyridostigmine Bromide 5 MG/ML Injectable Solution
+DR01623,Piroxicam inj 20mg/1ml/AM,1146882,Piroxicam 20 MG/ML Injectable Solution
+DR01624,PK-MERZ 100MG,19087108,Amantadine Hydrochloride 100 MG Oral Tablet
+DR01625,PK-Merz Tab 100mg,19087108,Amantadine Hydrochloride 100 MG Oral Tablet
+DR01626,PLANCOL OINT 10G/TB,43013660,Hydrocortisone butyrate 1 MG/ML Topical Cream
+DR01627,Plasma Sol.A Inj 1L/Bag,19049105,Potassium Chloride
+DR01627,Plasma Sol.A Inj 1L/Bag,19077884,Sodium Acetate
+DR01627,Plasma Sol.A Inj 1L/Bag,19078092,Sodium gluconate
+DR01627,Plasma Sol.A Inj 1L/Bag,19092849,Magnesium Chloride
+DR01627,Plasma Sol.A Inj 1L/Bag,967823,Sodium Chloride
+DR01628,Platless tab. 75mg,19075601,clopidogrel 75 MG Oral Tablet
+DR01629,PlaVITOR Tab 75mg,19075601,clopidogrel 75 MG Oral Tablet
+DR01630,Plavitor tab. 75mg,19075601,clopidogrel 75 MG Oral Tablet
+DR01631,Plavix Tab 75mg,19075601,clopidogrel 75 MG Oral Tablet
+DR01632,Plavix Tab.75MG,19075601,clopidogrel 75 MG Oral Tablet
+DR01633,Plecton Tab 40mg,19050212,cicloxilic acid 40 MG Oral Tablet
+DR01634,Pletaal SR cap 100mg,1350310,cilostazol
+DR01635,Pletaal Tab 100mg,1350311,cilostazol 100 MG Oral Tablet
+DR01636,Pletaal Tab 50mg,1350332,cilostazol 50 MG Oral Tablet
+DR01637,pletal tab. 50mg,1350332,cilostazol 50 MG Oral Tablet
+DR01638,PN-Twin Inj.3호,21601159,COMBINATIONS
+DR01639,Pocral Syr 100mg/ml,742655,Chloral Hydrate 100 MG/ML Oral Solution
+DR01640,POCRAL SYRUP 1ML,742655,Chloral Hydrate 100 MG/ML Oral Solution
+DR01641,Pofol Inj 120mg/12ml,753629,Propofol 10 MG/ML Injectable Suspension
+DR01642,Polybamycin Oint (10g),19027805,Bacitracin 0.4 UNT/MG / Neomycin 0.0035 MG/MG / Polymyxin B 5 UNT/MG Topical Ointment
+DR01643,POLYBUTINE 100MG,19005513,Trimebutine 100 MG Oral Tablet
+DR01644,Polybutine Tab 100mg,19005513,Trimebutine 100 MG Oral Tablet
+DR01645,Pontal Cap 250mg,19133331,Mefenamic Acid 250 MG Oral Capsule
+DR01646,POSILANE GEL,916662,Dimethicone
+DR01647,Posten inj 20ml,990499,"Sodium Phosphate, Monobasic"
+DR01648,Potarose Vag. Liq (10%),1750297,Povidone-Iodine 100 MG/ML Topical Solution
+DR01649,Povidonegagle(7.5%),1750299,Povidone-Iodine 75 MG/ML Topical Solution
+DR01650,PRANOL 40MG,40163342,Propranolol Hydrochloride 40 MG Oral Tablet
+DR01651,Pranol Tab 40mg,40163342,Propranolol Hydrochloride 40 MG Oral Tablet
+DR01652,Pranopulin eye drop 5ml,21603647,PRANOPROFEN
+DR01653,Pred Forte Eye Drop 1%,43526395,prednisolone acetate 10 MG/ML Ophthalmic Suspension
+DR01654,Pred forte eyedrop 5ml,43526395,prednisolone acetate 10 MG/ML Ophthalmic Suspension
+DR01655,Predisol inj. 125mg/VI,19080181,Methylprednisolone 62.5 MG/ML Injectable Solution
+DR01656,Pregrel Tab 75mg,19075601,clopidogrel 75 MG Oral Tablet
+DR01657,Pregrel tab.,19075601,clopidogrel 75 MG Oral Tablet
+DR01658,Preline inj 0.732mg/1ml/AM,19079432,Thyrotropin-Releasing Hormone 0.5 MG/ML Injectable Solution
+DR01659,Premarin Tab 0.625mg,19077083,"Estrogens, Conjugated (USP) 0.625 MG Oral Tablet"
+DR01660,PREMARIN TAB. 0.625MG,19077083,"Estrogens, Conjugated (USP) 0.625 MG Oral Tablet"
+DR01661,PREPALCID 5MG,932199,Cisapride 5 MG Oral Tablet
+DR01662,Prepenem Inj 500mg,1797275,Cilastatin 5 MG/ML / Imipenem 5 MG/ML Injectable Solution
+DR01663,PREPULSID SYR 1MG/1ML,932233,Cisapride 1 MG/ML Oral Suspension
+DR01664,Prepulsid Syr.,932233,Cisapride 1 MG/ML Oral Suspension
+DR01665,Prepulsid T Tab 5mg,932199,Cisapride 5 MG Oral Tablet
+DR01666,Prepulsid Tab 10mg,932197,Cisapride 10 MG Oral Tablet
+DR01667,Prepulsid Tab.5mg,932199,Cisapride 5 MG Oral Tablet
+DR01668,Prex tab 10mg,715235,Baclofen 10 MG Oral Tablet
+DR01669,Primacor Inj 10mg/10ml,19096336,Milrinone 1 MG/ML Injectable Solution
+DR01670,Primacor inj 10mg/10ml/AM (수),19096336,Milrinone 1 MG/ML Injectable Solution
+DR01671,PRIMALAN 5MG,19004269,mequitazine 5 MG Oral Tablet
+DR01672,Primalan Syrup 1ML,19128969,mequitazine 0.5 MG/ML Oral Solution
+DR01673,Primene 10% 100ml/Bot,19130902,Alanine 5.4 MG/ML / Arginine 12 MG/ML / Aspartate 3.2 MG/ML / Cysteine 0.24 MG/ML / Glutamate 5 MG/ML / Glycine 3.6 MG/ML / Histidine 4.8 MG/ML / Isoleucine 8.2 MG/ML / Leucine 1.4 MG/ML / Lysine 1.2 MG/ML / Methionine 3.4 MG/ML / Phenylalanine 4.8 MG/ML /
+DR01674,Primidone Tab 250mg,19136034,Primidone 250 MG Oral Tablet
+DR01675,Privituss Sus 8ml/PAK,21603428,CLOPERASTINE
+DR01676,Proamine 10% 500ml/Bot,19130902,Alanine 5.4 MG/ML / Arginine 12 MG/ML / Aspartate 3.2 MG/ML / Cysteine 0.24 MG/ML / Glutamate 5 MG/ML / Glycine 3.6 MG/ML / Histidine 4.8 MG/ML / Isoleucine 8.2 MG/ML / Leucine 1.4 MG/ML / Lysine 1.2 MG/ML / Methionine 3.4 MG/ML / Phenylalanine 4.8 MG/ML /
+DR01677,Prodag tab,1113672,nabumetone 500 MG Oral Tablet
+DR01678,PROFENID 100MG,1185963,Ketoprofen 50 MG/ML Injectable Solution
+DR01679,PROGEST 500MG/10ML,1552382,Progesterone 50 MG/ML Injectable Solution
+DR01680,Progest Inj 500mg/10ml,1552382,Progesterone 50 MG/ML Injectable Solution
+DR01681,Progesterone inj. 500mg/10ml/VI,1552382,Progesterone 50 MG/ML Injectable Solution
+DR01682,Prograf 1mg Cap(수),950641,Tacrolimus 1 MG Oral Capsule
+DR01683,Prograf Cap 0.5mg,19079712,Tacrolimus 0.5 MG Oral Capsule
+DR01684,Prograf Cap 1mg,950641,Tacrolimus 1 MG Oral Capsule
+DR01685,Progynova tab 1mg,40181755,estradiol valerate 1 MG Oral Tablet
+DR01686,Progynova Tab 2mg,1548199,Estradiol 2 MG Oral Tablet
+DR01687,Prohethin Tab 4mg,40166704,Cyproheptadine hydrochloride 4 MG Oral Tablet
+DR01688,Proimer Tab 5mg,752280,Procyclidine 5 MG Oral Tablet
+DR01689,Proscar cap.,19077375,Finasteride 5 MG Oral Tablet
+DR01690,Proscar Tab 5mg,19077375,Finasteride 5 MG Oral Tablet
+DR01691,Prospan 7.5ml/PAK,42899163,Hedera helix leaf extract
+DR01692,Prospan Syr,42899163,Hedera helix leaf extract
+DR01693,Prostandin Inj 20mcg,1381504,Alprostadil
+DR01694,Protopic Oint(0.03%) 10g,950667,Tacrolimus 0.0003 MG/MG Topical Ointment
+DR01695,Provera Tab 2.5mg,40224812,medroxyprogesterone acetate 2.5 MG Oral Tablet
+DR01696,PROZAC 20MG,19077463,Fluoxetine 20 MG Oral Capsule
+DR01697,Prozac Cap 20mg,19077463,Fluoxetine 20 MG Oral Capsule
+DR01698,PUCAINE 0.5% 20ml,40225967,Bupivacaine Hydrochloride 5 MG/ML Injectable Solution
+DR01699,Pucaine Inj 0.5% 100mg/20ml,40225967,Bupivacaine Hydrochloride 5 MG/ML Injectable Solution
+DR01700,Pulmican Respule 0.5mg/2ml,19098138,Budesonide 0.25 MG/ML Inhalant Solution
+DR01701,Pulmicort respule 0.5mg,19096595,Budesonide 0.125 MG/ML Inhalant Solution
+DR01702,Pulmicort Respules(Soln),19098138,Budesonide 0.25 MG/ML Inhalant Solution
+DR01703,Pulmicort Turbuhaler 200mcg,19060647,Budesonide 0.2 MG/ACTUAT Inhalant Powder
+DR01704,Purinethol Tab 50mg,1436651,6-Mercaptopurine 50 MG Oral Tablet
+DR01705,Pyrazinamid Tab 500mg 유한,1759456,Pyrazinamide 500 MG Oral Tablet
+DR01706,PYRAZINAMIDE 500MG,1759456,Pyrazinamide 500 MG Oral Tablet
+DR01707,PYRIDOXIN 50MG,1353578,Vitamin B6 50 MG Oral Tablet
+DR01708,Pyridoxine Tab 50mg ,1353578,Vitamin B6 50 MG Oral Tablet
+DR01709,Pyridoxine Tab 50mg 삼일,1353578,Vitamin B6 50 MG Oral Tablet
+DR01710,Qretin tab.,43013866,Vaccinium myrtillus extract
+DR01711,Questran Powder 4g/P,19095309,Cholestyramine
+DR01712,Ramnos cap 250mg,19000811,Lactobacillus casei rhamnosus
+DR01713,Ramnos Gran,19000811,Lactobacillus casei rhamnosus
+DR01714,Ranitidine inj 50mg/2ml/AM,961167,Ranitidine 25 MG/ML Injectable Solution
+DR01715,Recormon Inj 2000U,19001311,epoetin beta
+DR01716,Refosporen Inj 1g,21602875,CEFAZEDONE
+DR01717,Refosporen inj 1g/VI,19077652,Glucagon 1 MG/ML Injectable Solution
+DR01718,Relafen Tab 500mg,1113672,nabumetone 500 MG Oral Tablet
+DR01719,REMERON 30MG,725180,Mirtazapine 30 MG Oral Tablet
+DR01720,Remeron soltab 15mg,19070747,Mirtazapine 15 MG Disintegrating Tablet
+DR01720,Remeron Soltab 15mg,725178,Mirtazapine 15 MG Oral Tablet
+DR01721,Remeron Soltab 30mg,725180,Mirtazapine 30 MG Oral Tablet
+DR01722,Reminyl PR Cap 8mg,40165633,galantamine hydrobromide 8 MG Extended Release Capsule
+DR01723,Renagel Tab 800mg,40163383,Sevelamer hydrochloride 800 MG Oral Tablet
+DR01724,Renormal Tab,908464,magnesium carbonate
+DR01724,Renormal Tab,985247,Aluminum Hydroxide
+DR01725,Requip tab 0.25mg,713831,ropinirole 0.25 MG Oral Tablet
+DR01726,Respilene Sy 5mg/ml,19044746,zipeprol 5 MG/ML Oral Solution
+DR01727,Rheoma Inj 1ml,1146882,Piroxicam 20 MG/ML Injectable Solution
+DR01728,Rheumastop Plaster 14매/PACK,1124300,Diclofenac
+DR01729,Rheumon Inj 1g/2ml,19095561,etofenamate
+DR01730,RHINATHIOL 5% SYRUP 1ML,19041846,Carbocysteine 50 MG/ML Oral Solution
+DR01731,RHINATHIOL 500MG,19041843,Carbocysteine
+DR01732,Rhinathiol Cap 500mg(원외),19041843,Carbocysteine
+DR01733,Rhinathiol Syr.5%,19041846,Carbocysteine 50 MG/ML Oral Solution
+DR01734,rhonal tab.100mg,1113143,Aspirin 100 MG Oral Tablet
+DR01735,ricormon inj. 2000iu,19001311,epoetin beta
+DR01736,rifampicin 300mg,1763204,Rifampin
+DR01737,RIFODEX 150MG         4T  #1,19019700,Rifampin 150 MG Oral Capsule
+DR01738,Rifodex 600MG Tab,19022105,Rifampin 600 MG Oral Tablet
+DR01739,Rifodex Cap 150mg,19019700,Rifampin 150 MG Oral Capsule
+DR01740,Rifodex Tab 450mg,19022342,Rifampin 450 MG Oral Tablet
+DR01741,Rifodex Tab 600mg,19022105,Rifampin 600 MG Oral Tablet
+DR01742,Rimatil Tab 100mg,21604032,BUCILLAMINE
+DR01743,Rino-Ebastel Cap,1154332,Pseudoephedrine
+DR01743,Rino-Ebastel Cap,19092433,ebastine
+DR01744,Risperdal Quiklet Tab 1mg,19102162,Risperidone 1 MG Disintegrating Tablet
+DR01745,Risperdal Quiklet Tab 2mg,19102163,Risperidone 2 MG Disintegrating Tablet
+DR01746,Risperdal Tab 1mg,19079462,Risperidone 1 MG Oral Tablet
+DR01747,Risperdal Tab 2mg,736053,Risperidone 2 MG Oral Tablet
+DR01748,Risperidol Tab 2mg,736053,Risperidone 2 MG Oral Tablet
+DR01749,RIVOTRIL 0.5MG,798875,Clonazepam 0.5 MG Oral Tablet
+DR01750,Rivotril Tab 0.5mg,798875,Clonazepam 0.5 MG Oral Tablet
+DR01751,Rize Tab 5mg,19107403,clotiazepam 5 MG Oral Tablet
+DR01752,ROCALTROL 0.25MCG,19074492,Calcitriol 0.00025 MG Oral Capsule
+DR01753,Rocaltrol Cap 0.25ug,19074492,Calcitriol 0.00025 MG Oral Capsule
+DR01754,Rokan tab.,1391915,Ginkgo biloba extract 80 MG Oral Tablet
+DR01755,Romantase Tab,40176385,Dehydrocholic Acid 180 MG / dimethicone 40 MG / Pancreatin 300 MG Oral Tablet
+DR01756,Rosiden gel 100g/Tube,19008208,Piroxicam 0.005 MG/MG Topical Gel
+DR01757,Rosiden Inj 20mg,1146882,Piroxicam 20 MG/ML Injectable Solution
+DR01758,Rosiden Tab.10mg,1146847,Piroxicam 10 MG Oral Tablet
+DR01759,Rowachol Cap,19050346,Eucalyptol
+DR01759,Rowachol Cap,43013518,Borneol
+DR01759,Rowachol Cap,901656,Menthol
+DR01760,Roxan Cap 75mg,19103399,roxatidine 75 MG Oral Capsule
+DR01761,Roxigran Gran(50mg/1g),19063874,Roxithromycin
+DR01762,Roxigran Granule,19063874,Roxithromycin
+DR01763,Roxol tab 30mg,19060251,Ambroxol 30 MG Oral Tablet
+DR01764,RULID 150MG,19063875,Roxithromycin 150 MG Oral Tablet
+DR01765,Rulid D Tab 50mg,19063877,Roxithromycin 50 MG Oral Tablet
+DR01766,Rulid Pediatric Tab. 50mg,19063877,Roxithromycin 50 MG Oral Tablet
+DR01767,Rulid Tab 150mg,19063875,Roxithromycin 150 MG Oral Tablet
+DR01768,RYTMONORM 150MG,40165138,Propafenone Hydrochloride 150 MG Oral Tablet
+DR01769,Sabril Tab 500mg,19020003,Vigabatrin 500 MG Oral Tablet
+DR01770,Sagacin Inj 120mg/1.5ml,19072089,micronomicin
+DR01771,Sagacin Inj 60mg/1.5ml,19072089,micronomicin
+DR01772,SALAZOPYRIN 500MG,964369,Sulfasalazine 500 MG Enteric Coated Tablet
+DR01773,Salazopyrin EN Tab  500mg,964369,Sulfasalazine 500 MG Enteric Coated Tablet
+DR01774,SALINE 1000ML,19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01775,SALINE 500ML,19079524,Sodium Chloride 9 MG/ML Injectable Solution
+DR01776,Samion tab 10mg,19018353,Nicergoline 10 MG Oral Tablet
+DR01777,Sandimmun 100mg Neoral Cap,19082899,Cyclosporine 100 MG Oral Capsule
+DR01778,Sandimmun 25mg Neoral Cap,19010484,Cyclosporine 25 MG Oral Capsule
+DR01779,Sandimmun Inj 250mg/5ml,19028689,Cyclosporine 50 MG/ML Injectable Solution
+DR01780,Sandimmun inj 250mg/5ml/AM (수),19028689,Cyclosporine 50 MG/ML Injectable Solution
+DR01781,SANDIMUN 100MG,19010522,"CYCLOSPORINE, MODIFIED 100 MG Oral Capsule"
+DR01782,SANDIMUN 25MG,19010559,"CYCLOSPORINE, MODIFIED 25 MG Oral Capsule"
+DR01783,Sandostatin Inj 0.1mg/1ml,19079138,Octreotide 0.1 MG/ML Injectable Solution
+DR01784,Sandostatin inj 0.1mg/1ml/AM(수),19079138,Octreotide 0.1 MG/ML Injectable Solution
+DR01785,Sarpine tab 4mg,19011549,lacidipine 4 MG Oral Tablet
+DR01786,SAVLON GARGLE,1790982,chlorhexidine gluconate 1.2 MG/ML Mouthwash
+DR01787,SECMID 40MG,957136,Furosemide 40 MG Oral Tablet
+DR01788,SELBEX 50MG,43012210,TEPRENONE
+DR01789,Selbex Cap 50mg,43012210,TEPRENONE
+DR01790,Selenase T Pro Inj 500mcg/10ml,966282,Selenium
+DR01791,Selenase T pro inj. 10ml,19038024,Selenious Acid
+DR01792,Selexid inj 400mg/VI,19123877,Amdinocillin
+DR01793,Sensival Tab 10mg,721728,Nortriptyline 10 MG Oral Tablet
+DR01794,Sentil Tab. 5mg,19106229,clobazam 5 MG Oral Tablet
+DR01795,Septrin Syrup,1836449,Sulfamethoxazole 40 MG/ML / Trimethoprim 8 MG/ML Oral Suspension
+DR01796,Septrin Tab,1836433,Sulfamethoxazole 400 MG / Trimethoprim 80 MG Oral Tablet
+DR01797,Septrin tab.(셉트린정),1836433,Sulfamethoxazole 400 MG / Trimethoprim 80 MG Oral Tablet
+DR01798,Serenzal tab 5mg,40163630,levocetirizine dihydrochloride 5 MG Oral Tablet
+DR01799,Seretide Diskus 250,40169281,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+DR01800,Seretide Diskus 500,40169285,60 ACTUAT Fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+DR01801,Sermion Tab 10mg,19018353,Nicergoline 10 MG Oral Tablet
+DR01802,Sermion Tab 30mg,19018354,Nicergoline 30 MG Oral Tablet
+DR01803,Seronase Tab,19106160,Streptodornase 2500 UNT / Streptokinase 10000 UNT Oral Tablet
+DR01804,Seroquel Tab 100mg,766819,quetiapine 100 MG Oral Tablet
+DR01805,Seroquel Tab 200mg,19101761,quetiapine 150 MG Oral Tablet
+DR01805,Seroquel tab 200mg,766842,quetiapine 200 MG Oral Tablet
+DR01806,Seroquel tab 25mg,766820,quetiapine 25 MG Oral Tablet
+DR01807,Seroxat Tab 20mg,722071,Paroxetine 20 MG Oral Tablet
+DR01808,Setopen suspension 32mg/ml,19072159,Acetaminophen 32 MG/ML Oral Suspension
+DR01809,Sevikar tab 5/20mg,19127433,Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet
+DR01810,Sevorane,19023398,sevoflurane 1000 MG/ML Inhalant Solution
+DR01811,SIBELIUM 5.9MG,19055186,Flunarizine 5 MG Oral Capsule
+DR01812,Sibelium Cap 5mg,19055186,Flunarizine 5 MG Oral Capsule
+DR01813,SIGMART 5MG,19107616,Nicorandil 5 MG Oral Tablet
+DR01814,Sigmart Tab 5mg,19107616,Nicorandil 5 MG Oral Tablet
+DR01815,Silmazin Cream 1%,19008724,Silver Sulfadiazine 10 MG/ML Topical Cream
+DR01816,Simvalord tab 20mg,1539411,Simvastatin 20 MG Oral Tablet
+DR01817,Simvastar Tab 20mg,1539411,Simvastatin 20 MG Oral Tablet
+DR01818,SINEMET,789612,Carbidopa 25 MG / Levodopa 250 MG Oral Tablet
+DR01819,Sinemet 100/25 tab(수),789581,Carbidopa 25 MG / Levodopa 100 MG Oral Tablet
+DR01820,Sinemet Tab(100/25),789581,Carbidopa 25 MG / Levodopa 100 MG Oral Tablet
+DR01821,Singulair Chewable 4mg,1154197,montelukast 4 MG Chewable Tablet
+DR01822,Singulair Chewable 5mg,1154195,montelukast 5 MG Chewable Tablet
+DR01823,Singulair Gran(4mg/0.5g/pack),1154201,montelukast 4 MG Granules
+DR01824,Singulair Tab 10mg,19023368,montelukast 10 MG Oral Tablet
+DR01825,Sinil Folic acid tab 1mg,19077513,Folic Acid 1 MG Oral Tablet
+DR01826,Sinil-M tab 500mg,992956,Magnesium Hydroxide
+DR01827,SIRDALUD 1MG,778474,tizanidine
+DR01828,Sirdalud Tab 1mg,778474,tizanidine
+DR01829,Sisomin inj 75mg/1.5ml/AM,19104294,Sisomicin 50 MG/ML Injectable Solution
+DR01830,SLAXIN 25MG,724394,Orphenadrine
+DR01831,Smecta Susp(ml),21600637,DIOSMECTITE
+DR01832,Smecta Suspension 20ml/PAK,21600637,DIOSMECTITE
+DR01833,Smoflipid 20% 250ml/Bot,19070224,Soybean Oil
+DR01833,Smoflipid 20% 250ml/Bot,19110701,Fish Oils
+DR01833,Smoflipid 20% 250ml/Bot,42899398,Medium chain triglycerides
+DR01833,Smoflipid 20% 250ml/Bot,42900448,olive oil
+DR01834,Smoflipid 20% 500ml/Bot,19070224,Soybean Oil
+DR01834,Smoflipid 20% 500ml/Bot,19110701,Fish Oils
+DR01834,Smoflipid 20% 500ml/Bot,42899398,Medium chain triglycerides
+DR01834,Smoflipid 20% 500ml/Bot,42900448,olive oil
+DR01835,S-Morphine Tab 15mg,40169929,Morphine Sulfate 15 MG Oral Tablet
+DR01836,Soleton Tab 80mg,19029135,Propionic acid
+DR01837,Solin Enema(133ml/BOT),991740,"Sodium Phosphate, Monobasic 160 MG/ML / SODIUM PHOSPHATE,DIBASIC 60 MG/ML Enema"
+DR01838,Solin oral 90ml,991732,"Sodium Phosphate, Monobasic 480 MG/ML / SODIUM PHOSPHATE,DIBASIC 180 MG/ML Oral Solution"
+DR01839,Solondo Tab 5mg,1550560,Prednisolone 5 MG Oral Tablet
+DR01840,Solong Cap 100mg,21600109,OTHER DRUGS FOR PEPTIC ULCER AND GORD
+DR01841,Solong Tab 50mg,21600109,OTHER DRUGS FOR PEPTIC ULCER AND GORD
+DR01842,Solucortef Inj. 100mg,975505,Hydrocortisone 50 MG/ML Injectable Solution
+DR01843,Solumedrol Inj 125mg,19080181,Methylprednisolone 62.5 MG/ML Injectable Solution
+DR01844,Solumedrol Inj 500mg,1506270,Methylprednisolone
+DR01845,SOMALGEN 370MG,19063726,Talniflumate 370 MG Oral Tablet
+DR01846,Somatosan inj 3mg/AM(수),19136066,Somatostatin
+DR01847,Spagerin Tab 200mg,40238273,Flavoxate Hydrochloride 200 MG Oral Tablet
+DR01848,Spamon Inj 40mg/2ml,21600185,CAROVERINE
+DR01849,Speetin tab. 10mg,1545997,atorvastatin 10 MG Oral Tablet
+DR01850,Spike Cream 15g,19026476,Ketoconazole 20 MG/ML Topical Cream
+DR01851,Spiriva Cap (리필),19112761,tiotropium 0.018 MG/ACTUAT Inhalant Powder
+DR01852,Spiriva Inhal Combipack(30C),19112761,tiotropium 0.018 MG/ACTUAT Inhalant Powder
+DR01853,Spiriva Inhal Refil(30C),19112761,tiotropium 0.018 MG/ACTUAT Inhalant Powder
+DR01854,SPIRONOLACTONE 25MG,19079658,Spironolactone 25 MG Oral Tablet
+DR01855,Spirozide Tab 25/25mg,974226,Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet
+DR01856,Splendil tab 5mg,1353818,Felodipine 5 MG Extended Release Tablet
+DR01857,Splendil-ER Tab 5mg,1353818,Felodipine 5 MG Extended Release Tablet
+DR01858,SPORANOX 100MG,19078728,Itraconazole 100 MG Oral Capsule
+DR01859,Sporanox Cap 100mg,19078728,Itraconazole 100 MG Oral Capsule
+DR01860,Sporanox Inj 250mg/25ml,19078729,Itraconazole 10 MG/ML Injectable Solution
+DR01861,Sporanox inj 250mg/25ml/AM,19078729,Itraconazole 10 MG/ML Injectable Solution
+DR01862,Sporanox soln,19096455,Itraconazole 10 MG/ML Oral Solution
+DR01863,Sporanox soln 10mg/ml,19096455,Itraconazole 10 MG/ML Oral Solution
+DR01864,Sporanox solution 10mg/ml,19096455,Itraconazole 10 MG/ML Oral Solution
+DR01865,Stablon Tab 12.5mg,19041931,tianeptine 12.5 MG Oral Tablet
+DR01866,Stablon tab.12.5mg,19041931,tianeptine 12.5 MG Oral Tablet
+DR01867,Stalevo tab 50/12.5/200mg,19102488,Carbidopa 12.5 MG / entacapone 200 MG / Levodopa 50 MG Oral Tablet
+DR01868,STARTONYL 250MG,19011181,Cytidine Diphosphate Choline 125 MG/ML Injectable Solution
+DR01869,Stillen Tab 60mg,42898363,Artemisia argyi leaf extract
+DR01870,Stilnox CR Tab 12.5mg,40163496,Zolpidem tartrate 12.5 MG Extended Release Tablet
+DR01871,Stilnox CR Tab 6.25mg,40163504,Zolpidem tartrate 6.25 MG Extended Release Tablet
+DR01872,Stilnox Tab 10mg,40163492,Zolpidem tartrate 10 MG Oral Tablet
+DR01873,Stimol Sol 1g/10ml,19097664,Citrulline
+DR01874,Stimol soln. 1g/10ml/PA,19097664,Citrulline
+DR01875,Stogar Tab 10mg,21600089,LAFUTIDINE
+DR01876,Streptomycin Inj 1g,1836193,Streptomycin 400 MG/ML Injectable Solution
+DR01877,Streptomycin sulfate inj 1g/VI,1836191,Streptomycin
+DR01878,Succicholine inj 100mg/2ml/AM,836215,Succinylcholine 50 MG/ML Injectable Solution
+DR01879,Sudafed Tab 60mg,40232259,Pseudoephedrine Hydrochloride 60 MG Oral Tablet
+DR01880,Sulfolase 100mg Cap,19034009,ambroxol-theophylline-7-acetate
+DR01881,Sulperazone Inj 1g,1773402,Cefoperazone
+DR01881,Sulperazone Inj 1g,1836241,Sulbactam
+DR01882,Sultamox syr. 500mg/5mL,19063106,Amoxicillin 50 MG/ML / Sulbactam 50 MG/ML Oral Suspension
+DR01883,Sultamox Tab. 500Mg/Tab.,1836242,Amoxicillin 250 MG / Sulbactam 250 MG Oral Tablet
+DR01884,Suprane,19002796,desflurane 1 ML/ML Inhalant Solution
+DR01885,Suprane liquid 240ml,19002796,desflurane 1 ML/ML Inhalant Solution
+DR01886,SUPRAX  POWER/1G,1796435,Cefixime
+DR01887,SUPRAX 100MG,1796435,Cefixime
+DR01888,Suprax cap 100mg,1796435,Cefixime
+DR01889,Suprax Gran(50mg/1g),1796435,Cefixime
+DR01890,Suprax powder 50mg/1g,1796435,Cefixime
+DR01891,Surfolase Cap 100mg,42900552,xanthine
+DR01892,Sylcon 625mg tab,19074641,calcium polycarbophil 625 MG Oral Tablet
+DR01893,Sylcon Tab 625mg,19074641,calcium polycarbophil 625 MG Oral Tablet
+DR01894,Symbicort 160/4.5mcg 120D Turbuhaler ,42708508,120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler
+DR01895,Symbicort 160/4.5mcg 60D Turbuhaler ,42708516,60 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler
+DR01896,Symbicort Turbuhaler 160/4.5mcg*60dose,42708516,60 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler
+DR01897,Synathen inj 250ug,19064204,Cosyntropin 0.25 MG/ML Injectable Solution
+DR01898,Synatura 15ml/PAK,42898947,Coptis japonica root extract
+DR01898,Synatura 15ml/PAK,42899163,Hedera helix leaf extract
+DR01899,Synatura Syr,42898947,Coptis japonica root extract
+DR01899,Synatura Syr,42899163,Hedera helix leaf extract
+DR01900,SYNTHYROID 0.1MG,40169766,Levothyroxine Sodium 0.1 MG Oral Tablet
+DR01901,Synthyroid Tab 0.05mg,40175210,Levothyroxine Sodium 0.05 MG Oral Tablet
+DR01902,Synthyroid tab 0.15mg,40175050,Levothyroxine Sodium 0.15 MG Oral Tablet
+DR01903,Synthyroid Tab 0.1mg,40169766,Levothyroxine Sodium 0.1 MG Oral Tablet
+DR01904,SynthyroXINE Tab 50mcg,40175210,Levothyroxine Sodium 0.05 MG Oral Tablet
+DR01905,Tabactam inj 4.5g/VI,1746143,Piperacillin 200 MG/ML / tazobactam 25 MG/ML Injectable Solution
+DR01906,Tabinul inj 0.2mg/1ml/AM,963359,Glycopyrrolate 0.2 MG/ML Injectable Solution
+DR01907,Tabinul Inj 0.4mg,963359,Glycopyrrolate 0.2 MG/ML Injectable Solution
+DR01908,Tacenol ER tab,19072235,Acetaminophen 650 MG Extended Release Tablet
+DR01909,Tacrobell Cap 1mg,950641,Tacrolimus 1 MG Oral Capsule
+DR01910,Tagamet inj 200mg/2ml/AM,19062433,Cimetidine 100 MG/ML Injectable Solution
+DR01911,Tagen-F soft cap,43013866,Vaccinium myrtillus extract
+DR01912,Talion Tab 10mg,40166571,bepotastine
+DR01913,Talumet Tab,19063726,Talniflumate 370 MG Oral Tablet
+DR01914,Tamiflu cap. 75mg,1799141,Oseltamivir 75 MG Oral Capsule
+DR01915,Tamiflu(무상) Cap 75mg,1799141,Oseltamivir 75 MG Oral Capsule
+DR01916,Tamipool inj,19135832,Multivitamin preparation
+DR01917,Tamsnal SR tab,924566,tamsulosin
+DR01918,Tanamin Inj 17.5mg/5ml,1391889,Ginkgo biloba extract
+DR01919,Tanamin inj 17.5mg/5ml/AM,1391889,Ginkgo biloba extract
+DR01920,Tanamin Tab 40mg,1391913,Ginkgo biloba extract 40 MG Oral Tablet
+DR01921,Tanamin Tab 80mg,1391915,Ginkgo biloba extract 80 MG Oral Tablet
+DR01922,Tanamin Tab.40MG,1391913,Ginkgo biloba extract 40 MG Oral Tablet
+DR01923,Tanatril tab 10mg,19101751,imidapril 10 MG Oral Tablet
+DR01924,Tanatril tab 5mg,19101750,imidapril 5 MG Oral Tablet
+DR01925,Tantum soln,42707728,Benzydamine Hydrochloride 1.5 MG/ML Mouthwash
+DR01926,TANTUM SOLU 120ML/BT,42707745,Benzydamine Hydrochloride 1.5 MG/ML Oral Solution
+DR01927,Tantum Verde Nebulizer,42707731,Benzydamine Hydrochloride 1.5 MG/ML Oral Spray
+DR01928,Tapocin Inj 200mg,19064500,Teicoplanin 66.7 MG/ML Injectable Solution
+DR01929,Tapocin Inj 400mg,19063993,Teicoplanin 133 MG/ML Injectable Solution
+DR01930,Tapocin inj 400mg/VI,19063993,Teicoplanin 133 MG/ML Injectable Solution
+DR01931,Tarasyn 30mg(통증제거용),40164851,Ketorolac Tromethamine 30 MG/ML Injectable Solution
+DR01932,Tarasyn Inj 30mg,40164851,Ketorolac Tromethamine 30 MG/ML Injectable Solution
+DR01933,Tarasyn tab 10mg,19133853,Ketorolac Tromethamine 10 MG Oral Tablet
+DR01934,Targin CR Tab 10/5mg,1114220,Naloxone
+DR01934,Targin CR Tab 10/5mg,1124957,Oxycodone
+DR01935,Targin CR Tab 20/10mg,1114220,Naloxone
+DR01935,Targin CR Tab 20/10mg,1124957,Oxycodone
+DR01936,Targocid Inj 200mg,19064500,Teicoplanin 66.7 MG/ML Injectable Solution
+DR01937,Targocid Inj. 200MG,19064500,Teicoplanin 66.7 MG/ML Injectable Solution
+DR01938,Tariful tab 370mg,19063726,Talniflumate 370 MG Oral Tablet
+DR01939,Tarivid 귀약(5ml) 0.3%,923115,Ofloxacin 3 MG/ML Otic Solution
+DR01940,Tarivid Eye Drop 0.3%(5ml),19079151,Ofloxacin 3 MG/ML Ophthalmic Solution
+DR01941,TARIVID EYE OINT,923081,Ofloxacin
+DR01942,Tarivid Eye Oint (3.5g/Tube),923081,Ofloxacin
+DR01943,TARIVID OTIC SOLU 5ML,923115,Ofloxacin 3 MG/ML Otic Solution
+DR01944,Tasna Tab 500mg,939539,Sodium Bicarbonate 500 MG Oral Tablet
+DR01945,TAVEGYL 2MG,1197677,Clemastine
+DR01946,taxol inj.30mg,1378385,Paclitaxel 6 MG/ML Injectable Solution
+DR01947,Taxotere inj 20mg/VI,40224723,docetaxel 20 MG/ML Injectable Solution
+DR01948,Taxotere inj 80mg/VI,1315944,docetaxel 40 MG/ML Injectable Solution
+DR01949,Tazime Inj 1g,19079951,Ceftazidime 280 MG/ML Injectable Solution
+DR01950,Tazime Inj 2g,19074939,Ceftazidime 170 MG/ML Injectable Solution
+DR01951,Tazocin Inj 2.25g,1741122,tazobactam
+DR01951,Tazocin Inj 2.25g,1746114,Piperacillin
+DR01952,Tazocin Inj 4.5g,1746143,Piperacillin 200 MG/ML / tazobactam 25 MG/ML Injectable Solution
+DR01953,Tazocin inj 4.5g/VI,1746143,Piperacillin 200 MG/ML / tazobactam 25 MG/ML Injectable Solution
+DR01954,TaZOPeran Inj 2.25g,1741122,tazobactam
+DR01954,TaZOPeran Inj 2.25g,1746114,Piperacillin
+DR01955,TazoPERAN Inj 4.5g,1746143,Piperacillin 200 MG/ML / tazobactam 25 MG/ML Injectable Solution
+DR01956,Tazoperan inj 4.5g/VI,1746143,Piperacillin 200 MG/ML / tazobactam 25 MG/ML Injectable Solution
+DR01957,Td Vaccine Inj 0.5ml/PFS,529303,Diphtheria Toxoid Vaccine
+DR01957,Td Vaccine Inj 0.5ml/PFS,529411,Tetanus Toxoid Vaccine
+DR01958,Tears natural freeeyedrop0.6ml,949279,Carboxymethylcellulose
+DR01959,Tears Naturale Free(32EA/P),19076177,Dextran 70 1 MG/ML / hypromellose 3 MG/ML Ophthalmic Solution
+DR01960,TEGRETOL CR,740302,Carbamazepine 200 MG Extended Release Tablet
+DR01961,Tegretol Syr 2% 20mg/ml,19074694,Carbamazepine 20 MG/ML Oral Suspension
+DR01962,Tegretol Tab 200mg,19074697,Carbamazepine 200 MG Oral Tablet
+DR01963,Tegretol-CR Tab 200mg,740302,Carbamazepine 200 MG Extended Release Tablet
+DR01964,TENORMIN 50MG,1314008,Atenolol 50 MG Oral Tablet
+DR01965,Tenormin Tab 50mg,1314008,Atenolol 50 MG Oral Tablet
+DR01966,tenormin tab.25mg,19018811,Atenolol 25 MG Oral Tablet
+DR01967,Teveten Tab 600mg,19076924,eprosartan 600 MG Oral Tablet
+DR01968,Teveten tab.600mg,19076924,eprosartan 600 MG Oral Tablet
+DR01969,Theoclear Dry Syr(200mg/g),1237049,Theophylline
+DR01970,Theo-Esbeliven F Inj 2ml,19029547,proxyphylline
+DR01970,Theo-Esbeliven F Inj 2ml,43525849,Melilotus extract
+DR01971,THEOLAN 200MG,1237168,Theophylline 200 MG Extended Release Capsule
+DR01972,THEOLAN CAP.100MG,19125937,Theophylline 100 MG Extended Release Capsule
+DR01973,TheolanB Cap 100mg,19125937,Theophylline 100 MG Extended Release Capsule
+DR01974,TheolanB Cap 200mg,1237168,Theophylline 200 MG Extended Release Capsule
+DR01975,Thiamine HCl inj 50mg/2ml/AM,19137333,Thiamine 25 MG/ML Injectable Solution
+DR01976,Thiamine Inj 50mg/2ml,19137333,Thiamine 25 MG/ML Injectable Solution
+DR01977,Thiaton Cap 10mg,21600195,"BELLADONNA ALKALOIDS,SEMISYNTH,QUATERNARY AMM CMPD"
+DR01978,Thioctacid HR 600mg,1386695,Thioctic Acid 600 MG Oral Tablet
+DR01979,Thioctacid HR 600mg tab,1386695,Thioctic Acid 600 MG Oral Tablet
+DR01980,Thioctacid inj 600mg/24ml/AM,19006047,Tromethamine
+DR01981,Thioctacid Tab 200mg,40241165,Thioctic Acid 200 MG Oral Tablet
+DR01982,Thiosina Tab ,19041813,thiocolchicoside
+DR01982,Thiosina Tab ,19048012,Escin
+DR01983,Thrupas Cap 4mg,19012929,silodosin 4 MG Oral Capsule
+DR01984,Thymico Tab,1139993,Phenylpropanolamine
+DR01984,Thymico Tab,19021822,buzepide metiodide
+DR01984,Thymico Tab,19102307,CLOCINIZINE
+DR01985,Tienam Inj 500mg,1797275,Cilastatin 5 MG/ML / Imipenem 5 MG/ML Injectable Solution
+DR01986,Tinset Tab 30mg,19004270,oxatomide 30 MG Oral Tablet
+DR01987,TINSET TAB.,19004270,oxatomide 30 MG Oral Tablet
+DR01988,TioCLA Inj 1.6g,1702364,Ticarcillin
+DR01988,TioCLA Inj 1.6g,1759842,Clavulanate
+DR01989,Tiramide Tab 100mg,19100759,tiropramide
+DR01990,Tiramide tab. 100mg,19100759,tiropramide
+DR01991,Tiromin inj 50mg/3ml/AM,19104240,tiropramide 16.7 MG/ML Injectable Solution
+DR01992,TIROPA 100MG,19100759,tiropramide
+DR01993,Tiropa Inj 50mg/3ml,19104240,tiropramide 16.7 MG/ML Injectable Solution
+DR01994,Tiropa Tab 100mg,19100759,tiropramide
+DR01995,TOBRA EYE DROP 0.3%,902741,Tobramycin 3 MG/ML Ophthalmic Solution
+DR01996,Tobra inj 100mg/VI,19006047,Tromethamine
+DR01997,TOBREX 250MG,19065473,Dobutamine 50 MG/ML Injectable Solution
+DR01998,Toburex Inj. 250mg,19065473,Dobutamine 50 MG/ML Injectable Solution
+DR01999,Tomiron Tab 100mg,21602894,THIRD-GENERATION CEPHALOSPORINS
+DR02000,Topamax Tab 100mg,742304,topiramate 100 MG Oral Tablet
+DR02001,Topamax Tab 25mg,742303,topiramate 25 MG Oral Tablet
+DR02002,Torem Tab 10mg,942382,torsemide 10 MG Oral Tablet
+DR02003,Torem Tab 5mg,942385,torsemide 5 MG Oral Tablet
+DR02004,Torsemide tab. 5mg,942385,torsemide 5 MG Oral Tablet
+DR02005,Toviaz PR tab 4mg,19134957,Fesoterodine Fumarate 4 MG Extended Release Tablet
+DR02006,Tramaconti CR Tab 100mg,1103361,Tramadol Hydrochloride 100 MG Extended Release Tablet
+DR02007,Tramadol Inj 50mg/1ml,19135536,Tramadol Hydrochloride 50 MG/ML Injectable Solution
+DR02008,Trandate Inj 100mg,40169706,Labetalol hydrochloride 5 MG/ML Injectable Solution
+DR02009,Tranexamic acid inj 500mg/5ml,19057433,Tranexamic Acid 100 MG/ML Injectable Solution
+DR02010,Tranexamic acid inj 500mg/5ml/AM,19057433,Tranexamic Acid 100 MG/ML Injectable Solution
+DR02011,TRANSAMIN 250MG,19103680,Tranexamic Acid 250 MG Oral Capsule
+DR02012,Transamin Cap 250mg,19103680,Tranexamic Acid 250 MG Oral Capsule
+DR02013,Transamine-S Inj 500mg/5ml,19057433,Tranexamic Acid 100 MG/ML Injectable Solution
+DR02014,Transamin-S inj 500mg/5ml/AM,19057433,Tranexamic Acid 100 MG/ML Injectable Solution
+DR02015,TRANXENE 5MG,790315,Clorazepate Dipotassium 5 MG Oral Capsule
+DR02016,Trast Patch 48mg,1146810,Piroxicam
+DR02017,Trast Patch 7M/1pack,1146810,Piroxicam
+DR02018,Travogen Cream (10g),19003498,isoconazole 10 MG/ML Topical Cream
+DR02019,TRENTAL 400MG,19079220,Pentoxifylline 400 MG Extended Release Tablet
+DR02020,Trental Tab 400mg,19079220,Pentoxifylline 400 MG Extended Release Tablet
+DR02021,Trestan Cap,1110727,Cyproheptadine
+DR02021,Trestan Cap,19050104,Carnitine
+DR02021,Trestan Cap,19092377,Lysine
+DR02021,Trestan Cap,19135931,Cyanocobalamin Co57
+DR02022,Triam Inj 40mg/1ml,40234038,Triamcinolone Acetonide 40 MG/ML Injectable Suspension
+DR02023,Triam inj 40mg/1ml/VI,40234038,Triamcinolone Acetonide 40 MG/ML Injectable Suspension
+DR02024,Triamcinolone inj 40mg/1ml/VI,40234038,Triamcinolone Acetonide 40 MG/ML Injectable Suspension
+DR02025,Triamcinolone Inj 50mg/5ml,40234030,Triamcinolone Acetonide 10 MG/ML Injectable Suspension
+DR02026,Triamcinolone Tab 4mg 동광,19019893,Triamcinolone 4 MG Oral Tablet
+DR02027,TRIAXONE 주 1GM,1777806,Ceftriaxone
+DR02028,Triaxone Inj 0.5g,1777806,Ceftriaxone
+DR02029,Triaxone Inj 1g,19028313,Ceftriaxone 350 MG/ML Injectable Solution
+DR02030,Triaxone Inj 2g/V,1777806,Ceftriaxone
+DR02031,Tridol Cap 50mg,1103398,Tramadol Hydrochloride 50 MG Oral Capsule
+DR02032,Tridol inj 100mg/2ml/AM,19135536,Tramadol Hydrochloride 50 MG/ML Injectable Solution
+DR02033,Tridol Retard Tab 100mg,1103361,Tramadol Hydrochloride 100 MG Extended Release Tablet
+DR02034,Tridol SR tab,1103361,Tramadol Hydrochloride 100 MG Extended Release Tablet
+DR02035,TRIFOL 25MG,19103852,Trazodone 25 MG Oral Capsule
+DR02036,Trihexin Tab 2mg,40174052,Trihexyphenidyl Hydrochloride 2 MG Oral Tablet
+DR02037,Trileptal 150 Film Coating Tab,718127,oxcarbazepine 150 MG Oral Tablet
+DR02038,Trileptal 300mg Film Coating Tab ,718128,oxcarbazepine 300 MG Oral Tablet
+DR02039,Trileptal 300mg Tab,718128,oxcarbazepine 300 MG Oral Tablet
+DR02040,TRIPRIM,1836433,Sulfamethoxazole 400 MG / Trimethoprim 80 MG Oral Tablet
+DR02041,Tritace Protect Tab 10mg,19102170,Ramipril 10 MG Oral Tablet
+DR02042,Tritace Tab 2.5mg,1334461,Ramipril 2.5 MG Oral Tablet
+DR02043,Tritace tab 5mg,1334492,Ramipril 5 MG Oral Tablet
+DR02044,Trittico Tab 25mg,703547,Trazodone
+DR02045,Trittico Tab 50mg,40163473,Trazodone Hydrochloride 50 MG Oral Tablet
+DR02046,Tropherine Oph. Sol 0.8ml,1135766,Phenylephrine
+DR02046,Tropherine Oph. Sol 0.8ml,906072,Tropicamide
+DR02047,Tygacil inj 50mg/VI,1742434,tigecycline 10 MG/ML Injectable Solution
+DR02048,Tylenol ER 650mg,19072235,Acetaminophen 650 MG Extended Release Tablet
+DR02049,Tylenol Susp 32mg/ml,19072159,Acetaminophen 32 MG/ML Oral Suspension
+DR02050,Tylenol syr. 1ml,19072159,Acetaminophen 32 MG/ML Oral Suspension
+DR02051,Tylenol Tab 160mg,1127078,Acetaminophen 160 MG Oral Tablet
+DR02052,Tyrenol ER tab.650mg,19072235,Acetaminophen 650 MG Extended Release Tablet
+DR02053,Ubacillin Inj 750mg,19073215,Ampicillin 250 MG/ML / Sulbactam 125 MG/ML Injectable Solution
+DR02054,UCERAX,40222636,Hydroxyzine Hydrochloride 10 MG Oral Tablet
+DR02055,UCERAX 2MG/1ML,40222653,Hydroxyzine Hydrochloride 2 MG/ML Oral Solution
+DR02056,Ucerax Syr 2mg/ml,40222653,Hydroxyzine Hydrochloride 2 MG/ML Oral Solution
+DR02057,Ucerax Tab 10mg,40222636,Hydroxyzine Hydrochloride 10 MG Oral Tablet
+DR02058,Ucerax Tab 25mg,40222663,Hydroxyzine Hydrochloride 25 MG Oral Tablet
+DR02059,UFT-E 0.5g/PAK,19006877,Uracil
+DR02059,UFT-E 0.5g/PAK,19056756,Tegafur
+DR02060,Ulcermin Susp,1036228,Sucralfate
+DR02061,Ulcermin-s,1036228,Sucralfate
+DR02062,Ulistin Inj 10만unit/2ml,21600363,OTHER CARDIAC PREPARATIONS
+DR02063,Ultiva Inj 1mg,19016773,remifentanil 1 MG/ML Injectable Solution
+DR02064,Ultiva Inj 2mg,19016749,remifentanil
+DR02065,Ultracet ER <Semi> tab,1103359,Acetaminophen 325 MG / Tramadol Hydrochloride 37.5 MG Oral Tablet
+DR02066,Ultracet ER Tab,1103314,Tramadol
+DR02066,Ultracet ER Tab,1125315,Acetaminophen
+DR02067,Ultracet tab,1103359,Acetaminophen 325 MG / Tramadol Hydrochloride 37.5 MG Oral Tablet
+DR02068,Umckamin Syr,42899638,Pelargonium sidoides root extract
+DR02069,Umckamin syrup,42899638,Pelargonium sidoides root extract
+DR02070,Unasyn Inj 750mg,1717327,Ampicillin
+DR02070,Unasyn Inj 750mg,1836241,Sulbactam
+DR02071,Unasyn Tab 375mg,19040628,sultamicillin 375 MG Oral Tablet
+DR02072,Uni-C Inj 10g/20ml,19073642,Ascorbic Acid 500 MG/ML Injectable Solution
+DR02073,Unidergine Tab 0.125mg,1305641,Methylergonovine 0.125 MG Oral Tablet
+DR02074,Unidoxy Cap 100mg,19021041,Doxycycline 100 MG Oral Capsule
+DR02075,Univasc Tab 15mg,42801011,Moexipril hydrochloride 15 MG Oral Tablet
+DR02076,Univasc Tab 7.5mg,42801015,Moexipril hydrochloride 7.5 MG Oral Tablet
+DR02077,Urea Cream 20%,906973,Urea 200 MG/ML Topical Cream
+DR02078,Urokinase inj 10만IU/VI,1307515,Urokinase
+DR02079,Urokinase inj 50만IU/VI,1307515,Urokinase
+DR02080,Uromitexan Inj 400mg/4ml,19028312,Mesna 100 MG/ML Injectable Solution
+DR02081,Uromitexan inj 400mg/4ml/AM,19028312,Mesna 100 MG/ML Injectable Solution
+DR02082,Ursa Tab 100mg,19061978,Ursodeoxycholic Acid 100 MG Oral Tablet
+DR02083,Ursa Tab 200mg,988095,ursodeoxycholate
+DR02084,ursa tab.100mg,19061978,Ursodeoxycholic Acid 100 MG Oral Tablet
+DR02085,Vacrax Inj 250mg,19061193,Acyclovir 25 MG/ML Injectable Solution
+DR02086,Vacrax Oint 5g,1703742,Acyclovir 0.05 MG/MG Topical Ointment
+DR02087,VACROVIR 200MG,1703745,Acyclovir 200 MG Oral Tablet
+DR02088,Valium Tab 2mg,19018909,Diazepam 2 MG Oral Tablet
+DR02089,Valium Tab 5mg,723042,Diazepam 5 MG Oral Tablet
+DR02090,Valtrex Tab 500mg ,1717708,valacyclovir 500 MG Oral Tablet
+DR02091,VANCOCIN C.P Inj 1g,1707687,Vancomycin
+DR02092,VANCOCIN C.P Inj 500mg,1707772,Vancomycin 50 MG/ML Injectable Solution
+DR02093,Vancomycin Inj 0.5g,1707687,Vancomycin
+DR02094,Vancomycin Inj 1g,1707772,Vancomycin 50 MG/ML Injectable Solution
+DR02095,Vancomycin inj 1g/VI(CJ),1707772,Vancomycin 50 MG/ML Injectable Solution
+DR02096,Vancomyin 500mg Inj,1707687,Vancomycin
+DR02097,Varidase tab,19106160,Streptodornase 2500 UNT / Streptokinase 10000 UNT Oral Tablet
+DR02098,VASELIN OINT 1G,998394,Heavy mineral oil
+DR02099,Vasopressin inj 20단위/1ml/AM,1507838,Vasopressins 20 UNT/ML Injectable Solution
+DR02100,Vasopressin Inj 20unit/1ml,1507838,Vasopressins 20 UNT/ML Injectable Solution
+DR02101,Vastinan MR Tab 35mg,19108062,Trimetazidine 35 MG Extended Release Tablet
+DR02102,Vastinan Tab 20mg,19005627,Trimetazidine 20 MG Oral Tablet
+DR02103,vastinan tab.,19005627,Trimetazidine 20 MG Oral Tablet
+DR02104,Vaxar Tab 2mg,19011548,lacidipine 2 MG Oral Tablet
+DR02105,Vecaron Inj 10mg,40165393,Vecuronium Bromide 2 MG/ML Injectable Solution
+DR02106,Vecaron Inj 4mg,19022616,Vecuronium 4 MG/ML Injectable Solution
+DR02107,Vecaron inj 4mg/VI,19012598,Vecuronium
+DR02108,Venexor XR Cap 75mg,19103819,venlafaxine 75 MG Extended Release Capsule
+DR02109,Venitol Tab,19027740,Bioflavonoids 500 MG Oral Tablet
+DR02110,Venoferrum Inj 5ml,1395773,"ferric oxide, saccharated"
+DR02111,Venoferrum inj 5ml/AM,1360067,Iron
+DR02112,Ventolin Evohaler  100ug,1154415,Albuterol 0.1 MG/ACTUAT Inhalant Solution
+DR02113,Ventolin Evohaler 100ug,1154415,Albuterol 0.1 MG/ACTUAT Inhalant Solution
+DR02114,VENtolin Nebule 2.5mg/2.5ml,1154380,Albuterol 1 MG/ML Inhalant Solution
+DR02115,Ventolin Resp. soln.,19060972,Albuterol 2 MG/ML Inhalant Solution
+DR02116,VENTOLIN SOLN 100MG/20CC,1154343,Albuterol
+DR02117,verase tab,19106160,Streptodornase 2500 UNT / Streptokinase 10000 UNT Oral Tablet
+DR02118,Vesicare tab 5mg,916006,Solifenacin 5 MG Oral Tablet
+DR02119,Vexol Opth. Susp 5ml(1%),977442,rimexolone 10 MG/ML Ophthalmic Suspension
+DR02120,Vigamox Opth Sol 0.5%(5ml) ,19102471,moxifloxacin 5 MG/ML Ophthalmic Solution
+DR02121,Vincran inj 1mg/VI,1308290,Vincristine
+DR02122,Vioxx Tab 12.5mg,1189760,rofecoxib 12.5 MG Oral Tablet
+DR02123,Vita C Tab 500mg 한국유나이트,19069200,Ascorbic Acid 500 MG Oral Tablet
+DR02124,Vitamedin Cap 50mg,19010970,Vitamin B Complex
+DR02125,Vitamin D3 BON inj 1ml/AM,19095164,Cholecalciferol
+DR02126,Vitamin K1 inj 10mg/1ml/AM,19044756,Vitamin K 1 10 MG/ML Injectable Solution
+DR02127,VIT-C (=V-C) 50MG,19073643,Ascorbic Acid 50 MG Oral Tablet
+DR02128,VIT-C(=V-C)100MG/2ML,19011972,Ascorbic Acid 50 MG/ML Injectable Solution
+DR02129,Vit-K1 Inj 10mg/1ml,19044756,Vitamin K 1 10 MG/ML Injectable Solution
+DR02130,VOLULYTE Inj 6% 500ml/Bag,43012054,hydroxyethyl starch 130-0.4 60 MG/ML Injectable Solution
+DR02131,Voluven Inj 6% 500ml/Bag,43012054,hydroxyethyl starch 130-0.4 60 MG/ML Injectable Solution
+DR02132,Vomilong Powder,965748,Scopolamine
+DR02132,Vomilong Powder,994341,Meclizine
+DR02133,Vytorin Tab 10/20mg,1526479,ezetimibe 10 MG / Simvastatin 20 MG Oral Tablet
+DR02134,Vytorin tab. 10/20,1526479,ezetimibe 10 MG / Simvastatin 20 MG Oral Tablet
+DR02135,Vytorin tab.10/10,1539469,ezetimibe 10 MG / Simvastatin 10 MG Oral Tablet
+DR02136,Warfa Tab 2mg,40163524,Warfarin Sodium 2 MG Oral Tablet
+DR02137,Warfarin Tab 2mg,40163524,Warfarin Sodium 2 MG Oral Tablet
+DR02138,Warfarin tab 2mg (Daewha),40163524,Warfarin Sodium 2 MG Oral Tablet
+DR02139,Water for Inj 20ml(50A/box),19113528,Water 1000 MG/ML Injectable Solution
+DR02140,Water for injection 1000ml,19113528,Water 1000 MG/ML Injectable Solution
+DR02141,Water for injection 1000ml(CJ),19113528,Water 1000 MG/ML Injectable Solution
+DR02142,Water for irrigation 1000ml,19012705,Water 1000 MG/ML Irrigation Solution
+DR02143,Wellbutrin SR 150mg,40222065,Bupropion Hydrochloride 150 MG Extended Release Tablet
+DR02144,Wellbutrin SR tab 150mg,40222065,Bupropion Hydrochloride 150 MG Extended Release Tablet
+DR02145,Whycort 100mg(=solu-cortef),975125,Hydrocortisone
+DR02146,Wondercal D Chewable Tab,19058572,Calcium Citrate
+DR02146,Wondercal D chewable tab,19095164,Cholecalciferol
+DR02147,Xalatan Eye Drop 2.5ml/Bot,19080125,latanoprost 0.05 MG/ML Ophthalmic Solution
+DR02148,Xalatan eye drop 2.5ml/BT,19080125,latanoprost 0.05 MG/ML Ophthalmic Solution
+DR02149,XANAX 0.5MG,19072934,Alprazolam 0.5 MG Oral Tablet
+DR02150,Xanax Tab 0.25mg,19072933,Alprazolam 0.25 MG Oral Tablet
+DR02151,Xanax Tab 0.5mg,19072934,Alprazolam 0.5 MG Oral Tablet
+DR02152,Xatral XL 10mg,40164024,Alfuzosin hydrochloride 10 MG Extended Release Tablet
+DR02153,Xatral XL Tab. 10Mg/Tab.,40164024,Alfuzosin hydrochloride 10 MG Extended Release Tablet
+DR02154,Xefo tab 4mg,19101640,lornoxicam 4 MG Oral Tablet
+DR02155,Xeloda Tab 500mg,19023530,capecitabine 500 MG Oral Tablet
+DR02156,Xenical Cap 120mg(원외),741572,orlistat 120 MG Oral Capsule
+DR02157,XR Efexor SR Cap. 37.5Mg/Cap.,19134632,venlafaxine 37.5 MG Extended Release Capsule
+DR02158,Xyzal Tab 5mg,40163630,levocetirizine dihydrochloride 5 MG Oral Tablet
+DR02159,Yal soln 1BT,42708780,Docusate Sodium 10 MG / Sorbitol 13400 MG Enema
+DR02160,Yamatetan Inj 1g,19095155,Cefotetan 400 MG/ML Injectable Solution
+DR02161,Yamatetan inj 1g/VI,19095155,Cefotetan 400 MG/ML Injectable Solution
+DR02162,Yuhan-zid Tab 100mg,1782573,Isoniazid 100 MG Oral Tablet
+DR02163,YUTOPAR 5ML,40239867,Ritodrine hydrochloride 10 MG/ML Injectable Solution
+DR02164,ZADITEN 1MG,986118,Ketotifen 1 MG Oral Tablet
+DR02165,Zaditen Syr 0.2mg/ml,986119,Ketotifen 0.2 MG/ML Oral Solution
+DR02166,ZADITEN SYRUP 1ML,986119,Ketotifen 0.2 MG/ML Oral Solution
+DR02167,Zaditen Tab 1mg,986118,Ketotifen 1 MG Oral Tablet
+DR02168,Zanapam Tab 0.25mg,19072933,Alprazolam 0.25 MG Oral Tablet
+DR02169,Zanapam Tab 0.4mg,781100,Alprazolam 0.4 MG Oral Tablet
+DR02170,Zanapam Tab 0.5mg,19072934,Alprazolam 0.5 MG Oral Tablet
+DR02171,Zanidip Tab 10mg,19017656,lercanidipine 10 MG Oral Tablet
+DR02172,Zanidip Tab. 10MG/Tab.,19017656,lercanidipine 10 MG Oral Tablet
+DR02173,ZANTAC 168MG,961050,Ranitidine 150 MG Oral Tablet
+DR02174,Zantac Inj 50mg/2ml,961167,Ranitidine 25 MG/ML Injectable Solution
+DR02175,Zantac Tab 150mg,961050,Ranitidine 150 MG Oral Tablet
+DR02176,Zaroxolyn Tab. 5MG/Tab.,907020,Metolazone 5 MG Oral Tablet
+DR02177,Zeffix Tab 100mg,19029028,Lamivudine 100 MG Oral Tablet
+DR02178,Zeffix Tab 100mg(전),19029028,Lamivudine 100 MG Oral Tablet
+DR02179,Zemplar inj 5mcg/1ml/AM,19023525,paricalcitol 0.005 MG/ML Injectable Solution
+DR02180,Zenol Cool 6매/PAK,909440,methyl salicylate
+DR02181,Zesgel G Susp 20g/P,19030675,aluminum phosphate
+DR02181,Zesgel G Susp 20g/P,993631,Magnesium Oxide
+DR02182,Zesgel Susp 15g/P,908464,magnesium carbonate
+DR02182,Zesgel Susp 15g/P,933794,attapulgite
+DR02182,Zesgel Susp 15g/P,985247,Aluminum Hydroxide
+DR02183,Zinc Trace Inj 10mg/10ml,19044563,Zinc Sulfate 1 MG/ML Injectable Solution
+DR02184,Zinc-S inj 10ml/VI,19044522,Zinc Sulfate
+DR02185,ZINNAT 250MG,19075001,Cefuroxime 250 MG Oral Tablet
+DR02186,Zipan inj 50mg/1ml/AM,19135536,Tramadol Hydrochloride 50 MG/ML Injectable Solution
+DR02187,Zithromax Inj 500mg,1734104,Azithromycin
+DR02188,Zithromax Tab 250mg,19073777,Azithromycin 250 MG Oral Tablet
+DR02189,Zn-C Tab(원외),19044522,Zinc Sulfate
+DR02189,Zn-C Tab(원외),19135832,Multivitamin preparation
+DR02190,Zocor Tab 20mg,1539411,Simvastatin 20 MG Oral Tablet
+DR02191,Zocor Tab.10mg,1539463,Simvastatin 10 MG Oral Tablet
+DR02192,ZOFRAN 8MG,19079171,Ondansetron 8 MG Oral Tablet
+DR02193,Zofran Inj 4mg/2ml,19070869,Ondansetron 2 MG/ML Injectable Solution
+DR02194,Zofran inj 4mg/2ml/AM,19070869,Ondansetron 2 MG/ML Injectable Solution
+DR02195,Zofran Inj 8mg/4ml,19070869,Ondansetron 2 MG/ML Injectable Solution
+DR02196,Zofran inj 8mg/4ml/AM,19070869,Ondansetron 2 MG/ML Injectable Solution
+DR02197,Zofran Zydis Tab 8mg,19079171,Ondansetron 8 MG Oral Tablet
+DR02198,Zoladex Depot Inj 3.6mg/PFS,19077734,Goserelin 3.6 MG Drug Implant
+DR02199,zoladex inj. 3.6mg/depo,19077734,Goserelin 3.6 MG Drug Implant
+DR02200,Zoloft Tab 50mg,739209,Sertraline 50 MG Oral Tablet
+DR02201,ZOLOFT TAB.,739209,Sertraline 50 MG Oral Tablet
+DR02202,Zometa inj 4mg/5ml/VI,1524675,zoledronic acid 0.8 MG/ML Injectable Solution
+DR02203,Zovirax Inj 250mg,19061193,Acyclovir 25 MG/ML Injectable Solution
+DR02204,Zovirax Tab 200mg,1703745,Acyclovir 200 MG Oral Tablet
+DR02205,Zoylex inj 250mg/10ml/VI,19061193,Acyclovir 25 MG/ML Injectable Solution
+DR02206,ZYLORIC 100MG,1167323,Allopurinol 100 MG Oral Tablet
+DR02207,Zyloric Tab 100mg,1167323,Allopurinol 100 MG Oral Tablet
+DR02208,Zyprexa 5mg Tab(수),19079154,olanzapine 5 MG Oral Tablet
+DR02209,Zyprexa Tab 10mg,785821,olanzapine 10 MG Oral Tablet
+DR02210,Zyprexa Tab 5mg,19079154,olanzapine 5 MG Oral Tablet
+DR02211,Zyrtec Tab 10mg,40228214,cetirizine hydrochloride 10 MG Oral Tablet
+DR02212,Zytram XL 150mg,19134123,Tramadol Hydrochloride 150 MG Extended Release Tablet

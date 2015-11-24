@@ -1,0 +1,172 @@
+mapping_num,description,omop_concept_id,omop_concept_name
+PT00001,객담 세포병리검사,2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
+PT00002,광범위절제술,4098214,Histopathology test
+PT00003,뇌척수액 세포병리검사(CSF cytology),2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
+PT00004,"악성종양수술,림프절 미포함(Blocks 15개이하)",4157779,Excision of malignant neoplasm
+PT00005,"악성종양수술,림프절포함(Blocks 20개이하)",4098214,Histopathology test
+PT00006,"악성종양수술,림프절포함,Blocks 추가",4157779,Excision of malignant neoplasm
+PT00006,"악성종양수술,림프절포함,Blocks 추가",4238646,Excision of lymph node
+PT00007,액상 객담 세포병리검사,2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
+PT00008,액상 기관지세척 세포병리검사,2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
+PT00009,액상 소변 세포병리 검사,2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
+PT00010,액상 자궁경부 세포병리검사,4220448,Liquid based cervical cytology screening
+PT00011,액상 흡인 세포병리검사,4332644,Liquid based cytologic material
+PT00012,자궁질도말 세포병리검사,4238831,"Cytopathology, screening of smear, routine, genital source, by cytotechnologist"
+PT00013,작은조직검사(<5CM),4098214,Histopathology test
+PT00014,장기적출술,4098214,Histopathology test
+PT00015,"절편이필요한조직및장기적출술,Blocks6개이하",4098214,Histopathology test
+PT00016,"조직구축학적검사,림프절 미포함",4098214,Histopathology test
+PT00017,큰조직검사,4098214,Histopathology test
+PT00018,흡인 세포병리검사(Cell Block 미포함),2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
+PT00019,AFB Stain(Ascitic fluid),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+PT00020,AFB Stain(Aseptic Urine (Cath)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
+PT00021,AFB Stain(Aseptic Urine (Voided)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
+PT00022,AFB Stain(Biopsy tissue),3012337,Microscopic observation [Identifier] in Tissue by Acid fast stain
+PT00023,AFB Stain(Bone Marrow Biopsy),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+PT00024,AFB Stain(Bronchial larvage),3016485,Microscopic observation [Identifier] in Bronchial specimen by Acid fast stain
+PT00025,AFB Stain(C.S.F),3012625,Microscopic observation [Identifier] in Cerebral spinal fluid by Acid fast stain
+PT00026,AFB Stain(CAPD),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+PT00027,AFB Stain(Close pus),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+PT00028,AFB Stain(EPS),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+PT00029,AFB Stain(Eye Discharge),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+PT00030,AFB Stain(Gastric juice),3025056,Microscopic observation [Identifier] in Gastric fluid by Acid fast stain
+PT00031,AFB Stain(Joint fluid),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+PT00032,AFB Stain(Lymph node),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+PT00033,AFB Stain(Open pus),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+PT00034,AFB Stain(Other(Please see message!)),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+PT00035,AFB Stain(Pericadial fluid),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+PT00036,AFB Stain(Pleural fluid),43054991,Microscopic observation [Presence] in Unspecified specimen by Acid fast stain
+PT00037,AFB Stain(Sputum),3011588,Microscopic observation [Identifier] in Sputum by Acid fast stain
+PT00038,AFB Stain(Stool),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+PT00039,AFB Stain(Throat Swab),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+PT00040,AFB Stain(Tracheal aspirate),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+PT00041,AFB Stain(Urethral discharge),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+PT00042,AFB Stain(Urine (12hr)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
+PT00043,AFB Stain(Urine (24hr)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
+PT00044,AFB Stain(Urine (Random)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
+PT00045,Alcian Blue-PAS Stain,3005170,Microscopic observation [Identifier] in Tissue by Alcian blue stain.with periodic acid-Schiff
+PT00046,Biopsy 10-12개,4098214,Histopathology test
+PT00047,Biopsy 1-3개,4098214,Histopathology test
+PT00048,Biopsy 1-3개 Consultation,4098214,Histopathology test
+PT00049,Biopsy 4-6개,4098214,Histopathology test
+PT00050,Biopsy 7-9개,4098214,Histopathology test
+PT00051,BRAF 유전자 주 돌연변이(중합효소연쇄반응-제한효소절편길이다형법),40761583,BRAF gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal
+PT00052,CD20(B cell),4198740,CD20 B-cell count procedure
+PT00053,CD3(T cell),4209239,CD3 T-cell count
+PT00054,CD34,4193720,CD34 stem cell count
+PT00055,CD56,3026757,CD56 cells [#/volume] in Blood
+PT00056,CEA(병리과),4244721,Carcinoembryonic antigen measurement
+PT00057,Chromogranin A,3006407,Chromogranin A [Mass/volume] in Serum or Plasma
+PT00058,Cytokeratin (AE1/AE3),3040360,Cytokeratin AE1+AE3 Ag [Presence] in Tissue by Immune stain
+PT00059,Cytokeratin 20,3040070,Cytokeratin 20 Ag [Presence] in Tissue by Immune stain
+PT00060,Cytokeratin 7,3040479,Cytokeratin 7 Ag [Presence] in Tissue by Immune stain
+PT00061,"Cytokeratin,High Molecular Weight",3030196,Cytokeratin cells [#/volume] in Blood
+PT00061,"Cytokeratin,High Molecular Weight",4247001,Fitzgerald factor assay
+PT00062,"DIF, C1q",3002140,Complement C1q [Mass/volume] in Serum or Plasma
+PT00062,"DIF, C1q",4133315,Direct tissue immunofluorescence procedure
+PT00063,"DIF, C3(병리)",3000581,Complement C3c [Mass/volume] in Serum or Plasma
+PT00063,"DIF, C3(병리)",4133315,Direct tissue immunofluorescence procedure
+PT00064,"DIF, C4",4133315,Direct tissue immunofluorescence procedure
+PT00065,"DIF, Fibrinogen(병리)",3004157,Fibrinogen
+PT00065,"DIF, Fibrinogen(병리)",4133315,Direct tissue immunofluorescence procedure
+PT00066,"DIF, Ig A(병리)",4133315,Direct tissue immunofluorescence procedure
+PT00066,"DIF, Ig A(병리)",4135810,Immunoglobulin A measurement
+PT00067,"DIF, Ig G(병리)",4133315,Direct tissue immunofluorescence procedure
+PT00067,"DIF, Ig G(병리)",4163378,Immunoglobulin G measurement
+PT00068,"DIF, Ig M(병리)",4133315,Direct tissue immunofluorescence procedure
+PT00068,"DIF, Ig M(병리)",4164130,Immunoglobulin M measurement
+PT00069,D-PAS Stain(병리),4015319,Periodic acid-Schiff staining
+PT00070,Estrogen Receptor,4307360,Oestrogen receptor assay (ERA)
+PT00071,Frozen Biopsy (Pathology),2213295,Pathology consultation during surgery
+PT00072,Galectin-3,43527903,Galectin-3
+PT00073,Gram stain(Abdominal abscess),3019029,Microscopic observation [Identifier] in Pus by Gram stain
+PT00074,Gram stain(Amniotic Fluid),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00075,Gram stain(Aqueous/vitreous Fluid),4307315,Gram stain microscopy
+PT00076,Gram stain(Ascitic fluid),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00077,Gram stain(Aseptic Urine (Cath)),3003745,Microscopic observation [Identifier] in Urine by Gram stain
+PT00078,Gram stain(Aseptic Urine (Voided)),3003745,Microscopic observation [Identifier] in Urine by Gram stain
+PT00079,Gram stain(Aseptic urine(Suprapubic)),3003745,Microscopic observation [Identifier] in Urine by Gram stain
+PT00080,Gram stain(Aspiration fluid),3000556,Microscopic observation [Identifier] in Aspirate by Gram stain
+PT00081,Gram stain(Bile juice),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00082,Gram stain(Bone Marrow Biopsy),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00083,Gram stain(Bronchial larvage),3025346,Microscopic observation [Identifier] in Bronchial specimen by Gram stain
+PT00084,Gram stain(C.S.F),3001886,Microscopic observation [Identifier] in Cerebral spinal fluid by Gram stain
+PT00085,Gram stain(CAPD),3011875,Microscopic observation [Identifier] in Dialysis fluid by Gram stain
+PT00086,Gram stain(Catheter),4307315,Gram stain microscopy
+PT00087,Gram stain(Cervix),3001529,Microscopic observation [Identifier] in Cervix by Gram stain
+PT00088,Gram stain(Close pus),3019029,Microscopic observation [Identifier] in Pus by Gram stain
+PT00089,Gram stain(Conjunctiva),3001296,Microscopic observation [Identifier] in Eye by Gram stain
+PT00090,Gram stain(Cornea),3001296,Microscopic observation [Identifier] in Eye by Gram stain
+PT00091,Gram stain(Ear Discharge),3019385,Microscopic observation [Identifier] in Ear by Gram stain
+PT00092,Gram stain(Ear(inner)),4307315,Gram stain microscopy
+PT00093,Gram stain(Ear(outer)),4307315,Gram stain microscopy
+PT00094,Gram stain(EPS),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00095,Gram stain(Eye Discharge),3001296,Microscopic observation [Identifier] in Eye by Gram stain
+PT00096,Gram stain(Foreign body),4307315,Gram stain microscopy
+PT00097,Gram stain(Gastric biopsy),3011565,Microscopic observation [Identifier] in Tissue by Gram stain
+PT00098,Gram stain(Gastric juice),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00099,Gram stain(Joint fluid),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00100,Gram stain(Liver abscess),3011565,Microscopic observation [Identifier] in Tissue by Gram stain
+PT00101,Gram stain(Lung abscess),3019029,Microscopic observation [Identifier] in Pus by Gram stain
+PT00102,Gram stain(Lymph node),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00103,Gram stain(Open pus),3019029,Microscopic observation [Identifier] in Pus by Gram stain
+PT00104,Gram stain(Other(Please see message!)),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00105,Gram stain(Pericadial fluid),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00106,Gram stain(Peritosol),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00107,Gram stain(Pleural fluid),3005384,Microscopic observation [Identifier] in Pleural fluid by Gram stain
+PT00108,Gram stain(Rectal Swab),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00109,Gram stain(Sputum),3002516,Microscopic observation [Identifier] in Sputum by Gram stain
+PT00110,Gram stain(Stool),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00111,Gram stain(Suction Tip),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00112,Gram stain(Throat Swab),3002946,Microscopic observation [Identifier] in Throat by Gram stain
+PT00113,Gram stain(Tracheal aspirate),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00114,Gram stain(Urethral discharge),3037143,Microscopic observation [Identifier] in Urethra by Gram stain
+PT00115,Gram stain(Urine (12hr)),3003745,Microscopic observation [Identifier] in Urine by Gram stain
+PT00116,Gram stain(Urine (Random)),3003745,Microscopic observation [Identifier] in Urine by Gram stain
+PT00117,Gram stain(Vaginal Discharge),3000855,Microscopic observation [Identifier] in Vaginal fluid by Gram stain
+PT00118,Gram stain(WB (혈액 배양용기 2개)),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00119,HPV DNA(Hybrid Capture),4262119,Human papillomavirus DNA detection
+PT00120,KOH mount(B400 70%)(Aseptic Urine (Voided)),40771492,Microscopic observation [Identifier] in Urine by KOH preparation
+PT00121,KOH mount(B400 70%)(Bronchial larvage),3012096,Microscopic observation [Identifier] in Unspecified specimen by KOH preparation
+PT00122,KOH mount(B400 70%)(C.S.F),3012096,Microscopic observation [Identifier] in Unspecified specimen by KOH preparation
+PT00123,KOH mount(B400 70%)(Cervix),3000130,Microscopic observation [Identifier] in Cervix by KOH preparation
+PT00124,KOH mount(B400 70%)(Close pus),3012096,Microscopic observation [Identifier] in Unspecified specimen by KOH preparation
+PT00125,KOH mount(B400 70%)(Conjunctiva),3012096,Microscopic observation [Identifier] in Unspecified specimen by KOH preparation
+PT00126,KOH mount(B400 70%)(Cornea),3012096,Microscopic observation [Identifier] in Unspecified specimen by KOH preparation
+PT00127,KOH mount(B400 70%)(Ear Discharge),3012096,Microscopic observation [Identifier] in Unspecified specimen by KOH preparation
+PT00128,KOH mount(B400 70%)(Eye Discharge),3012096,Microscopic observation [Identifier] in Unspecified specimen by KOH preparation
+PT00129,KOH mount(B400 70%)(Hair),3020170,Microscopic observation [Identifier] in Hair by KOH preparation
+PT00130,KOH mount(B400 70%)(Nail),3020394,Microscopic observation [Identifier] in Nail by KOH preparation
+PT00131,KOH mount(B400 70%)(Nasal Aspirate),3012096,Microscopic observation [Identifier] in Unspecified specimen by KOH preparation
+PT00132,KOH mount(B400 70%)(Open pus),3012096,Microscopic observation [Identifier] in Unspecified specimen by KOH preparation
+PT00133,KOH mount(B400 70%)(Other(Please see message!)),3012096,Microscopic observation [Identifier] in Unspecified specimen by KOH preparation
+PT00134,KOH mount(B400 70%)(Pleural fluid),3012096,Microscopic observation [Identifier] in Unspecified specimen by KOH preparation
+PT00135,KOH mount(B400 70%)(Skin),3022001,Microscopic observation [Identifier] in Skin by KOH preparation
+PT00136,KOH mount(B400 70%)(Sputum),3015890,Microscopic observation [Identifier] in Sputum by KOH preparation
+PT00137,KOH mount(B400 70%)(Vaginal Discharge),3003007,Microscopic observation [Identifier] in Vaginal fluid by KOH preparation
+PT00138,Liquid based cytology & HPV DNA(Hybrid capture),4023405,Cytologic test
+PT00138,Liquid based cytology & HPV DNA(Hybrid capture),4262119,Human papillomavirus DNA detection
+PT00139,Liquid Peritoneal Fluid Cytology,2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
+PT00140,Liquid Peritoneal Fluid(intra-op) Cyto.,4023405,Cytologic test
+PT00141,Liquid Pleural Fluid Cytology,4056996,Pleural fluid examination
+PT00142,Masson Trichrome Stain,4024959,Masson trichrome stain method
+PT00143,MIB-1,3046605,MIB-1 Ag [Presence] in Tissue by Immune stain
+PT00144,MSI(Microsatellite instability) test,42742338,"Microsatellite instability analysis (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome) of markers for mismatch repair deficiency (eg, BAT25, BAT26), includes comparison of neoplastic and normal tissue, if performed"
+PT00145,P53,4039211,HIV 1 p53 antibody assay
+PT00146,PAMS,4220291,Potential acuity meter testing
+PT00147,"Pap Smear, Cervix",4151898,"Cytopathology screening of smear, routine, nongenital source, by cytotechnologist"
+PT00148,"Pap Smear, Vagina",4258831,Microscopic examination of vaginal Papanicolaou smear
+PT00149,PAS Stain,4050635,Periodic acid Schiff stain method
+PT00150,"Pathology(림프절 20개이상 검사,파라핀절편 40개이상)",3008122,Pathology study
+PT00151,Progesterone Receptor,2212561,Receptor assay; progesterone
+PT00152,Reticulin Stain,4035406,Reticulin stain method
+PT00153,S-100 protein,4274809,"Protein S, free assay"
+PT00154,Synaptophysin(병리과),3006921,Synaptophysin Ag [Presence] in Tissue by Immune stain
+PT00155,TB-PCR,3041662,Mycobacterium tuberculosis DNA [#/volume] in Unspecified specimen by Probe and target amplification method
+PT00156,TEM,4305604,"Electron microscopy transmission technique, complete"
+PT00157,Total Organ(Path.),4098214,Histopathology test
+PT00158,Warthin-Starry,4018454,Warthin-Starry staining
+PT00159,Wet/Smear(Vig.discharge)(Urine (Random)),4282452,Microbial wet smear
+PT00160,Wet/Smear(Vig.discharge)(Vaginal Discharge),4282452,Microbial wet smear
+PT00161,Wright Stain,4018453,Wright stain
+PT00162,Ziehl-Neelsen's Stain (AFB Stain),4249538,Ziehl-Neelsen stain method

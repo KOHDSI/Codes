@@ -1,0 +1,1016 @@
+mapping_num,description,omop_concept_id,omop_concept_name
+LB00001,25-OH Vitamin D3(Serum),3020149,Calcidiol [Mass/volume] in Serum or Plasma
+LB00002,갑상선자극호르몬(TSH)(Serum),3009201,Thyrotropin [Units/volume] in Serum or Plasma
+LB00003,결핵균특이항원 자극 인터페론-감마(전용),42869528,Mycobacterium tuberculosis stimulated gamma interferon [Presence] in Blood
+LB00004,기타 감염증 항체(정밀)-IgG-Rickettsia(Serum),3034897,Rickettsia sp IgG Ab [Units/volume] in Serum
+LB00005,난포자극호르몬(FSH)(Serum),3023323,Follitropin [Units/volume] in Serum or Plasma
+LB00006,뇌성나트륨이뇨펩타이드(WB(EDTA)),4307029,Brain natriuretic peptide measurement
+LB00007,마이오글로빈(정량)(Serum),3006346,Myoglobin [Presence] in Serum or Plasma
+LB00008,마이오글로빈(정량)(Urine (Random)),3011470,Myoglobin [Presence] in Urine
+LB00009,면역글로블린정량(IgG)(C.S.F),3033455,IgG in CSF/IgG in serum
+LB00010,면역글로블린정량(IgG)(Serum),3033455,IgG in CSF/IgG in serum
+LB00011,모발미네랄검사(TMA)(Hair),4044361,Procedure on hair
+LB00012,미량알부민검사(정량)(Urine (12hr)),40760483,Microalbumin [Mass/volume] in 12 hour Urine
+LB00013,미량알부민검사(정량)(Urine (24hr)),3005031,Microalbumin [Mass/volume] in 24 hour Urine
+LB00014,미량알부민검사(정량)(Urine (Random)),4020542,"Microalbumin measurement, urine, quantitative"
+LB00015,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Abdominal abscess)",4165398,Mycology culture
+LB00016,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Biopsy tissue)",3019439,Fungus identified in Tissue by Culture
+LB00017,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(BM(Culture용))",3021697,Fungus identified in Bone marrow by Culture
+LB00018,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Bone)",4165398,Mycology culture
+LB00019,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Brain abscess)",4165398,Mycology culture
+LB00020,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(CAPD)",4165398,Mycology culture
+LB00021,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Close pus)",4165398,Mycology culture
+LB00022,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Conjunctiva)",3019439,Fungus identified in Tissue by Culture
+LB00023,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Cornea)",3019439,Fungus identified in Tissue by Culture
+LB00024,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Ear Discharge)",4165398,Mycology culture
+LB00025,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Eye Discharge)",4165398,Mycology culture
+LB00026,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Hair)",3019359,Fungus identified in Hair by Culture
+LB00027,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(IV Catheter Tip)",4165398,Mycology culture
+LB00028,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Liver abscess)",4165398,Mycology culture
+LB00029,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Lung abscess)",4165398,Mycology culture
+LB00030,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Lymph node)",3019439,Fungus identified in Tissue by Culture
+LB00031,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Nail)",3005433,Fungus identified in Nail by Culture
+LB00032,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Open pus)",3035133,Fungus identified in Wound by Culture
+LB00033,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Other(Please see message!))",3000494,Fungus identified in Unspecified specimen by Culture
+LB00034,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Pelvis abscess)",4165398,Mycology culture
+LB00035,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Pin)",4165398,Mycology culture
+LB00036,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Rectal Swab)",3012927,Fungus identified in Stool by Culture
+LB00037,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Skin)",3002951,Fungus identified in Skin by Culture
+LB00038,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Stool)",3012927,Fungus identified in Stool by Culture
+LB00039,"미생물배양,동정,약제감수성(기?Fungus culture(기타)(Suction Tip)",4165398,Mycology culture
+LB00040,"미생물배양,동정,약제감수성(혈?Fungus culture(혈액,체액)(Amniotic Fluid)",3015592,Fungus identified in Body fluid by Culture
+LB00041,"미생물배양,동정,약제감수성(혈?Fungus culture(혈액,체액)(Ascitic fluid(EDTA))",3000835,Fungus identified in Peritoneal fluid by Culture
+LB00042,"미생물배양,동정,약제감수성(혈?Fungus culture(혈액,체액)(Ascitic fluid)",3000835,Fungus identified in Peritoneal fluid by Culture
+LB00043,"미생물배양,동정,약제감수성(혈?Fungus culture(혈액,체액)(Bile juice)",3015592,Fungus identified in Body fluid by Culture
+LB00044,"미생물배양,동정,약제감수성(혈?Fungus culture(혈액,체액)(Bone Marrow Biopsy)",3021697,Fungus identified in Bone marrow by Culture
+LB00045,"미생물배양,동정,약제감수성(혈?Fungus culture(혈액,체액)(C.S.F)",3015592,Fungus identified in Body fluid by Culture
+LB00046,"미생물배양,동정,약제감수성(혈?Fungus culture(혈액,체액)(Catheter)",4165398,Mycology culture
+LB00047,"미생물배양,동정,약제감수성(혈?Fungus culture(혈액,체액)(Gastric juice)",3015592,Fungus identified in Body fluid by Culture
+LB00048,"미생물배양,동정,약제감수성(혈?Fungus culture(혈액,체액)(Joint fluid)",3002444,Fungus identified in Synovial fluid by Culture
+LB00049,"미생물배양,동정,약제감수성(혈?Fungus culture(혈액,체액)(Pericadial fluid)",3015592,Fungus identified in Body fluid by Culture
+LB00050,"미생물배양,동정,약제감수성(혈?Fungus culture(혈액,체액)(Peritosol)",3000835,Fungus identified in Peritoneal fluid by Culture
+LB00051,"미생물배양,동정,약제감수성(혈?Fungus culture(혈액,체액)(Pleural fluid)",3015592,Fungus identified in Body fluid by Culture
+LB00052,"미생물배양,동정,약제감수성(혈?Fungus culture(혈액,체액)(WB (혈액 배양용기 2개))",3009171,Fungus identified in Blood by Culture
+LB00053,"미생물배양,동정및항균제최소억제농도검사(기타부위검(Nasal Aspirate)",4189544,Microbial culture
+LB00054,"미생물배양,동정및항균제최소억제농도검사(소아)(WB (혈액 배양용기 2개))",4107893,Blood culture
+LB00055,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Ascitic fluid),3010047,Microscopic observation [Identifier] in Body fluid by Acid fast stain
+LB00056,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Aseptic Urine (Cath)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
+LB00057,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Aseptic Urine (Voided)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
+LB00058,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Biopsy tissue),3012337,Microscopic observation [Identifier] in Tissue by Acid fast stain
+LB00059,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Bone Marrow Biopsy),3010047,Microscopic observation [Identifier] in Body fluid by Acid fast stain
+LB00060,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Bronchial larvage),3016485,Microscopic observation [Identifier] in Bronchial specimen by Acid fast stain
+LB00061,미생물배양및동정검사(항산균배양및동정검사)-액체배?(C.S.F),3012625,Microscopic observation [Identifier] in Cerebral spinal fluid by Acid fast stain
+LB00062,미생물배양및동정검사(항산균배양및동정검사)-액체배?(CAPD),3010047,Microscopic observation [Identifier] in Body fluid by Acid fast stain
+LB00063,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Close pus),3006874,Mycobacterium sp identified in Isolate by Mycobacterial subtyping
+LB00064,미생물배양및동정검사(항산균배양및동정검사)-액체배?(EPS),3012337,Microscopic observation [Identifier] in Tissue by Acid fast stain
+LB00065,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Eye Discharge),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+LB00066,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Gastric juice),3025056,Microscopic observation [Identifier] in Gastric fluid by Acid fast stain
+LB00067,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Joint fluid),3010047,Microscopic observation [Identifier] in Body fluid by Acid fast stain
+LB00068,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Lymph node),3012337,Microscopic observation [Identifier] in Tissue by Acid fast stain
+LB00069,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Open pus),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+LB00070,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Other(Please see message!)),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+LB00071,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Pericadial fluid),3010047,Microscopic observation [Identifier] in Body fluid by Acid fast stain
+LB00072,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Pleural fluid),40762035,Microscopic observation [Identifier] in Pleural fluid by Acid fast stain.Ziehl-Neelsen
+LB00073,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Sputum),3011588,Microscopic observation [Identifier] in Sputum by Acid fast stain
+LB00074,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Stool),3026123,Microscopic observation [Identifier] in Stool by Acid fast stain
+LB00075,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Throat Swab),3016485,Microscopic observation [Identifier] in Bronchial specimen by Acid fast stain
+LB00076,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Tracheal aspirate),3016485,Microscopic observation [Identifier] in Bronchial specimen by Acid fast stain
+LB00077,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Urethral discharge),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+LB00078,미생물배양및동정검사(항산균배양및동정검사)-액체배?(Urine (Random)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
+LB00079,바이러스항원-CMV(P(Sodium citrate)),4146598,Cytomegalovirus antibody measurement
+LB00080,바이러스항원-CMV(WB(EDTA)),3036961,Cytomegalovirus Ag [Presence] in Blood
+LB00081,바이러스항원-Rota virus(Stool (Rota virus용)),3008284,Rotavirus Ag [Presence] in Stool
+LB00082,바이러스항원-Rota virus(Stool),3008284,Rotavirus Ag [Presence] in Stool
+LB00083,바이러스항체(정밀)-IgG-Hantaan virus(Serum),3014504,Hantavirus hantaan IgG Ab [Units/volume] in Serum
+LB00084,"베타에취씨지(혈청,뇨 24시간경?베타에이취씨지(B-HCG)(Serum)",40758990,Choriogonadotropin.beta subunit [Mass/volume] in Serum or Plasma
+LB00085,"베타에취씨지(혈청,뇨 24시간경?베타에이취씨지(B-HCG)(Urine (Random))",3019257,Choriogonadotropin.beta subunit [Moles/volume] in Urine
+LB00086,부갑상선호르몬(PTH)(Serum),3024040,Parathyrin [interpretation] in Serum or Plasma
+LB00087,비임균성 성감염 PCR(4종)(Aseptic Urine (Voided)),4322045,Polymerase chain reaction analysis
+LB00088,비임균성 성감염 PCR(4종)(Cervix(PCR전용)),4322045,Polymerase chain reaction analysis
+LB00089,비임균성 성감염 PCR(4종)(Conjunctiva),4322045,Polymerase chain reaction analysis
+LB00090,비임균성 성감염 PCR(4종)(Open pus),4322045,Polymerase chain reaction analysis
+LB00091,비임균성 성감염 PCR(4종)(Other(Please see message!)),4322045,Polymerase chain reaction analysis
+LB00092,비임균성 성감염 PCR(4종)(Sputum),4322045,Polymerase chain reaction analysis
+LB00093,비임균성 성감염 PCR(4종)(Throat Swab),4322045,Polymerase chain reaction analysis
+LB00094,비임균성 성감염 PCR(4종)(Urethral discharge),4322045,Polymerase chain reaction analysis
+LB00095,비타민B12(Serum),2212300,Cyanocobalamin (Vitamin B-12)
+LB00096,산전 Triple Test(비급여)(Serum),4078287,Triple test
+LB00097,신종인플루엔자 A(Real Time RT-PCR)(전용),2213063,Detection test for influenza A virus
+LB00098,싸이로글로불린(Serum),4219426,Thyroglobulin measurement
+LB00099,싸이록신(T4)(Serum),4248132,Thyroxine measurement
+LB00100,약물및독물검사(정량)-정밀-Cyclosporin(WB(EDTA)),3010375,Cyclosporine [Mass/volume] in Blood
+LB00101,엽산(Folate)(Serum),3036987,Folate [Mass/volume] in Serum or Plasma
+LB00102,오스테오칼신-핵의학적방법(Serum(Osteocalcin용)),3028772,Osteocalcin [Mass/volume] in Serum or Plasma
+LB00103,오스테오칼신-핵의학적방법(Serum),3028772,Osteocalcin [Mass/volume] in Serum or Plasma
+LB00104,"요소호기검사(헬리코박터감염, 건강검진)(요소호기검사)",44790227,Urea breath test
+LB00105,요일반검사7종까지(Urine (Random)),4055811,Urine examination
+LB00106,요침사검사[유세포분석법](Joint fluid),3038224,Microscopic observation [Identifier] in Urine sediment by Light microscopy
+LB00107,요침사검사[유세포분석법](Urine (Random)),3038224,Microscopic observation [Identifier] in Urine sediment by Light microscopy
+LB00108,유리경쇄정량검사(혈청)-람다(Serum),3004640,Immunoglobulin light chains.lambda [Mass/volume] in Serum
+LB00109,유리경쇄정량검사(혈청)-카파(Serum),3019812,Immunoglobulin light chains.kappa [Mass/volume] in Serum
+LB00110,인슐린(Serum),4060873,Insulin measurement
+LB00111,전립선특이항원PSA(Serum),3013603,PSA serum/plasma
+LB00112,조직형검사: HLA-B27 [DNA 검사법](Patient (Laboratory)),3008898,HLA-B27 [Presence]
+LB00113,조직형검사: HLA-B27 [DNA 검사법](WB(EDTA)),3008898,HLA-B27 [Presence]
+LB00114,종양의염색체검사[혈액종양](Chromosome(BM:Heparin)),4229610,Chromosome analysis
+LB00115,중금속(정량)(ICP-ES법 또는 원자흡광광도법)-Li(전용),4250616,Plasma emission spectroscopy inductively coupled measurement
+LB00116,중금속(정량)(ICP-ES법 또는 원자흡광광도법)-Li(Serum),4250616,Plasma emission spectroscopy inductively coupled measurement
+LB00117,중금속(정량)(ICP-ES법 또는 원자흡광광도법)-Li(Urine (24hr)),4250616,Plasma emission spectroscopy inductively coupled measurement
+LB00118,중금속(정량)(ICP-ES법 또는 원자흡광광도법)-Li(Urine (Random)),4250616,Plasma emission spectroscopy inductively coupled measurement
+LB00119,중합효소연쇄반응교잡반응법[기타](Ascitic fluid),4322045,Polymerase chain reaction analysis
+LB00120,중합효소연쇄반응교잡반응법[기타](Aseptic Urine (Voided)),4322045,Polymerase chain reaction analysis
+LB00121,중합효소연쇄반응교잡반응법[기타](Biopsy tissue),4322045,Polymerase chain reaction analysis
+LB00122,중합효소연쇄반응교잡반응법[기타](BM(PCR용)),4322045,Polymerase chain reaction analysis
+LB00123,중합효소연쇄반응교잡반응법[기타](Bronchial larvage),4322045,Polymerase chain reaction analysis
+LB00124,중합효소연쇄반응교잡반응법[기타](C.S.F),4322045,Polymerase chain reaction analysis
+LB00125,중합효소연쇄반응교잡반응법[기타](Close pus),4322045,Polymerase chain reaction analysis
+LB00126,중합효소연쇄반응교잡반응법[기타](Gastric juice),4322045,Polymerase chain reaction analysis
+LB00127,중합효소연쇄반응교잡반응법[기타](Joint fluid),4322045,Polymerase chain reaction analysis
+LB00128,중합효소연쇄반응교잡반응법[기타](Lymph node),4322045,Polymerase chain reaction analysis
+LB00129,중합효소연쇄반응교잡반응법[기타](Open pus),4322045,Polymerase chain reaction analysis
+LB00130,중합효소연쇄반응교잡반응법[기타](Other(Please see message!)),4322045,Polymerase chain reaction analysis
+LB00131,중합효소연쇄반응교잡반응법[기타](Pericadial fluid),4322045,Polymerase chain reaction analysis
+LB00132,중합효소연쇄반응교잡반응법[기타](Pleural fluid),4322045,Polymerase chain reaction analysis
+LB00133,중합효소연쇄반응교잡반응법[기타](Semen),4322045,Polymerase chain reaction analysis
+LB00134,중합효소연쇄반응교잡반응법[기타](Sputum),4322045,Polymerase chain reaction analysis
+LB00135,중합효소연쇄반응교잡반응법[기타](Stool),4322045,Polymerase chain reaction analysis
+LB00136,중합효소연쇄반응교잡반응법[기타](Tracheal aspirate),4322045,Polymerase chain reaction analysis
+LB00137,중합효소연쇄반응교잡반응법[기타](WB(EDTA)),4322045,Polymerase chain reaction analysis
+LB00138,최소억제농도(비뇨.생식) & Cul(Aseptic Urine (Cath)),4189544,Microbial culture
+LB00139,최소억제농도(비뇨.생식) & Cul(Aseptic Urine (Voided)),4189544,Microbial culture
+LB00140,최소억제농도(비뇨.생식) & Cul(Cervix),4189544,Microbial culture
+LB00141,최소억제농도(비뇨.생식) & Cul(EPS),4189544,Microbial culture
+LB00142,최소억제농도(비뇨.생식) & Cul(IUD),4189544,Microbial culture
+LB00143,최소억제농도(비뇨.생식) & Cul(Urethral discharge),4189544,Microbial culture
+LB00144,최소억제농도(비뇨.생식) & Cul(Vaginal Discharge),4189544,Microbial culture
+LB00145,칼시토닌(Serum),4147378,Calcitonin measurement
+LB00146,칼시토닌(WB(EDTA)),4147378,Calcitonin measurement
+LB00147,태아성암항원CEA(Ascitic fluid),3042038,Carcinoembryonic Ag [Mass/volume] in Peritoneal fluid
+LB00148,태아성암항원CEA(C.S.F),3023729,Carcinoembryonic Ag [Mass/volume] in Cerebral spinal fluid
+LB00149,태아성암항원CEA(Pancreas cyst fluid),3013735,Carcinoembryonic Ag [Mass/volume] in Body fluid
+LB00150,태아성암항원CEA(Pericadial fluid),3038258,Carcinoembryonic Ag [Mass/volume] in Pericardial fluid
+LB00151,태아성암항원CEA(Pleural fluid),3009804,Carcinoembryonic Ag [Mass/volume] in Pleural fluid
+LB00152,태아성암항원CEA(Serum),3003785,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma
+LB00153,트리요도타이로닌(T3)(Serum),4094598,Triiodothyronine measurement
+LB00154,프로락틴(Serum),3004722,Prolactin [Mass/volume] in Serum or Plasma
+LB00155,형광트레포네마항체흡수검사(Serum),4240154,Fluorescent treponemal antibody absorption test
+LB00156,황체형성호르몬 정성검사 [현장검사](Urine (Random)),3001796,Lutropin [Units/volume] in Urine
+LB00157,황체형성호르몬(LH)(Serum),3009214,Lutropin [Units/volume] in Serum or Plasma
+LB00158,ABO Grouping(Blood grouping),3002529,ABO group [Type] in Blood
+LB00159,ABO Typing(Capillary blood),3002529,ABO group [Type] in Blood
+LB00160,ABO Typing(Serum(Blood Bank용 Tube)),3002529,ABO group [Type] in Blood
+LB00161,ABO Typing(Serum),3002529,ABO group [Type] in Blood
+LB00162,ABO Typing(WB(EDTA)),3002529,ABO group [Type] in Blood
+LB00163,ACTH CBC BOTTLE(WB(EDTA)),4170855,Adrenocorticotropic hormone measurement
+LB00164,Adenosine deaminase(Ascitic fluid),3033252,Adenosine deaminase [Enzymatic activity/volume] in Peritoneal fluid
+LB00165,Adenosine deaminase(C.S.F),3034552,Adenosine deaminase [Enzymatic activity/volume] in Cerebral spinal fluid
+LB00166,Adenosine deaminase(Pericadial fluid),3029213,Adenosine deaminase [Enzymatic activity/volume] in Pericardial fluid
+LB00167,Adenosine deaminase(Pleural fluid),3036428,Adenosine deaminase [Enzymatic activity/volume] in Pleural fluid
+LB00168,Adenosine deaminase(Serum),3052649,Adenosine deaminase [Enzymatic activity/volume] in Serum or Plasma
+LB00169,a-FP(Amniotic Fluid),3010296,Alpha-1-Fetoprotein [Mass/volume] in Amniotic fluid
+LB00170,a-FP(Ascitic fluid),3032506,Alpha-1-Fetoprotein [Mass/volume] in Peritoneal fluid
+LB00171,a-FP(C.S.F),3027634,Alpha-1-Fetoprotein [Mass/volume] in Cerebral spinal fluid
+LB00172,a-FP(Chromosome(Amniotic Fl)),3010296,Alpha-1-Fetoprotein [Mass/volume] in Amniotic fluid
+LB00173,a-FP(Serum),3009306,Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma
+LB00174,Albumin(Albumin assay),3024561,Albumin [Mass/volume] in Serum or Plasma
+LB00175,Albumin(Ascitic fluid),4097664,Albumin measurement
+LB00176,Albumin(Close pus),4097664,Albumin measurement
+LB00177,Albumin(Other(Please see message!)),4097664,Albumin measurement
+LB00178,Albumin(Pancreas cyst fluid),4097664,Albumin measurement
+LB00179,Albumin(Pleural fluid),40479187,Measurement of albumin in pleural fluid specimen
+LB00180,Albumin(Serum),3024561,Albumin serum/plasma
+LB00181,Albumin(Urine (24hr)),3025987,Albumin [Presence] in Urine
+LB00182,Albumin(Urine (Random)),3025987,Albumin [Presence] in Urine
+LB00183,Alk.Phosphatase(Liver function test),3035995,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma
+LB00184,Alkaline Phosphatase(Serum),3035995,Alkaline phosphatase serum/plasma
+LB00185,ALT (GPT)(Liver function test),3006923,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+LB00186,Amylase(Amniotic Fluid),4276028,Amylase measurement
+LB00187,Amylase(Amylase assay),3016771,Amylase [Enzymatic activity/volume] in Serum or Plasma
+LB00188,Amylase(Ascitic fluid(EDTA)),4232318,"Amylase measurement, serum"
+LB00189,Amylase(Ascitic fluid),4276028,Amylase measurement
+LB00190,Amylase(Barobag count),4276028,Amylase measurement
+LB00191,Amylase(Bile juice),4276028,Amylase measurement
+LB00192,Amylase(Bronchial larvage),4276028,Amylase measurement
+LB00193,Amylase(C.S.F),3007327,Amylase [Enzymatic activity/volume] in Cerebral spinal fluid
+LB00194,Amylase(Catheter),4276028,Amylase measurement
+LB00195,Amylase(Gastric juice),3016801,Amylase [Enzymatic activity/volume] in Gastric fluid
+LB00196,Amylase(Joint fluid (EDTA)),3004142,Amylase [Enzymatic activity/volume] in Synovial fluid
+LB00197,Amylase(Joint fluid),3004142,Amylase [Enzymatic activity/volume] in Synovial fluid
+LB00198,Amylase(Other(Please see message!)),4276028,Amylase measurement
+LB00199,Amylase(Pancreas cyst fluid),4276028,Amylase measurement
+LB00200,Amylase(Pericadial fluid),3043739,Amylase [Enzymatic activity/volume] in Pericardial fluid
+LB00201,Amylase(Pleural fluid(EDTA)),3015401,Amylase [Enzymatic activity/volume] in Pleural fluid
+LB00202,Amylase(Pleural fluid),3015401,Amylase [Enzymatic activity/volume] in Pleural fluid
+LB00203,Amylase(Serum),4232318,"Amylase measurement, serum"
+LB00204,Amylase(Urine (24hr)),4152457,"Amylase measurement, urine"
+LB00205,Amylase(Urine (Random)),4152457,"Amylase measurement, urine"
+LB00206,ANC,3030905,Polymorphonuclear cells [#/volume] in Blood
+LB00207,ANCA(Quantitative)(Serum),4135820,Antineutrophil cytoplasmic antibody measurement
+LB00208,Anti Cardiolipin IgA(Serum),3009118,Cardiolipin IgA Ab [Units/volume] in Serum by Immunoassay
+LB00209,Anti Cardiolipin IgM(Serum),40758574,Cardiolipin IgM Ab in Serum
+LB00210,Anti CCP Ab(Serum),3041391,Cyclic citrullinated peptide Ab [Presence] in Serum
+LB00211,Anti ENA Antibody 4종(Serum),4133657,Extractable nuclear antigen antibody screening test
+LB00212,Anti LKM Ab(Serum),3019307,Liver kidney microsomal Ab [Units/volume] in Serum
+LB00213,Anti Mitochondrial Ab(Serum),4136743,Antimitochondrial antibody titer
+LB00214,Anti Nuclear Ab (ANA)(Serum),3004616,Nuclear Ab [Presence] in Serum
+LB00215,Anti Phospholipid IgG(P(Sodium citrate)),3000984,Phospholipid [Mass/volume] in Serum or Plasma
+LB00216,Anti Phospholipid IgG(Serum),3021751,Phospholipid IgG Ab [Presence] in Serum
+LB00217,Anti Phospholipid IgM(P(Sodium citrate)),3034807,Phospholipid Ab.IgM
+LB00218,Anti Phospholipid IgM(Serum),3023632,Phospholipid IgM Ab [Units/volume] in Serum by Immunoassay
+LB00219,Anti Sm Ab(Serum),3016921,Smith extractable nuclear Ab [Units/volume] in Serum
+LB00220,Anti Smooth muscle Ab(정밀)(Serum),3005932,Smooth muscle Ab [Presence] in Serum
+LB00221,Anti Thrombin III(P(Sodium citrate)),4263791,Antithrombin III assay
+LB00222,Anti-cardiolipin(확진)-IgG(Serum),40758575,Cardiolipin IgG Ab in Serum
+LB00223,Anti-HIV I/II(HIV study),3013906,HIV 1 Ab [Presence] in Serum
+LB00224,Anti-Nuclear Ab(Quantitative)(Serum),4193403,Serum anti nuclear antibody level
+LB00225,ApoE 유전자 검사(WB(EDTA)),4019453,Apolipoproteins E measurement
+LB00226,Apolipoprotein A-1(Serum),4195202,Serum apolipoprotein A-I measurement
+LB00227,Apolipoprotein B-1(Serum),4197854,Serum apolipoprotein B measurement
+LB00228,aPTT(P(Sodium citrate)),3013466,Activated partial thromboplastin time (aPTT) in Blood by Coagulation assay
+LB00229,aPTT(Test for hemostasis & thrombosis),3018677,Activated partial thromboplastin time (aPTT) in Platelet poor plasma by Coagulation assay
+LB00230,ASO(Quantitative)(Serum),3028050,Streptolysin O Ab [Titer] in Serum
+LB00231,Aspergilus Ag(High Quality)(Serum),44790036,Aspergillus antigen level
+LB00232,AST (GOT)(Liver function test),3013721,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+LB00233,Atypical lympho,3015233,Lymphocytes Abnormal/100 leukocytes in Blood
+LB00234,B2-Microglobulin(Serum),3013201,Beta-2-Microglobulin [Mass/volume] in Serum
+LB00235,B2-Microglobulin(Urine (24hr)),3043349,Beta-2-Microglobulin [Presence] in Urine
+LB00236,B2-Microglobulin(Urine (Random)),3018081,Beta-2-Microglobulin [Mass/volume] in Urine
+LB00237,B형간염표면항원정량검사(화학발광미세입자 면역측정?HBsAg(정량)(Serum),4168615,Hepatitis B surface antigen measurement
+LB00238,BACTERIA,3025255,Bacteria [#/area] in Urine sediment by Microscopy high power field
+LB00239,Band,3004809,Neutrophils.band form/100 leukocytes in Blood
+LB00240,Basophil,3022096,Basophils/100 leukocytes in Blood
+LB00241,BE,3003396,Base excess in Arterial blood
+LB00242,Blast,3025159,Blasts/100 leukocytes in Blood
+LB00243,Bleeding time(Patient (Laboratory)),3011625,Bleeding time
+LB00244,BLOOD AMMONIA(WB(EDTA)),3030942,Ammonia [Mass/volume] in Blood
+LB00245,Blood cell Morphology(WB(EDTA)),4143609,Blood cell morphology
+LB00246,"BLOOD GAS STUDY(3ICU,MICU,NSICU)(Whole blood (ABGA용))",4042746,Blood gas measurement
+LB00247,BLOOD GAS STUDY(Whole blood (ABGA용)),4042746,Blood gas measurement
+LB00248,BLOOD GROUP ANTIBODY SCREENING(Serum(Blood Bank용 Tube)),4098070,Blood group antibody screening
+LB00249,BLOOD GROUP ANTIBODY SCREENING(Serum),3036472,Blood group antibodies identified in Serum or Plasma
+LB00250,BLOOD GROUP ANTIBODY SCREENING(WB(EDTA)),4098070,Blood group antibody screening
+LB00251,Bone marrow asp & biopsy(Bone Marrow Biopsy),4120443,Bone marrow sampling
+LB00252,Broad Cast,3017179,Broad casts [#/area] in Urine sediment by Microscopy low power field
+LB00253,BUN(Ascitic fluid),4017361,Blood urea nitrogen measurement
+LB00254,BUN(Barobag count),4017361,Blood urea nitrogen measurement
+LB00255,BUN(BUN assay),3013682,Urea nitrogen [Mass/volume] in Serum or Plasma
+LB00256,BUN(Catheter),4017361,Blood urea nitrogen measurement
+LB00257,BUN(Dialysate),3034104,Urea nitrogen [Mass/volume] in Serum or Plasma --post dialysis
+LB00258,BUN(Other(Please see message!)),4017361,Blood urea nitrogen measurement
+LB00259,BUN(Pleural fluid),4017361,Blood urea nitrogen measurement
+LB00260,BUN(Serum),3013682,Urea nitrogen serum/plasma
+LB00261,BUN(Urine (12hr)),4017361,Blood urea nitrogen measurement
+LB00262,BUN(Urine (24hr)),4017361,Blood urea nitrogen measurement
+LB00263,BUN(Urine (Random)),4017361,Blood urea nitrogen measurement
+LB00264,CA-125(Serum),3037551,Cancer Ag 125 [Units/volume] in Serum or Plasma
+LB00265,CA15-3(Serum),3006588,Cancer Ag 15-3 [Units/volume] in Serum or Plasma
+LB00266,CA19-9(carbohydrate Ag 19-9)(Serum),3022914,Cancer Ag 19-9 [Units/volume] in Serum or Plasma
+LB00267,CA-19-9(Pancreas cyst fluid),4164784,Cancer antigen 19-9 measurement
+LB00268,CA-19-9(Serum),3022914,Cancer Ag 19-9 [Units/volume] in Serum or Plasma
+LB00269,Calcium(Electrolyte study),3006906,Calcium [Mass/volume] in Serum or Plasma
+LB00270,Carbmazepine(Tegretol)(Serum),3028415,Carbamazepine [Presence] in Serum or Plasma
+LB00271,Carbmazepine(Tegretol)(Urine (Random)),3009915,Carbamazepine [Presence] in Urine
+LB00272,CEA(Serum),3000531,Carcinoembryonic Ag [Mass/volume] in Semen
+LB00273,Ceruloplasmin(Serum),3022756,Ceruloplasmin [Mass/volume] in Serum or Plasma
+LB00274,CH50(Serum),3028461,Complement total hemolytic CH50 [Units/volume] in Serum or Plasma
+LB00275,Chlamidia trachomatis PCR(Aseptic Urine (Voided)),4163738,PCR test for Chlamydia trachomatis
+LB00276,Chlamidia trachomatis PCR(Cervix(PCR전용)),4163738,PCR test for Chlamydia trachomatis
+LB00277,Chlamidia trachomatis PCR(Conjunctiva),4163738,PCR test for Chlamydia trachomatis
+LB00278,Chlamidia trachomatis PCR(Eye Discharge),4163738,PCR test for Chlamydia trachomatis
+LB00279,Chlamidia trachomatis PCR(Open pus),4163738,PCR test for Chlamydia trachomatis
+LB00280,Chlamidia trachomatis PCR(Other(Please see message!)),4163738,PCR test for Chlamydia trachomatis
+LB00281,Chlamidia trachomatis PCR(Throat Swab),4163738,PCR test for Chlamydia trachomatis
+LB00282,Chlamidia trachomatis PCR(Urethral discharge),4163738,PCR test for Chlamydia trachomatis
+LB00283,Chlamydia Ab IgM(Serum),3004596,Chlamydia sp IgM Ab [Presence] in Serum
+LB00284,Chlamydia pneumoniae IgM(Serum),4201039,Chlamydia pneumoniae IgM level
+LB00285,Chloride(Amniotic Fluid),2212265,Chloride level
+LB00286,Chloride(Ascitic fluid(EDTA)),2212265,Chloride level
+LB00287,Chloride(Ascitic fluid),2212265,Chloride level
+LB00288,Chloride(Bile juice),2212265,Chloride level
+LB00289,Chloride(Bronchial larvage),2212265,Chloride level
+LB00290,Chloride(C.S.F),2212265,Chloride level
+LB00291,Chloride(Catheter),2212265,Chloride level
+LB00292,Chloride(Electrolyte study),3014576,Chloride [Moles/volume] in Serum or Plasma
+LB00293,Chloride(Gastric juice),2212265,Chloride level
+LB00294,Chloride(Joint fluid (EDTA)),2212265,Chloride level
+LB00295,Chloride(Joint fluid),2212265,Chloride level
+LB00296,Chloride(Other(Please see message!)),2212265,Chloride level
+LB00297,Chloride(Pericadial fluid),2212265,Chloride level
+LB00298,Chloride(Peritosol),2212265,Chloride level
+LB00299,Chloride(Pleural fluid(EDTA)),2212265,Chloride level
+LB00300,Chloride(Pleural fluid),2212265,Chloride level
+LB00301,Chloride(Serum),2212263,Blood chloride level
+LB00302,Chloride(Urine (24hr)),2212264,Chloride; urine
+LB00303,Chloride(Urine (Random)),2212264,Chloride; urine
+LB00304,Chloride(Whole blood (ABGA용)),2212263,Blood chloride level
+LB00305,Chlsmydia Ab IgG(Serum),3019530,Chlamydia sp IgG Ab [Presence] in Serum
+LB00306,Cholesterol(Ascitic fluid),4171601,Cholesterol screening
+LB00307,Cholesterol(Bronchial larvage),4171601,Cholesterol screening
+LB00308,Cholesterol(Other(Please see message!)),4171601,Cholesterol screening
+LB00309,Cholesterol(Pancreas cyst fluid),4008265,Total cholesterol measurement
+LB00310,Cholesterol(Pericadial fluid),42868735,Cholesterol in pericardial fluid/Cholesterol in serum
+LB00311,Cholesterol(Pleural fluid),42868740,Cholesterol in pleural fluid/Cholesterol in serum
+LB00312,Cholesterol(Serum),4171601,Cholesterol screening
+LB00313,Chromosome analysis(Chromosome(Amniotic Fl)),2213267,Chromosome analysis of amniotic fluid or placenta for genetic defects
+LB00314,Chromosome analysis(Chromosome(BM:Heparin)),4229610,Chromosome analysis
+LB00315,Chromosome analysis(Chromosome(PB:Heparin)),4229610,Chromosome analysis
+LB00316,Chromosome analysis(Skin),4229610,Chromosome analysis
+LB00317,CK-MB(Cardiac enzyme study),3005785,Creatine kinase.MB [Mass/volume] in Serum or Plasma
+LB00318,CK-MB(Serum),3005785,Creatine kinase.MB [Mass/volume] in Serum or Plasma
+LB00319,Clostridium culture(Stool),4045646,Clostridium difficile culture
+LB00320,Clostridium difficile toxin A(Stool),3009004,Clostridium difficile toxin A [Presence] in Stool by Immunoassay
+LB00321,Clotting time (Coagulation time)(Patient (Laboratory)),3016948,Activated clotting time in Blood by Coagulation assay
+LB00322,CMV IgG(Serum),3010130,Cytomegalovirus IgG Ab [Units/volume] in Serum
+LB00323,CMV PCR(Amniotic Fluid),3031292,Cytomegalovirus DNA [#/volume] (viral load) in Amniotic fluid by Probe and target amplification method
+LB00324,CMV PCR(Aseptic Urine (Voided)),3000409,Cytomegalovirus DNA [Presence] in Urine by Probe and target amplification method
+LB00325,CMV PCR(Bronchial larvage),3031911,Cytomegalovirus DNA [#/volume] (viral load) in Bronchoalveolar lavage by Probe and target amplification method
+LB00326,CMV PCR(C.S.F),3011927,Cytomegalovirus DNA [Presence] in Cerebral spinal fluid by Probe and target amplification method
+LB00327,CMV PCR(Other(Please see message!)),3020229,Cytomegalovirus DNA [Presence] in Unspecified specimen by Probe and target amplification method
+LB00328,CMV PCR(Sputum),3036097,Cytomegalovirus DNA [Presence] in Bronchial specimen by Probe and target amplification method
+LB00329,CMV PCR(WB(EDTA)),3021884,Cytomegalovirus DNA [Presence] in Blood by Probe and target amplification method
+LB00330,CMV Quantitative(Real time) PCR(Aseptic Urine (Voided)),3000409,Cytomegalovirus DNA [Presence] in Urine by Probe and target amplification method
+LB00331,CMV Quantitative(Real time) PCR(Bronchial larvage),3031911,Cytomegalovirus DNA [#/volume] (viral load) in Bronchoalveolar lavage by Probe and target amplification method
+LB00332,CMV Quantitative(Real time) PCR(C.S.F),3011927,Cytomegalovirus DNA [Presence] in Cerebral spinal fluid by Probe and target amplification method
+LB00333,CMV Quantitative(Real time) PCR(Other(Please see message!)),3020229,Cytomegalovirus DNA [Presence] in Unspecified specimen by Probe and target amplification method
+LB00334,CMV Quantitative(Real time) PCR(Sputum),3036097,Cytomegalovirus DNA [Presence] in Bronchial specimen by Probe and target amplification method
+LB00335,CMV Quantitative(Real time) PCR(WB(EDTA)),3021884,Cytomegalovirus DNA [Presence] in Blood by Probe and target amplification method
+LB00336,CMV(IgM)(Serum),3013332,Cytomegalovirus IgM Ab [Presence] in Serum
+LB00337,Cold agglutinin(Patient (Laboratory)),4172928,Cold agglutinin measurement
+LB00338,Color,3027162,Color of Urine
+LB00339,Complement C3(Joint fluid),4018035,Complement C3c measurement
+LB00340,Complement C3(Serum),4018035,Complement C3c measurement
+LB00341,Complement C4(Joint fluid),4135587,C>4< complement assay
+LB00342,Complement C4(Serum),4135587,C>4< complement assay
+LB00343,CO-oxy(Whole blood (ABGA용)),4130729,Oximetry
+LB00344,Cortisol 30min(Serum(30min)),4209388,30 minute serum cortisol measurement
+LB00345,Cortisol 60min(Serum(60min)),4198114,60 minute serum cortisol measurement
+LB00346,Cortisol Basal(Serum),4265057,Cortisol measurement
+LB00347,Cortisol Basal(Urine (24hr)),4265057,Cortisol measurement
+LB00348,Cortisol(스테로이드화합물정량(정밀)(Serum),4150790,Serum cortisol measurement
+LB00349,Cortisol(스테로이드화합물정량(정밀)(Urine (24hr)),3037229,Cortisol [Presence] in Urine
+LB00350,Cortisol(스테로이드화합물정량(정밀)(Urine (Random)),3037229,Cortisol [Presence] in Urine
+LB00351,C-peptide(120min)(Serum(120min)),3010084,C peptide [Mass/volume] in Serum or Plasma
+LB00352,C-peptide(Serum),3010084,C peptide [Mass/volume] in Serum or Plasma
+LB00353,C-peptide(Urine (24hr)),3010623,C peptide [Mass/volume] in Urine
+LB00354,CPK(Ascitic fluid(EDTA)),3044881,Creatine kinase [Presence] in Body fluid
+LB00355,CPK(Ascitic fluid),3044881,Creatine kinase [Presence] in Body fluid
+LB00356,CPK(Bile juice),4265595,Creatine kinase measurement
+LB00357,CPK(C.S.F),3014152,Creatine kinase [Enzymatic activity/volume] in Cerebral spinal fluid
+LB00358,CPK(Gastric juice),4265595,Creatine kinase measurement
+LB00359,CPK(Joint fluid (EDTA)),4265595,Creatine kinase measurement
+LB00360,CPK(Joint fluid),4265595,Creatine kinase measurement
+LB00361,CPK(Pericadial fluid),4265595,Creatine kinase measurement
+LB00362,CPK(Pleural fluid(EDTA)),4265595,Creatine kinase measurement
+LB00363,CPK(Pleural fluid),4265595,Creatine kinase measurement
+LB00364,CPK(Serum),3007220,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma
+LB00365,CPK(Urine (24hr)),4265595,Creatine kinase measurement
+LB00366,CPK(Urine (Random)),4265595,Creatine kinase measurement
+LB00367,Creatine Kinase(Creatine kinase assay),3007220,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma
+LB00368,Creatinine Clearance(Serum+24hr Toluidin Urine(Ccr)),2212296,Creatinine clearance measurement to test for kidney function
+LB00369,Creatinine Clearance(Urine (24hr)),2212296,Creatinine clearance measurement to test for kidney function
+LB00370,Creatinine(Ascitic fluid),4324383,Creatinine measurement
+LB00371,Creatinine(Barobag count),4324383,Creatinine measurement
+LB00372,Creatinine(Catheter),4324383,Creatinine measurement
+LB00373,Creatinine(Creatinine assay),3016723,Creatinine [Mass/volume] in Serum or Plasma
+LB00374,Creatinine(Dialysate),3043954,Creatinine in dialysis fluid/Creatinine in serum or plasma
+LB00375,Creatinine(eGFR)(Serum),3045262,Creatinine and Glomerular filtration rate.predicted panel
+LB00376,Creatinine(Other(Please see message!)),4324383,Creatinine measurement
+LB00377,Creatinine(Pleural fluid),42868736,Creatinine in pleural fluid/Creatinine in serum
+LB00378,Creatinine(Serum),3016723,Creatinine serum/plasma
+LB00379,Creatinine(Urine (12hr)),3007081,Creatinine [interpretation] in Urine
+LB00380,Creatinine(Urine (24hr)),3007081,Creatinine [interpretation] in Urine
+LB00381,Creatinine(Urine (Random)),3007081,Creatinine [interpretation] in Urine
+LB00382,CROSS MATCHING(Serum(Blood Bank용 Tube)),4219996,Major crossmatch
+LB00383,CRP(CRP assay),3020460,C reactive protein [Mass/volume] in Serum or Plasma
+LB00384,Cryoglobulin(Patient (Laboratory)),4150668,Cryoglobulin measurement
+LB00385,Cryptococcus antigen(C.S.F),4196285,Cryptococcus antigen level
+LB00386,Cryptococcus antigen(Serum),4196285,Cryptococcus antigen level
+LB00387,Crystal,3051205,Crystals [#/area] in Urine sediment by Microscopy high power field
+LB00388,CSF-Albumin(RIA)(C.S.F),3024474,Albumin [Mass/volume] in Cerebral spinal fluid
+LB00389,CULTURE FOR AFB(Ascitic fluid),4189544,Microbial culture
+LB00390,CULTURE FOR AFB(Aseptic Urine (Cath)),4024509,Urine culture
+LB00391,CULTURE FOR AFB(Aseptic Urine (Voided)),4024509,Urine culture
+LB00392,CULTURE FOR AFB(Biopsy tissue),4189544,Microbial culture
+LB00393,CULTURE FOR AFB(Bone Marrow Biopsy),4252860,Bone marrow culture
+LB00394,CULTURE FOR AFB(Bronchial larvage),4189544,Microbial culture
+LB00395,CULTURE FOR AFB(C.S.F),4189544,Microbial culture
+LB00396,CULTURE FOR AFB(CAPD),4189544,Microbial culture
+LB00397,CULTURE FOR AFB(Close pus),4189544,Microbial culture
+LB00398,CULTURE FOR AFB(EPS),4189544,Microbial culture
+LB00399,CULTURE FOR AFB(Eye Discharge),4189544,Microbial culture
+LB00400,CULTURE FOR AFB(Gastric juice),4189544,Microbial culture
+LB00401,CULTURE FOR AFB(Joint fluid),4189544,Microbial culture
+LB00402,CULTURE FOR AFB(Lymph node),4189544,Microbial culture
+LB00403,CULTURE FOR AFB(Open pus),4189544,Microbial culture
+LB00404,CULTURE FOR AFB(Other(Please see message!)),4189544,Microbial culture
+LB00405,CULTURE FOR AFB(Pericadial fluid),4189544,Microbial culture
+LB00406,CULTURE FOR AFB(Pleural fluid),4189544,Microbial culture
+LB00407,CULTURE FOR AFB(Sputum),4015191,Sputum culture for mycobacterium
+LB00408,CULTURE FOR AFB(Stool),4024963,Stool culture
+LB00409,CULTURE FOR AFB(Throat Swab),4024958,Throat culture
+LB00410,CULTURE FOR AFB(Tracheal aspirate),4189544,Microbial culture
+LB00411,CULTURE FOR AFB(Urethral discharge),4189544,Microbial culture
+LB00412,CULTURE FOR AFB(Urine (12hr)),4024509,Urine culture
+LB00413,CULTURE FOR AFB(Urine (24hr)),4024509,Urine culture
+LB00414,CULTURE FOR AFB(Urine (Random)),4024509,Urine culture
+LB00415,Culture(Blood/Fluid)(Culture (Blood/Fluid)),3023368,Bacteria identified in Blood by Culture
+LB00416,Culture(Genital/Urinary)(Culture (Genital/Urinary)),3026008,Bacteria identified in Urine by Culture
+LB00417,Culture/MIC(기타)(Abdominal abscess),4189544,Microbial culture
+LB00418,Culture/MIC(기타)(Aqueous/vitreous Fluid),4190299,Broth microdilution susceptibility test
+LB00419,Culture/MIC(기타)(Aspiration fluid),4190299,Broth microdilution susceptibility test
+LB00420,Culture/MIC(기타)(Biopsy tissue),4189544,Microbial culture
+LB00421,Culture/MIC(기타)(BM(Culture용)),4252860,Bone marrow culture
+LB00422,Culture/MIC(기타)(Bone),4189544,Microbial culture
+LB00423,Culture/MIC(기타)(Brain abscess),4189544,Microbial culture
+LB00424,Culture/MIC(기타)(CAPD),4189544,Microbial culture
+LB00425,Culture/MIC(기타)(Close pus),4189544,Microbial culture
+LB00426,Culture/MIC(기타)(Conjunctiva),4189544,Microbial culture
+LB00427,Culture/MIC(기타)(Cornea),4189544,Microbial culture
+LB00428,Culture/MIC(기타)(Drain tube),4190299,Broth microdilution susceptibility test
+LB00429,Culture/MIC(기타)(Ear Discharge),4189544,Microbial culture
+LB00430,Culture/MIC(기타)(Ear(inner)),4190299,Broth microdilution susceptibility test
+LB00431,Culture/MIC(기타)(Ear(outer)),4190299,Broth microdilution susceptibility test
+LB00432,Culture/MIC(기타)(Eye Discharge),4189544,Microbial culture
+LB00433,Culture/MIC(기타)(Foreign body),4190299,Broth microdilution susceptibility test
+LB00434,Culture/MIC(기타)(IV Catheter Tip),4189544,Microbial culture
+LB00435,Culture/MIC(기타)(Liver abscess),4189544,Microbial culture
+LB00436,Culture/MIC(기타)(Lung abscess),4189544,Microbial culture
+LB00437,Culture/MIC(기타)(Lymph node),4189544,Microbial culture
+LB00438,Culture/MIC(기타)(Open pus),4189544,Microbial culture
+LB00439,Culture/MIC(기타)(Other(Please see message!)),4189544,Microbial culture
+LB00440,Culture/MIC(기타)(Pelvis abscess),4189544,Microbial culture
+LB00441,Culture/MIC(기타)(Pin),4189544,Microbial culture
+LB00442,Culture/MIC(기타)(Rectal Swab),4189544,Microbial culture
+LB00443,Culture/MIC(기타)(Stool),4024963,Stool culture
+LB00444,Culture/MIC(기타)(Suction Tip),4189544,Microbial culture
+LB00445,Culture/MIC(소화기)(Ascitic fluid),4190299,Broth microdilution susceptibility test
+LB00446,Culture/MIC(소화기)(Bile juice),4190299,Broth microdilution susceptibility test
+LB00447,Culture/MIC(소화기)(Gastric biopsy),4190299,Broth microdilution susceptibility test
+LB00448,Culture/MIC(소화기)(Gastric juice),4190299,Broth microdilution susceptibility test
+LB00449,Culture/MIC(소화기)(Rectal Swab),4190299,Broth microdilution susceptibility test
+LB00450,Culture/MIC(소화기)(Stool),4190299,Broth microdilution susceptibility test
+LB00451,"Culture/MIC(혈액,체액)(Amniotic Fluid)",4189544,Microbial culture
+LB00452,"Culture/MIC(혈액,체액)(Ascitic fluid(EDTA))",4189544,Microbial culture
+LB00453,"Culture/MIC(혈액,체액)(Ascitic fluid)",4189544,Microbial culture
+LB00454,"Culture/MIC(혈액,체액)(Bile juice)",4189544,Microbial culture
+LB00455,"Culture/MIC(혈액,체액)(Bone Marrow Biopsy)",4252860,Bone marrow culture
+LB00456,"Culture/MIC(혈액,체액)(C.S.F)",4189544,Microbial culture
+LB00457,"Culture/MIC(혈액,체액)(Catheter)",4190299,Broth microdilution susceptibility test
+LB00458,"Culture/MIC(혈액,체액)(Joint fluid (EDTA))",4189544,Microbial culture
+LB00459,"Culture/MIC(혈액,체액)(Joint fluid)",4189544,Microbial culture
+LB00460,"Culture/MIC(혈액,체액)(Joint(Blood culture))",4190299,Broth microdilution susceptibility test
+LB00461,"Culture/MIC(혈액,체액)(Pericadial fluid)",4189544,Microbial culture
+LB00462,"Culture/MIC(혈액,체액)(Peritosol)",4189544,Microbial culture
+LB00463,"Culture/MIC(혈액,체액)(Pleural fluid(EDTA))",4189544,Microbial culture
+LB00464,"Culture/MIC(혈액,체액)(Pleural fluid)",4189544,Microbial culture
+LB00465,"Culture/MIC(혈액,체액)(WB (혈액 배양용기 2개))",4189544,Microbial culture
+LB00466,Culture/MIC(호흡기)(Bronchial larvage),4189544,Microbial culture
+LB00467,Culture/MIC(호흡기)(Ear Discharge),4189544,Microbial culture
+LB00468,Culture/MIC(호흡기)(Eye Discharge),4189544,Microbial culture
+LB00469,Culture/MIC(호흡기)(Nasal Aspirate),4189544,Microbial culture
+LB00470,Culture/MIC(호흡기)(Sputum),4189544,Microbial culture
+LB00471,Culture/MIC(호흡기)(Suction Tip),4189544,Microbial culture
+LB00472,Culture/MIC(호흡기)(Throat Swab),4024958,Throat culture
+LB00473,Culture/MIC(호흡기)(Tracheal aspirate),4189544,Microbial culture
+LB00474,Cystatin C(eGFR)(Serum),3030366,Cystatin C [Mass/volume] in Serum or Plasma
+LB00475,Cystatin C(eGFR)(WB(EDTA)),2212302,Cystatin C
+LB00476,D.Bilirubin(Bilirubin test),3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma
+LB00477,d1유럽 진드기(CAP방법)(Serum),3008790,European house dust mite IgG Ab [Units/volume] in Serum
+LB00478,d2 아메리카 진드기 (CAP방법)(Serum),3012099,American house dust mite IgG Ab [Units/volume] in Serum
+LB00479,D-dimer test(P(Sodium citrate)),4322628,D-dimer assay
+LB00480,Deoxypyridinoline(Urine (아침첫뇨-DPD용)),3021369,Deoxypyridinoline [Moles/volume] in Urine
+LB00481,DHEA-Sulfate(Serum),3022000,Dehydroepiandrosterone (DHEA) [Mass/volume] in Serum or Plasma
+LB00482,Digoxin(Serum),4155242,Serum digoxin measurement
+LB00483,Digoxin(Urine (Random)),4104254,Digoxin measurement
+LB00484,Direct Bilirubin(Serum),3027597,Direct bilirubin serum/plasma
+LB00485,Direct coomb's(IgG) test(WB(EDTA)),4299254,Direct Coombs test
+LB00486,Dysmorphic RBC(urine)(Urine (Random)),3043133,Erythrocytes.dysmorphic [#/volume] in Urine by Light microscopy
+LB00487,EBV EA-DR IgG(Serum),3002861,Epstein Barr virus early IgG Ab [Presence] in Serum
+LB00488,EBV EA-DR IgM(Serum),40759718,Epstein Barr virus early IgM Ab [Units/volume] in Serum by Immunoassay
+LB00489,EBV EBNA IgG(Serum),4279552,Epstein-Barr nuclear antibody measurement
+LB00490,EBV VCA IgG(viral capsid)(Serum),3006585,Epstein Barr virus capsid IgG Ab [Presence] in Serum
+LB00491,EBV VCA IgM(viral capsid)(Serum),3008105,Epstein Barr virus capsid IgM Ab [Presence] in Serum
+LB00492,Entero virus RT-PCR(C.S.F),3002433,Enterovirus RNA [Presence] in Cerebral spinal fluid by Probe and target amplification method
+LB00493,Eosiniphil,3006504,Eosinophils/100 leukocytes in Blood
+LB00494,Eosinophilic Cationic Protein(Serum),3005791,Eosinophil cationic protein (ECP) [Mass/volume] in Serum
+LB00495,Eosinophils(Nasal Aspirate),4216098,Eosinophil count
+LB00496,Eosinophils(Urine (Random)),4216098,Eosinophil count
+LB00497,Eosinophils(WB(EDTA)),4216098,Eosinophil count
+LB00498,EPITHELIAL CAST,3024290,Epithelial casts [#/area] in Urine sediment by Microscopy low power field
+LB00499,Epithelial cell,3028099,Epithelial cells.squamous [Presence] in Sputum by Light microscopy
+LB00500,ESR(Pepheral blood study),3015183,Erythrocyte sedimentation rate
+LB00501,Estradiol(E2)(Serum),3025285,Estradiol (E2) [Mass/volume] in Serum or Plasma
+LB00502,Extended NST(43종)+2종(Other(Please see message!)),2110284,Fetal non-stress test
+LB00503,FDP정량(P(Sodium citrate)),3002683,Fibrin degradation products
+LB00504,Ferritin(Serum),3001122,Ferritin [Mass/volume] in Serum or Plasma
+LB00505,FI O2,3020716,Inhaled oxygen concentration
+LB00506,Fibrinogen(P(Sodium citrate)),4098061,Fibrinogen screening
+LB00507,Flow,3005629,Inhaled oxygen flow rate
+LB00508,Free Fatty Acid(Serum),4198723,Serum free fatty acid measurement
+LB00509,Free PSA(Serum),3005013,Free PSA serum/plasma
+LB00510,Free T4(Serum),4198884,Serum free T4 measurement
+LB00511,Free Testosterone(Serum),3016049,Testosterone Free [Mass/volume] in Serum or Plasma
+LB00512,FTA-ABS(IgG)(C.S.F),40761845,Treponema pallidum IgG Ab [Presence] in Cerebral spinal fluid by Immunofluorescence
+LB00513,FTA-ABS(IgG)(Serum),3015923,Treponema pallidum IgG Ab [Presence] in Serum by Immunofluorescence
+LB00514,FTA-ABS(IgM)(C.S.F),3052315,Treponema pallidum IgM Ab [Units/volume] in Cerebral spinal fluid by Immunofluorescence
+LB00515,FTA-ABS(IgM)(Serum),3005900,Treponema pallidum IgM Ab [Presence] in Serum by Immunofluorescence
+LB00516,Fungus culture(호흡기)(Bronchial larvage),3024212,Fungus identified in Bronchial specimen by Culture
+LB00517,Fungus culture(호흡기)(Ear Discharge),4165398,Mycology culture
+LB00518,Fungus culture(호흡기)(Eye Discharge),4165398,Mycology culture
+LB00519,Fungus culture(호흡기)(Nasal Aspirate),3000186,Fungus identified in Aspirate by Culture
+LB00520,Fungus culture(호흡기)(Pleural fluid),3015592,Fungus identified in Body fluid by Culture
+LB00521,Fungus culture(호흡기)(Sputum),3024212,Fungus identified in Bronchial specimen by Culture
+LB00522,Fungus culture(호흡기)(Throat Swab),3024212,Fungus identified in Bronchial specimen by Culture
+LB00523,Fungus culture(호흡기)(Tracheal aspirate),3000186,Fungus identified in Aspirate by Culture
+LB00524,Fungus Culture(C.S.F),3015592,Fungus identified in Body fluid by Culture
+LB00525,Fungus Culture(Eye Discharge),4165398,Mycology culture
+LB00526,Fungus Culture(Open pus),3035133,Fungus identified in Wound by Culture
+LB00527,Fungus Culture(Other(Please see message!)),3000494,Fungus identified in Unspecified specimen by Culture
+LB00528,Fungus Culture(Pleural fluid),3015592,Fungus identified in Body fluid by Culture
+LB00529,Fungus Culture(Sputum),3001355,Fungus identified in Sputum by Culture
+LB00530,GAMMA-GTP(Serum),3026910,Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma
+LB00531,glucola 50(50gm GTT)(GlucoseS FBS & PP1),4012477,Glucose tolerance test
+LB00532,"glucola 75(75gm GTT)(GlucodeS FBS & PP1, 2)",3032451,Glucose tolerance [interpretation] in Serum or Plasma Narrative--post 75 g glucose PO
+LB00533,Glucose (AC)(Fasticin blood glucose assay),3004501,Glucose [Mass/volume] in Serum or Plasma
+LB00534,Glucose(120mins)(Serum(120min)),4149519,Glucose measurement
+LB00535,Glucose(Amniotic Fluid),4149519,Glucose measurement
+LB00536,Glucose(Ascitic fluid(EDTA)),4131376,Ascitic fluid glucose measurement
+LB00537,Glucose(Ascitic fluid),4131376,Ascitic fluid glucose measurement
+LB00538,Glucose(Barobag count),4149519,Glucose measurement
+LB00539,Glucose(Bile juice),4149519,Glucose measurement
+LB00540,Glucose(Bronchial larvage),4149519,Glucose measurement
+LB00541,Glucose(C.S.F),4286945,"Glucose measurement, CSF"
+LB00542,Glucose(Catheter),4149519,Glucose measurement
+LB00543,Glucose(Close pus),4149519,Glucose measurement
+LB00544,Glucose(Dialysate),4149519,Glucose measurement
+LB00545,Glucose(Gastric juice),4149519,Glucose measurement
+LB00546,Glucose(Joint fluid (EDTA)),43055482,Glucose in serum - glucose in synovial fluid [Molar concentration difference]
+LB00547,Glucose(Joint fluid),43055482,Glucose in serum - glucose in synovial fluid [Molar concentration difference]
+LB00548,Glucose(Other(Please see message!)),4149519,Glucose measurement
+LB00549,Glucose(Pancreas cyst fluid),4149519,Glucose measurement
+LB00550,Glucose(Pericadial fluid),43055484,Glucose in serum - glucose in pericard fld [Molar concentration difference]
+LB00551,Glucose(Peritosol),4149519,Glucose measurement
+LB00552,Glucose(Pleural fluid(EDTA)),3003403,Glucose [Mass/volume] in Pleural fluid
+LB00553,Glucose(Pleural fluid),3003403,Glucose [Mass/volume] in Pleural fluid
+LB00554,Glucose(Serum),4149519,Glucose measurement
+LB00555,Glucose(Urine (24hr)),4149883,"Glucose measurement, urine"
+LB00556,Glucose(Urine (Random)),4149883,"Glucose measurement, urine"
+LB00557,Glucose(Whole blood (ABGA용)),4149519,Glucose measurement
+LB00558,Glycoalbumin(Serum),4018320,Glycated albumin measurement
+LB00559,Gram - Cocci,3023419,Bacteria identified in Sputum by Culture
+LB00560,Gram - Diplococci,3023419,Bacteria identified in Sputum by Culture
+LB00561,Gram + Cocci chain,3023419,Bacteria identified in Sputum by Culture
+LB00562,Gram + Cocci cluster,3023419,Bacteria identified in Sputum by Culture
+LB00563,Gram + Cocci pair,3023419,Bacteria identified in Sputum by Culture
+LB00564,Gram + Rods,3023419,Bacteria identified in Sputum by Culture
+LB00565,Gram -Rods,3023419,Bacteria identified in Sputum by Culture
+LB00566,Gram+cocci,3023419,Bacteria identified in Sputum by Culture
+LB00567,GRANULAR CAST,3011483,Granular casts [#/area] in Urine sediment by Microscopy low power field
+LB00568,Haptoglobin(Serum),40758582,Haptoglobin in Serum or Plasma
+LB00569,HAV-Ab(IgM)(Serum),3013327,Hepatitis A virus IgM Ab [Presence] in Serum
+LB00570,HAV-AB(Total)(Serum),3016650,Hepatitis A virus Ab [Presence] in Serum
+LB00571,Hb A1c(WB(EDTA)),3033145,Hemoglobin A1c measurement device panel
+LB00572,Hb(Barobag count),3000963,Hemoglobin
+LB00573,Hb(Product(CD34용)),3000963,Hemoglobin
+LB00574,Hb(Urine (Random)),3003344,Hemoglobin [Presence] in Urine
+LB00575,Hb(WB(EDTA)),2212643,Blood count; hemoglobin (Hgb)
+LB00576,HbA1C(Hb A1C assay),40758376,HBA1 gene.c.G223C [Presence] in Blood by Molecular genetics method
+LB00577,HBC Ab Total(Serum),3021879,Hepatitis B virus core Ab [Presence] in Serum
+LB00578,HBs Ab(Serum),4278658,Hepatitis B surface antibody measurement
+LB00579,HBs Ag (EIA)(Serum),4168615,Hepatitis B surface antigen measurement
+LB00580,HBsAb(Serum),3023421,Hepatitis B virus surface Ab [Units/volume] in Serum
+LB00581,HBsAg(Serum),40761553,Hepatitis B virus surface Ag [Units/volume] in Serum
+LB00582,HBV DNA(bDNA)(Serum(Blood Bank용 Tube)),3026949,Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe and signal amplification method
+LB00583,"HBV DNA(bDNA)(Serum(HCV, HBV PCR전용))",3026949,Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe and signal amplification method
+LB00584,HBV DNA(bDNA)(Serum),3045140,Hepatitis B virus DNA [Mass/volume] in Serum
+LB00585,HCO3,3006576,Bicarbonate [Moles/volume] in Blood
+LB00586,Hct(Barobag count),2212642,Blood count; hematocrit (Hct)
+LB00587,Hct(Product(CD34용)),4151358,Hematocrit determination
+LB00588,Hct(WB(EDTA)),2212642,Blood count; hematocrit (Hct)
+LB00589,HCV Ab (self)(Serum),3017143,Hepatitis C virus Ab [Presence] in Serum
+LB00590,HCV Ab(Serum),3017143,Hepatitis C virus Ab [Presence] in Serum
+LB00591,HCV genotype(Serum),3002653,Hepatitis C virus genotype [Identifier] in Serum or Plasma by Probe and target amplification method
+LB00592,"HCV RNA 정량검사(Serum(HCV, HBV PCR전용))",3021125,Hepatitis C virus RNA [Presence] in Serum or Plasma by Probe and target amplification method
+LB00593,HCV RNA 정량검사(Serum),3021125,Hepatitis C virus RNA [Presence] in Serum or Plasma by Probe and target amplification method
+LB00594,HCV RNA(RT-PCR)(Serum),3021125,Hepatitis C virus RNA [Presence] in Serum or Plasma by Probe and target amplification method
+LB00595,HCV-AB(Serum),3017143,Hepatitis C virus Ab [Presence] in Serum
+LB00596,HDL-Cholesterol(Ascitic fluid),4101713,High density lipoprotein cholesterol measurement
+LB00597,HDL-Cholesterol(Lipid study),3007070,Cholesterol in HDL [Mass/volume] in Serum or Plasma
+LB00598,HDL-Cholesterol(Pleural fluid),4101713,High density lipoprotein cholesterol measurement
+LB00599,HDL-Cholesterol(Serum),4101713,High density lipoprotein cholesterol measurement
+LB00600,helicobacter pylori ab IgG(Serum),3004806,Helicobacter pylori IgG Ab [Units/volume] in Serum
+LB00601,Hematocrit(Pepheral blood study),3009542,Hematocrit [Volume Fraction] of Blood
+LB00602,Hemoglobin(Pepheral blood study),3000963,Hemoglobin [Mass/volume] in Blood
+LB00603,Herpes IgG(C.S.F),4246844,Herpes simplex IgG level
+LB00604,Herpes IgG(Serum),4246844,Herpes simplex IgG level
+LB00605,Herpes IgM(C.S.F),4307158,Herpes simplex IgM level
+LB00606,Herpes IgM(Serum),3010761,Herpes simplex virus IgM Ab [Presence] in Serum
+LB00607,Heterophil Ab(Serum),3033533,Heterophile Ab [Presence] in Serum
+LB00608,HIV(AIDS) Ab(Serum),3011325,HIV 1+2 Ab [Presence] in Serum
+LB00609,Homocysteine(Serum),3037585,Homocysteine [Mass/volume] in Serum or Plasma
+LB00610,HPV Hybrid capture(Biopsy tissue),3047345,Human papilloma virus 31+33 DNA [Presence] in Tissue by Probe and signal amplification method
+LB00611,HPV Hybrid capture(Cervix(PCR전용)),3037410,Human papilloma virus 16+18+31+33+35+39+45+51+52+56+58+59+68 DNA [Presence] in Cervix by Probe and signal amplification method
+LB00612,hsCRP(Ascitic fluid),2212762,C-reactive protein; high sensitivity (hsCRP)
+LB00613,hsCRP(C.S.F),40762274,C reactive protein [Mass/volume] in Cerebral spinal fluid by High sensitivity method
+LB00614,hsCRP(Pleural fluid),2212762,C-reactive protein; high sensitivity (hsCRP)
+LB00615,hsCRP(Serum),3010156,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method
+LB00616,HSV type PCR(C.S.F),3008733,Herpes simplex virus DNA [Presence] in Cerebral spinal fluid by Probe and target amplification method
+LB00617,HSV type PCR(Cervix(PCR전용)),43534011,Herpes simplex virus DNA [Identifier] in Unspecified specimen by Probe and target amplification method
+LB00618,HSV type PCR(Other(Please see message!)),3007543,Herpes simplex virus DNA [Presence] in Unspecified specimen by Probe and target amplification method
+LB00619,HYALINE CAST,3022509,Hyaline casts [#/area] in Urine sediment by Microscopy low power field
+LB00620,Ig A(Serum),4135810,Immunoglobulin A measurement
+LB00621,IGF1(Insulin like growth facto(WB(EDTA)),3007922,Insulin-like growth factor-I [Mass/volume] in Blood
+LB00622,IgM(Serum),3034049,IgM in CSF/IgM in serum
+LB00623,Imm.cell,40758561,Immature cells [#/volume] in Blood
+LB00624,Immunofixation EP(IFE)(C.S.F),3019529,Immunofixation [interpretation] for Cerebral spinal fluid
+LB00625,Immunofixation EP(IFE)(Serum),3037756,Immunofixation [interpretation] for Serum or Plasma
+LB00626,Immunofixation EP(IFE)(Urine (24hr)),3047189,Immunofixation [interpretation] for 24 hour Urine
+LB00627,Immunofixation EP(IFE)(Urine (Random)),3053294,Immunofixation [interpretation] for Urine Narrative
+LB00628,In. Phosphorus(In. Phosphorus assay),3011904,Phosphate [Mass/volume] in Serum or Plasma
+LB00629,India ink preparation(C.S.F),3021641,Microscopic observation [Identifier] in Cerebral spinal fluid by India ink prep
+LB00630,India ink preparation(Sputum),4057705,India ink stain method
+LB00631,Indirect Bilirubin(Serum),3007242,Bilirubin.indirect [Moles/volume] in Serum or Plasma
+LB00632,Indirect Coomb s Test(Serum(Blood Bank용 Tube)),4055434,Indirect Coombs test
+LB00633,Indirect Coomb s Test(Serum),3029719,Indirect antiglobulin test.unspecified reagent [Presence] in Serum or Plasma
+LB00634,Influenza A.B Viral Antigen Test(현장검사)(Nasal Aspirate),4039357,Influenza virus A AND B antigen assay
+LB00635,Influenza A.B Viral Antigen Test(현장검사)(Nasal Swab(전용)),4039357,Influenza virus A AND B antigen assay
+LB00636,INR,3022217,INR in Platelet poor plasma by Coagulation assay
+LB00637,IONIZED CA(Serum),44789220,Ionized calcium measurement
+LB00638,IONIZED CA(Whole blood (ABGA용)),44789220,Ionized calcium measurement
+LB00639,Ionized Calcium(Electrolyte study),3027694,Calcium.ionized [Mass/volume] in Serum or Plasma
+LB00640,Iron special stain(Bone Marrow Biopsy),4236642,"Iron stain method, blood or bone marrow"
+LB00641,Iron(Serum),4178785,Iron measurement
+LB00642,Lactate Dehydrogenase(Lactate Dehydrogenase assay),40760775,Lactate dehydrogenase [Enzymatic activity/volume] in Semen
+LB00643,Lactic acid(전용),4213582,Lactic acid measurement
+LB00644,Lactic acid(C.S.F),4213582,Lactic acid measurement
+LB00645,Lactic acid(Serum),4213582,Lactic acid measurement
+LB00646,LDH Isoenzyme(Serum),4228212,Lactate dehydrogenase isoenzymes measurement
+LB00647,LDH(Amniotic Fluid),3016090,Lactate dehydrogenase [Enzymatic activity/volume] in Amniotic fluid
+LB00648,LDH(Ascitic fluid(EDTA)),4133768,Ascitic fluid lactate dehydrogenase measurement
+LB00649,LDH(Ascitic fluid),4133768,Ascitic fluid lactate dehydrogenase measurement
+LB00650,LDH(Barobag count),4012918,Lactate dehydrogenase measurement
+LB00651,LDH(Bile juice),4012918,Lactate dehydrogenase measurement
+LB00652,LDH(Bronchial larvage),4012918,Lactate dehydrogenase measurement
+LB00653,LDH(C.S.F),3038772,Lactate dehydrogenase 1/Lactate dehydrogenase.total in Cerebral spinal fluid by Electrophoresis
+LB00654,LDH(Close pus),4012918,Lactate dehydrogenase measurement
+LB00655,LDH(Gastric juice),3027132,Lactate dehydrogenase [Enzymatic activity/volume] in Gastric fluid
+LB00656,LDH(Joint fluid (EDTA)),4012918,Lactate dehydrogenase measurement
+LB00657,LDH(Joint fluid),4012918,Lactate dehydrogenase measurement
+LB00658,LDH(Other(Please see message!)),4012918,Lactate dehydrogenase measurement
+LB00659,LDH(Pancreas cyst fluid),4012918,Lactate dehydrogenase measurement
+LB00660,LDH(Pericadial fluid),4012918,Lactate dehydrogenase measurement
+LB00661,LDH(Peritosol),4012918,Lactate dehydrogenase measurement
+LB00662,LDH(Pleural fluid(EDTA)),3039092,Lactate dehydrogenase 1/Lactate dehydrogenase.total in Pleural fluid by Electrophoresis
+LB00663,LDH(Pleural fluid),3039092,Lactate dehydrogenase 1/Lactate dehydrogenase.total in Pleural fluid by Electrophoresis
+LB00664,LDH(Serum),3034022,Lactate dehydrogenase panel - Serum or Plasma
+LB00665,LDH(Urine (24hr)),3048491,Lactate dehydrogenase [Enzymatic activity/volume] in 24 hour Urine
+LB00666,LDH(Urine (Random)),3027193,Lactate dehydrogenase [Presence] in Urine
+LB00667,LDL-Cholesterol,3028437,Cholesterol in LDL [Mass/volume] in Serum or Plasma
+LB00668,LDL-Cholesterol(Serum),4041556,Serum LDL cholesterol measurement
+LB00669,Legionella Urinary Antigen(Rapid Test)(Urine (Random)),4007635,Legionella pneumophila antigen assay
+LB00670,Lipase(Pancreas cyst fluid),4248033,Lipase measurement
+LB00671,Lipase(Serum),3004905,Lipase [Enzymatic activity/volume] in Serum or Plasma
+LB00672,LUC,3010224,Large unstained cells/100 leukocytes in Blood
+LB00673,Lupus anticoagulant (confirmatory)(P(Sodium citrate)),3027184,Lupus anticoagulant [interpretation] in Platelet poor plasma
+LB00674,Lupus anticoagulant(screen)(P(Sodium citrate)),4192943,Lupus anticoagulant screening test
+LB00675,Lympho,3002030,Lymphocytes/100 leukocytes in Blood
+LB00676,Magnesium(Electrolyte study),3001420,Magnesium [Mass/volume] in Serum or Plasma
+LB00677,Magnesium(Serum),4243005,Magnesium measurement
+LB00678,Magnesium(Urine (24hr)),4261656,"Magnesium measurement, urine"
+LB00679,Magnesium(Urine (Random)),4261656,"Magnesium measurement, urine"
+LB00680,Major bcr/abl rearrangment(BM(EDTA)),42742560,"BCR/ABL1 (t(9;22)) (eg, chronic myelogenous leukemia) translocation analysis; major breakpoint, qualitative or quantitative"
+LB00681,Major bcr/abl rearrangment(BM(PCR용)),42742560,"BCR/ABL1 (t(9;22)) (eg, chronic myelogenous leukemia) translocation analysis; major breakpoint, qualitative or quantitative"
+LB00682,Major bcr/abl rearrangment(WB(EDTA)),42742560,"BCR/ABL1 (t(9;22)) (eg, chronic myelogenous leukemia) translocation analysis; major breakpoint, qualitative or quantitative"
+LB00683,Major bcr/abl rearrangment(Whole blood (ACD)),42742560,"BCR/ABL1 (t(9;22)) (eg, chronic myelogenous leukemia) translocation analysis; major breakpoint, qualitative or quantitative"
+LB00684,Malaria smear(WB(EDTA)),3045707,Microscopic observation [Identifier] in Blood by Malaria smear
+LB00685,MAST Allergy (Food)(검체다량 (MAST용)),4266629,"Allergen specific IgE antibody measurement, MAST type"
+LB00686,mast allergy test(검체다량 (MAST용)),4266629,"Allergen specific IgE antibody measurement, MAST type"
+LB00687,MCH,3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass]
+LB00688,MCHC,3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume]
+LB00689,MCV,3024731,Erythrocyte mean corpuscular volume [Entitic volume]
+LB00690,Metamyelo,3002179,Metamyelocytes/100 leukocytes in Blood
+LB00691,Metanephrine(Urine (24hr)),3013748,Metanephrine [Mass/volume] in 24 hour Urine
+LB00692,"MICRO CUL & SENSI(BLOOD,FLUID)(Amniotic Fluid)",4170475,Culture sensitivity
+LB00693,"MICRO CUL & SENSI(BLOOD,FLUID)(Ascitic fluid(EDTA))",4293873,"Fluid microscopy, culture and sensitivities"
+LB00694,"MICRO CUL & SENSI(BLOOD,FLUID)(Ascitic fluid)",4170475,Culture sensitivity
+LB00695,"MICRO CUL & SENSI(BLOOD,FLUID)(Bile juice)",4170475,Culture sensitivity
+LB00696,"MICRO CUL & SENSI(BLOOD,FLUID)(Bone Marrow Biopsy)",4170475,Culture sensitivity
+LB00697,"MICRO CUL & SENSI(BLOOD,FLUID)(C.S.F)",4170475,Culture sensitivity
+LB00698,"MICRO CUL & SENSI(BLOOD,FLUID)(Catheter)",4170475,Culture sensitivity
+LB00699,"MICRO CUL & SENSI(BLOOD,FLUID)(Joint fluid (EDTA))",4293873,"Fluid microscopy, culture and sensitivities"
+LB00700,"MICRO CUL & SENSI(BLOOD,FLUID)(Joint fluid)",4293873,"Fluid microscopy, culture and sensitivities"
+LB00701,"MICRO CUL & SENSI(BLOOD,FLUID)(Joint(Blood culture))",4170475,Culture sensitivity
+LB00702,"MICRO CUL & SENSI(BLOOD,FLUID)(Pericadial fluid)",4293873,"Fluid microscopy, culture and sensitivities"
+LB00703,"MICRO CUL & SENSI(BLOOD,FLUID)(Peritosol)",4170475,Culture sensitivity
+LB00704,"MICRO CUL & SENSI(BLOOD,FLUID)(Pleural fluid(EDTA))",4293873,"Fluid microscopy, culture and sensitivities"
+LB00705,"MICRO CUL & SENSI(BLOOD,FLUID)(Pleural fluid)",4170475,Culture sensitivity
+LB00706,"MICRO CUL & SENSI(BLOOD,FLUID)(Serum)",4170475,Culture sensitivity
+LB00707,"MICRO CUL & SENSI(BLOOD,FLUID)(WB (혈액 배양용기 2개))",4170475,Culture sensitivity
+LB00708,MICRO CUL & SENSI(DIGESTIVE)(Ascitic fluid),4170475,Culture sensitivity
+LB00709,MICRO CUL & SENSI(DIGESTIVE)(Bile juice),4170475,Culture sensitivity
+LB00710,MICRO CUL & SENSI(DIGESTIVE)(Gastric biopsy),4170475,Culture sensitivity
+LB00711,MICRO CUL & SENSI(DIGESTIVE)(Gastric juice),4170475,Culture sensitivity
+LB00712,MICRO CUL & SENSI(DIGESTIVE)(Other(Please see message!)),4170475,Culture sensitivity
+LB00713,MICRO CUL & SENSI(DIGESTIVE)(Rectal Swab),4170475,Culture sensitivity
+LB00714,MICRO CUL & SENSI(DIGESTIVE)(Stool),4170475,Culture sensitivity
+LB00715,MICRO CUL & SENSI(OTHER)(Abdominal abscess),4170475,Culture sensitivity
+LB00716,MICRO CUL & SENSI(OTHER)(Biopsy tissue),4170475,Culture sensitivity
+LB00717,MICRO CUL & SENSI(OTHER)(BM(Culture용)),4170475,Culture sensitivity
+LB00718,MICRO CUL & SENSI(OTHER)(Bone),4170475,Culture sensitivity
+LB00719,MICRO CUL & SENSI(OTHER)(Brain abscess),4170475,Culture sensitivity
+LB00720,MICRO CUL & SENSI(OTHER)(CAPD),4170475,Culture sensitivity
+LB00721,MICRO CUL & SENSI(OTHER)(Close pus),4170475,Culture sensitivity
+LB00722,MICRO CUL & SENSI(OTHER)(Conjunctiva),4170475,Culture sensitivity
+LB00723,MICRO CUL & SENSI(OTHER)(Cornea),4170475,Culture sensitivity
+LB00724,MICRO CUL & SENSI(OTHER)(Ear Discharge),4170475,Culture sensitivity
+LB00725,MICRO CUL & SENSI(OTHER)(Eye Discharge),4170475,Culture sensitivity
+LB00726,MICRO CUL & SENSI(OTHER)(IV Catheter Tip),4170475,Culture sensitivity
+LB00727,MICRO CUL & SENSI(OTHER)(Joint fluid),4170475,Culture sensitivity
+LB00728,MICRO CUL & SENSI(OTHER)(Liver abscess),4170475,Culture sensitivity
+LB00729,MICRO CUL & SENSI(OTHER)(Lung abscess),4170475,Culture sensitivity
+LB00730,MICRO CUL & SENSI(OTHER)(Lymph node),4170475,Culture sensitivity
+LB00731,MICRO CUL & SENSI(OTHER)(Open pus),4170475,Culture sensitivity
+LB00732,MICRO CUL & SENSI(OTHER)(Other(Please see message!)),4170475,Culture sensitivity
+LB00733,MICRO CUL & SENSI(OTHER)(Pelvis abscess),4170475,Culture sensitivity
+LB00734,MICRO CUL & SENSI(OTHER)(Pin),4170475,Culture sensitivity
+LB00735,MICRO CUL & SENSI(OTHER)(Rectal Swab),4170475,Culture sensitivity
+LB00736,MICRO CUL & SENSI(OTHER)(Stool),4170475,Culture sensitivity
+LB00737,MICRO CUL & SENSI(OTHER)(Suction Tip),4170475,Culture sensitivity
+LB00738,MICRO CUL & SENSI(RESPIRATORY)(Bronchial larvage),4170475,Culture sensitivity
+LB00739,MICRO CUL & SENSI(RESPIRATORY)(Ear Discharge),4170475,Culture sensitivity
+LB00740,MICRO CUL & SENSI(RESPIRATORY)(Eye Discharge),4170475,Culture sensitivity
+LB00741,MICRO CUL & SENSI(RESPIRATORY)(Nasal Aspirate),4170475,Culture sensitivity
+LB00742,MICRO CUL & SENSI(RESPIRATORY)(Sputum),4170475,Culture sensitivity
+LB00743,MICRO CUL & SENSI(RESPIRATORY)(Suction Tip),4170475,Culture sensitivity
+LB00744,MICRO CUL & SENSI(RESPIRATORY)(Throat Swab),4170475,Culture sensitivity
+LB00745,MICRO CUL & SENSI(RESPIRATORY)(Tracheal aspirate),4170475,Culture sensitivity
+LB00746,MICRO CUL & SENSI(URINARY)(Aseptic Urine (Cath)),4270027,"Urinary microscopy, culture and sensitivities"
+LB00747,MICRO CUL & SENSI(URINARY)(Aseptic Urine (Voided)),4270027,"Urinary microscopy, culture and sensitivities"
+LB00748,MICRO CUL & SENSI(URINARY)(Cervix),4170475,Culture sensitivity
+LB00749,MICRO CUL & SENSI(URINARY)(EPS),4170475,Culture sensitivity
+LB00750,MICRO CUL & SENSI(URINARY)(IUD),4170475,Culture sensitivity
+LB00751,MICRO CUL & SENSI(URINARY)(Urethral discharge),4170475,Culture sensitivity
+LB00752,MICRO CUL & SENSI(URINARY)(Urine (12hr)),4270027,"Urinary microscopy, culture and sensitivities"
+LB00753,MICRO CUL & SENSI(URINARY)(Vaginal Discharge),4268449,"Genital microscopy, culture and sensitivities"
+LB00754,MICRO ORGANISM SENSTIVITY TEST(균주),4032801,Antimicrobial susceptibility test
+LB00755,Microalbumin(Ratio)(Urine (12hr)),4150342,Urine microalbumin/creatinine ratio measurement
+LB00756,Microalbumin(Ratio)(Urine (24hr)),4150342,Urine microalbumin/creatinine ratio measurement
+LB00757,Microalbumin(Ratio)(Urine (Random)),4150342,Urine microalbumin/creatinine ratio measurement
+LB00758,MIX Cast,3042588,Mixed cellular casts [#/area] in Urine sediment by Microscopy low power field
+LB00759,Monocyte,3019069,Monocytes/100 leukocytes in Blood
+LB00760,MPV,3001123,Platelet mean volume [Entitic volume] in Blood
+LB00761,Mycoplasma Ab IgG(Serum),3046684,Mycoplasma pneumoniae IgG Ab [Presence] in Serum
+LB00762,Mycoplasma Ab IgM(Serum),4209265,Mycoplasma IgM measurement
+LB00763,Myelo,3017181,Myelocytes/100 leukocytes in Blood
+LB00764,Neutrophil,3018010,Neutrophils/100 leukocytes in Blood
+LB00765,nRBC,3034708,Nucleated erythrocytes/100 leukocytes [Ratio] in Blood
+LB00766,Nuclear matrix protein 22(전용),3029058,Nuclear matrix protein 22 [Presence] in Urine
+LB00767,O2CT,3044904,Oxygen content in Blood
+LB00768,O2SAT,3016502,Oxygen saturation in Arterial blood
+LB00769,Occult Blood(Occult Blood),3030153,Occult blood panel in Stool
+LB00770,Osmolality(Serum),3008295,Osmolality of Serum or Plasma
+LB00771,Osmolality(Urine (24hr)),3006147,Osmolality of 24 hour Urine
+LB00772,Osmolality(Urine (Random)),3026782,Osmolality of Urine
+LB00773,OTHER,40761542,Other elements in Urine sediment
+LB00774,P- ANCA + C- ANCA(Serum),4135820,Antineutrophil cytoplasmic antibody measurement
+LB00775,pCO2,3009609,"Carbon dioxide, total [Moles/volume] in Arterial blood"
+LB00776,PCT,3046279,Procalcitonin [Mass/volume] in Serum or Plasma
+LB00777,PDW,3039417,Platelet distribution width [Ratio] in Blood
+LB00778,PH,3010421,pH of Blood
+LB00779,Phenobarbital(Serum),3025411,Phenobarbital serum/plasma
+LB00780,Phenobarbital(Urine (Random)),3025958,Phenobarbital [Presence] in Urine
+LB00781,Phenytoin(Dilantin)(Serum),3021595,Phenytoin [Presence] in Serum or Plasma
+LB00782,Phenytoin(Dilantin)(Urine (Random)),3003586,Phenytoin [Presence] in Urine
+LB00783,Phosphorous(Catheter),3003458,Phosphate [Moles/volume] in Serum or Plasma
+LB00784,Phosphorous(Serum),3003458,Phosphate [Moles/volume] in Serum or Plasma
+LB00785,Phosphorous(Urine (24hr)),3036691,Phosphate [Mass/volume] in unspecified time Urine
+LB00786,Phosphorous(Urine (Random)),3036691,Phosphate [Mass/volume] in unspecified time Urine
+LB00787,PIVKA-II(Quantitative)(Serum),3042131,Prothrombin time (PT) PIVKA sensitive actual/normal in Platelet poor plasma by Coagulation assay
+LB00788,Platelet Drug Response Assay(아스피린)(P(Sodium citrate)),4197648,Platelet function test
+LB00789,Platelet(Barobag count),3007461,Platelet count
+LB00790,Platelet(Pepheral blood study),3007461,Platelets [#/volume] in Blood
+LB00791,Platelet(Product(CD34용)),3007461,Platelet count
+LB00792,Platelet(WB(EDTA)),3007461,Platelet count
+LB00793,Pneumocystis jirovecoo(carinii) PCR(Bronchial larvage),3009595,Pneumocystis jiroveci DNA [Presence] in Unspecified specimen by Probe and target amplification method
+LB00794,Pneumocystis jirovecoo(carinii) PCR(Sputum),3009595,Pneumocystis jiroveci DNA [Presence] in Unspecified specimen by Probe and target amplification method
+LB00795,pO2,3017569,Oxygen content in Arterial blood
+LB00796,Potassium(C.S.F),4245152,Potassium measurement
+LB00797,Potassium(Catheter),4245152,Potassium measurement
+LB00798,Potassium(Electrolyte study),3023103,Potassium [Moles/volume] in Serum or Plasma
+LB00799,Potassium(Other(Please see message!)),4245152,Potassium measurement
+LB00800,Potassium(Peritosol),4245152,Potassium measurement
+LB00801,Potassium(Pleural fluid(EDTA)),4245152,Potassium measurement
+LB00802,Potassium(Serum),4245152,Potassium measurement
+LB00803,Potassium(Urine (24hr)),4173269,"Potassium measurement, urine"
+LB00804,Potassium(Urine (Random)),4173269,"Potassium measurement, urine"
+LB00805,Potassium(Whole blood (ABGA용)),4245152,Potassium measurement
+LB00806,Preg Test(비급여)(Urine (Random)),3016930,Pregnenolone [Mass/volume] in Urine
+LB00807,Pro-Brain Natriuretic Peptide(Serum),4246847,Serum pro-brain natriuretic peptide level
+LB00808,Procalcitonin정량(Serum),3046279,Procalcitonin [Mass/volume] in Serum or Plasma
+LB00809,Promyelo,3021440,Promyelocytes/100 leukocytes in Blood
+LB00810,Protein C activity(functional)(P(Sodium citrate)),44810875,Protein C activity
+LB00811,Protein Electrophoresis(C.S.F),4311951,Body fluid protein electrophoresis
+LB00812,Protein Electrophoresis(Pleural fluid),4311951,Body fluid protein electrophoresis
+LB00813,Protein Electrophoresis(Serum),4176702,Serum protein electrophoresis
+LB00814,Protein Electrophoresis(Urine (24hr)),4251338,Urine protein electrophoresis
+LB00815,Protein Electrophoresis(Urine (Random)),4251338,Urine protein electrophoresis
+LB00816,Protein S Ag(immunological)(P(Sodium citrate)),43054971,Protein S Ag [Units/volume] in Platelet poor plasma by Immunologic method
+LB00817,Protein-C Ag(Immunological)(P(Sodium citrate)),3036874,Protein C Ag [Units/volume] in Platelet poor plasma by Immunologic method
+LB00818,Protein-S(기능적)(P(Sodium citrate)),44807778,Protein S activity measurement
+LB00819,"Protozoa,cyst trophozoit(Stool)",3048173,Protozoa identified in Unspecified specimen
+LB00820,PT,3034426,Prothrombin time (PT) in Platelet poor plasma by Coagulation assay
+LB00821,Pt temp,3020891,Body temperature
+LB00822,PT(P(Sodium citrate)),4245261,Prothrombin time
+LB00823,RBC,3035124,Erythrocytes [#/area] in Urine sediment by Microscopy high power field
+LB00824,RBC Cast,3002587,RBC casts [#/area] in Urine sediment by Microscopy low power field
+LB00825,RBC COUNT(Barobag count),4030871,Red blood cell count
+LB00826,RBC COUNT(Product(CD34용)),4030871,Red blood cell count
+LB00827,RBC COUNT(WB(EDTA)),4030871,Red blood cell count
+LB00828,RBC(Pepheral blood study),3026361,Erythrocytes [#/volume] in Blood
+LB00829,RDW,3002385,Erythrocyte distribution width [Ratio]
+LB00830,Reticulocyte count(smear)(WB(EDTA)),40763528,Reticulocytes [#/volume] in Blood by Automated count
+LB00831,RF(정량)(RF assay),3021614,Rheumatoid factor [Units/volume] in Serum
+LB00832,r-GT(Liver function test),3026365,Gamma glutamyl transferase [Enzymatic activity/volume] in Semen
+LB00833,Rh Typing(Capillary blood),3003310,Rh [Type] in Blood
+LB00834,Rh Typing(Serum(Blood Bank용 Tube)),3003310,Rh [Type] in Blood
+LB00835,Rh Typing(Serum),3003310,Rh [Type] in Blood
+LB00836,Rh Typing(WB(EDTA)),3003310,Rh [Type] in Blood
+LB00837,Rh(D) Typing(Blood grouping),3003694,ABO and Rh group [Type] in Blood
+LB00838,Rheumatoid factor 정량(Serum),3043745,Rheumatoid factor [Presence] in Serum
+LB00839,Rubella IgG(Serum),3013750,Rubella virus IgG Ab [Presence] in Serum
+LB00840,Rubella IgM(Serum),3009308,Rubella virus IgM Ab [Presence] in Serum
+LB00841,RV(Respiratory virus)(전용),4201161,RSV antigen level
+LB00842,RV(Respiratory virus)(Bronchial larvage),4201161,RSV antigen level
+LB00843,RV(Respiratory virus)(Nasal Aspirate),3046856,Respiratory syncytial virus Ag [Presence] in Nose
+LB00844,RV(Respiratory virus)(Nasal Swab(전용)),4208080,Taking nasal swab
+LB00845,RV(Respiratory virus)(Sputum),4151422,Sputum examination
+LB00846,S-100(Serum),3051671,S100 calcium binding protein B [Mass/volume] in Serum
+LB00847,S-Aluminum(AAS법)(Serum(Blood Bank용 Tube)),3000578,Aluminum [Moles/volume] in Serum or Plasma
+LB00848,S-Aluminum(AAS법)(Serum),3000578,Aluminum [Moles/volume] in Serum or Plasma
+LB00849,S-Aluminum(AAS법)(WB(EDTA)),4164148,"Aluminum measurement, blood"
+LB00850,Segmenthil,3042527,Neutrophils.immature/100 leukocytes in Blood
+LB00851,Semen analysis(Semen),4040728,Semen analysis
+LB00852,SERUM KETONE TEST(Serum),3046325,Ketones [Mass/volume] in Serum or Plasma
+LB00853,SGOT(Serum),3013721,Aspartate aminotransferase serum/plasma
+LB00854,SGPT(Serum),3006923,Alanine aminotransferase serum/plasma
+LB00855,Sodium(C.S.F),2212573,Sodium level
+LB00856,Sodium(Catheter),2212573,Sodium level
+LB00857,Sodium(Dialysate),2212573,Sodium level
+LB00858,Sodium(Electrolyte study),3019550,Sodium [Moles/volume] in Serum or Plasma
+LB00859,Sodium(Other(Please see message!)),2212573,Sodium level
+LB00860,Sodium(Peritosol),2212573,Sodium level
+LB00861,Sodium(Pleural fluid(EDTA)),2212573,Sodium level
+LB00862,Sodium(Serum),4021154,"Sodium measurement, serum"
+LB00863,Sodium(Urine (24hr)),4020682,"Sodium measurement, urine"
+LB00864,Sodium(Urine (Random)),4020682,"Sodium measurement, urine"
+LB00865,Sodium(Whole blood (ABGA용)),2212573,Sodium level
+LB00866,SPINAL FLUID.ASCITES.PLEURAL(Amniotic Fluid),3037856,Volume of Amniotic fluid
+LB00867,SPINAL FLUID.ASCITES.PLEURAL(Ascitic fluid (Heparin)),4057620,Ascitic fluid chemistry test
+LB00868,SPINAL FLUID.ASCITES.PLEURAL(Ascitic fluid(EDTA)),4057620,Ascitic fluid chemistry test
+LB00869,SPINAL FLUID.ASCITES.PLEURAL(Ascitic fluid),4057620,Ascitic fluid chemistry test
+LB00870,SPINAL FLUID.ASCITES.PLEURAL(Bile juice),4014906,Bile measurement
+LB00871,SPINAL FLUID.ASCITES.PLEURAL(Bronchial larvage),4337734,Tracheobronchial lavage
+LB00872,SPINAL FLUID.ASCITES.PLEURAL(C.S.F),3012836,Volume of Cerebral spinal fluid
+LB00873,SPINAL FLUID.ASCITES.PLEURAL(Close pus),44788767,Pus cell identification
+LB00874,SPINAL FLUID.ASCITES.PLEURAL(Dialysate),4259563,Measurement of electrolytes in dialysate
+LB00875,SPINAL FLUID.ASCITES.PLEURAL(Gastric juice),3030770,Gastric analysis panel - Gastric fluid
+LB00876,SPINAL FLUID.ASCITES.PLEURAL(Joint fluid (EDTA)),2212466,Joint fluid diagnostic test
+LB00877,SPINAL FLUID.ASCITES.PLEURAL(Joint fluid),2212466,Joint fluid diagnostic test
+LB00878,SPINAL FLUID.ASCITES.PLEURAL(Open pus),44788767,Pus cell identification
+LB00879,SPINAL FLUID.ASCITES.PLEURAL(Other(Please see message!)),3008984,Volume of Body fluid
+LB00880,SPINAL FLUID.ASCITES.PLEURAL(Pancreas cyst fluid),4175490,Drainage of cyst of pancreas
+LB00881,SPINAL FLUID.ASCITES.PLEURAL(Pericadial fluid),3032662,Volume of Pericardial fluid
+LB00882,SPINAL FLUID.ASCITES.PLEURAL(Peritosol),3008984,Volume of Body fluid
+LB00883,SPINAL FLUID.ASCITES.PLEURAL(Pleural fluid (Heparin)),3030857,Volume of Pleural fluid
+LB00884,SPINAL FLUID.ASCITES.PLEURAL(Pleural fluid(EDTA)),3030857,Volume of Pleural fluid
+LB00885,SPINAL FLUID.ASCITES.PLEURAL(Pleural fluid),3030857,Volume of Pleural fluid
+LB00886,SPINAL FLUID.ASCITES.PLEURAL(Sputum),4133843,Body fluid analysis
+LB00887,Stool exam (특수 염색)(Stool),4306952,Fecal analysis
+LB00888,stool occult blood(latex)(Stool),3030153,Occult blood panel - Stool
+LB00889,Stool VRE(study)(Stool),3023601,Vancomycin resistant enterococcus [Presence] in Unspecified specimen by Organism specific culture
+LB00890,stool wbc ex.(Stool),3013199,Leukocytes [#/volume] in Stool
+LB00891,Streptococcus Pneumoniae Ag(정밀)(C.S.F),4045314,Streptococcus pneumoniae antigen assay
+LB00892,Streptococcus Pneumoniae Ag(정밀)(Urine (Random)),3011363,Streptococcus pneumoniae Ag [Presence] in Urine
+LB00893,T.Bilirubin(Bilirubin test),3024128,Bilirubin.total [Mass/volume] in Serum or Plasma
+LB00894,T.Cholesterol(Lipid study),3027114,Cholesterol [Mass/volume] in Serum or Plasma
+LB00895,T.CO2(Electrolyte study),3015632,"Carbon dioxide, total [Moles/volume] in Serum or Plasma"
+LB00896,T.G(Ascitic fluid),4032789,Triglycerides measurement
+LB00897,T.G(Bronchial larvage),4032789,Triglycerides measurement
+LB00898,T.G(Other(Please see message!)),4032789,Triglycerides measurement
+LB00899,T.G(Pericadial fluid),4032789,Triglycerides measurement
+LB00900,T.G(Pleural fluid),4032789,Triglycerides measurement
+LB00901,T.G(Serum),4032789,Triglycerides measurement
+LB00902,T.Protein(T.Protein assay),3020630,Protein [Mass/volume] in Serum or Plasma
+LB00903,TA-4(Serum),4229768,Tumor antigen measurement
+LB00904,Tacrolimus Assay(WB(EDTA)),3026250,Tacrolimus [Mass/volume] in Blood
+LB00905,TB PCR-Hybridization(FD)(Ascitic fluid),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
+LB00906,TB PCR-Hybridization(FD)(Aseptic Urine (Voided)),3026478,Mycobacterium tuberculosis DNA [Presence] in Urine by Probe and target amplification method
+LB00907,TB PCR-Hybridization(FD)(Biopsy tissue),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
+LB00908,TB PCR-Hybridization(FD)(BM(PCR용)),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
+LB00909,TB PCR-Hybridization(FD)(Bronchial larvage),3028048,Mycobacterium tuberculosis DNA [Presence] in Bronchial specimen by Probe and target amplification method
+LB00910,TB PCR-Hybridization(FD)(C.S.F),3027858,Mycobacterium tuberculosis DNA [Presence] in Cerebral spinal fluid by Probe and target amplification method
+LB00911,TB PCR-Hybridization(FD)(Close pus),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
+LB00912,TB PCR-Hybridization(FD)(Gastric juice),3024296,Mycobacterium tuberculosis DNA [Presence] in Gastric fluid by Probe and target amplification method
+LB00913,TB PCR-Hybridization(FD)(Joint fluid),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
+LB00914,TB PCR-Hybridization(FD)(Lymph node),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
+LB00915,TB PCR-Hybridization(FD)(Open pus),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
+LB00916,TB PCR-Hybridization(FD)(Other(Please see message!)),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
+LB00917,TB PCR-Hybridization(FD)(Pericadial fluid),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
+LB00918,TB PCR-Hybridization(FD)(Pleural fluid),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
+LB00919,TB PCR-Hybridization(FD)(Sputum),3027813,Mycobacterium tuberculosis DNA [Presence] in Sputum by Probe and target amplification method
+LB00920,TB PCR-Hybridization(FD)(Stool),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
+LB00921,TB PCR-Hybridization(FD)(Tracheal aspirate),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
+LB00922,TB PCR-Hybridization(FD)(WB(EDTA)),3015081,Mycobacterium tuberculosis DNA [Presence] in Blood by Probe and target amplification method
+LB00923,Testosteron(Serum),4156642,Serum testosterone measurement
+LB00924,Theophyline(Serum),3016072,Theophylline [Mass/volume] in Serum or Plasma
+LB00925,Theophyline(Urine (Random)),3017390,Theophylline [Mass/volume] in Urine
+LB00926,Thrombin time(P(Sodium citrate)),3036489,Thrombin time in Platelet poor plasma by Coagulation assay
+LB00927,Total bilirubin(Capillary blood),4230543,"Bilirubin, total measurement"
+LB00928,Total bilirubin(Gastric juice),4230543,"Bilirubin, total measurement"
+LB00929,Total bilirubin(Serum),3024128,Total Bilirubin serum/plasma
+LB00930,TOTAL CALCIUM(Catheter),2212241,Calcium level
+LB00931,TOTAL CALCIUM(Serum),2212241,Calcium level
+LB00932,TOTAL CALCIUM(Urine (24hr)),2212241,Calcium level
+LB00933,TOTAL CALCIUM(Urine (Random)),2212241,Calcium level
+LB00934,Total CO2 Content(Serum),40761031,"Carbon dioxide, total [Moles/volume] in Serum or Plasma by calculation"
+LB00935,Total IgE(UniCap)(Serum),44788645,Total immunoglobulin E level
+LB00936,TOTAL IRON BINDING CAPACITY(Serum),4150334,Serum TIBC measurement
+LB00937,TOTAL PROTEIN(Amniotic Fluid),4119650,Total protein measurement
+LB00938,TOTAL PROTEIN(Ascitic fluid(EDTA)),42868739,Protein in peritoneal fluid/Protein in serum
+LB00939,TOTAL PROTEIN(Ascitic fluid),42868739,Protein in peritoneal fluid/Protein in serum
+LB00940,TOTAL PROTEIN(Bile juice),4119650,Total protein measurement
+LB00941,TOTAL PROTEIN(Bronchial larvage),4119650,Total protein measurement
+LB00942,TOTAL PROTEIN(C.S.F),3010719,Protein in CSF/Protein in serum
+LB00943,TOTAL PROTEIN(Catheter),4119650,Total protein measurement
+LB00944,TOTAL PROTEIN(Close pus),4119650,Total protein measurement
+LB00945,TOTAL PROTEIN(Dialysate),4119650,Total protein measurement
+LB00946,TOTAL PROTEIN(Gastric juice),4119650,Total protein measurement
+LB00947,TOTAL PROTEIN(Joint fluid (EDTA)),4119650,Total protein measurement
+LB00948,TOTAL PROTEIN(Joint fluid),4119650,Total protein measurement
+LB00949,TOTAL PROTEIN(Other(Please see message!)),4119650,Total protein measurement
+LB00950,TOTAL PROTEIN(Pancreas cyst fluid),4119650,Total protein measurement
+LB00951,TOTAL PROTEIN(Pericadial fluid),42868737,Protein in pericardial fluid/Protein in serum
+LB00952,TOTAL PROTEIN(Peritosol),4119650,Total protein measurement
+LB00953,TOTAL PROTEIN(Pleural fluid(EDTA)),3033013,Protein in pleural fluid/Protein in serum
+LB00954,TOTAL PROTEIN(Pleural fluid),3033013,Protein in pleural fluid/Protein in serum
+LB00955,TOTAL PROTEIN(Serum),4152983,Serum total protein measurement
+LB00956,TOTAL PROTEIN(Urine (24hr)),4152995,Urine total protein measurement
+LB00957,TOTAL PROTEIN(Urine (Random)),4152995,Urine total protein measurement
+LB00958,Toxoplasma IgG(Serum),4198601,Toxoplasma IgG level
+LB00959,Toxoplasma IgM(Serum),4018588,Measurement of Toxoplasma species IgM antibody
+LB00960,TPHA(C.S.F),4151409,Treponema pallidum hemaglutination test
+LB00961,TPHA(Serum),4151409,Treponema pallidum hemaglutination test
+LB00962,Trematodes exam.(C.S.F),4306952,Fecal analysis
+LB00963,Trematodes exam.(Pleural fluid),4306952,Fecal analysis
+LB00964,Trematodes exam.(Serum),4306952,Fecal analysis
+LB00965,Trematodes exam.(Sputum),4306952,Fecal analysis
+LB00966,Trematodes exam.(Stool),4306952,Fecal analysis
+LB00967,Triage Cardiac Pannel(WB(EDTA)),4314723,Cardiac assessment
+LB00968,Triage S.O.B Pannel(WB(EDTA)),4023021,Triage
+LB00969,Triglyceride(Lipid study),3022192,Triglyceride [Mass/volume] in Serum or Plasma
+LB00970,Troponin I(Serum),4209251,Serum troponin I measurement
+LB00971,Turbidity,3035355,Turbidity [Presence] of Urine
+LB00972,U/A 10종(Urine (Random)),4055811,Urine examination
+LB00973,Uric acid(Catheter),4313992,Uric acid measurement
+LB00974,Uric acid(Joint fluid),4313992,Uric acid measurement
+LB00975,Uric acid(Serum),4076924,Serum uric acid measurement
+LB00976,Uric acid(Uric acid assay),3037556,Urate [Mass/volume] in Serum or Plasma
+LB00977,Uric acid(Urine (24hr)),3012870,Urate [Mass/volume] in 24 hour Urine
+LB00978,Uric acid(Urine (Random)),4084176,"Uric acid measurement, urine"
+LB00979,Urine Bilirubin(Routine urinalysis),3011258,Bilirubin.total [Presence] in Urine
+LB00980,Urine Blood(Routine urinalysis),3051227,Blood [Presence] in Urine by Visual
+LB00981,Urine Glucose(Routine urinalysis),3020650,Glucose [Presence] in Urine
+LB00982,Urine Ketone(Routine urinalysis),3028893,Ketones [Presence] in Urine
+LB00983,Urine Nitrite(Routine urinalysis),3006462,Nitrate [Presence] in Urine
+LB00984,Urine pH(Routine urinalysis),3015736,pH of Urine
+LB00985,Urine Protein(Routine urinalysis),3037185,Protein [Presence] in Urine
+LB00986,Urine Specific Gravity(Routine urinalysis),3033543,Specific gravity of Urine
+LB00987,urine stick(Urine (Random)),4294768,Ward urine dip stick testing
+LB00988,Urine Urobilinogen(Routine urinalysis),3007950,Urobilinogen [Mass/volume] in Urine
+LB00989,Urine WBC(Routine urinalysis),3045414,Leukocytes [Presence] in Urine
+LB00990,Valproic acid(Serum),3016201,Valproate serum/plasma
+LB00991,Valproic acid(Urine (Random)),3019923,Valproate [Mass/volume] in Urine
+LB00992,Varicella zoster IgG(C.S.F),3035300,Varicella zoster virus IgG Ab [Presence] in Cerebral spinal fluid
+LB00993,Varicella zoster IgG(Serum),3022386,Varicella zoster virus IgG Ab [Presence] in Serum
+LB00994,Varicella zoster IgM(C.S.F),3037241,Varicella zoster virus IgM Ab [Titer] in Cerebral spinal fluid
+LB00995,Varicella zoster IgM(Serum),3016065,Varicella zoster virus IgM Ab [Presence] in Serum
+LB00996,"VDRL Serum(정성)(Syphilis study, Serum)",3019428,Reagin Ab [Presence] in Serum by VDRL
+LB00997,VDRL(정량)(C.S.F),3002446,Reagin Ab [Presence] in Cerebral spinal fluid by VDRL
+LB00998,VDRL(정량)(Serum),3019428,Reagin Ab [Presence] in Serum by VDRL
+LB00999,VDRL(PRP)QUANTITATIVE CSF(C.S.F),3002446,Reagin Ab [Presence] in Cerebral spinal fluid by VDRL
+LB01000,VDRL(RPR) QUANTITATION(C.S.F),3002446,Reagin Ab [Presence] in Cerebral spinal fluid by VDRL
+LB01001,VDRL(RPR) QUANTITATION(Serum),3019428,Reagin Ab [Presence] in Serum by VDRL
+LB01002,Vitamin B1(Thiamine)(WB(EDTA)),2212586,Thiamine (Vitamin B-1)
+LB01003,VMA(정량)(Urine (24hr)),3002374,Vanillylmandelate [Mass/volume] in 24 hour Urine
+LB01004,WAXY CAST,3020851,Waxy casts [#/area] in Urine sediment by Microscopy low power field
+LB01005,WBC,3035583,Leukocytes [#/area] in Urine sediment by Microscopy high power field
+LB01006,WBC Cast,3002052,WBC casts [#/area] in Urine sediment by Microscopy low power field
+LB01007,WBC COUNT(Barobag count),4298431,White blood cell count
+LB01008,WBC COUNT(Product(CD34용)),4298431,White blood cell count
+LB01009,WBC COUNT(WB(EDTA)),4298431,White blood cell count
+LB01010,Wbc differential count(blood)(Barobag count),2212637,Blood count; automated differential WBC count
+LB01011,Wbc differential count(blood)(Product(CD34용)),4013251,Differential white blood cell count procedure
+LB01012,Wbc differential count(blood)(WB(EDTA)),2212637,Blood count; automated differential WBC count
+LB01013,WBC(Pepheral blood study),3010813,Leukocytes [#/volume] in Blood
+LB01014,Widal test(Serum),4013262,Widal test
+LB01015,Yeast like organism,3001355,Fungus identified in Sputum by Culture

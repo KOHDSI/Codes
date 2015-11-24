@@ -1,0 +1,942 @@
+mapping_num,description,omop_concept_id,omop_concept_name
+RD00001,(알레르기)면역치료료,4057262,Allergen immunotherapy
+RD00002,(Non Tunnel method)Intravenous Cath. for Hemodialysis,42872870,Insertion of nontunneled haemodialysis catheter
+RD00003,(Tunnel method)Intravenous Cath. for Hemodialysis,40482732,Insertion of tunneled venous catheter
+RD00004,갑상선기능검사-갑상선섭취율(Tc섭취율),3046356,Thyroid Scan and uptake W Tc-99m pertechnetate IV
+RD00005,경구 약물 유발검사I ,4091609,Oral provocation test
+RD00006,골밀도검사 (건강검진센터내),4195803,Bone density scan
+RD00007,관절내 주사 (Intra-articular Injection),4101113,Intra-articular injection
+RD00008,기관지가역성검사,4187457,Reversibility trial by bronchodilator
+RD00009,기관지과민증검사,4064734,Bronchial allergy challenge
+RD00010,당뇨병성 다발성 신경병증의 신체검사,4269024,Diabetic peripheral neuropathy screening
+RD00011,두부규격촬영,4059905,Cephalometric analysis
+RD00012,두위변환 안진검사(Dix-Halipike test),4138451,Dix-Hallpike manoeuvre
+RD00013,두위안진검사(Positional Test),2313711,Positional nystagmus test
+RD00014,문장완성검사,4232935,Incomplete sentence test
+RD00015,비뇨기과 초음파 B,4037672,Ultrasonography
+RD00016,비뇨기과 초음파 C,4037672,Ultrasonography
+RD00017,비뇨기과 초음파 D,4037672,Ultrasonography
+RD00018,산전 Quad Test(급여),4078287,Triple test
+RD00019,상부 수면내시경 검사,4294382,Esophagogastroduodenoscopy
+RD00020,상부 수면내시경 검사(수면유도료별도),4294382,Esophagogastroduodenoscopy
+RD00021,상부 수면내시경(ONE STOP),4294382,Esophagogastroduodenoscopy
+RD00022,성인 인지기능평가(PSY),2213558,"Psychiatric evaluation of hospital records, other psychiatric reports, psychometric and/or projective tests, and other accumulated data for medical diagnostic purposes"
+RD00023,성인종합심리평가(PSY),2007690,Psychologic evaluation and testing
+RD00024,수면 Colonoscopy,2002703,Colonoscopy
+RD00025,수면 Colonoscopy(수면유도료별도),2002703,Colonoscopy
+RD00026,수면 ERCP,2003203,Endoscopic retrograde cholangiopancreatography [ERCP]
+RD00027,수면 UGI Endoscopic Polypectomy A,4217766,Resection of polyp
+RD00028,시신경유두입체 연속촬영(양측),4071170,"Ocular photography for medical evaluation and documentation, stereophotography"
+RD00029,신경과 인지기능검사2,4012466,"Assessment and interpretation of higher cerebral function, cognitive testing"
+RD00030,신경심리검사3,4145254,Neuropsychological testing
+RD00031,심전도-건강증진센터(4층),4187078,Electrocardiographic monitoring
+RD00032,심전도검사,4187078,Electrocardiographic monitoring
+RD00033,아동종합심리평가(PSY),2007690,Psychologic evaluation and testing
+RD00034,알레르기 피부단자시험(80종),4242723,Prick test
+RD00035,운동부하검사(센터내),3024337,Exercise stress test study
+RD00036,유소아 청력검사,4203113,Child referral for audiometry
+RD00037,자발및주시안진(VNG),2313710,"Spontaneous nystagmus, including gaze"
+RD00038,"잔기량 및 용적가스 측정, 헬륨가스사용",3024313,Residual volume by Helium single breath
+RD00039,장중첩증 비관혈적정복술,4219629,Reduction of intussusception of intestine
+RD00040,진단목적의  편측 관상동맥조영술50%,4142645,Coronary angiography
+RD00041,척추후근신경절(DRG) Block,4335033,Dorsal root ganglion block
+RD00042,청력2차(특검)-건강증진센터(4층),2007867,Audiometry
+RD00043,체지방 분석,4339310,Feed analysis for fat
+RD00044,코내시경,4105083,Endoscopy of nose
+RD00045,토르소(이마-상대퇴) PET,4305790,PET - Positron emission tomography
+RD00046,통증크리닉설문지,4079638,Refer to pain clinic
+RD00047,"특수뇌파검사(약물,Nasopharyngeal)",4181917,EEG - Electroencephalography
+RD00048,파노라마,2006653,Other dental x-ray
+RD00049,파노라마 일반,2006653,Other dental x-ray
+RD00050,파노라마 특수(TMJ),3005290,Temporomandibular joint X-ray
+RD00051,파미레이250주사액(이오파미돌)*100ml,19081224,Iopamidol
+RD00052,폐기능(특검)-건강증진센터(4층),4052083,Lung function tests
+RD00053,폐기능검사(운동유발 검사(Spirometry)),3038933,Pulmonary Function Tests
+RD00054,Abd. Erect,4145311,Erect abdominal X-ray
+RD00055,Abd. RT Lat.,3052075,Abdomen X-ray right lateral
+RD00056,Abd. Supine,4212044,Supine abdominal X-ray
+RD00057,Abd. Supine & Erect,4145311,Erect abdominal X-ray
+RD00057,Abd. Supine & Erect,4212044,Supine abdominal X-ray
+RD00058,ABDOMEN ERECT,3050797,Abdomen X-ray upright
+RD00059,ABDOMEN LAT,3052119,Abdomen X-ray lateral
+RD00060,ABDOMEN SUPINE,4212044,Supine abdominal X-ray
+RD00061,ABDOMEN SUPINE AND ERECT,3002880,Abdomen X-ray AP (supine and upright)
+RD00062,ABDOMEN USG,3014650,Abdomen US
+RD00063,ABI Doppler Test,4152022,Doppler
+RD00064,Acoustic Rhinomanometry(알레르기),4091870,Rhinomanometry
+RD00065,Aided Speech Audiometry,4091138,Speech audiometry
+RD00066,AKBR,4097313,"Ketone bodies measurement, quantitative"
+RD00067,"Allergy Test, 단자 또는 소피시험",4242723,Prick test
+RD00068,"Allergy Test, 단자시험 50종",4092969,In vivo test of hypersensitivity
+RD00069,Alternate Caloric Test,4282906,Caloric vestibular test
+RD00070,Ambulatory BP Monitoring,2313967,"Ambulatory blood pressure monitoring, utilizing a system such as magnetic tape and/or computer disk, for 24 hours or longer; including recording, scanning analysis, interpretation and report"
+RD00071,ANTI TMS,4130731,Transcranial magnetic stimulation
+RD00072,ANTI-DS-DNA,4339109,Antibody to double stranded DNA measurement
+RD00073,Anti-Thyroglobulin Ab,4065904,Thyroglobulin antibody measurement
+RD00074,Apicogram(1),2006700,Other chest x-ray
+RD00075,Apicography,4163872,Plain chest X-ray
+RD00076,Arteriovenous Shuntogram(영상의학과),4031211,Angiography of arteriovenous shunt
+RD00077,A-SCAN(안과),4014084,A scan ultrasound
+RD00078,"Automatic perimetry,Unilateral",4016391,Perimetry
+RD00079,Autonomic Function Test,4099532,Autonomic function studies
+RD00080,Ba.Enema,4140708,Lower gastrointestinal series
+RD00081,BAEP(NEUR),4154583,Auditory evoked potentials monitoring
+RD00082,Biofeedback,4151220,Biofeedback procedure
+RD00083,Blink Reflex,4260952,Orbicularis oculi reflex test
+RD00084,Bone Age  <    10세,4098940,Skeletal maturity survey
+RD00085,Bone Age  >    10세,4098940,Skeletal maturity survey
+RD00086,"Bone Densitometry, Pediatric",4195803,Bone density scan
+RD00087,"Bone Densitometry, Spine",4195803,Bone density scan
+RD00088,"Bone Densitometry, Spine and Femur",4195803,Bone density scan
+RD00089,"Bone Densitometry, Total Body",4195803,Bone density scan
+RD00090,Bone Scan,2007462,Bone scan
+RD00091,Bone Scan(Inflammation),3016766,Bone Scan
+RD00092,Bone Scan(Trauma or Tumor),3016766,Bone Scan
+RD00093,Bone SPECT,3019997,Bones SPECT
+RD00094,Both Acromioclavicular View,3007266,Acromioclavicular Joint X-ray
+RD00095,BOTH ANKLE AP,3047457,Ankle X-ray AP single view
+RD00096,BOTH ANKLE AP & LAT & MORTISE VIEW,3051775,Ankle - bilateral X-ray AP and lateral and Mortise
+RD00097,Both Ankle AP & Lat.,3009096,Ankle X-ray AP and lateral
+RD00098,BOTH ANKLE AP AND LAT,3052800,Ankle - bilateral X-ray AP and lateral
+RD00099,Both ankle AP/Lat/Mortise,3051775,Ankle - bilateral X-ray AP and lateral and Mortise
+RD00100,Both Ankle Extern Obl,3003770,Ankle - bilateral X-ray
+RD00101,Both Ankle Intern Obl,3003770,Ankle - bilateral X-ray
+RD00102,BOTH ANKLE LAT,3050541,Ankle X-ray lateral
+RD00103,BOTH ANKLE MORTISE VIEW,3048975,Ankle X-ray Mortise
+RD00104,BOTH CALCANEAL AXIAL VIEW,3022248,Calcaneus - bilateral X-ray
+RD00105,Both Calcaneus Routine,3022248,Calcaneus - bilateral X-ray
+RD00106,BOTH CLAVICLE AP,3050799,Clavicle X-ray AP single view
+RD00107,Both Clavicle Cephalic Tilt 40',4058899,Clavicle X-ray
+RD00108,BOTH CLAVICLE CEPHALIC TILTING,3048328,Clavicle - bilateral X-ray 45 degree cephalic angle
+RD00109,BOTH CLVICLE OBLIQUE,3019400,Clavicle - bilateral X-ray
+RD00110,Both Coronary Angiography,4219097,"Angiography of coronary arteries, bilateral"
+RD00111,Both Coronary Angiography(외래),4219097,"Angiography of coronary arteries, bilateral"
+RD00112,BOTH ELBOW AP,3036197,Elbow - bilateral X-ray
+RD00113,Both Elbow AP & Lat.,3051840,Elbow - bilateral X-ray AP and lateral
+RD00114,BOTH ELBOW AP AND LAT,3051840,Elbow - bilateral X-ray AP and lateral
+RD00115,"BOTH ELBOW AP,LAT,BOTH OBL",3047361,Elbow - bilateral X-ray AP and lateral and oblique
+RD00116,BOTH ELBOW LAT,3018003,Elbow X-ray
+RD00117,BOTH FEMUR AP,3052764,Femur X-ray AP single view
+RD00118,Both Femur AP & Lat.,3047645,Femur X-ray AP and lateral
+RD00119,BOTH FEMUR LAT,3048097,Femur X-ray lateral
+RD00120,Both Foot AP,3050473,Foot X-ray AP single view
+RD00121,Both Foot AP & Obl.,3040723,Foot X-ray AP and oblique
+RD00122,BOTH FOOT AP AND LAT,3042304,Foot X-ray AP and lateral
+RD00123,BOTH FOOT AP AND LAT AND OBL,3053086,Knee - bilateral X-ray AP and lateral and oblique
+RD00124,Both foot AP/Obl/Lat,3049583,Foot - bilateral X-ray AP and lateral and oblique
+RD00125,BOTH FOOT LAT,3050466,Foot X-ray lateral standing
+RD00126,"Both Foot Lat (Wt Bearing, Standing)",3050466,Foot X-ray lateral standing
+RD00127,Both Foot Lat.,3016996,Foot - bilateral X-ray
+RD00128,Both Foot Obl.,3047572,Foot X-ray oblique single view
+RD00129,BOTH FOOT OBLIQUE,3047572,Foot X-ray oblique single view
+RD00130,BOTH FOREARM AP,3036760,Upper extremity - bilateral X-ray
+RD00131,Both Forearm AP & Lat.,4058907,Plain X-ray radius
+RD00132,BOTH FOREARM AP AND LAT,3036760,Upper extremity - bilateral X-ray
+RD00133,BOTH FOREARM LAT,3036760,Upper extremity - bilateral X-ray
+RD00134,BOTH HAND  OBLIQUE,3050251,Hand X-ray oblique single view
+RD00135,Both Hand AP,3025885,Hand X-ray
+RD00136,Both Hand AP & Obl.,40771578,Hand - bilateral X-ray AP and lateral and oblique
+RD00137,Both Hand AP/Obl/Lat,40771578,Hand - bilateral X-ray AP and lateral and oblique
+RD00138,BOTH HAND LAT,3048035,Hand - bilateral X-ray lateral
+RD00139,Both Hand Lat.,3050277,Hand X-ray lateral
+RD00140,BOTH HAND PA,3047515,Hand - bilateral X-ray PA
+RD00141,Both Hip AP & Both Axial,4081564,Plain X-ray ischium
+RD00142,Both Hip AP & Frog,4081564,Plain X-ray ischium
+RD00143,Both Hip AP & LT Axial,4081564,Plain X-ray ischium
+RD00144,Both Hip AP & RT Axial,4081564,Plain X-ray ischium
+RD00145,BOTH HIP AP (FROG LEG),3047811,Hip - bilateral X-ray AP and lateral frog
+RD00146,BOTH HIP AP (SUPINE),3048011,Hip X-ray AP single view
+RD00147,BOTH HIP AP AND LAT,3048388,Hip - bilateral X-ray AP and lateral
+RD00148,Both Hip AP in one Film,4081564,Plain X-ray ischium
+RD00149,"BOTH HIP AP(ABDUC,INT.ROT)",3016057,Hip X-ray
+RD00150,BOTH HIP AP/LT.TRANSLATERAL,3015656,Hip - bilateral X-ray
+RD00151,BOTH HIP AP/RT.TRANSLATERAL,3015656,Hip - bilateral X-ray
+RD00152,Both Hip Axial,4081564,Plain X-ray ischium
+RD00153,BOTH HIP TRANSLATERAL,3015656,Hip - bilateral X-ray
+RD00154,Both Humerus AP & Lat.,4056696,Plain X-ray shaft of humerus
+RD00155,BOTH HUMERUS AP AND LAT,3047558,Humerus - bilateral X-ray AP and lateral
+RD00156,Both Knee AP,3050278,Knee X-ray AP single view
+RD00157,Both Knee AP & Lat (Standing),3001798,Knee X-ray AP and lateral standing
+RD00158,Both Knee AP & Lat.,3051782,Knee X-ray AP and lateral
+RD00159,BOTH KNEE AP (STAND),3038164,Knee X-ray AP single view standing
+RD00160,BOTH KNEE AP (SUPINE),3047728,Knee - bilateral X-ray AP single view
+RD00161,"BOTH KNEE AP, LAT,SKYLINE VIEW",3047862,Knee - bilateral X-ray
+RD00162,"BOTH KNEE AP,PA(45),LAT,MERCHANT",3040136,Knee X-ray AP and lateral and Merchants
+RD00163,BOTH KNEE AP/LAT.,3052755,Knee - bilateral X-ray AP and lateral
+RD00164,BOTH KNEE DRAW VIEW (ANT),3018468,Knee X-ray
+RD00165,BOTH KNEE DRAW VIEW (POST),3047862,Knee - bilateral X-ray
+RD00166,BOTH KNEE LAT (30 FLEXION),3051855,Knee X-ray lateral
+RD00167,BOTH KNEE LAT (NEUTRAL),3048714,Knee - bilateral X-ray lateral
+RD00168,Both Knee Lat.,3051855,Knee X-ray lateral
+RD00169,BOTH KNEE MERCHANT VIEW,3015523,Knee - bilateral X-ray Merchants
+RD00170,BOTH KNEE PA(45 FLEXION),3052746,Knee X-ray PA W 45 degree flexion
+RD00171,BOTH KNEE SKYLINE VIEW,3018468,Knee X-ray
+RD00172,BOTH KNEE VALGUS STRESS VIEW,3052451,Knee - bilateral X-ray W manual stress
+RD00173,BOTH LOWER LEG AP,3047476,Lower extremity X-ray AP single view
+RD00174,BOTH LOWER LEG AP AND LAT,3052173,Lower extremity X-ray AP and lateral
+RD00175,BOTH LOWER LEG LAT,3020343,Lower extremity - bilateral X-ray
+RD00176,Both Patella Merchant View,3020726,Knee X-ray Merchants
+RD00177,BOTH SCAPULAR AP,3044543,Scapula X-ray AP single view
+RD00178,BOTH SCAPULAR LAT,3010346,Scapula - bilateral X-ray
+RD00179,Both Shoulder AP,3052740,Shoulder X-ray AP single view
+RD00180,Both Shoulder AP & Axial,3047552,Shoulder - bilateral X-ray AP and axillary
+RD00181,Both Shoulder AP & Lat.,3049302,Shoulder X-ray AP and lateral
+RD00182,"BOTH SHOULDER AP, LAT, AXIAL",3050554,Shoulder X-ray AP and lateral and axillary
+RD00183,BOTH SHOULDER AXIAL,3048148,Shoulder - bilateral X-ray axillary
+RD00184,BOTH SHOULDER LAT,3010427,Shoulder - bilateral X-ray
+RD00185,BOTH SHOULDER TRAUMA SERIES,3010427,Shoulder - bilateral X-ray
+RD00186,BOTH SUPRASPINATUS OUTLET,3048118,Shoulder - bilateral X-ray outlet
+RD00187,Both Tibia AP & Lat.,4081883,Tibia X-ray
+RD00188,BOTH VARUS STRESS VIEW,2211817,"Manual application of stress performed by physician for joint radiography, including contralateral joint if indicated"
+RD00189,BOTH WHOLE LOWER EXTREMITY,3020343,Lower extremity - bilateral X-ray
+RD00190,Both Wrist AP & Lat.,3018248,Wrist X-ray AP and lateral
+RD00191,BOTH WRIST LAT (NEUTRAL),3003848,Wrist - bilateral X-ray
+RD00192,Both Wrist Obl.,3052402,Wrist - bilateral X-ray oblique
+RD00193,BOTH WRIST PA (NEUTRAL),3052108,Wrist - bilateral X-ray PA
+RD00194,BOTH.CLAVICLE AP/OBL/CEPHALIC TILT,3019400,Clavicle - bilateral X-ray
+RD00195,BOTH.FEMUR AP/LAT,3048708,Femur - bilateral X-ray AP and lateral
+RD00196,BOTH.HAND AP/LAT/OBL,40771578,Hand - bilateral X-ray AP and lateral and oblique
+RD00197,BOTH.KNEE AP/LAT/BOTH OBL,3053086,Knee - bilateral X-ray AP and lateral and oblique
+RD00198,BOTH.WRIST AP/LAT/BILLIARD VIEW,3048608,Wrist X-ray AP and lateral and oblique
+RD00199,Brain  SPECT(Rest),3040861,Brain SPECT
+RD00200,BRAIN DIFFUSION MRI,3053115,Brain MRI diffusion weighted
+RD00201,BRAIN DIFFUSION MRI(보험),3053115,Brain MRI diffusion weighted
+RD00202,BRAIN DIFFUSION(보험),3053115,Brain MRI diffusion weighted
+RD00203,"BRAIN MRA(3D,Carotid포함),보험",4167390,MRI angiography of head
+RD00204,BRAIN MRI,3023655,Brain MRI
+RD00205,BRAIN MRI (보험),3023655,Brain MRI
+RD00206,BRAIN MRI + ANGIO.,4167390,MRI angiography of head
+RD00207,BRAIN MRI(보험),3023655,Brain MRI
+RD00208,BRAIN MRI(보험)+DIFFUSION,3053115,Brain MRI diffusion weighted
+RD00209,BRAIN MRI+MRA,4082979,Magnetic resonance imaging of head
+RD00209,BRAIN MRI+MRA,4167390,MRI angiography of head
+RD00210,"BRAIN MRI+MRA(3D,보험)",4082979,Magnetic resonance imaging of head
+RD00210,"BRAIN MRI+MRA(3D,보험)",4167390,MRI angiography of head
+RD00211,"BRAIN MRI+MRA(3D,Carotid포함)+Diffusion",3053115,Brain MRI diffusion weighted
+RD00211,"BRAIN MRI+MRA(3D,Carotid포함)+Diffusion",4167390,MRI angiography of head
+RD00212,BRAIN MRI+MRA(3D-보험)-CAROTID포함,4082979,Magnetic resonance imaging of head
+RD00212,BRAIN MRI+MRA(3D-보험)-CAROTID포함,4167390,MRI angiography of head
+RD00213,BRAIN MRI+MRA+DIFF(보험-3D-CA),3053115,Brain MRI diffusion weighted
+RD00213,BRAIN MRI+MRA+DIFF(보험-3D-CA),4167390,MRI angiography of head
+RD00214,BRAIN MRI+MRA+DIFFUSION,3053115,Brain MRI diffusion weighted
+RD00214,BRAIN MRI+MRA+DIFFUSION,4167390,MRI angiography of head
+RD00215,Brain SPECT (HMPAO),3040112,Brain SPECT W Tc-99m HMPAO IV
+RD00216,Brain SPECT(Diamox 1Day),3040861,Brain SPECT
+RD00217,Brain Stem Audiometry(역치측정),2007867,Audiometry
+RD00218,"Brain+MRA(보험,3D,Carotid포함)",4167390,MRI angiography of head
+RD00219,Breast Sonography,4264054,Ultrasonography of breast
+RD00220,Bronchoscopy with Biopsy,4206027,Bronchoscopy with biopsy
+RD00221,B-SCAN(안과),4287267,"Ophthalmic echography, contact B-scan"
+RD00222,BT Femoral Arterio.,4230681,Femoral angiography
+RD00223,BT Foot AP & Lat.,3050831,Foot - bilateral X-ray AP and lateral
+RD00224,BT Lower Extremity Doppler,4152022,Doppler
+RD00225,BT Upper Extrem. Veno.,4244397,Venography of upper extremity
+RD00226,C-ARM,4137372,Portable X-ray
+RD00227,Carotid Doppler,4214675,Carotid artery doppler assessment
+RD00228,Carotid IMT,2101644,Common carotid intima-media thickness (IMT) study for evaluation of atherosclerotic burden or coronary heart disease risk factor assessment
+RD00229,Carotid IMT(F/U),2101644,Common carotid intima-media thickness (IMT) study for evaluation of atherosclerotic burden or coronary heart disease risk factor assessment
+RD00230,CD(Carotid Doppler),4214675,Carotid artery doppler assessment
+RD00231,Celiac Arterio.,4186758,Coeliac arteriogram
+RD00232,Central Venous Catheter Insertion,4141149,Open insertion of central venous catheter
+RD00233,CERVICAL MRI,4082840,Magnetic resonance imaging of cervical spine
+RD00234,CERVICAL MRI(보험),3009302,Spine Cervical MRI
+RD00235,CHEST AP,3052492,Chest X-ray AP single view
+RD00236,Chest AP(PA),4163872,Plain chest X-ray
+RD00237,Chest AP(Portable),3010901,Chest X-ray AP portable
+RD00238,CHEST BOTH DECUBITUS,3024451,Chest X-ray AP lateral-decubitus
+RD00239,CHEST BOTH LAT,3041341,Chest X-ray lateral
+RD00240,Chest Both Lat.,4163872,Plain chest X-ray
+RD00241,CHEST LEFT DECUBITUS,3019004,Chest X-ray AP left lateral-decubitus
+RD00242,CHEST LEFT LAT,3026730,Chest X-ray left lateral
+RD00243,Chest LT Decubitus,4163872,Plain chest X-ray
+RD00244,Chest LT Lat.,4163872,Plain chest X-ray
+RD00245,CHEST PA,3002676,Chest X-ray PA upright
+RD00246,Chest PA & Both Decubitus,4163872,Plain chest X-ray
+RD00247,Chest PA & Both Lat.,4163872,Plain chest X-ray
+RD00248,Chest PA & LT Decubitus,4163872,Plain chest X-ray
+RD00249,Chest PA & LT Lat.,4163872,Plain chest X-ray
+RD00250,Chest PA & RT Decubitus,4163872,Plain chest X-ray
+RD00251,Chest PA & RT Lat.,4163872,Plain chest X-ray
+RD00252,CHEST PA AND CHEST BOTH LAT,3031526,Chest X-ray PA and lateral
+RD00253,CHEST PA AND CHEST LEFT LAT,3031526,Chest X-ray PA and lateral
+RD00254,CHEST PA AND CHEST RIGHT LAT,3049620,Chest X-ray PA and right lateral
+RD00255,CHEST RIGHT DECUBITUS,3045610,Chest X-ray AP right lateral-decubitus
+RD00256,CHEST RIGHT LAT,3041341,Chest X-ray lateral
+RD00257,Chest RT Decubitus,4163872,Plain chest X-ray
+RD00258,Chest RT Lat.,4163872,Plain chest X-ray
+RD00259,CHEST(1),3049950,Chest X-ray Single view
+RD00260,CHOLANGIOGRAPHY MRI,3047489,Biliary ducts MRI
+RD00261,"Chromosome analysis, BM",4229610,Chromosome analysis
+RD00262,"Chromosome Analysis,PB(High-Resolution)",2213277,Chromosome analysis; additional high resolution study
+RD00263,Clavicle AP,4081564,Plain X-ray ischium
+RD00264,Clavicle Lordotic,3038094,Clavicle X-ray
+RD00265,Co Diffusion Capacity,4265529,Carbon monoxide diffusing capacity measurement
+RD00266,Coccyx AP & Lat,3051529,Coccyx X-ray AP and lateral
+RD00267,COCCYX AP AND LAT,3051529,Coccyx X-ray AP and lateral
+RD00268,Cochlear Implant Mapping,40662117,COCHLEAR IMPLANT
+RD00269,COLON STUDY(BARIUM),4040563,Procedure on large intestine
+RD00270,Colonoscopic Biopsy,4170794,Endoscopic biopsy of colon
+RD00271,Colonoscopy(GIMD),2002703,Colonoscopy
+RD00272,Colposcopy,4189586,Colposcopy
+RD00273,Common carotid Angio,4169766,Fluoroscopic angiography of common carotid artery
+RD00274,Coronary angio,4142645,Coronary angiography
+RD00275,Coronary Angiography(심도자실),4142645,Coronary angiography
+RD00276,CR use (simple X-RAY)1매,4137372,Portable X-ray
+RD00277,C-Spine AP,3006205,Spine Cervical X-ray AP single view
+RD00278,C-SPINE AP & LAT  & BOTH OBL,3048141,Spine Cervical X-ray AP and lateral and oblique
+RD00279,C-Spine AP & Lat.,3010750,Spine Cervical X-ray AP and lateral
+RD00280,C-SPINE AP AND LAT (NEUTRAL),3010750,Spine Cervical X-ray AP and lateral
+RD00281,"C-SPINE AP&3LAT(NEUT,FLEX,EXT)",3047977,Spine Cervical X-ray lateral W flexion and W extension
+RD00282,"C-Spine AP,Lat & Flex,Ext.",3047977,Spine Cervical X-ray lateral W flexion and W extension
+RD00283,C-SPINE AP/LAT/FLEX/EXT/BOTH OBL,3048705,Spine Cervical X-ray AP and oblique and lateral W flexion and W extension
+RD00284,C-SPINE AP/LAT/FLEX/EXT/OPEN MOUSE,3006205,Spine Cervical X-ray AP single view
+RD00284,C-SPINE AP/LAT/FLEX/EXT/OPEN MOUSE,3047977,Spine Cervical X-ray lateral W flexion and W extension
+RD00285,C-SPINE AP/LAT/OPEN MOUTH,3010750,Spine Cervical X-ray AP and lateral
+RD00286,C-SPINE BENDING(BOTH),3008119,Spine X-ray W right bending and W left bending
+RD00287,C-SPINE BOTH OBL,3050236,Spine Cervical X-ray oblique
+RD00288,C-Spine Both Obl.,3050236,Spine Cervical X-ray oblique
+RD00289,C-Spine Flexion & Extension,3022886,Spine Cervical X-ray W flexion and W extension
+RD00290,C-SPINE LAT (EXTENSION),3049606,Spine Cervical X-ray lateral W extension
+RD00291,C-SPINE LAT (FLEXION & EXTENTION),3047977,Spine Cervical X-ray lateral W flexion and W extension
+RD00292,C-SPINE LAT (FLEXION),3047377,Spine Cervical X-ray lateral W flexion
+RD00293,C-SPINE LAT (NEUTRAL),3016246,Spine Cervical X-ray lateral
+RD00294,C-Spine Lat.,3016246,Spine Cervical X-ray lateral
+RD00295,C-SPINE MRI,4082840,Magnetic resonance imaging of cervical spine
+RD00296,C-Spine Open Mouth,3023423,Spine Cervical X-ray
+RD00297,C-Spine Series,3023423,Spine Cervical X-ray
+RD00298,"C-Spine Series & Flex,Ext.",4081564,Plain X-ray ischium
+RD00299,"C-T  Abdomen s,Others",4061009,Computed tomography of abdomen
+RD00300,C-T  Brain Angio & Perfusion c Contrast,3040731,Head CT perfusion W contrast IV
+RD00300,C-T  Brain Angio & Perfusion c Contrast,4305699,CT angiography of cerebral artery
+RD00301,C-T  Brain Angio c Contrast,4305699,CT angiography of cerebral artery
+RD00302,C-T  Brain Routin c Contrast,4145739,Computerized axial tomography of brain
+RD00303,C-T  Chest c Contrast,3013610,Chest CT W contrast IV
+RD00304,C-T  Chest s,4330934,Computed tomography of thorax and abdomen with contrast
+RD00305,C-T  Colonoscopy c Contrast,2002703,Colonoscopy
+RD00305,C-T  Colonoscopy c Contrast,3018383,Unspecified body region CT W contrast IV
+RD00306,C-T  Coronary Angio 3D c Contrast,4306317,CT angiography of coronary arteries
+RD00307,C-T  C-Spine,4086261,Computed tomography of cervical spine
+RD00308,C-T  C-Spine 3D s,4086261,Computed tomography of cervical spine
+RD00309,C-T  Facial,4324344,Computed tomography of head and neck
+RD00310,C-T  Facial c Cont,4330637,Computed tomography of face with contrast
+RD00311,C-T  Female Pelvis c Contrast,4124243,Computed tomography of female pelvic organs
+RD00312,C-T  Knee 3D s,4086259,Computed tomography of knee
+RD00313,C-T  L-Spine,4086263,Computed tomography of lumbar spine
+RD00314,C-T  L-Spine 3D s,4086263,Computed tomography of lumbar spine
+RD00315,"C-T  Lung, HR",4083126,High resolution computed tomography of lungs
+RD00316,C-T  Male Pelvis c Contrast,4125353,Computed tomography of male pelvic organs
+RD00317,C-T  Neck c Contrast ,40489427,Computed tomography of head and neck with contrast
+RD00318,C-T  OMU,4324344,Computed tomography of head and neck
+RD00319,C-T  Orbit,4085456,Computed tomography of orbits
+RD00320,C-T  Pelvis 3D s,4058336,Computed tomography of pelvis
+RD00321,C-T  Stomach c Contrast ,2211511,"Computerized axial tomography, abdomen; with contrast material(s)"
+RD00322,C-T  Temporal Bone,4324344,Computed tomography of head and neck
+RD00323,C-T Abd.Routine c Contrast ,2211511,"Computerized axial tomography, abdomen; with contrast material(s)"
+RD00324,C-T Abdomen & Pelvis 3D c Contrast,4335400,Computed tomography of abdomen and pelvis with contrast
+RD00325,C-T Abdomen 3D c Contrast,2211511,"Computerized axial tomography, abdomen; with contrast material(s)"
+RD00326,C-T Aortic Dissection c Contrast Dynamic,4145561,Aortic dissection protocol computed tomography
+RD00327,C-T Chest 3D c Contrast,4330934,Computed tomography of thorax and abdomen with contrast
+RD00328,C-T Chest c Contrast Dynamic,3013610,Chest CT W contrast IV
+RD00329,C-T Chest s (Low dose),4330934,Computed tomography of thorax and abdomen with contrast
+RD00330,C-T Kidney c Contrast Dynamic,4325043,Computed tomography of kidney with contrast
+RD00331,C-T L/E Angio 3D c Contrast,3018383,Unspecified body region CT W contrast IV
+RD00332,C-T Liver c Contrast Dynamic,4324347,Computed tomography of liver with contrast
+RD00333,C-T Orbit c Cont,4330929,Computed tomography of orbit with contrast
+RD00334,C-T Pancreas c Contrast Dynamic,4324448,Computed tomography of pancreas with contrast
+RD00335,C-T Pelvis c Contrast Dynamic,4058336,Computed tomography of pelvis
+RD00336,C-T Planning Chest,4058335,Chest CT
+RD00337,C-T Planning Chest c Contrast,3013610,Chest CT W contrast IV
+RD00338,C-T PNS c Cont,4330377,Computed tomography of paranasal sinuses with contrast
+RD00339,C-T Pulmonary Angio 3D c Contrast,3052462,Pulmonary artery CT angiogram W contrast IV
+RD00340,C-T Salivary c Contrast,3051476,Salivary gland CT W contrast intra salivary duct
+RD00341,C-T Stomach 3D c Contrast,2211511,"Computerized axial tomography, abdomen; with contrast material(s)"
+RD00342,C-T Stroke Brain Angio c Contrast,3049279,Head arteries CT angiogram W contrast IV
+RD00343,"Cystometry & Uroflowmetry, Urethral pressure(URO)",2007018,Cystometrogram
+RD00343,"Cystometry & Uroflowmetry, Urethral pressure(URO)",4071804,Urethral pressure measurement
+RD00343,"Cystometry & Uroflowmetry, Urethral pressure(URO)",4261340,Voiding flow rate test
+RD00344,Cystoscopy,4085429,Endoscopic examination of bladder
+RD00345,DEXA BONE DENSITOMETRY-1 SITE,4195803,Bone density scan
+RD00346,DEXA BONE DENSITOMETRY-2 SITE,4195803,Bone density scan
+RD00347,Digital Doppler Test Foot,4145975,Ultrasound scan of foot
+RD00348,Digital Panorama(급여),2006653,Other dental x-ray
+RD00349,"DITI, Cervical Region & Upper. ext",4231544,Thermography
+RD00350,"DITI, Cervical Region & Upper. ext(진단방사선)",4231544,Thermography
+RD00351,"DITI, Head & P.N.S",4271713,Cerebral thermography
+RD00352,"DITI, Lumbo Sacral & Lower. ext",2006953,Thermography of other sites
+RD00353,"DITI, Lumbo Sacral & Lower. ext(진단방사선)",2006953,Thermography of other sites
+RD00354,"DITI, Thorax & T-Spine",4231544,Thermography
+RD00355,DLCo (Co Diffusion Capacity),4265529,Carbon monoxide diffusing capacity measurement
+RD00356,D-L-SPINE AP (STAND),2006659,X-ray of spine
+RD00357,D-L-SPINE AP (SUPINE),2006659,X-ray of spine
+RD00358,D-L-SPINE LAT (NEUTRAL),2006659,X-ray of spine
+RD00359,DL-SPINE STAND AP/LAT/FLEX/EXT,2006659,X-ray of spine
+RD00360,D-L-SPINE STANDING LAT(NEUT),2006659,X-ray of spine
+RD00361,D-L-SPINE SUPINE AP AND LAT (NEUTRAL),2006659,X-ray of spine
+RD00362,DM education(1 Week),4263540,Diabetic patient education
+RD00363,DMSA Renal Scan(99mTc-DMSA),4118631,Tc99m-DMSA renal study
+RD00364,DPOAE,4091146,DPOAE - Distortion product oto-acoustic emission measurement
+RD00365,"DR MAMMOGRAPHY, BOTH",4324693,Mammography
+RD00366,"DRMammography ,Both",4324693,Mammography
+RD00367,"DRMammography ,Lt.",4264327,Unilateral mammography
+RD00368,"DRMammography ,Rt.",4264327,Unilateral mammography
+RD00369,Duodenoscopic Biopsy,4076855,Endoscopic biopsy of duodenum
+RD00370,E. R. C. P,4304943,Endoscopic retrograde cholangiopancreatography
+RD00371,"Echo Doppler Color (1,2 회)",4311293,Colour doppler ultrasound
+RD00372,Echo Doppler M-mode (3회부터),4090698,"Echography, M-mode"
+RD00373,Echocardiogram,4230911,US scan of heart
+RD00374,Echocardiogram (F/U),4230911,US scan of heart
+RD00375,Echocardiogram(f.u)(PED),4230911,US scan of heart
+RD00376,Echocardiogram(PED),4230911,US scan of heart
+RD00377,"Echocardiogram, Esophagus",4019824,TOE - Transoesophageal echocardiography
+RD00378,EGD(one stop),4294382,Esophagogastroduodenoscopy
+RD00379,"EKG, Rhythm Strip",2007076,Rhythm electrocardiogram
+RD00380,"EKG, Rhythm Strip<p>",2007076,Rhythm electrocardiogram
+RD00381,"EKG, Routin & Rhythm Strip",2007076,Rhythm electrocardiogram
+RD00382,"EKG, Routin & Rhythm Strip<p>",2007076,Rhythm electrocardiogram
+RD00383,"EKG, Routin<P>",4187078,Electrocardiographic monitoring
+RD00384,"EKG, Routine",4187078,Electrocardiographic monitoring
+RD00385,Electrocochleography,2000944,Electrocochleography
+RD00386,Electronystagmography(급속및추적안구),4246330,Electronystagmogram
+RD00387,"EMG and NCV,상지(편측)(RM)",2007526,Electromyography
+RD00387,"EMG and NCV,상지(편측)(RM)",4098783,Mixed nerve conduction study
+RD00388,"EMG and NCV,하지(편측)(RM)",2007526,Electromyography
+RD00388,"EMG and NCV,하지(편측)(RM)",4098783,Mixed nerve conduction study
+RD00389,"EMG, 경추 또는 요추(RM)",2007526,Electromyography
+RD00390,"EMG, 요추 또는 경추(RM)",2007526,Electromyography
+RD00391,Endoscopic Colonic Polypectomy A,4103380,Endoscopic polypectomy of large intestine
+RD00392,"Endoscopic Colonic Polypectomy,추가",4103380,Endoscopic polypectomy of large intestine
+RD00393,Endoscopic Ultrasonograpy(EUS),42872565,Endoscopic ultrasonography
+RD00394,Entire Femur AP & Lat,3047645,Femur X-ray AP and lateral
+RD00395,Epley Maneuver(ENT),4024696,Epley manoeuvre
+RD00396,ERCP,4304943,Endoscopic retrograde cholangiopancreatography
+RD00397,Esophagogastroduodenoscopy,4294382,Esophagogastroduodenoscopy
+RD00398,Esophagography,4059066,Barium swallow
+RD00399,ESOPHAGOGRAPHY(솔로탑),4059066,Barium swallow
+RD00400,Esophagoscopic Biopsy,4324694,Esophagoscopy for biopsy
+RD00401,ESTRIOL(E3),3026901,Estriol (E3) [Mass/volume] in Urine
+RD00402,Facial EMG and NCV(RM),2007526,Electromyography
+RD00402,Facial EMG and NCV(RM),4098783,Mixed nerve conduction study
+RD00403,Femoral Arterio.,4230681,Femoral angiography
+RD00404,Femoral Arteriography,4143501,Femoral arteriography
+RD00405,Ferguson View,4081564,Plain X-ray ischium
+RD00406,Fibroscan,40479203,Ultrasound elastography of liver
+RD00407,Fine needle aspiration biopsy,4171863,Fine needle biopsy
+RD00408,Fluoroscopy c Contrast(QGIF),4056681,Plain x-ray
+RD00409,Fluoroscopy s Contrast,4056681,Plain x-ray
+RD00410,Fontana Masson,4036040,Fontana-Masson silver stain method
+RD00411,Frog Position,3016808,Hip X-ray lateral frog
+RD00412,Fundus Fluorescein Angiography(Bilateral,4099539,Fluorescein angiography
+RD00413,Fundus Fluorescein Angiography(unilatera,4099539,Fluorescein angiography
+RD00414,Fundus photo(non-mydriatic),2007826,Fundus photography
+RD00415,Fundus photo(non-mydriatic)(양측),2007826,Fundus photography
+RD00416,Fundus Photography (Bilateral),2007826,Fundus photography
+RD00417,Gastroscopic Biopsy,4004241,Endoscopic biopsy of stomach
+RD00418,Glucose Tolerance Test(75g),2212358,Glucagon tolerance test
+RD00419,H. S. G,4059199,Hysterosalpingography
+RD00420,H.S.G,4167033,Fluoroscopic hysterosalpingography
+RD00421,HAV Ab(IgG/IgM),3039319,Hepatitis A virus IgG+IgM Ab [Presence] in Serum
+RD00422,HBV PCR,3030394,Hepatitis B virus DNA [#/volume] (viral load) in Unspecified specimen by Probe and target amplification method
+RD00423,HBV-DNA,3014700,Hepatitis B virus DNA [Units/volume] in Serum
+RD00424,Heart SestaMIBI SPECT(Stress+Rest),3042024,Heart SPECT at rest and W stress and W Tc-99m Sestamibi IV
+RD00425,Hepatic Arterio.,4044875,Arteriography
+RD00426,Holter Monitoring,3010479,Holter monitor study
+RD00427,HRA Angiography (단안),4099539,Fluorescein angiography
+RD00428,HRA Angiography (양안),4252039,Ophthalmic angiography
+RD00429,I. V. P,2006738,Intravenous pyelogram
+RD00430,I.V.P,2006738,Intravenous pyelogram
+RD00431,I-131 치료후 Scan,4346614,Radioactive iodine uptake
+RD00432,I-131 Uptake,4346614,Radioactive iodine uptake
+RD00433,I-131 Whole Body Scan,4346952,Whole body radioiodine I131 study
+RD00434,I-131 Whole Body scan(Admission),3038845,Scan whole body W I-131 MIBG IV
+RD00435,Immobilization Device(A),4145643,Procedures relating to splintage and immobilisation
+RD00436,Impedance Audiometry(Stapedial Reflex Test),4167674,Acoustic reflex testing
+RD00437,Impedance Audiometry(Tympanometry),2313735,Tympanometry (impedance testing)
+RD00438,Intravascular Ultrasono,2211640,"Intravascular ultrasound (non-coronary vessel), radiological supervision and interpretation; initial vessel"
+RD00439,K. U. B.,4057900,Plain X-ray abdomen
+RD00440,Kidney (DTPA GFR),4346613,Tc99m-DTPA clearance - GFR
+RD00441,KIDNEY AND BLADDER USG,40771921,Kidney Bilateral and Bladder US
+RD00442,KIDNEY ASPIRATION BIOPSY C U/S,3048848,US Guidance for aspiration of Kidney
+RD00443,Kidney Scan (DMSA),3037366,Kidney - bilateral and Collecting system Scan W Tc-99m DMSA IV
+RD00444,Kidney Scan (DTPA),3038582,Kidney - bilateral and Collecting system Scan W Tc-99m DTPA IV
+RD00445,Kidney Scan(MAG3),4298169,Kidney imaging with function study
+RD00446,Kidney(DTPA lasix),3038582,Kidney - bilateral and Collecting system Scan W Tc-99m DTPA IV
+RD00447,KUB,4135471,Radiography of kidney-ureter-bladder
+RD00448,LEFT ANKLE AP,3002680,Ankle - left X-ray
+RD00449,LEFT ANKLE AP & LAT & MORTISE VIEW,3052409,Ankle - left X-ray AP and lateral and Mortise
+RD00450,LEFT ANKLE LAT,3002680,Ankle - left X-ray
+RD00451,LEFT ANKLE MORTISE VIEW,3048975,Ankle X-ray Mortise
+RD00452,LEFT BILIARD VIEW,3047984,Wrist - left X-ray oblique
+RD00453,LEFT CALCANEAL AXIAL VIEW,3005224,Calcaneus - left X-ray
+RD00454,LEFT ELBOW AP,3002596,Elbow - left X-ray
+RD00455,LEFT ELBOW AP AND LAT,3052502,Elbow - left X-ray AP and lateral
+RD00456,"LEFT ELBOW AP,LAT, BOTH OBL",3047840,Elbow - left X-ray AP and lateral and oblique
+RD00457,LEFT ELBOW LAT,3002596,Elbow - left X-ray
+RD00458,LEFT FEMUR AP,3037181,Femur - left X-ray
+RD00459,LEFT FEMUR AP AND LAT,3049337,Femur - left X-ray AP and lateral
+RD00460,LEFT FEMUR LAT,3037181,Femur - left X-ray
+RD00461,LEFT FINGER AP AND LAT  ? th,3048953,Finger - left X-ray AP and lateral and oblique
+RD00462,LEFT FOOT AP,3050838,Foot - left X-ray AP standing
+RD00463,LEFT FOOT AP AND LAT AND OBL,3049313,Foot - left X-ray AP and lateral and oblique
+RD00464,LEFT FOOT LAT,3049886,Foot - left X-ray lateral
+RD00465,LEFT FOOT OBLIQUE,3017520,Foot - left X-ray
+RD00466,LEFT FOREARM AP,3023345,Upper extremity - left X-ray
+RD00467,LEFT FOREARM AP AND LAT,3023345,Upper extremity - left X-ray
+RD00468,"LEFT FOREARM AP,LAT,BOTH OBL",3023345,Upper extremity - left X-ray
+RD00469,LEFT FOREARM LAT,3023345,Upper extremity - left X-ray
+RD00470,LEFT HAND  OBLIQUE,3050251,Hand X-ray oblique single view
+RD00471,LEFT HAND LAT,3053041,Hand - left X-ray lateral
+RD00472,LEFT HAND PA,3047456,Hand - left X-ray PA
+RD00473,LEFT HAND PA AND OBLIQUE,3040614,Hand X-ray PA and oblique
+RD00474,LEFT HIP AP (SUPINE),3053130,Hip - left X-ray AP single view
+RD00475,LEFT HIP LAT,3049913,Hip - left X-ray lateral
+RD00476,LEFT HIP TRANSLATERAL,3048337,Hip - left X-ray tomograph
+RD00477,LEFT HUMERUS AP,3048688,Humerus - left X-ray
+RD00478,LEFT HUMERUS AP AND LAT,3048677,Humerus - left X-ray AP and lateral
+RD00479,LEFT HUMERUS LAT,3048688,Humerus - left X-ray
+RD00480,LEFT KNEE AP (STAND),3007347,Knee - left X-ray AP single view standing
+RD00481,LEFT KNEE AP (SUPINE),3051727,Knee - left X-ray AP single view
+RD00482,LEFT KNEE LAT (30 FLEXION),3052748,Knee - left X-ray lateral
+RD00483,LEFT KNEE LAT (NEUTRAL),3052748,Knee - left X-ray lateral
+RD00484,LEFT KNEE MRI,3037863,Knee - left MRI
+RD00485,LEFT KNEE SKYLINE VIEW,3051488,Knee - left X-ray
+RD00486,LEFT LOWER LEG AP,3052719,Lower extremity - left X-ray Single view
+RD00487,LEFT LOWER LEG AP AND LAT,3052173,Lower extremity X-ray AP and lateral
+RD00488,LEFT LOWER LEG BOTH OBLIQUE,3036029,Lower extremity - left X-ray
+RD00489,LEFT LOWER LEG LAT,3036029,Lower extremity - left X-ray
+RD00490,LEFT SCAPULAR AP,3028587,Scapula - left X-ray
+RD00491,LEFT SCAPULAR AP AND LAT,3052128,Scapula - left X-ray AP and lateral
+RD00492,LEFT SCAPULAR LAT,3028587,Scapula - left X-ray
+RD00493,LEFT SHOULDER AP,3047534,Shoulder - left X-ray AP single view
+RD00494,LEFT SHOULDER AXIAL,3052132,Shoulder - left X-ray axillary
+RD00495,LEFT SHOULDER LAT,3015926,Shoulder - left X-ray
+RD00496,LEFT SHOULDER MRI,3012573,Shoulder - left MRI
+RD00497,LEFT WRIST LAT (NEUTRAL),3047625,Wrist X-ray lateral
+RD00498,LEFT WRIST PA  AND LAT(NEUTRAL),3049342,Wrist - left X-ray PA and lateral
+RD00499,LEFT WRIST PA (NEUTRAL),3048120,Wrist X-ray PA
+RD00500,Leg Doppler(간이법),4152022,Doppler
+RD00501,LIVER ASPIRATION BIOPSY C U/S,4303252,US scan and biopsy of liver
+RD00502,LIVER MRI(보험)+Dynamic,3050260,Liver MRI
+RD00503,L-S Spine AP & Lat.,4118954,X-ray of lumbosacral spine
+RD00504,"L-S Spine AP & Lat. & Flex,Ext.",4118954,X-ray of lumbosacral spine
+RD00505,L-S Spine Both Obl.,4118954,X-ray of lumbosacral spine
+RD00506,L-S Spine Dynamic View,4118954,X-ray of lumbosacral spine
+RD00507,L-S Spine Lat.,4118954,X-ray of lumbosacral spine
+RD00508,L-S Spine Series,4118954,X-ray of lumbosacral spine
+RD00509,"L-S Spine Series & Flex,Ext.",4118954,X-ray of lumbosacral spine
+RD00510,L-Spine AP & Lat.,3038174,Spine Lumbar X-ray AP and lateral
+RD00511,L-SPINE BENDING(BOTH),3031977,Spine Lumbar X-ray W right bending and W left bending
+RD00512,L-Spine Both Obl.,3046204,Spine Lumbar X-ray oblique
+RD00513,L-Spine Ext. & Flex.,3033567,Spine Lumbar X-ray W flexion and W extension
+RD00514,L-Spine Lat.,3016011,Spine Lumbar X-ray lateral
+RD00515,L-SPINE MRI,3012445,Spine Lumbar MRI
+RD00516,L-Spine Series,3034396,Spine Lumbar X-ray
+RD00517,"L-Spine series & Flex,Ext.",3033567,Spine Lumbar X-ray W flexion and W extension
+RD00518,L-S-SPINE AP (STAND),4118954,X-ray of lumbosacral spine
+RD00519,L-S-SPINE AP (SUPINE),4118954,X-ray of lumbosacral spine
+RD00520,L-S-SPINE BOTH OBL,4118954,X-ray of lumbosacral spine
+RD00521,L-S-SPINE LAT (EXTENSION),4118954,X-ray of lumbosacral spine
+RD00522,L-S-SPINE LAT (FLEXION),4118954,X-ray of lumbosacral spine
+RD00523,L-S-SPINE LAT (NEUTRAL),4118954,X-ray of lumbosacral spine
+RD00524,"L-S-SPINE STAND AP,3LAT(NEUT,FLEX,EXT)",4118954,X-ray of lumbosacral spine
+RD00525,LS-SPINE STAND AP/LAT/FLEX/EXT/PELVIS AP,4118954,X-ray of lumbosacral spine
+RD00526,"L-S-SPINE STANDING AP, LAT (NEUTRAL)",3038394,Spine Lumbar X-ray AP and lateral standing
+RD00527,L-S-SPINE STANDING LAT(NEUT),4118954,X-ray of lumbosacral spine
+RD00528,"L-S-SPINE SUPINE AP,3LAT(NEUT,FLEX,EXT)",4118954,X-ray of lumbosacral spine
+RD00529,"L-S-SPINE SUPINE AP,LAT (NEUTRAL)",4118954,X-ray of lumbosacral spine
+RD00530,LS-SPINE SUPINE AP/LAT/FLEX/EXT/BOTH OBL,4118954,X-ray of lumbosacral spine
+RD00531,LS-SPINE SUPINE AP/LAT/FLEX/EXT/PELVIS AP,4118954,X-ray of lumbosacral spine
+RD00532,"L-S-SPINE SUPINE LAT (FLEX,EXT)",4118954,X-ray of lumbosacral spine
+RD00533,LT Ankle AP & Lat.,3051171,Ankle - left X-ray AP and lateral
+RD00534,LT ankle AP/Lat/Mortise,3052409,Ankle - left X-ray AP and lateral and Mortise
+RD00535,LT Ankle Extern Obl,3002680,Ankle - left X-ray
+RD00536,LT Ankle Intern Obl,3002680,Ankle - left X-ray
+RD00537,LT CLAVICLE CEPHALIC TILTING,3047646,Clavicle - left X-ray 45 degree cephalic angle
+RD00538,LT Elbow AP & Lat.,3052502,Elbow - left X-ray AP and lateral
+RD00539,LT Elbow both Obl.,3049910,Elbow - left X-ray oblique
+RD00540,LT Femur AP & Lat.,3049337,Femur - left X-ray AP and lateral
+RD00541,LT Finger AP & Lat.,4085289,Plain X-ray metacarpals
+RD00542,LT Foot AP,3017520,Foot - left X-ray
+RD00543,LT Foot AP & Lat.,3051522,Foot - left X-ray AP and lateral
+RD00544,LT foot AP/Obl/Lat,3049313,Foot - left X-ray AP and lateral and oblique
+RD00545,LT Foot Obl.,3047716,Foot - left X-ray oblique single view
+RD00546,LT Forearm AP & Lat.,4058907,Plain X-ray radius
+RD00547,LT Hand AP,3050256,Hand - left X-ray
+RD00548,LT Hand AP & Obl.,3051516,Hand - left X-ray AP and lateral and oblique
+RD00549,LT Hand AP/Obl/Lat,3051516,Hand - left X-ray AP and lateral and oblique
+RD00550,LT Hand Lat.,3053041,Hand - left X-ray lateral
+RD00551,LT Hip Axial,4081564,Plain X-ray ischium
+RD00552,LT Humerus AP & Lat.,4056696,Plain X-ray shaft of humerus
+RD00553,LT Knee AP & Lat & Merchant,3040136,Knee X-ray AP and lateral and Merchants
+RD00554,LT Knee AP & Lat (Standing),3006995,Knee - left X-ray AP and lateral standing
+RD00555,LT Knee AP & Lat.,3049263,Knee - left X-ray AP and lateral
+RD00556,"LT KNEE AP,LAT, SKYLINE VIEW",3051488,Knee - left X-ray
+RD00557,"LT KNEE AP,PA(45),LAT,MERCHANT",3040136,Knee X-ray AP and lateral and Merchants
+RD00558,LT KNEE MERCHANT VIEW,3016353,Knee - left X-ray Merchants
+RD00559,LT LOWER LEG AP/LAT/BOTH OBL,3036029,Lower extremity - left X-ray
+RD00560,LT Mammo. CC & MLO,4179075,Plain X-ray guided wire localization of breast lesion
+RD00561,LT Patella Merchant View,3016353,Knee - left X-ray Merchants
+RD00562,LT Scapula Out-Let View,3042034,Scapula X-ray lateral and outlet
+RD00563,LT Scapula Y View,3047498,Scapula - left X-ray Y
+RD00564,LT Shoulder AP,3047534,Shoulder - left X-ray AP single view
+RD00565,LT Shoulder AP & Lat.,3015926,Shoulder - left X-ray
+RD00566,LT Shoulder Axial,3052132,Shoulder - left X-ray axillary
+RD00567,LT SHOULDER TRAUMA SERIES,3015926,Shoulder - left X-ray
+RD00568,LT SUPRASPINATUS OUTLET,3047647,Shoulder - left X-ray outlet
+RD00569,LT Tibia AP & Lat.,4081883,Tibia X-ray
+RD00570,LT Wrist AP & Lat.,3047966,Wrist - left X-ray AP and lateral
+RD00571,LT Wrist Both Obl.,3047984,Wrist - left X-ray oblique
+RD00572,LT.FEMUR AP/LAT,3049337,Femur - left X-ray AP and lateral
+RD00573,LT.HAND AP/LAT/OBL,3051516,Hand - left X-ray AP and lateral and oblique
+RD00574,LT.KNEE AP/LAT.,3049263,Knee - left X-ray AP and lateral
+RD00575,LT.KNEE AP/LAT/BOTH OBL,3048637,Knee - left X-ray AP and lateral and oblique
+RD00576,LT.WRIST AP/LAT/BILLIARD VIEW,3048608,Wrist X-ray AP and lateral and oblique
+RD00577,LUMBAR MRI,3012445,Spine Lumbar MRI
+RD00578,LUMBAR MRI(보험),4082841,Magnetic resonance imaging of lumbar spine
+RD00579,Lung Biopsy,4303062,Biopsy of lung
+RD00580,Lymphangiography,4177386,Contrast radiology of lymphatic tissue
+RD00581,MAMMOGRAPHY,4324693,Mammography
+RD00582,Mammography Series,4324693,Mammography
+RD00583,MANDIBLE SERIES,3008740,Mandible X-ray
+RD00584,"Manometry, Anorectal, Colonic",2313627,Anorectal manometry
+RD00585,"Manometry, Esophageal, Standard",2007036,Esophageal manometry
+RD00586,Mastoid,4155446,Plain film of head
+RD00587,MASTOID VIEW,3009226,Mastoid X-ray
+RD00588,Metacholine challenge Test,4091113,Methacholine challenge
+RD00589,Miniprobe EUS,42872565,Endoscopic ultrasonography
+RD00590,"MR (Brain, MRA) c Cont.",4105925,MRI of brain
+RD00591,MR (Brain+per) c Contrast,4105925,MRI of brain
+RD00592,MR Ankle c Cont.,4335220,Magnetic resonance imaging of ankle with contrast
+RD00593,MR Brain c Cont.(F.U),4197203,Magnetic resonance imaging of head with contrast
+RD00594,MR Brain(Limi+MRA) c Cont.,4167390,MRI angiography of head
+RD00594,MR Brain(Limi+MRA) c Cont.,4197203,Magnetic resonance imaging of head with contrast
+RD00595,MR Brain(Limi+MRA) s,4167390,MRI angiography of head
+RD00596,MR Breast c Cont.,4305538,MRI of thoracolumbar spine
+RD00597,MR C-Spine c Cont.,4302503,MRI of cervicothoracic spine
+RD00598,MR C-Spine s ,4302503,MRI of cervicothoracic spine
+RD00599,MR Female Pelvis c Cont.,4161393,Magnetic resonance imaging of pelvis with contrast
+RD00600,MR Hip Joint c Cont.,4330514,Magnetic resonance imaging of hip with contrast
+RD00601,MR Inner ear s (Limi),4167390,MRI angiography of head
+RD00602,MR Knee c Cont.,4332928,Magnetic resonance imaging of knee with contrast
+RD00603,MR Knee s,4082716,Magnetic resonance imaging of knee
+RD00604,MR Liver c PrimoCont.,4329640,Magnetic resonance imaging of liver with contrast
+RD00605,MR L-Spine c Cont.,4305538,MRI of thoracolumbar spine
+RD00606,MR Sella c Cont.,4198767,Magnetic resonance imaging of pituitary fossa with contrast
+RD00607,MR Shoulder c Cont.,4201068,Magnetic resonance imaging of shoulder with contrast
+RD00608,MR T-L Spine c Cont.,4305538,MRI of thoracolumbar spine
+RD00609,MR T-Spine c Cont.,4305538,MRI of thoracolumbar spine
+RD00610,MR Whole Spine c Cont.,4329770,Magnetic resonance imaging of spine with contrast
+RD00611,MRCP(보험)+3D,4194588,Magnetic resonance cholangiopancreatography
+RD00612,MRI L-Spine c Contrast,4185945,Magnetic resonance imaging of lumbar spine with contrast
+RD00613,Myocardium 약물부하 SPECT (TL-201),3038400,Heart SPECT
+RD00614,Nasal Bone Routine,4056685,Plain X-ray facial sinuses
+RD00615,NASAL SERIES,3016350,Nasal bones X-ray
+RD00616,Nasopharyngoscopy,4307682,Nasopharyngoscopy
+RD00617,"NCV(Motor & Sensory N.) & EMG(상지,편측)(NEUR)",2007847,Electromyogram of eye [EMG]
+RD00617,"NCV(Motor & Sensory N.) & EMG(상지,편측)(NEUR)",4098783,Mixed nerve conduction study
+RD00618,"NCV(Motor & Sensory N.) & EMG(하지,편측)(NEUR)",2007526,Electromyography
+RD00618,"NCV(Motor & Sensory N.) & EMG(하지,편측)(NEUR)",4098783,Mixed nerve conduction study
+RD00619,"NCV,Motor & Sensory N.(상지,편측)(NEUR)",4098783,Mixed nerve conduction study
+RD00620,"NCV,Motor & Sensory N.(하지,편측)(NEUR)",4098783,Mixed nerve conduction study
+RD00621,NECK AP,3031125,Neck X-ray AP single view
+RD00622,Neck AP & Lat.,3034670,Neck X-ray AP and lateral
+RD00623,Neck AP/LT.LAT,3034670,Neck X-ray AP and lateral
+RD00624,Neck AP/RT LAT,3034670,Neck X-ray AP and lateral
+RD00625,NECK BOTH LAT,3006929,Neck X-ray lateral
+RD00626,Neck Lat.,3006929,Neck X-ray lateral
+RD00627,NECK RIGHT LAT,3006929,Neck X-ray lateral
+RD00628,Neck(Lymph node)Aspiration Biopsy c U/S,4331518,Aspiration using ultrasound guidance
+RD00629,Neck(Thyroid) Aspiration Biopsy c U/S,4106711,Fine needle biopsy of thyroid
+RD00630,Neonatal Screening 7종,4246502,Neonatal screening
+RD00631,"Neonatal TSH,Phenylalanine",4246502,Neonatal screening
+RD00632,NEONETAL SCREEN TEST(6종),4246502,Neonatal screening
+RD00633,NST,4308655,Nonstress test
+RD00634,"NST, Follow-up",4308655,Nonstress test
+RD00635,OBGY Simple U/S,4037672,Ultrasonography
+RD00636,OBGYN U/S A ,4037672,Ultrasonography
+RD00637,OBGYN U/S B,4037672,Ultrasonography
+RD00638,OBGYN U/S C,4037672,Ultrasonography
+RD00639,Occlusal radiography,4082223,Dental X-ray occlusal
+RD00640,ODONTOID PROCESS (OPEN MOUTH),4172858,Odontoid peg X-ray
+RD00641,OKN & OKAN Test,4252403,Optokinetic nystagmus test
+RD00642,OP.CHOLANGIOGRAPHY,4151838,Cholangiogram
+RD00643,Orbit PA,3049563,Orbit X-ray
+RD00644,Orbit Series,3049563,Orbit X-ray
+RD00645,Otoacoustic Emission Test(DP+TE),4091738,Oto-acoustic emission test
+RD00646,Overnight Polysomnography,3011940,Polysomnography (sleep) study
+RD00647,Oxymeter,4020553,Oxygen saturation measurement
+RD00648,P.C.D ,2003547,Percutaneous abdominal drainage
+RD00649,P.C.D(Abdomen),2003547,Percutaneous abdominal drainage
+RD00650,P.C.D(LUNG),4069213,Percutaneous drainage of liver
+RD00651,P.N.S SERIES,4309380,Radiography of nasal sinuses
+RD00652,P.T.A - AV Shunt,4184298,Percutaneous transluminal angioplasty
+RD00653,P-A Cephalogram,4065371,Cephalogram
+RD00654,Panorama(단순),2006653,Other dental x-ray
+RD00655,Patella Merchant View,3020726,Knee X-ray Merchants
+RD00656,PELVIS  AP & LAT & BOTH OBL,3052420,Pelvis X-ray AP and lateral and oblique
+RD00657,Pelvis AP,4081564,Plain X-ray ischium
+RD00658,Pelvis AP & Both Obl,3052754,Pelvis X-ray AP and oblique
+RD00659,Pelvis AP & Both Obl & In/Outlet,4081564,Plain X-ray ischium
+RD00660,PELVIS AP (STAND),3031214,Pelvis X-ray AP single view standing
+RD00661,PELVIS AP (SUPINE),3049253,Pelvis X-ray AP single view
+RD00662,Pelvis Both Obl.,4081564,Plain X-ray ischium
+RD00663,PELVIS BOTH OBLIQUE,3048054,Pelvis X-ray oblique
+RD00664,Pelvis Inlet & Outlet,4081564,Plain X-ray ischium
+RD00665,PELVIS INLET VIEW,3047441,Pelvis X-ray inlet
+RD00666,PELVIS LAT,3048644,Pelvis X-ray lateral
+RD00667,PELVIS MRI,3021689,Pelvis MRI
+RD00668,PELVIS OUTLET VIEW,3049957,Pelvis X-ray outlet
+RD00669,Periapical  view Radiography(3매),4346193,Dental X-ray periapical
+RD00670,Periapical Radiography(1매),4346193,Dental X-ray periapical
+RD00671,Periapical view Radiography(1매),4346193,Dental X-ray periapical
+RD00672,Periapical view Radiography(2매),4346193,Dental X-ray periapical
+RD00673,PFT c Bronchodilator Inhalation(6종),3038933,Pulmonary Function Tests
+RD00673,PFT c Bronchodilator Inhalation(6종),4133841,Inhaled bronchodilator therapy
+RD00674,PFT With Bronchodilator Inhalation(6종),4052083,Lung function tests
+RD00674,PFT With Bronchodilator Inhalation(6종),4133841,Inhaled bronchodilator therapy
+RD00675,"PFT,기류용적폐곡선",4297789,Measurement of lung volume
+RD00676,"PFT,기본폐기능검사(기류용적폐곡선)(호흡기내과)",4052083,Lung function tests
+RD00677,PNS Series,4179075,Plain X-ray guided wire localization of breast lesion
+RD00678,PNS Water's View,3053070,Sinuses X-ray Waters
+RD00679,PORTABLE EEG,4205144,Portable electroencephalogram
+RD00680,Portal Film Verification and Correction,4144379,Verification routine
+RD00681,Posturography,2313721,Computerized dynamic posturography
+RD00682,Prostate Biopsy c U/S,4302200,US scan and biopsy of prostate
+RD00683,PTA(Pure Tone Audiometry),4091134,Pure tone audiometry
+RD00684,PTBD (1차),4201632,Percutaneous transhepatic insertion of biliary drain
+RD00685,Punch Biopsy,4287567,Punch biopsy
+RD00686,R. G. P,2006739,Retrograde pyelogram
+RD00687,Rapid ACTH Stimulation Test,4089510,Cosyntropin test
+RD00688,Rib Series,4163872,Plain chest X-ray
+RD00689,RIBCAGE SERIES(3),4122946,Thoracic cage X-ray
+RD00690,RIGHT ANKLE AP,3047457,Ankle X-ray AP single view
+RD00691,RIGHT ANKLE AP &LAT &MORTISE VIEW,3051456,Ankle - right X-ray AP and lateral and Mortise
+RD00692,RIGHT ANKLE LAT,3001035,Ankle - right X-ray
+RD00693,RIGHT ANKLE MORTISE VIEW,3041715,Ankle - right X-ray and Mortise
+RD00694,RIGHT BILIARD VIEW,3048357,Wrist - right X-ray oblique
+RD00695,RIGHT CALCANEAL AXIAL VIEW,3000935,Calcaneus - right X-ray
+RD00696,RIGHT ELBOW AP,3001505,Elbow - right X-ray
+RD00697,RIGHT ELBOW AP AND LAT,3048942,Elbow - right X-ray AP and lateral
+RD00698,"RIGHT ELBOW AP,LAT, BOTH OBL",3050892,Elbow - right X-ray AP and lateral and oblique
+RD00699,RIGHT ELBOW LAT,3001505,Elbow - right X-ray
+RD00700,RIGHT FEMUR AP,3020873,Femur - right X-ray
+RD00701,RIGHT FEMUR AP AND LAT,3047376,Femur - right X-ray AP and lateral
+RD00702,RIGHT FEMUR LAT,3020873,Femur - right X-ray
+RD00703,RIGHT FINGER AP AND LAT  ? th,3048287,Finger - right X-ray AP and lateral and oblique
+RD00704,RIGHT FOOT AP,3047772,Foot - right X-ray AP standing
+RD00705,RIGHT FOOT AP AND LAT AND OBL,3051157,Foot - right X-ray AP and lateral and oblique
+RD00706,RIGHT FOOT LAT,3004045,Foot - right X-ray
+RD00707,RIGHT FOOT OBLIQUE,3053121,Foot - right X-ray oblique single view
+RD00708,RIGHT FOREARM AP,3009207,Upper extremity - right X-ray
+RD00709,RIGHT FOREARM AP AND LAT,3009207,Upper extremity - right X-ray
+RD00710,"RIGHT FOREARM AP,LAT,BOTH OBL",3009207,Upper extremity - right X-ray
+RD00711,RIGHT FOREARM LAT,3009207,Upper extremity - right X-ray
+RD00712,RIGHT HAND  OBLIQUE,3050251,Hand X-ray oblique single view
+RD00713,RIGHT HAND LAT,3050876,Hand - right X-ray lateral
+RD00714,RIGHT HAND PA,3050561,Hand - right X-ray PA
+RD00715,RIGHT HAND PA AND OBLIQUE,3040614,Hand X-ray PA and oblique
+RD00716,RIGHT HIP AP (SUPINE),3050567,Hip - right X-ray AP single view
+RD00717,RIGHT HIP LAT,3048152,Hip - right X-ray lateral
+RD00718,RIGHT HIP TRANSLATERAL,3050468,Hip - right X-ray tomograph
+RD00719,RIGHT HUMERUS AP,3047989,Humerus - right X-ray
+RD00720,"RIGHT HUMERUS AP,LAT,BOTH OBL",3047989,Humerus - right X-ray
+RD00721,RIGHT HUMERUS LAT,3047989,Humerus - right X-ray
+RD00722,RIGHT KNEE AP (SUPINE),3048811,Knee - right X-ray AP single view
+RD00723,RIGHT KNEE LAT (30 FLEXION),3050887,Wrist - right X-ray lateral W flexion
+RD00724,RIGHT KNEE LAT (NEUTRAL),3048133,Knee - right X-ray lateral
+RD00725,RIGHT KNEE MRI,3033844,Knee - right MRI
+RD00726,RIGHT KNEE SKYLINE VIEW,3048125,Knee - right X-ray
+RD00727,RIGHT LOWER LEG AP,3052145,Lower extremity - right X-ray AP single view standing
+RD00728,RIGHT LOWER LEG AP AND LAT,40771779,Lower extremity - right X-ray AP and lateral
+RD00729,RIGHT LOWER LEG BOTH OBLIQUE,3036532,Lower extremity - right X-ray
+RD00730,RIGHT LOWER LEG LAT,3050852,Lower extremity - right X-ray Single view
+RD00731,RIGHT SCAPULAR AP,3009900,Scapula - right X-ray
+RD00732,RIGHT SCAPULAR AP AND LAT,3052134,Scapula - right X-ray AP and lateral
+RD00733,RIGHT SCAPULAR LAT,3009900,Scapula - right X-ray
+RD00734,RIGHT SHOULDER AP,3052112,Shoulder - right X-ray AP single view
+RD00735,RIGHT SHOULDER AXIAL,3052180,Shoulder - right X-ray axillary
+RD00736,RIGHT SHOULDER LAT,3021552,Shoulder - right X-ray
+RD00737,RIGHT SHOULDER MRI,3035159,Shoulder - right MRI
+RD00738,RIGHT WRIST LAT (NEUTRAL),3022871,Wrist - right X-ray
+RD00739,RIGHT WRIST PA  AND LAT(NEUTRAL),3049260,Wrist - right X-ray PA and lateral
+RD00740,RIGHT WRIST PA (NEUTRAL),3048120,Wrist X-ray PA
+RD00741,Rorschach test,4232784,Rorschach test
+RD00742,Rotation Test,2007871,Rotation tests
+RD00743,Routine Bronchoscopy,4032404,Bronchoscopy
+RD00744,Routine TCD,4330519,Transcranial doppler ultrasonography
+RD00745,RT Ankle AP & Lat.,3048679,Ankle - right X-ray AP and lateral
+RD00746,RT ankle AP/Lat/Mortise,3051456,Ankle - right X-ray AP and lateral and Mortise
+RD00747,RT Ankle Extern Obl,3004662,Ankle X-ray
+RD00748,RT Ankle Intern Obl,3004662,Ankle X-ray
+RD00749,RT Ankle Obl.,3001035,Ankle - right X-ray
+RD00750,RT Calcaneus Routine,3000935,Calcaneus - right X-ray
+RD00751,RT CLAVICLE CEPHALIC TILTING,3050848,Clavicle - right X-ray 45 degree cephalic angle
+RD00752,RT Elbow AP & Lat.,3048942,Elbow - right X-ray AP and lateral
+RD00753,RT Elbow both Obl.,3052083,Elbow - right X-ray oblique
+RD00754,RT Femur AP & Lat.,3047376,Femur - right X-ray AP and lateral
+RD00755,RT Finger AP & Lat.,4085289,Plain X-ray metacarpals
+RD00756,RT Foot AP,3050473,Foot X-ray AP single view
+RD00757,RT Foot AP & Lat.,3048697,Foot - right X-ray AP and lateral
+RD00758,RT foot AP/Obl/Lat,3051157,Foot - right X-ray AP and lateral and oblique
+RD00759,RT Foot Obl.,3047572,Foot X-ray oblique single view
+RD00760,RT Forearm AP & Lat.,4058907,Plain X-ray radius
+RD00761,RT Hand AP,3049010,Hand - right X-ray
+RD00762,RT Hand AP & Obl.,3052477,Hand - right X-ray AP and lateral and oblique
+RD00763,RT Hand AP/Obl/Lat,3052477,Hand - right X-ray AP and lateral and oblique
+RD00764,RT Hand Lat.,3050876,Hand - right X-ray lateral
+RD00765,RT Hip Axial,3017113,Hip - right X-ray
+RD00766,RT Humerus AP & Lat.,4056696,Plain X-ray shaft of humerus
+RD00767,RT Knee AP & Lat & Merchant,3040136,Knee X-ray AP and lateral and Merchants
+RD00768,RT Knee AP & Lat (Standing),3006677,Knee - right X-ray AP and lateral standing
+RD00769,RT Knee AP & Lat.,3047560,Knee - right X-ray AP and lateral
+RD00770,"RT KNEE AP, PA(45),LAT&MERCHANT",3040136,Knee X-ray AP and lateral and Merchants
+RD00771,"RT KNEE AP,LAT(30),SKYLINE VIEW",3048125,Knee - right X-ray
+RD00772,RT KNEE MERCHANT VIEW,3016954,Knee - right X-ray Merchants
+RD00773,RT LOWER LEG AP/LAT/BOTH OBL,3036532,Lower extremity - right X-ray
+RD00774,RT Mammo. CC & MLO,4179075,Plain X-ray guided wire localization of breast lesion
+RD00775,RT Patella Merchant View,3016954,Knee - right X-ray Merchants
+RD00776,RT Scapula Out-Let View,3009900,Scapula - right X-ray
+RD00777,RT Scapula Y View,3049031,Scapula - right X-ray Y
+RD00778,RT Shoulder AP,3052112,Shoulder - right X-ray AP single view
+RD00779,RT Shoulder AP & Lat.,3049302,Shoulder X-ray AP and lateral
+RD00780,RT Shoulder Axial,3052180,Shoulder - right X-ray axillary
+RD00781,RT SHOULDER TRAUMA SERIES,3021552,Shoulder - right X-ray
+RD00782,RT SUPRASPINATUS OUTLET,3048993,Shoulder - right X-ray outlet
+RD00783,RT Tibia AP & Lat.,4081883,Tibia X-ray
+RD00784,RT Wrist AP,4056696,Plain X-ray shaft of humerus
+RD00785,RT Wrist AP & Lat.,3050282,Wrist - right X-ray AP and lateral
+RD00786,RT Wrist both Obl.,3048357,Wrist - right X-ray oblique
+RD00787,RT.FEMUR AP/LAT,3047376,Femur - right X-ray AP and lateral
+RD00788,RT.HAND AP/LAT/OBL,3052477,Hand - right X-ray AP and lateral and oblique
+RD00789,Rt.humerus ap & lat.,3048387,Humerus - right X-ray AP and lateral
+RD00790,RT.KNEE AP/LAT.,3047560,Knee - right X-ray AP and lateral
+RD00791,RT.KNEE AP/LAT/BOTH OBL,3049889,Knee - right X-ray AP and lateral and oblique
+RD00792,RT.WRIST AP/LAT/BILLIARD VIEW,3048608,Wrist X-ray AP and lateral and oblique
+RD00793,Salivary Gland Scan,3041206,Salivary gland Scan
+RD00794,Scanogram Leg with wt bearing< 6세,2211819,"Bone length studies (orthoroentgenogram, scanogram)"
+RD00795,Scanogram Leg with wt bearing> 6세,2211819,"Bone length studies (orthoroentgenogram, scanogram)"
+RD00796,"SCOLIOSIS(T,L-SPINE AP/LAT)",3015485,Spine X-ray scoliosis AP and lateral
+RD00797,Scrotal Doppler,4234037,Doppler ultrasonography of testis
+RD00798,Segmental Doppler Test,4152022,Doppler
+RD00799,SEIZURE MRI(보험),4082979,Magnetic resonance imaging of head
+RD00800,Selective Pelvic Arterio.,4044875,Arteriography
+RD00801,SEP(상지),4161798,Somatosensory evoked potentials monitoring
+RD00802,SEP(하지)(NEUR),4161798,Somatosensory evoked potentials monitoring
+RD00803,Shielding Block(A),4040580,Making of shielding block for radiotherapy
+RD00804,Sigmoidoscopic Biopsy,4262588,Sigmoidoscopy with biopsy
+RD00805,Sigmoidoscopy,4087381,SIGy - Sigmoidoscopy
+RD00806,Single Angiography,4120840,Regional angiography
+RD00807,SKULL AP,40771790,Skull X-ray AP single view
+RD00808,Skull AP & Both Lat.,3024787,Skull X-ray AP and lateral
+RD00809,Skull AP & LT Lat.,3024787,Skull X-ray AP and lateral
+RD00810,Skull AP & RT Lat.,3024787,Skull X-ray AP and lateral
+RD00811,SKULL BOTH LAT,3004875,Skull X-ray lateral
+RD00812,SKULL LEFT LAT,3004875,Skull X-ray lateral
+RD00813,SKULL RIGHT LAT,3004875,Skull X-ray lateral
+RD00814,Skull RT Lat.,3004875,Skull X-ray lateral
+RD00815,Skull Sella,2211308,"Radiologic examination, sella turcica"
+RD00816,Skull Series,3018228,Skull X-ray
+RD00817,Skull series(AP/both Lat/Towns),3018228,Skull X-ray
+RD00818,Skull Town's,3047870,Skull X-ray Towne
+RD00819,Skull Water's,3007959,Skull X-ray Waters
+RD00820,"Sleep EEG(약물,수면박탈)",4088246,Sleep EEG
+RD00821,Slide 사진촬영,4055118,Photography of patient
+RD00822,SMALL BOWEL SERIES,2006720,Small bowel series
+RD00823,SONO guided needle bx.of thyroid,3047660,US Guidance for needle biopsy of Thyroid
+RD00824,Sonography of thyroid,4198775,Ultrasonography of thyroid and parathyroid
+RD00825,Sonography of thyroid(F/U),3001462,Thyroid US
+RD00826,special USG (OBGY),4037672,Ultrasonography
+RD00827,Speech Audiometry,4091138,Speech audiometry
+RD00828,Speech Evaluation-Simple(음성검사실),2211323,Complex dynamic pharyngeal and speech evaluation by cine or video recording
+RD00829,Speech Therapy(언어치료실),4201412,Speech therapy
+RD00830,SPINE MRI POSTOP,3021892,MRI Spine study
+RD00831,Spirometry,4133840,Spirometry
+RD00832,Spirometry(알레르기),4133840,Spirometry
+RD00833,Spirometry(호흡기),4133840,Spirometry
+RD00834,Standard Lateral Cephalogram,4081877,Cephalometry X-ray
+RD00835,Standard Panoramic View,4056685,Plain X-ray facial sinuses
+RD00836,Static Quantitative Perimetry(Bilateral),4013574,Automated static perimetry
+RD00837,Static Quantitative Perimetry(unilateral,4013574,Automated static perimetry
+RD00838,"Stent Implantation, Coronary",4283892,Placement of stents in coronary artery
+RD00839,"Stent Implantation, Coronary(Additionl Vessel)",4283892,Placement of stents in coronary artery
+RD00840,Sternum Lat. & Obl.,4163872,Plain chest X-ray
+RD00841,STERNUM VIEW(2),3051507,Sternum X-ray 2 views
+RD00842,Study 검사,4002165,Clinical trials
+RD00843,Sup. Mesenteric Arterio.,4170912,Superior mesenteric arteriogram
+RD00844,Swimmer's View,4056681,Plain x-ray
+RD00845,TACE(Single Vessel),40487040,Transarterial oily chemoembolisation
+RD00846,Tc-99m Thyroid Scan,3039575,Thyroid Scan W Tc-99m IV
+RD00847,TCD dizziness & continuous BP monitoring,4046988,Blood pressure monitoring
+RD00847,TCD dizziness & continuous BP monitoring,4330519,Transcranial doppler ultrasonography
+RD00848,Temporal(CISS) MRI,3009844,Unspecified body region MRI
+RD00849,TEOAE,4091145,Cochlear echo test
+RD00850,THORACIC MRI,4082988,Magnetic resonance imaging of thoracic spine
+RD00851,Three Phase Bone Scan,3039231,Bone Scan 3 views phase
+RD00852,Thyroid Aspiration Cytology,4106711,Fine needle biopsy of thyroid
+RD00853,Thyroid Scan(Single/Tc-99m),3039575,Thyroid Scan W Tc-99m IV
+RD00854,Thyroid Scan+Uptake(Tc-99m),3046356,Thyroid Scan and uptake W Tc-99m pertechnetate IV
+RD00855,THYROID STIMULATING IgE,4020112,Thyroid stimulating immunoglobulins measurement
+RD00856,Tinnitogram,4091733,Tinnitus assessment
+RD00857,T-L Spine AP & Lat.,3052130,Spine Thoracic and Lumbar X-ray AP and lateral
+RD00858,"T-L Spine AP & Lat. & Flex,Ext.",4082345,Thoracolumbar spine X-ray
+RD00859,T-L Spine Ext & Flex,4082345,Thoracolumbar spine X-ray
+RD00860,T-L Spine Lat.,3031249,Spine Thoracic and Lumbar X-ray
+RD00861,TL201 Heart Spect(Stress+Rest),3042179,Heart SPECT perfusion at rest and W stress and W Tl-201 IV
+RD00862,T-M Joint,4122948,Plain film of neck
+RD00863,T-M Joint 1 Inch Open,3048370,Temporomandibular joint - bilateral X-ray open and closed mouth
+RD00864,"TMJ Lateral View, Mouth Open & Close",3049509,Temporomandibular Joint - unilateral X-ray open and closed mouth
+RD00865,Treadmill Test,4213739,Cardiovascular stress test using treadmill
+RD00866,T-Spine AP & Lat.,3019301,Spine Thoracic X-ray AP and lateral
+RD00867,T-SPINE AP (STAND),40771796,Spine Thoracic X-ray standing
+RD00868,T-SPINE AP (SUPINE),3015312,Spine Thoracic X-ray AP single view
+RD00869,T-SPINE AP AND LAT (NEUTRAL),3019301,Spine Thoracic X-ray AP and lateral
+RD00870,T-SPINE LAT (NEUTRAL),3000868,Spine Thoracic X-ray lateral
+RD00871,T-Spine Series,4081564,Plain X-ray ischium
+RD00872,T-TUBE Cholangiography,4069340,T tube cholangiography
+RD00873,Tubography,4198451,Contrast radiography via drain
+RD00874,U. G. I,4230374,Upper gastrointestinal procedure
+RD00875,U. S. G,4037672,Ultrasonography
+RD00876,U.S.G (OBGY),4037672,Ultrasonography
+RD00877,U.S.G(불임센타용),4037672,Ultrasonography
+RD00878,U/S Abd.Routine,4261497,Ultrasonography of abdomen
+RD00879,U/S Brain Routine,4222750,Ultrasonography for midline shift of brain
+RD00880,U/S Breast,4264054,Ultrasonography of breast
+RD00881,U/S Breast(HEXC),4264054,Ultrasonography of breast
+RD00882,U/S Female Pelvis,3000777,Pelvis US
+RD00883,U/S Hip,3008991,Hip US
+RD00884,U/S Kidney,3050272,Kidney US
+RD00885,U/S Liver,3001979,Liver US
+RD00886,U/S Male Pelvis,4086677,US pelvic scan
+RD00887,U/S Neck,4082510,Ultrasonography of head and neck
+RD00888,U/S Obstetric,4152021,Ultrasound scan - obstetric
+RD00889,U/S Other,4037672,Ultrasonography
+RD00890,U/S Prostate,3001108,Prostate US
+RD00891,U/S Scrotum,4083772,Echography of scrotum and contents
+RD00892,U/S Shoulder,3016633,Shoulder US
+RD00893,U/S Thyroid,3001462,Thyroid US
+RD00894,U/S Thyroid(HEXC),3001462,Thyroid US
+RD00895,U/S Transrectal,40486003,Ultrasonography by transrectal approach
+RD00896,U/S Transvaginal,2211765,"Ultrasound, transvaginal"
+RD00897,"UGI Endoscopic Bleeding Control, 1차",2002622,Endoscopic control of gastric or duodenal bleeding
+RD00898,UGI Endoscopic Helicobcter Pylori Study,4304824,Helicobacter pylori antigen assay
+RD00899,UGI Endoscopic Varicele Ligation(EVL) (1차),40489324,Endoscopic ligation of varices of small intestine
+RD00900,"Ultrasonogram Guided Needle Biopsy, Liver",3043805,US Guidance for needle biopsy of Liver
+RD00901,"Ultrasonography, Conventional, Abdominal",4261497,Ultrasonography of abdomen
+RD00902,Upper Extremity long bone Both. AP & Lat,3021435,Upper extremity X-ray
+RD00903,Upper Miniprobe EUS,42872565,Endoscopic ultrasonography
+RD00904,Urethrography,4059077,Urethrogram
+RD00905,Urine Iodine,3005219,Iodine [Mass/volume] in Urine
+RD00906,V. C. U. G,4184736,Voiding urethrocystography
+RD00907,Vector assay,4078283,Pest control
+RD00908,VEMP,4154583,Auditory evoked potentials monitoring
+RD00909,Video Esophagography(Swallowing Evaluation),4059066,Barium swallow
+RD00910,Video-안진검사(SVV),4239654,Nystagmus test
+RD00911,VOIDING CYSTOURETHROGRAM,4184736,Voiding urethrocystography
+RD00912,W/B and Brain FDG PET(건진센터용),4305790,PET - Positron emission tomography
+RD00913,"Waking & Sleep EEG(약물,수면박탈)",4181917,EEG - Electroencephalography
+RD00914,Waking EEG,4181917,EEG - Electroencephalography
+RD00915,WATER`S VIEW,3053070,Sinuses X-ray Waters
+RD00916,Whole Body FDG PET(건진센터용),4201352,Positron emission tomography fluorodeoxyglucose imaging of whole body
+RD00917,Whole Spine AP & Lat (Standing),4081564,Plain X-ray ischium
+RD00918,Whole Spine AP (Erect),2006659,X-ray of spine
+RD00919,Zygomatic Arch,3003872,Zygomatic arch X-ray
+RD00920,ZYGOMATIC ARCH VIEW,3003872,Zygomatic arch X-ray
