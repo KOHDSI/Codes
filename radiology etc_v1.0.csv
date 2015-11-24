@@ -1,57 +1,57 @@
 mapping_num,description,omop_concept_id,omop_concept_name
-RD00001,(¾Ë·¹¸£±â)¸é¿ªÄ¡·á·á,4057262,Allergen immunotherapy
+RD00001,(ì•Œë ˆë¥´ê¸°)ë©´ì—­ì¹˜ë£Œë£Œ,4057262,Allergen immunotherapy
 RD00002,(Non Tunnel method)Intravenous Cath. for Hemodialysis,42872870,Insertion of nontunneled haemodialysis catheter
 RD00003,(Tunnel method)Intravenous Cath. for Hemodialysis,40482732,Insertion of tunneled venous catheter
-RD00004,°©»ó¼±±â´É°Ë»ç-°©»ó¼±¼·ÃëÀ²(Tc¼·ÃëÀ²),3046356,Thyroid Scan and uptake W Tc-99m pertechnetate IV
-RD00005,°æ±¸ ¾à¹° À¯¹ß°Ë»çI ,4091609,Oral provocation test
-RD00006,°ñ¹Ğµµ°Ë»ç (°Ç°­°ËÁø¼¾ÅÍ³»),4195803,Bone density scan
-RD00007,°üÀı³» ÁÖ»ç (Intra-articular Injection),4101113,Intra-articular injection
-RD00008,±â°üÁö°¡¿ª¼º°Ë»ç,4187457,Reversibility trial by bronchodilator
-RD00009,±â°üÁö°ú¹ÎÁõ°Ë»ç,4064734,Bronchial allergy challenge
-RD00010,´ç´¢º´¼º ´Ù¹ß¼º ½Å°æº´ÁõÀÇ ½ÅÃ¼°Ë»ç,4269024,Diabetic peripheral neuropathy screening
-RD00011,µÎºÎ±Ô°İÃÔ¿µ,4059905,Cephalometric analysis
-RD00012,µÎÀ§º¯È¯ ¾ÈÁø°Ë»ç(Dix-Halipike test),4138451,Dix-Hallpike manoeuvre
-RD00013,µÎÀ§¾ÈÁø°Ë»ç(Positional Test),2313711,Positional nystagmus test
-RD00014,¹®Àå¿Ï¼º°Ë»ç,4232935,Incomplete sentence test
-RD00015,ºñ´¢±â°ú ÃÊÀ½ÆÄ B,4037672,Ultrasonography
-RD00016,ºñ´¢±â°ú ÃÊÀ½ÆÄ C,4037672,Ultrasonography
-RD00017,ºñ´¢±â°ú ÃÊÀ½ÆÄ D,4037672,Ultrasonography
-RD00018,»êÀü Quad Test(±Ş¿©),4078287,Triple test
-RD00019,»óºÎ ¼ö¸é³»½Ã°æ °Ë»ç,4294382,Esophagogastroduodenoscopy
-RD00020,»óºÎ ¼ö¸é³»½Ã°æ °Ë»ç(¼ö¸éÀ¯µµ·áº°µµ),4294382,Esophagogastroduodenoscopy
-RD00021,»óºÎ ¼ö¸é³»½Ã°æ(ONE STOP),4294382,Esophagogastroduodenoscopy
-RD00022,¼ºÀÎ ÀÎÁö±â´ÉÆò°¡(PSY),2213558,"Psychiatric evaluation of hospital records, other psychiatric reports, psychometric and/or projective tests, and other accumulated data for medical diagnostic purposes"
-RD00023,¼ºÀÎÁ¾ÇÕ½É¸®Æò°¡(PSY),2007690,Psychologic evaluation and testing
-RD00024,¼ö¸é Colonoscopy,2002703,Colonoscopy
-RD00025,¼ö¸é Colonoscopy(¼ö¸éÀ¯µµ·áº°µµ),2002703,Colonoscopy
-RD00026,¼ö¸é ERCP,2003203,Endoscopic retrograde cholangiopancreatography [ERCP]
-RD00027,¼ö¸é UGI Endoscopic Polypectomy A,4217766,Resection of polyp
-RD00028,½Ã½Å°æÀ¯µÎÀÔÃ¼ ¿¬¼ÓÃÔ¿µ(¾çÃø),4071170,"Ocular photography for medical evaluation and documentation, stereophotography"
-RD00029,½Å°æ°ú ÀÎÁö±â´É°Ë»ç2,4012466,"Assessment and interpretation of higher cerebral function, cognitive testing"
-RD00030,½Å°æ½É¸®°Ë»ç3,4145254,Neuropsychological testing
-RD00031,½ÉÀüµµ-°Ç°­ÁõÁø¼¾ÅÍ(4Ãş),4187078,Electrocardiographic monitoring
-RD00032,½ÉÀüµµ°Ë»ç,4187078,Electrocardiographic monitoring
-RD00033,¾Æµ¿Á¾ÇÕ½É¸®Æò°¡(PSY),2007690,Psychologic evaluation and testing
-RD00034,¾Ë·¹¸£±â ÇÇºÎ´ÜÀÚ½ÃÇè(80Á¾),4242723,Prick test
-RD00035,¿îµ¿ºÎÇÏ°Ë»ç(¼¾ÅÍ³»),3024337,Exercise stress test study
-RD00036,À¯¼Ò¾Æ Ã»·Â°Ë»ç,4203113,Child referral for audiometry
-RD00037,ÀÚ¹ß¹×ÁÖ½Ã¾ÈÁø(VNG),2313710,"Spontaneous nystagmus, including gaze"
-RD00038,"ÀÜ±â·® ¹× ¿ëÀû°¡½º ÃøÁ¤, Çï·ı°¡½º»ç¿ë",3024313,Residual volume by Helium single breath
-RD00039,ÀåÁßÃ¸Áõ ºñ°üÇ÷ÀûÁ¤º¹¼ú,4219629,Reduction of intussusception of intestine
-RD00040,Áø´Ü¸ñÀûÀÇ  ÆíÃø °ü»óµ¿¸ÆÁ¶¿µ¼ú50%,4142645,Coronary angiography
-RD00041,Ã´ÃßÈÄ±Ù½Å°æÀı(DRG) Block,4335033,Dorsal root ganglion block
-RD00042,Ã»·Â2Â÷(Æ¯°Ë)-°Ç°­ÁõÁø¼¾ÅÍ(4Ãş),2007867,Audiometry
-RD00043,Ã¼Áö¹æ ºĞ¼®,4339310,Feed analysis for fat
-RD00044,ÄÚ³»½Ã°æ,4105083,Endoscopy of nose
-RD00045,Åä¸£¼Ò(ÀÌ¸¶-»ó´ëÅğ) PET,4305790,PET - Positron emission tomography
-RD00046,ÅëÁõÅ©¸®´Ğ¼³¹®Áö,4079638,Refer to pain clinic
-RD00047,"Æ¯¼ö³úÆÄ°Ë»ç(¾à¹°,Nasopharyngeal)",4181917,EEG - Electroencephalography
-RD00048,ÆÄ³ë¶ó¸¶,2006653,Other dental x-ray
-RD00049,ÆÄ³ë¶ó¸¶ ÀÏ¹İ,2006653,Other dental x-ray
-RD00050,ÆÄ³ë¶ó¸¶ Æ¯¼ö(TMJ),3005290,Temporomandibular joint X-ray
-RD00051,ÆÄ¹Ì·¹ÀÌ250ÁÖ»ç¾×(ÀÌ¿ÀÆÄ¹Ìµ¹)*100ml,19081224,Iopamidol
-RD00052,Æó±â´É(Æ¯°Ë)-°Ç°­ÁõÁø¼¾ÅÍ(4Ãş),4052083,Lung function tests
-RD00053,Æó±â´É°Ë»ç(¿îµ¿À¯¹ß °Ë»ç(Spirometry)),3038933,Pulmonary Function Tests
+RD00004,ê°‘ìƒì„ ê¸°ëŠ¥ê²€ì‚¬-ê°‘ìƒì„ ì„­ì·¨ìœ¨(Tcì„­ì·¨ìœ¨),3046356,Thyroid Scan and uptake W Tc-99m pertechnetate IV
+RD00005,ê²½êµ¬ ì•½ë¬¼ ìœ ë°œê²€ì‚¬I ,4091609,Oral provocation test
+RD00006,ê³¨ë°€ë„ê²€ì‚¬ (ê±´ê°•ê²€ì§„ì„¼í„°ë‚´),4195803,Bone density scan
+RD00007,ê´€ì ˆë‚´ ì£¼ì‚¬ (Intra-articular Injection),4101113,Intra-articular injection
+RD00008,ê¸°ê´€ì§€ê°€ì—­ì„±ê²€ì‚¬,4187457,Reversibility trial by bronchodilator
+RD00009,ê¸°ê´€ì§€ê³¼ë¯¼ì¦ê²€ì‚¬,4064734,Bronchial allergy challenge
+RD00010,ë‹¹ë‡¨ë³‘ì„± ë‹¤ë°œì„± ì‹ ê²½ë³‘ì¦ì˜ ì‹ ì²´ê²€ì‚¬,4269024,Diabetic peripheral neuropathy screening
+RD00011,ë‘ë¶€ê·œê²©ì´¬ì˜,4059905,Cephalometric analysis
+RD00012,ë‘ìœ„ë³€í™˜ ì•ˆì§„ê²€ì‚¬(Dix-Halipike test),4138451,Dix-Hallpike manoeuvre
+RD00013,ë‘ìœ„ì•ˆì§„ê²€ì‚¬(Positional Test),2313711,Positional nystagmus test
+RD00014,ë¬¸ì¥ì™„ì„±ê²€ì‚¬,4232935,Incomplete sentence test
+RD00015,ë¹„ë‡¨ê¸°ê³¼ ì´ˆìŒíŒŒ B,4037672,Ultrasonography
+RD00016,ë¹„ë‡¨ê¸°ê³¼ ì´ˆìŒíŒŒ C,4037672,Ultrasonography
+RD00017,ë¹„ë‡¨ê¸°ê³¼ ì´ˆìŒíŒŒ D,4037672,Ultrasonography
+RD00018,ì‚°ì „ Quad Test(ê¸‰ì—¬),4078287,Triple test
+RD00019,ìƒë¶€ ìˆ˜ë©´ë‚´ì‹œê²½ ê²€ì‚¬,4294382,Esophagogastroduodenoscopy
+RD00020,ìƒë¶€ ìˆ˜ë©´ë‚´ì‹œê²½ ê²€ì‚¬(ìˆ˜ë©´ìœ ë„ë£Œë³„ë„),4294382,Esophagogastroduodenoscopy
+RD00021,ìƒë¶€ ìˆ˜ë©´ë‚´ì‹œê²½(ONE STOP),4294382,Esophagogastroduodenoscopy
+RD00022,ì„±ì¸ ì¸ì§€ê¸°ëŠ¥í‰ê°€(PSY),2213558,"Psychiatric evaluation of hospital records, other psychiatric reports, psychometric and/or projective tests, and other accumulated data for medical diagnostic purposes"
+RD00023,ì„±ì¸ì¢…í•©ì‹¬ë¦¬í‰ê°€(PSY),2007690,Psychologic evaluation and testing
+RD00024,ìˆ˜ë©´ Colonoscopy,2002703,Colonoscopy
+RD00025,ìˆ˜ë©´ Colonoscopy(ìˆ˜ë©´ìœ ë„ë£Œë³„ë„),2002703,Colonoscopy
+RD00026,ìˆ˜ë©´ ERCP,2003203,Endoscopic retrograde cholangiopancreatography [ERCP]
+RD00027,ìˆ˜ë©´ UGI Endoscopic Polypectomy A,4217766,Resection of polyp
+RD00028,ì‹œì‹ ê²½ìœ ë‘ì…ì²´ ì—°ì†ì´¬ì˜(ì–‘ì¸¡),4071170,"Ocular photography for medical evaluation and documentation, stereophotography"
+RD00029,ì‹ ê²½ê³¼ ì¸ì§€ê¸°ëŠ¥ê²€ì‚¬2,4012466,"Assessment and interpretation of higher cerebral function, cognitive testing"
+RD00030,ì‹ ê²½ì‹¬ë¦¬ê²€ì‚¬3,4145254,Neuropsychological testing
+RD00031,ì‹¬ì „ë„-ê±´ê°•ì¦ì§„ì„¼í„°(4ì¸µ),4187078,Electrocardiographic monitoring
+RD00032,ì‹¬ì „ë„ê²€ì‚¬,4187078,Electrocardiographic monitoring
+RD00033,ì•„ë™ì¢…í•©ì‹¬ë¦¬í‰ê°€(PSY),2007690,Psychologic evaluation and testing
+RD00034,ì•Œë ˆë¥´ê¸° í”¼ë¶€ë‹¨ìì‹œí—˜(80ì¢…),4242723,Prick test
+RD00035,ìš´ë™ë¶€í•˜ê²€ì‚¬(ì„¼í„°ë‚´),3024337,Exercise stress test study
+RD00036,ìœ ì†Œì•„ ì²­ë ¥ê²€ì‚¬,4203113,Child referral for audiometry
+RD00037,ìë°œë°ì£¼ì‹œì•ˆì§„(VNG),2313710,"Spontaneous nystagmus, including gaze"
+RD00038,"ì”ê¸°ëŸ‰ ë° ìš©ì ê°€ìŠ¤ ì¸¡ì •, í—¬ë¥¨ê°€ìŠ¤ì‚¬ìš©",3024313,Residual volume by Helium single breath
+RD00039,ì¥ì¤‘ì²©ì¦ ë¹„ê´€í˜ˆì ì •ë³µìˆ ,4219629,Reduction of intussusception of intestine
+RD00040,ì§„ë‹¨ëª©ì ì˜  í¸ì¸¡ ê´€ìƒë™ë§¥ì¡°ì˜ìˆ 50%,4142645,Coronary angiography
+RD00041,ì²™ì¶”í›„ê·¼ì‹ ê²½ì ˆ(DRG) Block,4335033,Dorsal root ganglion block
+RD00042,ì²­ë ¥2ì°¨(íŠ¹ê²€)-ê±´ê°•ì¦ì§„ì„¼í„°(4ì¸µ),2007867,Audiometry
+RD00043,ì²´ì§€ë°© ë¶„ì„,4339310,Feed analysis for fat
+RD00044,ì½”ë‚´ì‹œê²½,4105083,Endoscopy of nose
+RD00045,í† ë¥´ì†Œ(ì´ë§ˆ-ìƒëŒ€í‡´) PET,4305790,PET - Positron emission tomography
+RD00046,í†µì¦í¬ë¦¬ë‹‰ì„¤ë¬¸ì§€,4079638,Refer to pain clinic
+RD00047,"íŠ¹ìˆ˜ë‡ŒíŒŒê²€ì‚¬(ì•½ë¬¼,Nasopharyngeal)",4181917,EEG - Electroencephalography
+RD00048,íŒŒë…¸ë¼ë§ˆ,2006653,Other dental x-ray
+RD00049,íŒŒë…¸ë¼ë§ˆ ì¼ë°˜,2006653,Other dental x-ray
+RD00050,íŒŒë…¸ë¼ë§ˆ íŠ¹ìˆ˜(TMJ),3005290,Temporomandibular joint X-ray
+RD00051,íŒŒë¯¸ë ˆì´250ì£¼ì‚¬ì•¡(ì´ì˜¤íŒŒë¯¸ëŒ)*100ml,19081224,Iopamidol
+RD00052,íê¸°ëŠ¥(íŠ¹ê²€)-ê±´ê°•ì¦ì§„ì„¼í„°(4ì¸µ),4052083,Lung function tests
+RD00053,íê¸°ëŠ¥ê²€ì‚¬(ìš´ë™ìœ ë°œ ê²€ì‚¬(Spirometry)),3038933,Pulmonary Function Tests
 RD00054,Abd. Erect,4145311,Erect abdominal X-ray
 RD00055,Abd. RT Lat.,3052075,Abdomen X-ray right lateral
 RD00056,Abd. Supine,4212044,Supine abdominal X-ray
@@ -63,11 +63,11 @@ RD00060,ABDOMEN SUPINE,4212044,Supine abdominal X-ray
 RD00061,ABDOMEN SUPINE AND ERECT,3002880,Abdomen X-ray AP (supine and upright)
 RD00062,ABDOMEN USG,3014650,Abdomen US
 RD00063,ABI Doppler Test,4152022,Doppler
-RD00064,Acoustic Rhinomanometry(¾Ë·¹¸£±â),4091870,Rhinomanometry
+RD00064,Acoustic Rhinomanometry(ì•Œë ˆë¥´ê¸°),4091870,Rhinomanometry
 RD00065,Aided Speech Audiometry,4091138,Speech audiometry
 RD00066,AKBR,4097313,"Ketone bodies measurement, quantitative"
-RD00067,"Allergy Test, ´ÜÀÚ ¶Ç´Â ¼ÒÇÇ½ÃÇè",4242723,Prick test
-RD00068,"Allergy Test, ´ÜÀÚ½ÃÇè 50Á¾",4092969,In vivo test of hypersensitivity
+RD00067,"Allergy Test, ë‹¨ì ë˜ëŠ” ì†Œí”¼ì‹œí—˜",4242723,Prick test
+RD00068,"Allergy Test, ë‹¨ìì‹œí—˜ 50ì¢…",4092969,In vivo test of hypersensitivity
 RD00069,Alternate Caloric Test,4282906,Caloric vestibular test
 RD00070,Ambulatory BP Monitoring,2313967,"Ambulatory blood pressure monitoring, utilizing a system such as magnetic tape and/or computer disk, for 24 hours or longer; including recording, scanning analysis, interpretation and report"
 RD00071,ANTI TMS,4130731,Transcranial magnetic stimulation
@@ -75,16 +75,16 @@ RD00072,ANTI-DS-DNA,4339109,Antibody to double stranded DNA measurement
 RD00073,Anti-Thyroglobulin Ab,4065904,Thyroglobulin antibody measurement
 RD00074,Apicogram(1),2006700,Other chest x-ray
 RD00075,Apicography,4163872,Plain chest X-ray
-RD00076,Arteriovenous Shuntogram(¿µ»óÀÇÇĞ°ú),4031211,Angiography of arteriovenous shunt
-RD00077,A-SCAN(¾È°ú),4014084,A scan ultrasound
+RD00076,Arteriovenous Shuntogram(ì˜ìƒì˜í•™ê³¼),4031211,Angiography of arteriovenous shunt
+RD00077,A-SCAN(ì•ˆê³¼),4014084,A scan ultrasound
 RD00078,"Automatic perimetry,Unilateral",4016391,Perimetry
 RD00079,Autonomic Function Test,4099532,Autonomic function studies
 RD00080,Ba.Enema,4140708,Lower gastrointestinal series
 RD00081,BAEP(NEUR),4154583,Auditory evoked potentials monitoring
 RD00082,Biofeedback,4151220,Biofeedback procedure
 RD00083,Blink Reflex,4260952,Orbicularis oculi reflex test
-RD00084,Bone Age  <    10¼¼,4098940,Skeletal maturity survey
-RD00085,Bone Age  >    10¼¼,4098940,Skeletal maturity survey
+RD00084,Bone Age  <    10ì„¸,4098940,Skeletal maturity survey
+RD00085,Bone Age  >    10ì„¸,4098940,Skeletal maturity survey
 RD00086,"Bone Densitometry, Pediatric",4195803,Bone density scan
 RD00087,"Bone Densitometry, Spine",4195803,Bone density scan
 RD00088,"Bone Densitometry, Spine and Femur",4195803,Bone density scan
@@ -110,7 +110,7 @@ RD00107,Both Clavicle Cephalic Tilt 40',4058899,Clavicle X-ray
 RD00108,BOTH CLAVICLE CEPHALIC TILTING,3048328,Clavicle - bilateral X-ray 45 degree cephalic angle
 RD00109,BOTH CLVICLE OBLIQUE,3019400,Clavicle - bilateral X-ray
 RD00110,Both Coronary Angiography,4219097,"Angiography of coronary arteries, bilateral"
-RD00111,Both Coronary Angiography(¿Ü·¡),4219097,"Angiography of coronary arteries, bilateral"
+RD00111,Both Coronary Angiography(ì™¸ë˜),4219097,"Angiography of coronary arteries, bilateral"
 RD00112,BOTH ELBOW AP,3036197,Elbow - bilateral X-ray
 RD00113,Both Elbow AP & Lat.,3051840,Elbow - bilateral X-ray AP and lateral
 RD00114,BOTH ELBOW AP AND LAT,3051840,Elbow - bilateral X-ray AP and lateral
@@ -200,33 +200,33 @@ RD00197,BOTH.KNEE AP/LAT/BOTH OBL,3053086,Knee - bilateral X-ray AP and lateral 
 RD00198,BOTH.WRIST AP/LAT/BILLIARD VIEW,3048608,Wrist X-ray AP and lateral and oblique
 RD00199,Brain  SPECT(Rest),3040861,Brain SPECT
 RD00200,BRAIN DIFFUSION MRI,3053115,Brain MRI diffusion weighted
-RD00201,BRAIN DIFFUSION MRI(º¸Çè),3053115,Brain MRI diffusion weighted
-RD00202,BRAIN DIFFUSION(º¸Çè),3053115,Brain MRI diffusion weighted
-RD00203,"BRAIN MRA(3D,CarotidÆ÷ÇÔ),º¸Çè",4167390,MRI angiography of head
+RD00201,BRAIN DIFFUSION MRI(ë³´í—˜),3053115,Brain MRI diffusion weighted
+RD00202,BRAIN DIFFUSION(ë³´í—˜),3053115,Brain MRI diffusion weighted
+RD00203,"BRAIN MRA(3D,Carotidí¬í•¨),ë³´í—˜",4167390,MRI angiography of head
 RD00204,BRAIN MRI,3023655,Brain MRI
-RD00205,BRAIN MRI (º¸Çè),3023655,Brain MRI
+RD00205,BRAIN MRI (ë³´í—˜),3023655,Brain MRI
 RD00206,BRAIN MRI + ANGIO.,4167390,MRI angiography of head
-RD00207,BRAIN MRI(º¸Çè),3023655,Brain MRI
-RD00208,BRAIN MRI(º¸Çè)+DIFFUSION,3053115,Brain MRI diffusion weighted
+RD00207,BRAIN MRI(ë³´í—˜),3023655,Brain MRI
+RD00208,BRAIN MRI(ë³´í—˜)+DIFFUSION,3053115,Brain MRI diffusion weighted
 RD00209,BRAIN MRI+MRA,4082979,Magnetic resonance imaging of head
 RD00209,BRAIN MRI+MRA,4167390,MRI angiography of head
-RD00210,"BRAIN MRI+MRA(3D,º¸Çè)",4082979,Magnetic resonance imaging of head
-RD00210,"BRAIN MRI+MRA(3D,º¸Çè)",4167390,MRI angiography of head
-RD00211,"BRAIN MRI+MRA(3D,CarotidÆ÷ÇÔ)+Diffusion",3053115,Brain MRI diffusion weighted
-RD00211,"BRAIN MRI+MRA(3D,CarotidÆ÷ÇÔ)+Diffusion",4167390,MRI angiography of head
-RD00212,BRAIN MRI+MRA(3D-º¸Çè)-CAROTIDÆ÷ÇÔ,4082979,Magnetic resonance imaging of head
-RD00212,BRAIN MRI+MRA(3D-º¸Çè)-CAROTIDÆ÷ÇÔ,4167390,MRI angiography of head
-RD00213,BRAIN MRI+MRA+DIFF(º¸Çè-3D-CA),3053115,Brain MRI diffusion weighted
-RD00213,BRAIN MRI+MRA+DIFF(º¸Çè-3D-CA),4167390,MRI angiography of head
+RD00210,"BRAIN MRI+MRA(3D,ë³´í—˜)",4082979,Magnetic resonance imaging of head
+RD00210,"BRAIN MRI+MRA(3D,ë³´í—˜)",4167390,MRI angiography of head
+RD00211,"BRAIN MRI+MRA(3D,Carotidí¬í•¨)+Diffusion",3053115,Brain MRI diffusion weighted
+RD00211,"BRAIN MRI+MRA(3D,Carotidí¬í•¨)+Diffusion",4167390,MRI angiography of head
+RD00212,BRAIN MRI+MRA(3D-ë³´í—˜)-CAROTIDí¬í•¨,4082979,Magnetic resonance imaging of head
+RD00212,BRAIN MRI+MRA(3D-ë³´í—˜)-CAROTIDí¬í•¨,4167390,MRI angiography of head
+RD00213,BRAIN MRI+MRA+DIFF(ë³´í—˜-3D-CA),3053115,Brain MRI diffusion weighted
+RD00213,BRAIN MRI+MRA+DIFF(ë³´í—˜-3D-CA),4167390,MRI angiography of head
 RD00214,BRAIN MRI+MRA+DIFFUSION,3053115,Brain MRI diffusion weighted
 RD00214,BRAIN MRI+MRA+DIFFUSION,4167390,MRI angiography of head
 RD00215,Brain SPECT (HMPAO),3040112,Brain SPECT W Tc-99m HMPAO IV
 RD00216,Brain SPECT(Diamox 1Day),3040861,Brain SPECT
-RD00217,Brain Stem Audiometry(¿ªÄ¡ÃøÁ¤),2007867,Audiometry
-RD00218,"Brain+MRA(º¸Çè,3D,CarotidÆ÷ÇÔ)",4167390,MRI angiography of head
+RD00217,Brain Stem Audiometry(ì—­ì¹˜ì¸¡ì •),2007867,Audiometry
+RD00218,"Brain+MRA(ë³´í—˜,3D,Carotidí¬í•¨)",4167390,MRI angiography of head
 RD00219,Breast Sonography,4264054,Ultrasonography of breast
 RD00220,Bronchoscopy with Biopsy,4206027,Bronchoscopy with biopsy
-RD00221,B-SCAN(¾È°ú),4287267,"Ophthalmic echography, contact B-scan"
+RD00221,B-SCAN(ì•ˆê³¼),4287267,"Ophthalmic echography, contact B-scan"
 RD00222,BT Femoral Arterio.,4230681,Femoral angiography
 RD00223,BT Foot AP & Lat.,3050831,Foot - bilateral X-ray AP and lateral
 RD00224,BT Lower Extremity Doppler,4152022,Doppler
@@ -239,7 +239,7 @@ RD00230,CD(Carotid Doppler),4214675,Carotid artery doppler assessment
 RD00231,Celiac Arterio.,4186758,Coeliac arteriogram
 RD00232,Central Venous Catheter Insertion,4141149,Open insertion of central venous catheter
 RD00233,CERVICAL MRI,4082840,Magnetic resonance imaging of cervical spine
-RD00234,CERVICAL MRI(º¸Çè),3009302,Spine Cervical MRI
+RD00234,CERVICAL MRI(ë³´í—˜),3009302,Spine Cervical MRI
 RD00235,CHEST AP,3052492,Chest X-ray AP single view
 RD00236,Chest AP(PA),4163872,Plain chest X-ray
 RD00237,Chest AP(Portable),3010901,Chest X-ray AP portable
@@ -280,8 +280,8 @@ RD00271,Colonoscopy(GIMD),2002703,Colonoscopy
 RD00272,Colposcopy,4189586,Colposcopy
 RD00273,Common carotid Angio,4169766,Fluoroscopic angiography of common carotid artery
 RD00274,Coronary angio,4142645,Coronary angiography
-RD00275,Coronary Angiography(½ÉµµÀÚ½Ç),4142645,Coronary angiography
-RD00276,CR use (simple X-RAY)1¸Å,4137372,Portable X-ray
+RD00275,Coronary Angiography(ì‹¬ë„ìì‹¤),4142645,Coronary angiography
+RD00276,CR use (simple X-RAY)1ë§¤,4137372,Portable X-ray
 RD00277,C-Spine AP,3006205,Spine Cervical X-ray AP single view
 RD00278,C-SPINE AP & LAT  & BOTH OBL,3048141,Spine Cervical X-ray AP and lateral and oblique
 RD00279,C-Spine AP & Lat.,3010750,Spine Cervical X-ray AP and lateral
@@ -358,12 +358,12 @@ RD00344,Cystoscopy,4085429,Endoscopic examination of bladder
 RD00345,DEXA BONE DENSITOMETRY-1 SITE,4195803,Bone density scan
 RD00346,DEXA BONE DENSITOMETRY-2 SITE,4195803,Bone density scan
 RD00347,Digital Doppler Test Foot,4145975,Ultrasound scan of foot
-RD00348,Digital Panorama(±Ş¿©),2006653,Other dental x-ray
+RD00348,Digital Panorama(ê¸‰ì—¬),2006653,Other dental x-ray
 RD00349,"DITI, Cervical Region & Upper. ext",4231544,Thermography
-RD00350,"DITI, Cervical Region & Upper. ext(Áø´Ü¹æ»ç¼±)",4231544,Thermography
+RD00350,"DITI, Cervical Region & Upper. ext(ì§„ë‹¨ë°©ì‚¬ì„ )",4231544,Thermography
 RD00351,"DITI, Head & P.N.S",4271713,Cerebral thermography
 RD00352,"DITI, Lumbo Sacral & Lower. ext",2006953,Thermography of other sites
-RD00353,"DITI, Lumbo Sacral & Lower. ext(Áø´Ü¹æ»ç¼±)",2006953,Thermography of other sites
+RD00353,"DITI, Lumbo Sacral & Lower. ext(ì§„ë‹¨ë°©ì‚¬ì„ )",2006953,Thermography of other sites
 RD00354,"DITI, Thorax & T-Spine",4231544,Thermography
 RD00355,DLCo (Co Diffusion Capacity),4265529,Carbon monoxide diffusing capacity measurement
 RD00356,D-L-SPINE AP (STAND),2006659,X-ray of spine
@@ -381,8 +381,8 @@ RD00367,"DRMammography ,Lt.",4264327,Unilateral mammography
 RD00368,"DRMammography ,Rt.",4264327,Unilateral mammography
 RD00369,Duodenoscopic Biopsy,4076855,Endoscopic biopsy of duodenum
 RD00370,E. R. C. P,4304943,Endoscopic retrograde cholangiopancreatography
-RD00371,"Echo Doppler Color (1,2 È¸)",4311293,Colour doppler ultrasound
-RD00372,Echo Doppler M-mode (3È¸ºÎÅÍ),4090698,"Echography, M-mode"
+RD00371,"Echo Doppler Color (1,2 íšŒ)",4311293,Colour doppler ultrasound
+RD00372,Echo Doppler M-mode (3íšŒë¶€í„°),4090698,"Echography, M-mode"
 RD00373,Echocardiogram,4230911,US scan of heart
 RD00374,Echocardiogram (F/U),4230911,US scan of heart
 RD00375,Echocardiogram(f.u)(PED),4230911,US scan of heart
@@ -396,22 +396,22 @@ RD00382,"EKG, Routin & Rhythm Strip<p>",2007076,Rhythm electrocardiogram
 RD00383,"EKG, Routin<P>",4187078,Electrocardiographic monitoring
 RD00384,"EKG, Routine",4187078,Electrocardiographic monitoring
 RD00385,Electrocochleography,2000944,Electrocochleography
-RD00386,Electronystagmography(±Ş¼Ó¹×ÃßÀû¾È±¸),4246330,Electronystagmogram
-RD00387,"EMG and NCV,»óÁö(ÆíÃø)(RM)",2007526,Electromyography
-RD00387,"EMG and NCV,»óÁö(ÆíÃø)(RM)",4098783,Mixed nerve conduction study
-RD00388,"EMG and NCV,ÇÏÁö(ÆíÃø)(RM)",2007526,Electromyography
-RD00388,"EMG and NCV,ÇÏÁö(ÆíÃø)(RM)",4098783,Mixed nerve conduction study
-RD00389,"EMG, °æÃß ¶Ç´Â ¿äÃß(RM)",2007526,Electromyography
-RD00390,"EMG, ¿äÃß ¶Ç´Â °æÃß(RM)",2007526,Electromyography
+RD00386,Electronystagmography(ê¸‰ì†ë°ì¶”ì ì•ˆêµ¬),4246330,Electronystagmogram
+RD00387,"EMG and NCV,ìƒì§€(í¸ì¸¡)(RM)",2007526,Electromyography
+RD00387,"EMG and NCV,ìƒì§€(í¸ì¸¡)(RM)",4098783,Mixed nerve conduction study
+RD00388,"EMG and NCV,í•˜ì§€(í¸ì¸¡)(RM)",2007526,Electromyography
+RD00388,"EMG and NCV,í•˜ì§€(í¸ì¸¡)(RM)",4098783,Mixed nerve conduction study
+RD00389,"EMG, ê²½ì¶” ë˜ëŠ” ìš”ì¶”(RM)",2007526,Electromyography
+RD00390,"EMG, ìš”ì¶” ë˜ëŠ” ê²½ì¶”(RM)",2007526,Electromyography
 RD00391,Endoscopic Colonic Polypectomy A,4103380,Endoscopic polypectomy of large intestine
-RD00392,"Endoscopic Colonic Polypectomy,Ãß°¡",4103380,Endoscopic polypectomy of large intestine
+RD00392,"Endoscopic Colonic Polypectomy,ì¶”ê°€",4103380,Endoscopic polypectomy of large intestine
 RD00393,Endoscopic Ultrasonograpy(EUS),42872565,Endoscopic ultrasonography
 RD00394,Entire Femur AP & Lat,3047645,Femur X-ray AP and lateral
 RD00395,Epley Maneuver(ENT),4024696,Epley manoeuvre
 RD00396,ERCP,4304943,Endoscopic retrograde cholangiopancreatography
 RD00397,Esophagogastroduodenoscopy,4294382,Esophagogastroduodenoscopy
 RD00398,Esophagography,4059066,Barium swallow
-RD00399,ESOPHAGOGRAPHY(¼Ö·ÎÅ¾),4059066,Barium swallow
+RD00399,ESOPHAGOGRAPHY(ì†”ë¡œíƒ‘),4059066,Barium swallow
 RD00400,Esophagoscopic Biopsy,4324694,Esophagoscopy for biopsy
 RD00401,ESTRIOL(E3),3026901,Estriol (E3) [Mass/volume] in Urine
 RD00402,Facial EMG and NCV(RM),2007526,Electromyography
@@ -428,7 +428,7 @@ RD00411,Frog Position,3016808,Hip X-ray lateral frog
 RD00412,Fundus Fluorescein Angiography(Bilateral,4099539,Fluorescein angiography
 RD00413,Fundus Fluorescein Angiography(unilatera,4099539,Fluorescein angiography
 RD00414,Fundus photo(non-mydriatic),2007826,Fundus photography
-RD00415,Fundus photo(non-mydriatic)(¾çÃø),2007826,Fundus photography
+RD00415,Fundus photo(non-mydriatic)(ì–‘ì¸¡),2007826,Fundus photography
 RD00416,Fundus Photography (Bilateral),2007826,Fundus photography
 RD00417,Gastroscopic Biopsy,4004241,Endoscopic biopsy of stomach
 RD00418,Glucose Tolerance Test(75g),2212358,Glucagon tolerance test
@@ -440,11 +440,11 @@ RD00423,HBV-DNA,3014700,Hepatitis B virus DNA [Units/volume] in Serum
 RD00424,Heart SestaMIBI SPECT(Stress+Rest),3042024,Heart SPECT at rest and W stress and W Tc-99m Sestamibi IV
 RD00425,Hepatic Arterio.,4044875,Arteriography
 RD00426,Holter Monitoring,3010479,Holter monitor study
-RD00427,HRA Angiography (´Ü¾È),4099539,Fluorescein angiography
-RD00428,HRA Angiography (¾ç¾È),4252039,Ophthalmic angiography
+RD00427,HRA Angiography (ë‹¨ì•ˆ),4099539,Fluorescein angiography
+RD00428,HRA Angiography (ì–‘ì•ˆ),4252039,Ophthalmic angiography
 RD00429,I. V. P,2006738,Intravenous pyelogram
 RD00430,I.V.P,2006738,Intravenous pyelogram
-RD00431,I-131 Ä¡·áÈÄ Scan,4346614,Radioactive iodine uptake
+RD00431,I-131 ì¹˜ë£Œí›„ Scan,4346614,Radioactive iodine uptake
 RD00432,I-131 Uptake,4346614,Radioactive iodine uptake
 RD00433,I-131 Whole Body Scan,4346952,Whole body radioiodine I131 study
 RD00434,I-131 Whole Body scan(Admission),3038845,Scan whole body W I-131 MIBG IV
@@ -513,9 +513,9 @@ RD00496,LEFT SHOULDER MRI,3012573,Shoulder - left MRI
 RD00497,LEFT WRIST LAT (NEUTRAL),3047625,Wrist X-ray lateral
 RD00498,LEFT WRIST PA  AND LAT(NEUTRAL),3049342,Wrist - left X-ray PA and lateral
 RD00499,LEFT WRIST PA (NEUTRAL),3048120,Wrist X-ray PA
-RD00500,Leg Doppler(°£ÀÌ¹ı),4152022,Doppler
+RD00500,Leg Doppler(ê°„ì´ë²•),4152022,Doppler
 RD00501,LIVER ASPIRATION BIOPSY C U/S,4303252,US scan and biopsy of liver
-RD00502,LIVER MRI(º¸Çè)+Dynamic,3050260,Liver MRI
+RD00502,LIVER MRI(ë³´í—˜)+Dynamic,3050260,Liver MRI
 RD00503,L-S Spine AP & Lat.,4118954,X-ray of lumbosacral spine
 RD00504,"L-S Spine AP & Lat. & Flex,Ext.",4118954,X-ray of lumbosacral spine
 RD00505,L-S Spine Both Obl.,4118954,X-ray of lumbosacral spine
@@ -591,7 +591,7 @@ RD00574,LT.KNEE AP/LAT.,3049263,Knee - left X-ray AP and lateral
 RD00575,LT.KNEE AP/LAT/BOTH OBL,3048637,Knee - left X-ray AP and lateral and oblique
 RD00576,LT.WRIST AP/LAT/BILLIARD VIEW,3048608,Wrist X-ray AP and lateral and oblique
 RD00577,LUMBAR MRI,3012445,Spine Lumbar MRI
-RD00578,LUMBAR MRI(º¸Çè),4082841,Magnetic resonance imaging of lumbar spine
+RD00578,LUMBAR MRI(ë³´í—˜),4082841,Magnetic resonance imaging of lumbar spine
 RD00579,Lung Biopsy,4303062,Biopsy of lung
 RD00580,Lymphangiography,4177386,Contrast radiology of lymphatic tissue
 RD00581,MAMMOGRAPHY,4324693,Mammography
@@ -625,18 +625,18 @@ RD00607,MR Shoulder c Cont.,4201068,Magnetic resonance imaging of shoulder with 
 RD00608,MR T-L Spine c Cont.,4305538,MRI of thoracolumbar spine
 RD00609,MR T-Spine c Cont.,4305538,MRI of thoracolumbar spine
 RD00610,MR Whole Spine c Cont.,4329770,Magnetic resonance imaging of spine with contrast
-RD00611,MRCP(º¸Çè)+3D,4194588,Magnetic resonance cholangiopancreatography
+RD00611,MRCP(ë³´í—˜)+3D,4194588,Magnetic resonance cholangiopancreatography
 RD00612,MRI L-Spine c Contrast,4185945,Magnetic resonance imaging of lumbar spine with contrast
-RD00613,Myocardium ¾à¹°ºÎÇÏ SPECT (TL-201),3038400,Heart SPECT
+RD00613,Myocardium ì•½ë¬¼ë¶€í•˜ SPECT (TL-201),3038400,Heart SPECT
 RD00614,Nasal Bone Routine,4056685,Plain X-ray facial sinuses
 RD00615,NASAL SERIES,3016350,Nasal bones X-ray
 RD00616,Nasopharyngoscopy,4307682,Nasopharyngoscopy
-RD00617,"NCV(Motor & Sensory N.) & EMG(»óÁö,ÆíÃø)(NEUR)",2007847,Electromyogram of eye [EMG]
-RD00617,"NCV(Motor & Sensory N.) & EMG(»óÁö,ÆíÃø)(NEUR)",4098783,Mixed nerve conduction study
-RD00618,"NCV(Motor & Sensory N.) & EMG(ÇÏÁö,ÆíÃø)(NEUR)",2007526,Electromyography
-RD00618,"NCV(Motor & Sensory N.) & EMG(ÇÏÁö,ÆíÃø)(NEUR)",4098783,Mixed nerve conduction study
-RD00619,"NCV,Motor & Sensory N.(»óÁö,ÆíÃø)(NEUR)",4098783,Mixed nerve conduction study
-RD00620,"NCV,Motor & Sensory N.(ÇÏÁö,ÆíÃø)(NEUR)",4098783,Mixed nerve conduction study
+RD00617,"NCV(Motor & Sensory N.) & EMG(ìƒì§€,í¸ì¸¡)(NEUR)",2007847,Electromyogram of eye [EMG]
+RD00617,"NCV(Motor & Sensory N.) & EMG(ìƒì§€,í¸ì¸¡)(NEUR)",4098783,Mixed nerve conduction study
+RD00618,"NCV(Motor & Sensory N.) & EMG(í•˜ì§€,í¸ì¸¡)(NEUR)",2007526,Electromyography
+RD00618,"NCV(Motor & Sensory N.) & EMG(í•˜ì§€,í¸ì¸¡)(NEUR)",4098783,Mixed nerve conduction study
+RD00619,"NCV,Motor & Sensory N.(ìƒì§€,í¸ì¸¡)(NEUR)",4098783,Mixed nerve conduction study
+RD00620,"NCV,Motor & Sensory N.(í•˜ì§€,í¸ì¸¡)(NEUR)",4098783,Mixed nerve conduction study
 RD00621,NECK AP,3031125,Neck X-ray AP single view
 RD00622,Neck AP & Lat.,3034670,Neck X-ray AP and lateral
 RD00623,Neck AP/LT.LAT,3034670,Neck X-ray AP and lateral
@@ -646,9 +646,9 @@ RD00626,Neck Lat.,3006929,Neck X-ray lateral
 RD00627,NECK RIGHT LAT,3006929,Neck X-ray lateral
 RD00628,Neck(Lymph node)Aspiration Biopsy c U/S,4331518,Aspiration using ultrasound guidance
 RD00629,Neck(Thyroid) Aspiration Biopsy c U/S,4106711,Fine needle biopsy of thyroid
-RD00630,Neonatal Screening 7Á¾,4246502,Neonatal screening
+RD00630,Neonatal Screening 7ì¢…,4246502,Neonatal screening
 RD00631,"Neonatal TSH,Phenylalanine",4246502,Neonatal screening
-RD00632,NEONETAL SCREEN TEST(6Á¾),4246502,Neonatal screening
+RD00632,NEONETAL SCREEN TEST(6ì¢…),4246502,Neonatal screening
 RD00633,NST,4308655,Nonstress test
 RD00634,"NST, Follow-up",4308655,Nonstress test
 RD00635,OBGY Simple U/S,4037672,Ultrasonography
@@ -670,7 +670,7 @@ RD00650,P.C.D(LUNG),4069213,Percutaneous drainage of liver
 RD00651,P.N.S SERIES,4309380,Radiography of nasal sinuses
 RD00652,P.T.A - AV Shunt,4184298,Percutaneous transluminal angioplasty
 RD00653,P-A Cephalogram,4065371,Cephalogram
-RD00654,Panorama(´Ü¼ø),2006653,Other dental x-ray
+RD00654,Panorama(ë‹¨ìˆœ),2006653,Other dental x-ray
 RD00655,Patella Merchant View,3020726,Knee X-ray Merchants
 RD00656,PELVIS  AP & LAT & BOTH OBL,3052420,Pelvis X-ray AP and lateral and oblique
 RD00657,Pelvis AP,4081564,Plain X-ray ischium
@@ -685,16 +685,16 @@ RD00665,PELVIS INLET VIEW,3047441,Pelvis X-ray inlet
 RD00666,PELVIS LAT,3048644,Pelvis X-ray lateral
 RD00667,PELVIS MRI,3021689,Pelvis MRI
 RD00668,PELVIS OUTLET VIEW,3049957,Pelvis X-ray outlet
-RD00669,Periapical  view Radiography(3¸Å),4346193,Dental X-ray periapical
-RD00670,Periapical Radiography(1¸Å),4346193,Dental X-ray periapical
-RD00671,Periapical view Radiography(1¸Å),4346193,Dental X-ray periapical
-RD00672,Periapical view Radiography(2¸Å),4346193,Dental X-ray periapical
-RD00673,PFT c Bronchodilator Inhalation(6Á¾),3038933,Pulmonary Function Tests
-RD00673,PFT c Bronchodilator Inhalation(6Á¾),4133841,Inhaled bronchodilator therapy
-RD00674,PFT With Bronchodilator Inhalation(6Á¾),4052083,Lung function tests
-RD00674,PFT With Bronchodilator Inhalation(6Á¾),4133841,Inhaled bronchodilator therapy
-RD00675,"PFT,±â·ù¿ëÀûÆó°î¼±",4297789,Measurement of lung volume
-RD00676,"PFT,±âº»Æó±â´É°Ë»ç(±â·ù¿ëÀûÆó°î¼±)(È£Èí±â³»°ú)",4052083,Lung function tests
+RD00669,Periapical  view Radiography(3ë§¤),4346193,Dental X-ray periapical
+RD00670,Periapical Radiography(1ë§¤),4346193,Dental X-ray periapical
+RD00671,Periapical view Radiography(1ë§¤),4346193,Dental X-ray periapical
+RD00672,Periapical view Radiography(2ë§¤),4346193,Dental X-ray periapical
+RD00673,PFT c Bronchodilator Inhalation(6ì¢…),3038933,Pulmonary Function Tests
+RD00673,PFT c Bronchodilator Inhalation(6ì¢…),4133841,Inhaled bronchodilator therapy
+RD00674,PFT With Bronchodilator Inhalation(6ì¢…),4052083,Lung function tests
+RD00674,PFT With Bronchodilator Inhalation(6ì¢…),4133841,Inhaled bronchodilator therapy
+RD00675,"PFT,ê¸°ë¥˜ìš©ì íê³¡ì„ ",4297789,Measurement of lung volume
+RD00676,"PFT,ê¸°ë³¸íê¸°ëŠ¥ê²€ì‚¬(ê¸°ë¥˜ìš©ì íê³¡ì„ )(í˜¸í¡ê¸°ë‚´ê³¼)",4052083,Lung function tests
 RD00677,PNS Series,4179075,Plain X-ray guided wire localization of breast lesion
 RD00678,PNS Water's View,3053070,Sinuses X-ray Waters
 RD00679,PORTABLE EEG,4205144,Portable electroencephalogram
@@ -702,7 +702,7 @@ RD00680,Portal Film Verification and Correction,4144379,Verification routine
 RD00681,Posturography,2313721,Computerized dynamic posturography
 RD00682,Prostate Biopsy c U/S,4302200,US scan and biopsy of prostate
 RD00683,PTA(Pure Tone Audiometry),4091134,Pure tone audiometry
-RD00684,PTBD (1Â÷),4201632,Percutaneous transhepatic insertion of biliary drain
+RD00684,PTBD (1ì°¨),4201632,Percutaneous transhepatic insertion of biliary drain
 RD00685,Punch Biopsy,4287567,Punch biopsy
 RD00686,R. G. P,2006739,Retrograde pyelogram
 RD00687,Rapid ACTH Stimulation Test,4089510,Cosyntropin test
@@ -812,15 +812,15 @@ RD00790,RT.KNEE AP/LAT.,3047560,Knee - right X-ray AP and lateral
 RD00791,RT.KNEE AP/LAT/BOTH OBL,3049889,Knee - right X-ray AP and lateral and oblique
 RD00792,RT.WRIST AP/LAT/BILLIARD VIEW,3048608,Wrist X-ray AP and lateral and oblique
 RD00793,Salivary Gland Scan,3041206,Salivary gland Scan
-RD00794,Scanogram Leg with wt bearing< 6¼¼,2211819,"Bone length studies (orthoroentgenogram, scanogram)"
-RD00795,Scanogram Leg with wt bearing> 6¼¼,2211819,"Bone length studies (orthoroentgenogram, scanogram)"
+RD00794,Scanogram Leg with wt bearing< 6ì„¸,2211819,"Bone length studies (orthoroentgenogram, scanogram)"
+RD00795,Scanogram Leg with wt bearing> 6ì„¸,2211819,"Bone length studies (orthoroentgenogram, scanogram)"
 RD00796,"SCOLIOSIS(T,L-SPINE AP/LAT)",3015485,Spine X-ray scoliosis AP and lateral
 RD00797,Scrotal Doppler,4234037,Doppler ultrasonography of testis
 RD00798,Segmental Doppler Test,4152022,Doppler
-RD00799,SEIZURE MRI(º¸Çè),4082979,Magnetic resonance imaging of head
+RD00799,SEIZURE MRI(ë³´í—˜),4082979,Magnetic resonance imaging of head
 RD00800,Selective Pelvic Arterio.,4044875,Arteriography
-RD00801,SEP(»óÁö),4161798,Somatosensory evoked potentials monitoring
-RD00802,SEP(ÇÏÁö)(NEUR),4161798,Somatosensory evoked potentials monitoring
+RD00801,SEP(ìƒì§€),4161798,Somatosensory evoked potentials monitoring
+RD00802,SEP(í•˜ì§€)(NEUR),4161798,Somatosensory evoked potentials monitoring
 RD00803,Shielding Block(A),4040580,Making of shielding block for radiotherapy
 RD00804,Sigmoidoscopic Biopsy,4262588,Sigmoidoscopy with biopsy
 RD00805,Sigmoidoscopy,4087381,SIGy - Sigmoidoscopy
@@ -838,20 +838,20 @@ RD00816,Skull Series,3018228,Skull X-ray
 RD00817,Skull series(AP/both Lat/Towns),3018228,Skull X-ray
 RD00818,Skull Town's,3047870,Skull X-ray Towne
 RD00819,Skull Water's,3007959,Skull X-ray Waters
-RD00820,"Sleep EEG(¾à¹°,¼ö¸é¹ÚÅ»)",4088246,Sleep EEG
-RD00821,Slide »çÁøÃÔ¿µ,4055118,Photography of patient
+RD00820,"Sleep EEG(ì•½ë¬¼,ìˆ˜ë©´ë°•íƒˆ)",4088246,Sleep EEG
+RD00821,Slide ì‚¬ì§„ì´¬ì˜,4055118,Photography of patient
 RD00822,SMALL BOWEL SERIES,2006720,Small bowel series
 RD00823,SONO guided needle bx.of thyroid,3047660,US Guidance for needle biopsy of Thyroid
 RD00824,Sonography of thyroid,4198775,Ultrasonography of thyroid and parathyroid
 RD00825,Sonography of thyroid(F/U),3001462,Thyroid US
 RD00826,special USG (OBGY),4037672,Ultrasonography
 RD00827,Speech Audiometry,4091138,Speech audiometry
-RD00828,Speech Evaluation-Simple(À½¼º°Ë»ç½Ç),2211323,Complex dynamic pharyngeal and speech evaluation by cine or video recording
-RD00829,Speech Therapy(¾ğ¾îÄ¡·á½Ç),4201412,Speech therapy
+RD00828,Speech Evaluation-Simple(ìŒì„±ê²€ì‚¬ì‹¤),2211323,Complex dynamic pharyngeal and speech evaluation by cine or video recording
+RD00829,Speech Therapy(ì–¸ì–´ì¹˜ë£Œì‹¤),4201412,Speech therapy
 RD00830,SPINE MRI POSTOP,3021892,MRI Spine study
 RD00831,Spirometry,4133840,Spirometry
-RD00832,Spirometry(¾Ë·¹¸£±â),4133840,Spirometry
-RD00833,Spirometry(È£Èí±â),4133840,Spirometry
+RD00832,Spirometry(ì•Œë ˆë¥´ê¸°),4133840,Spirometry
+RD00833,Spirometry(í˜¸í¡ê¸°),4133840,Spirometry
 RD00834,Standard Lateral Cephalogram,4081877,Cephalometry X-ray
 RD00835,Standard Panoramic View,4056685,Plain X-ray facial sinuses
 RD00836,Static Quantitative Perimetry(Bilateral),4013574,Automated static perimetry
@@ -860,7 +860,7 @@ RD00838,"Stent Implantation, Coronary",4283892,Placement of stents in coronary a
 RD00839,"Stent Implantation, Coronary(Additionl Vessel)",4283892,Placement of stents in coronary artery
 RD00840,Sternum Lat. & Obl.,4163872,Plain chest X-ray
 RD00841,STERNUM VIEW(2),3051507,Sternum X-ray 2 views
-RD00842,Study °Ë»ç,4002165,Clinical trials
+RD00842,Study ê²€ì‚¬,4002165,Clinical trials
 RD00843,Sup. Mesenteric Arterio.,4170912,Superior mesenteric arteriogram
 RD00844,Swimmer's View,4056681,Plain x-ray
 RD00845,TACE(Single Vessel),40487040,Transarterial oily chemoembolisation
@@ -896,7 +896,7 @@ RD00873,Tubography,4198451,Contrast radiography via drain
 RD00874,U. G. I,4230374,Upper gastrointestinal procedure
 RD00875,U. S. G,4037672,Ultrasonography
 RD00876,U.S.G (OBGY),4037672,Ultrasonography
-RD00877,U.S.G(ºÒÀÓ¼¾Å¸¿ë),4037672,Ultrasonography
+RD00877,U.S.G(ë¶ˆì„ì„¼íƒ€ìš©),4037672,Ultrasonography
 RD00878,U/S Abd.Routine,4261497,Ultrasonography of abdomen
 RD00879,U/S Brain Routine,4222750,Ultrasonography for midline shift of brain
 RD00880,U/S Breast,4264054,Ultrasonography of breast
@@ -916,9 +916,9 @@ RD00893,U/S Thyroid,3001462,Thyroid US
 RD00894,U/S Thyroid(HEXC),3001462,Thyroid US
 RD00895,U/S Transrectal,40486003,Ultrasonography by transrectal approach
 RD00896,U/S Transvaginal,2211765,"Ultrasound, transvaginal"
-RD00897,"UGI Endoscopic Bleeding Control, 1Â÷",2002622,Endoscopic control of gastric or duodenal bleeding
+RD00897,"UGI Endoscopic Bleeding Control, 1ì°¨",2002622,Endoscopic control of gastric or duodenal bleeding
 RD00898,UGI Endoscopic Helicobcter Pylori Study,4304824,Helicobacter pylori antigen assay
-RD00899,UGI Endoscopic Varicele Ligation(EVL) (1Â÷),40489324,Endoscopic ligation of varices of small intestine
+RD00899,UGI Endoscopic Varicele Ligation(EVL) (1ì°¨),40489324,Endoscopic ligation of varices of small intestine
 RD00900,"Ultrasonogram Guided Needle Biopsy, Liver",3043805,US Guidance for needle biopsy of Liver
 RD00901,"Ultrasonography, Conventional, Abdominal",4261497,Ultrasonography of abdomen
 RD00902,Upper Extremity long bone Both. AP & Lat,3021435,Upper extremity X-ray
@@ -929,13 +929,13 @@ RD00906,V. C. U. G,4184736,Voiding urethrocystography
 RD00907,Vector assay,4078283,Pest control
 RD00908,VEMP,4154583,Auditory evoked potentials monitoring
 RD00909,Video Esophagography(Swallowing Evaluation),4059066,Barium swallow
-RD00910,Video-¾ÈÁø°Ë»ç(SVV),4239654,Nystagmus test
+RD00910,Video-ì•ˆì§„ê²€ì‚¬(SVV),4239654,Nystagmus test
 RD00911,VOIDING CYSTOURETHROGRAM,4184736,Voiding urethrocystography
-RD00912,W/B and Brain FDG PET(°ÇÁø¼¾ÅÍ¿ë),4305790,PET - Positron emission tomography
-RD00913,"Waking & Sleep EEG(¾à¹°,¼ö¸é¹ÚÅ»)",4181917,EEG - Electroencephalography
+RD00912,W/B and Brain FDG PET(ê±´ì§„ì„¼í„°ìš©),4305790,PET - Positron emission tomography
+RD00913,"Waking & Sleep EEG(ì•½ë¬¼,ìˆ˜ë©´ë°•íƒˆ)",4181917,EEG - Electroencephalography
 RD00914,Waking EEG,4181917,EEG - Electroencephalography
 RD00915,WATER`S VIEW,3053070,Sinuses X-ray Waters
-RD00916,Whole Body FDG PET(°ÇÁø¼¾ÅÍ¿ë),4201352,Positron emission tomography fluorodeoxyglucose imaging of whole body
+RD00916,Whole Body FDG PET(ê±´ì§„ì„¼í„°ìš©),4201352,Positron emission tomography fluorodeoxyglucose imaging of whole body
 RD00917,Whole Spine AP & Lat (Standing),4081564,Plain X-ray ischium
 RD00918,Whole Spine AP (Erect),2006659,X-ray of spine
 RD00919,Zygomatic Arch,3003872,Zygomatic arch X-ray
