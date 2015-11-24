@@ -1,164 +1,164 @@
 mapping_num,description,omop_concept_id,omop_concept_name
 LB00001,25-OH Vitamin D3(Serum),3020149,Calcidiol [Mass/volume] in Serum or Plasma
-LB00002,°©»ó¼±ÀÚ±ØÈ£¸£¸ó(TSH)(Serum),3009201,Thyrotropin [Units/volume] in Serum or Plasma
-LB00003,°áÇÙ±ÕÆ¯ÀÌÇ×¿ø ÀÚ±Ø ÀÎÅÍÆä·Ð-°¨¸¶(Àü¿ë),42869528,Mycobacterium tuberculosis stimulated gamma interferon [Presence] in Blood
-LB00004,±âÅ¸ °¨¿°Áõ Ç×Ã¼(Á¤¹Ð)-IgG-Rickettsia(Serum),3034897,Rickettsia sp IgG Ab [Units/volume] in Serum
-LB00005,³­Æ÷ÀÚ±ØÈ£¸£¸ó(FSH)(Serum),3023323,Follitropin [Units/volume] in Serum or Plasma
-LB00006,³ú¼º³ªÆ®·ýÀÌ´¢ÆéÅ¸ÀÌµå(WB(EDTA)),4307029,Brain natriuretic peptide measurement
-LB00007,¸¶ÀÌ¿À±Û·Îºó(Á¤·®)(Serum),3006346,Myoglobin [Presence] in Serum or Plasma
-LB00008,¸¶ÀÌ¿À±Û·Îºó(Á¤·®)(Urine (Random)),3011470,Myoglobin [Presence] in Urine
-LB00009,¸é¿ª±Û·Îºí¸°Á¤·®(IgG)(C.S.F),3033455,IgG in CSF/IgG in serum
-LB00010,¸é¿ª±Û·Îºí¸°Á¤·®(IgG)(Serum),3033455,IgG in CSF/IgG in serum
-LB00011,¸ð¹ß¹Ì³×¶ö°Ë»ç(TMA)(Hair),4044361,Procedure on hair
-LB00012,¹Ì·®¾ËºÎ¹Î°Ë»ç(Á¤·®)(Urine (12hr)),40760483,Microalbumin [Mass/volume] in 12 hour Urine
-LB00013,¹Ì·®¾ËºÎ¹Î°Ë»ç(Á¤·®)(Urine (24hr)),3005031,Microalbumin [Mass/volume] in 24 hour Urine
-LB00014,¹Ì·®¾ËºÎ¹Î°Ë»ç(Á¤·®)(Urine (Random)),4020542,"Microalbumin measurement, urine, quantitative"
-LB00015,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Abdominal abscess)",4165398,Mycology culture
-LB00016,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Biopsy tissue)",3019439,Fungus identified in Tissue by Culture
-LB00017,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(BM(Culture¿ë))",3021697,Fungus identified in Bone marrow by Culture
-LB00018,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Bone)",4165398,Mycology culture
-LB00019,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Brain abscess)",4165398,Mycology culture
-LB00020,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(CAPD)",4165398,Mycology culture
-LB00021,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Close pus)",4165398,Mycology culture
-LB00022,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Conjunctiva)",3019439,Fungus identified in Tissue by Culture
-LB00023,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Cornea)",3019439,Fungus identified in Tissue by Culture
-LB00024,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Ear Discharge)",4165398,Mycology culture
-LB00025,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Eye Discharge)",4165398,Mycology culture
-LB00026,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Hair)",3019359,Fungus identified in Hair by Culture
-LB00027,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(IV Catheter Tip)",4165398,Mycology culture
-LB00028,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Liver abscess)",4165398,Mycology culture
-LB00029,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Lung abscess)",4165398,Mycology culture
-LB00030,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Lymph node)",3019439,Fungus identified in Tissue by Culture
-LB00031,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Nail)",3005433,Fungus identified in Nail by Culture
-LB00032,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Open pus)",3035133,Fungus identified in Wound by Culture
-LB00033,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Other(Please see message!))",3000494,Fungus identified in Unspecified specimen by Culture
-LB00034,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Pelvis abscess)",4165398,Mycology culture
-LB00035,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Pin)",4165398,Mycology culture
-LB00036,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Rectal Swab)",3012927,Fungus identified in Stool by Culture
-LB00037,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Skin)",3002951,Fungus identified in Skin by Culture
-LB00038,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Stool)",3012927,Fungus identified in Stool by Culture
-LB00039,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(±â?Fungus culture(±âÅ¸)(Suction Tip)",4165398,Mycology culture
-LB00040,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(Ç÷?Fungus culture(Ç÷¾×,Ã¼¾×)(Amniotic Fluid)",3015592,Fungus identified in Body fluid by Culture
-LB00041,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(Ç÷?Fungus culture(Ç÷¾×,Ã¼¾×)(Ascitic fluid(EDTA))",3000835,Fungus identified in Peritoneal fluid by Culture
-LB00042,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(Ç÷?Fungus culture(Ç÷¾×,Ã¼¾×)(Ascitic fluid)",3000835,Fungus identified in Peritoneal fluid by Culture
-LB00043,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(Ç÷?Fungus culture(Ç÷¾×,Ã¼¾×)(Bile juice)",3015592,Fungus identified in Body fluid by Culture
-LB00044,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(Ç÷?Fungus culture(Ç÷¾×,Ã¼¾×)(Bone Marrow Biopsy)",3021697,Fungus identified in Bone marrow by Culture
-LB00045,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(Ç÷?Fungus culture(Ç÷¾×,Ã¼¾×)(C.S.F)",3015592,Fungus identified in Body fluid by Culture
-LB00046,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(Ç÷?Fungus culture(Ç÷¾×,Ã¼¾×)(Catheter)",4165398,Mycology culture
-LB00047,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(Ç÷?Fungus culture(Ç÷¾×,Ã¼¾×)(Gastric juice)",3015592,Fungus identified in Body fluid by Culture
-LB00048,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(Ç÷?Fungus culture(Ç÷¾×,Ã¼¾×)(Joint fluid)",3002444,Fungus identified in Synovial fluid by Culture
-LB00049,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(Ç÷?Fungus culture(Ç÷¾×,Ã¼¾×)(Pericadial fluid)",3015592,Fungus identified in Body fluid by Culture
-LB00050,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(Ç÷?Fungus culture(Ç÷¾×,Ã¼¾×)(Peritosol)",3000835,Fungus identified in Peritoneal fluid by Culture
-LB00051,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(Ç÷?Fungus culture(Ç÷¾×,Ã¼¾×)(Pleural fluid)",3015592,Fungus identified in Body fluid by Culture
-LB00052,"¹Ì»ý¹°¹è¾ç,µ¿Á¤,¾àÁ¦°¨¼ö¼º(Ç÷?Fungus culture(Ç÷¾×,Ã¼¾×)(WB (Ç÷¾× ¹è¾ç¿ë±â 2°³))",3009171,Fungus identified in Blood by Culture
-LB00053,"¹Ì»ý¹°¹è¾ç,µ¿Á¤¹×Ç×±ÕÁ¦ÃÖ¼Ò¾ïÁ¦³óµµ°Ë»ç(±âÅ¸ºÎÀ§°Ë(Nasal Aspirate)",4189544,Microbial culture
-LB00054,"¹Ì»ý¹°¹è¾ç,µ¿Á¤¹×Ç×±ÕÁ¦ÃÖ¼Ò¾ïÁ¦³óµµ°Ë»ç(¼Ò¾Æ)(WB (Ç÷¾× ¹è¾ç¿ë±â 2°³))",4107893,Blood culture
-LB00055,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Ascitic fluid),3010047,Microscopic observation [Identifier] in Body fluid by Acid fast stain
-LB00056,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Aseptic Urine (Cath)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
-LB00057,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Aseptic Urine (Voided)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
-LB00058,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Biopsy tissue),3012337,Microscopic observation [Identifier] in Tissue by Acid fast stain
-LB00059,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Bone Marrow Biopsy),3010047,Microscopic observation [Identifier] in Body fluid by Acid fast stain
-LB00060,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Bronchial larvage),3016485,Microscopic observation [Identifier] in Bronchial specimen by Acid fast stain
-LB00061,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(C.S.F),3012625,Microscopic observation [Identifier] in Cerebral spinal fluid by Acid fast stain
-LB00062,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(CAPD),3010047,Microscopic observation [Identifier] in Body fluid by Acid fast stain
-LB00063,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Close pus),3006874,Mycobacterium sp identified in Isolate by Mycobacterial subtyping
-LB00064,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(EPS),3012337,Microscopic observation [Identifier] in Tissue by Acid fast stain
-LB00065,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Eye Discharge),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
-LB00066,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Gastric juice),3025056,Microscopic observation [Identifier] in Gastric fluid by Acid fast stain
-LB00067,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Joint fluid),3010047,Microscopic observation [Identifier] in Body fluid by Acid fast stain
-LB00068,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Lymph node),3012337,Microscopic observation [Identifier] in Tissue by Acid fast stain
-LB00069,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Open pus),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
-LB00070,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Other(Please see message!)),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
-LB00071,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Pericadial fluid),3010047,Microscopic observation [Identifier] in Body fluid by Acid fast stain
-LB00072,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Pleural fluid),40762035,Microscopic observation [Identifier] in Pleural fluid by Acid fast stain.Ziehl-Neelsen
-LB00073,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Sputum),3011588,Microscopic observation [Identifier] in Sputum by Acid fast stain
-LB00074,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Stool),3026123,Microscopic observation [Identifier] in Stool by Acid fast stain
-LB00075,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Throat Swab),3016485,Microscopic observation [Identifier] in Bronchial specimen by Acid fast stain
-LB00076,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Tracheal aspirate),3016485,Microscopic observation [Identifier] in Bronchial specimen by Acid fast stain
-LB00077,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Urethral discharge),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
-LB00078,¹Ì»ý¹°¹è¾ç¹×µ¿Á¤°Ë»ç(Ç×»ê±Õ¹è¾ç¹×µ¿Á¤°Ë»ç)-¾×Ã¼¹è?(Urine (Random)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
-LB00079,¹ÙÀÌ·¯½ºÇ×¿ø-CMV(P(Sodium citrate)),4146598,Cytomegalovirus antibody measurement
-LB00080,¹ÙÀÌ·¯½ºÇ×¿ø-CMV(WB(EDTA)),3036961,Cytomegalovirus Ag [Presence] in Blood
-LB00081,¹ÙÀÌ·¯½ºÇ×¿ø-Rota virus(Stool (Rota virus¿ë)),3008284,Rotavirus Ag [Presence] in Stool
-LB00082,¹ÙÀÌ·¯½ºÇ×¿ø-Rota virus(Stool),3008284,Rotavirus Ag [Presence] in Stool
-LB00083,¹ÙÀÌ·¯½ºÇ×Ã¼(Á¤¹Ð)-IgG-Hantaan virus(Serum),3014504,Hantavirus hantaan IgG Ab [Units/volume] in Serum
-LB00084,"º£Å¸¿¡Ãë¾¾Áö(Ç÷Ã»,´¢ 24½Ã°£°æ?º£Å¸¿¡ÀÌÃë¾¾Áö(B-HCG)(Serum)",40758990,Choriogonadotropin.beta subunit [Mass/volume] in Serum or Plasma
-LB00085,"º£Å¸¿¡Ãë¾¾Áö(Ç÷Ã»,´¢ 24½Ã°£°æ?º£Å¸¿¡ÀÌÃë¾¾Áö(B-HCG)(Urine (Random))",3019257,Choriogonadotropin.beta subunit [Moles/volume] in Urine
-LB00086,ºÎ°©»ó¼±È£¸£¸ó(PTH)(Serum),3024040,Parathyrin [interpretation] in Serum or Plasma
-LB00087,ºñÀÓ±Õ¼º ¼º°¨¿° PCR(4Á¾)(Aseptic Urine (Voided)),4322045,Polymerase chain reaction analysis
-LB00088,ºñÀÓ±Õ¼º ¼º°¨¿° PCR(4Á¾)(Cervix(PCRÀü¿ë)),4322045,Polymerase chain reaction analysis
-LB00089,ºñÀÓ±Õ¼º ¼º°¨¿° PCR(4Á¾)(Conjunctiva),4322045,Polymerase chain reaction analysis
-LB00090,ºñÀÓ±Õ¼º ¼º°¨¿° PCR(4Á¾)(Open pus),4322045,Polymerase chain reaction analysis
-LB00091,ºñÀÓ±Õ¼º ¼º°¨¿° PCR(4Á¾)(Other(Please see message!)),4322045,Polymerase chain reaction analysis
-LB00092,ºñÀÓ±Õ¼º ¼º°¨¿° PCR(4Á¾)(Sputum),4322045,Polymerase chain reaction analysis
-LB00093,ºñÀÓ±Õ¼º ¼º°¨¿° PCR(4Á¾)(Throat Swab),4322045,Polymerase chain reaction analysis
-LB00094,ºñÀÓ±Õ¼º ¼º°¨¿° PCR(4Á¾)(Urethral discharge),4322045,Polymerase chain reaction analysis
-LB00095,ºñÅ¸¹ÎB12(Serum),2212300,Cyanocobalamin (Vitamin B-12)
-LB00096,»êÀü Triple Test(ºñ±Þ¿©)(Serum),4078287,Triple test
-LB00097,½ÅÁ¾ÀÎÇÃ·ç¿£ÀÚ A(Real Time RT-PCR)(Àü¿ë),2213063,Detection test for influenza A virus
-LB00098,½ÎÀÌ·Î±Û·ÎºÒ¸°(Serum),4219426,Thyroglobulin measurement
-LB00099,½ÎÀÌ·Ï½Å(T4)(Serum),4248132,Thyroxine measurement
-LB00100,¾à¹°¹×µ¶¹°°Ë»ç(Á¤·®)-Á¤¹Ð-Cyclosporin(WB(EDTA)),3010375,Cyclosporine [Mass/volume] in Blood
-LB00101,¿±»ê(Folate)(Serum),3036987,Folate [Mass/volume] in Serum or Plasma
-LB00102,¿À½ºÅ×¿ÀÄ®½Å-ÇÙÀÇÇÐÀû¹æ¹ý(Serum(Osteocalcin¿ë)),3028772,Osteocalcin [Mass/volume] in Serum or Plasma
-LB00103,¿À½ºÅ×¿ÀÄ®½Å-ÇÙÀÇÇÐÀû¹æ¹ý(Serum),3028772,Osteocalcin [Mass/volume] in Serum or Plasma
-LB00104,"¿ä¼ÒÈ£±â°Ë»ç(Çï¸®ÄÚ¹ÚÅÍ°¨¿°, °Ç°­°ËÁø)(¿ä¼ÒÈ£±â°Ë»ç)",44790227,Urea breath test
-LB00105,¿äÀÏ¹Ý°Ë»ç7Á¾±îÁö(Urine (Random)),4055811,Urine examination
-LB00106,¿äÄ§»ç°Ë»ç[À¯¼¼Æ÷ºÐ¼®¹ý](Joint fluid),3038224,Microscopic observation [Identifier] in Urine sediment by Light microscopy
-LB00107,¿äÄ§»ç°Ë»ç[À¯¼¼Æ÷ºÐ¼®¹ý](Urine (Random)),3038224,Microscopic observation [Identifier] in Urine sediment by Light microscopy
-LB00108,À¯¸®°æ¼âÁ¤·®°Ë»ç(Ç÷Ã»)-¶÷´Ù(Serum),3004640,Immunoglobulin light chains.lambda [Mass/volume] in Serum
-LB00109,À¯¸®°æ¼âÁ¤·®°Ë»ç(Ç÷Ã»)-Ä«ÆÄ(Serum),3019812,Immunoglobulin light chains.kappa [Mass/volume] in Serum
-LB00110,ÀÎ½¶¸°(Serum),4060873,Insulin measurement
-LB00111,Àü¸³¼±Æ¯ÀÌÇ×¿øPSA(Serum),3013603,PSA serum/plasma
-LB00112,Á¶Á÷Çü°Ë»ç: HLA-B27 [DNA °Ë»ç¹ý](Patient (Laboratory)),3008898,HLA-B27 [Presence]
-LB00113,Á¶Á÷Çü°Ë»ç: HLA-B27 [DNA °Ë»ç¹ý](WB(EDTA)),3008898,HLA-B27 [Presence]
-LB00114,Á¾¾çÀÇ¿°»öÃ¼°Ë»ç[Ç÷¾×Á¾¾ç](Chromosome(BM:Heparin)),4229610,Chromosome analysis
-LB00115,Áß±Ý¼Ó(Á¤·®)(ICP-ES¹ý ¶Ç´Â ¿øÀÚÈí±¤±¤µµ¹ý)-Li(Àü¿ë),4250616,Plasma emission spectroscopy inductively coupled measurement
-LB00116,Áß±Ý¼Ó(Á¤·®)(ICP-ES¹ý ¶Ç´Â ¿øÀÚÈí±¤±¤µµ¹ý)-Li(Serum),4250616,Plasma emission spectroscopy inductively coupled measurement
-LB00117,Áß±Ý¼Ó(Á¤·®)(ICP-ES¹ý ¶Ç´Â ¿øÀÚÈí±¤±¤µµ¹ý)-Li(Urine (24hr)),4250616,Plasma emission spectroscopy inductively coupled measurement
-LB00118,Áß±Ý¼Ó(Á¤·®)(ICP-ES¹ý ¶Ç´Â ¿øÀÚÈí±¤±¤µµ¹ý)-Li(Urine (Random)),4250616,Plasma emission spectroscopy inductively coupled measurement
-LB00119,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Ascitic fluid),4322045,Polymerase chain reaction analysis
-LB00120,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Aseptic Urine (Voided)),4322045,Polymerase chain reaction analysis
-LB00121,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Biopsy tissue),4322045,Polymerase chain reaction analysis
-LB00122,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](BM(PCR¿ë)),4322045,Polymerase chain reaction analysis
-LB00123,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Bronchial larvage),4322045,Polymerase chain reaction analysis
-LB00124,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](C.S.F),4322045,Polymerase chain reaction analysis
-LB00125,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Close pus),4322045,Polymerase chain reaction analysis
-LB00126,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Gastric juice),4322045,Polymerase chain reaction analysis
-LB00127,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Joint fluid),4322045,Polymerase chain reaction analysis
-LB00128,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Lymph node),4322045,Polymerase chain reaction analysis
-LB00129,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Open pus),4322045,Polymerase chain reaction analysis
-LB00130,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Other(Please see message!)),4322045,Polymerase chain reaction analysis
-LB00131,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Pericadial fluid),4322045,Polymerase chain reaction analysis
-LB00132,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Pleural fluid),4322045,Polymerase chain reaction analysis
-LB00133,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Semen),4322045,Polymerase chain reaction analysis
-LB00134,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Sputum),4322045,Polymerase chain reaction analysis
-LB00135,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Stool),4322045,Polymerase chain reaction analysis
-LB00136,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](Tracheal aspirate),4322045,Polymerase chain reaction analysis
-LB00137,ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ±³Àâ¹ÝÀÀ¹ý[±âÅ¸](WB(EDTA)),4322045,Polymerase chain reaction analysis
-LB00138,ÃÖ¼Ò¾ïÁ¦³óµµ(ºñ´¢.»ý½Ä) & Cul(Aseptic Urine (Cath)),4189544,Microbial culture
-LB00139,ÃÖ¼Ò¾ïÁ¦³óµµ(ºñ´¢.»ý½Ä) & Cul(Aseptic Urine (Voided)),4189544,Microbial culture
-LB00140,ÃÖ¼Ò¾ïÁ¦³óµµ(ºñ´¢.»ý½Ä) & Cul(Cervix),4189544,Microbial culture
-LB00141,ÃÖ¼Ò¾ïÁ¦³óµµ(ºñ´¢.»ý½Ä) & Cul(EPS),4189544,Microbial culture
-LB00142,ÃÖ¼Ò¾ïÁ¦³óµµ(ºñ´¢.»ý½Ä) & Cul(IUD),4189544,Microbial culture
-LB00143,ÃÖ¼Ò¾ïÁ¦³óµµ(ºñ´¢.»ý½Ä) & Cul(Urethral discharge),4189544,Microbial culture
-LB00144,ÃÖ¼Ò¾ïÁ¦³óµµ(ºñ´¢.»ý½Ä) & Cul(Vaginal Discharge),4189544,Microbial culture
-LB00145,Ä®½ÃÅä´Ñ(Serum),4147378,Calcitonin measurement
-LB00146,Ä®½ÃÅä´Ñ(WB(EDTA)),4147378,Calcitonin measurement
-LB00147,ÅÂ¾Æ¼º¾ÏÇ×¿øCEA(Ascitic fluid),3042038,Carcinoembryonic Ag [Mass/volume] in Peritoneal fluid
-LB00148,ÅÂ¾Æ¼º¾ÏÇ×¿øCEA(C.S.F),3023729,Carcinoembryonic Ag [Mass/volume] in Cerebral spinal fluid
-LB00149,ÅÂ¾Æ¼º¾ÏÇ×¿øCEA(Pancreas cyst fluid),3013735,Carcinoembryonic Ag [Mass/volume] in Body fluid
-LB00150,ÅÂ¾Æ¼º¾ÏÇ×¿øCEA(Pericadial fluid),3038258,Carcinoembryonic Ag [Mass/volume] in Pericardial fluid
-LB00151,ÅÂ¾Æ¼º¾ÏÇ×¿øCEA(Pleural fluid),3009804,Carcinoembryonic Ag [Mass/volume] in Pleural fluid
-LB00152,ÅÂ¾Æ¼º¾ÏÇ×¿øCEA(Serum),3003785,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma
-LB00153,Æ®¸®¿äµµÅ¸ÀÌ·Î´Ñ(T3)(Serum),4094598,Triiodothyronine measurement
-LB00154,ÇÁ·Î¶ôÆ¾(Serum),3004722,Prolactin [Mass/volume] in Serum or Plasma
-LB00155,Çü±¤Æ®·¹Æ÷³×¸¶Ç×Ã¼Èí¼ö°Ë»ç(Serum),4240154,Fluorescent treponemal antibody absorption test
-LB00156,È²Ã¼Çü¼ºÈ£¸£¸ó Á¤¼º°Ë»ç [ÇöÀå°Ë»ç](Urine (Random)),3001796,Lutropin [Units/volume] in Urine
-LB00157,È²Ã¼Çü¼ºÈ£¸£¸ó(LH)(Serum),3009214,Lutropin [Units/volume] in Serum or Plasma
+LB00002,ê°‘ìƒì„ ìžê·¹í˜¸ë¥´ëª¬(TSH)(Serum),3009201,Thyrotropin [Units/volume] in Serum or Plasma
+LB00003,ê²°í•µê· íŠ¹ì´í•­ì› ìžê·¹ ì¸í„°íŽ˜ë¡ -ê°ë§ˆ(ì „ìš©),42869528,Mycobacterium tuberculosis stimulated gamma interferon [Presence] in Blood
+LB00004,ê¸°íƒ€ ê°ì—¼ì¦ í•­ì²´(ì •ë°€)-IgG-Rickettsia(Serum),3034897,Rickettsia sp IgG Ab [Units/volume] in Serum
+LB00005,ë‚œí¬ìžê·¹í˜¸ë¥´ëª¬(FSH)(Serum),3023323,Follitropin [Units/volume] in Serum or Plasma
+LB00006,ë‡Œì„±ë‚˜íŠ¸ë¥¨ì´ë‡¨íŽ©íƒ€ì´ë“œ(WB(EDTA)),4307029,Brain natriuretic peptide measurement
+LB00007,ë§ˆì´ì˜¤ê¸€ë¡œë¹ˆ(ì •ëŸ‰)(Serum),3006346,Myoglobin [Presence] in Serum or Plasma
+LB00008,ë§ˆì´ì˜¤ê¸€ë¡œë¹ˆ(ì •ëŸ‰)(Urine (Random)),3011470,Myoglobin [Presence] in Urine
+LB00009,ë©´ì—­ê¸€ë¡œë¸”ë¦°ì •ëŸ‰(IgG)(C.S.F),3033455,IgG in CSF/IgG in serum
+LB00010,ë©´ì—­ê¸€ë¡œë¸”ë¦°ì •ëŸ‰(IgG)(Serum),3033455,IgG in CSF/IgG in serum
+LB00011,ëª¨ë°œë¯¸ë„¤ëž„ê²€ì‚¬(TMA)(Hair),4044361,Procedure on hair
+LB00012,ë¯¸ëŸ‰ì•Œë¶€ë¯¼ê²€ì‚¬(ì •ëŸ‰)(Urine (12hr)),40760483,Microalbumin [Mass/volume] in 12 hour Urine
+LB00013,ë¯¸ëŸ‰ì•Œë¶€ë¯¼ê²€ì‚¬(ì •ëŸ‰)(Urine (24hr)),3005031,Microalbumin [Mass/volume] in 24 hour Urine
+LB00014,ë¯¸ëŸ‰ì•Œë¶€ë¯¼ê²€ì‚¬(ì •ëŸ‰)(Urine (Random)),4020542,"Microalbumin measurement, urine, quantitative"
+LB00015,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Abdominal abscess)",4165398,Mycology culture
+LB00016,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Biopsy tissue)",3019439,Fungus identified in Tissue by Culture
+LB00017,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(BM(Cultureìš©))",3021697,Fungus identified in Bone marrow by Culture
+LB00018,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Bone)",4165398,Mycology culture
+LB00019,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Brain abscess)",4165398,Mycology culture
+LB00020,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(CAPD)",4165398,Mycology culture
+LB00021,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Close pus)",4165398,Mycology culture
+LB00022,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Conjunctiva)",3019439,Fungus identified in Tissue by Culture
+LB00023,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Cornea)",3019439,Fungus identified in Tissue by Culture
+LB00024,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Ear Discharge)",4165398,Mycology culture
+LB00025,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Eye Discharge)",4165398,Mycology culture
+LB00026,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Hair)",3019359,Fungus identified in Hair by Culture
+LB00027,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(IV Catheter Tip)",4165398,Mycology culture
+LB00028,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Liver abscess)",4165398,Mycology culture
+LB00029,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Lung abscess)",4165398,Mycology culture
+LB00030,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Lymph node)",3019439,Fungus identified in Tissue by Culture
+LB00031,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Nail)",3005433,Fungus identified in Nail by Culture
+LB00032,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Open pus)",3035133,Fungus identified in Wound by Culture
+LB00033,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Other(Please see message!))",3000494,Fungus identified in Unspecified specimen by Culture
+LB00034,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Pelvis abscess)",4165398,Mycology culture
+LB00035,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Pin)",4165398,Mycology culture
+LB00036,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Rectal Swab)",3012927,Fungus identified in Stool by Culture
+LB00037,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Skin)",3002951,Fungus identified in Skin by Culture
+LB00038,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Stool)",3012927,Fungus identified in Stool by Culture
+LB00039,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(ê¸°?Fungus culture(ê¸°íƒ€)(Suction Tip)",4165398,Mycology culture
+LB00040,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(í˜ˆ?Fungus culture(í˜ˆì•¡,ì²´ì•¡)(Amniotic Fluid)",3015592,Fungus identified in Body fluid by Culture
+LB00041,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(í˜ˆ?Fungus culture(í˜ˆì•¡,ì²´ì•¡)(Ascitic fluid(EDTA))",3000835,Fungus identified in Peritoneal fluid by Culture
+LB00042,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(í˜ˆ?Fungus culture(í˜ˆì•¡,ì²´ì•¡)(Ascitic fluid)",3000835,Fungus identified in Peritoneal fluid by Culture
+LB00043,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(í˜ˆ?Fungus culture(í˜ˆì•¡,ì²´ì•¡)(Bile juice)",3015592,Fungus identified in Body fluid by Culture
+LB00044,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(í˜ˆ?Fungus culture(í˜ˆì•¡,ì²´ì•¡)(Bone Marrow Biopsy)",3021697,Fungus identified in Bone marrow by Culture
+LB00045,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(í˜ˆ?Fungus culture(í˜ˆì•¡,ì²´ì•¡)(C.S.F)",3015592,Fungus identified in Body fluid by Culture
+LB00046,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(í˜ˆ?Fungus culture(í˜ˆì•¡,ì²´ì•¡)(Catheter)",4165398,Mycology culture
+LB00047,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(í˜ˆ?Fungus culture(í˜ˆì•¡,ì²´ì•¡)(Gastric juice)",3015592,Fungus identified in Body fluid by Culture
+LB00048,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(í˜ˆ?Fungus culture(í˜ˆì•¡,ì²´ì•¡)(Joint fluid)",3002444,Fungus identified in Synovial fluid by Culture
+LB00049,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(í˜ˆ?Fungus culture(í˜ˆì•¡,ì²´ì•¡)(Pericadial fluid)",3015592,Fungus identified in Body fluid by Culture
+LB00050,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(í˜ˆ?Fungus culture(í˜ˆì•¡,ì²´ì•¡)(Peritosol)",3000835,Fungus identified in Peritoneal fluid by Culture
+LB00051,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(í˜ˆ?Fungus culture(í˜ˆì•¡,ì²´ì•¡)(Pleural fluid)",3015592,Fungus identified in Body fluid by Culture
+LB00052,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •,ì•½ì œê°ìˆ˜ì„±(í˜ˆ?Fungus culture(í˜ˆì•¡,ì²´ì•¡)(WB (í˜ˆì•¡ ë°°ì–‘ìš©ê¸° 2ê°œ))",3009171,Fungus identified in Blood by Culture
+LB00053,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •ë°í•­ê· ì œìµœì†Œì–µì œë†ë„ê²€ì‚¬(ê¸°íƒ€ë¶€ìœ„ê²€(Nasal Aspirate)",4189544,Microbial culture
+LB00054,"ë¯¸ìƒë¬¼ë°°ì–‘,ë™ì •ë°í•­ê· ì œìµœì†Œì–µì œë†ë„ê²€ì‚¬(ì†Œì•„)(WB (í˜ˆì•¡ ë°°ì–‘ìš©ê¸° 2ê°œ))",4107893,Blood culture
+LB00055,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Ascitic fluid),3010047,Microscopic observation [Identifier] in Body fluid by Acid fast stain
+LB00056,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Aseptic Urine (Cath)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
+LB00057,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Aseptic Urine (Voided)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
+LB00058,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Biopsy tissue),3012337,Microscopic observation [Identifier] in Tissue by Acid fast stain
+LB00059,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Bone Marrow Biopsy),3010047,Microscopic observation [Identifier] in Body fluid by Acid fast stain
+LB00060,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Bronchial larvage),3016485,Microscopic observation [Identifier] in Bronchial specimen by Acid fast stain
+LB00061,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(C.S.F),3012625,Microscopic observation [Identifier] in Cerebral spinal fluid by Acid fast stain
+LB00062,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(CAPD),3010047,Microscopic observation [Identifier] in Body fluid by Acid fast stain
+LB00063,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Close pus),3006874,Mycobacterium sp identified in Isolate by Mycobacterial subtyping
+LB00064,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(EPS),3012337,Microscopic observation [Identifier] in Tissue by Acid fast stain
+LB00065,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Eye Discharge),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+LB00066,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Gastric juice),3025056,Microscopic observation [Identifier] in Gastric fluid by Acid fast stain
+LB00067,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Joint fluid),3010047,Microscopic observation [Identifier] in Body fluid by Acid fast stain
+LB00068,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Lymph node),3012337,Microscopic observation [Identifier] in Tissue by Acid fast stain
+LB00069,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Open pus),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+LB00070,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Other(Please see message!)),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+LB00071,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Pericadial fluid),3010047,Microscopic observation [Identifier] in Body fluid by Acid fast stain
+LB00072,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Pleural fluid),40762035,Microscopic observation [Identifier] in Pleural fluid by Acid fast stain.Ziehl-Neelsen
+LB00073,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Sputum),3011588,Microscopic observation [Identifier] in Sputum by Acid fast stain
+LB00074,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Stool),3026123,Microscopic observation [Identifier] in Stool by Acid fast stain
+LB00075,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Throat Swab),3016485,Microscopic observation [Identifier] in Bronchial specimen by Acid fast stain
+LB00076,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Tracheal aspirate),3016485,Microscopic observation [Identifier] in Bronchial specimen by Acid fast stain
+LB00077,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Urethral discharge),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
+LB00078,ë¯¸ìƒë¬¼ë°°ì–‘ë°ë™ì •ê²€ì‚¬(í•­ì‚°ê· ë°°ì–‘ë°ë™ì •ê²€ì‚¬)-ì•¡ì²´ë°°?(Urine (Random)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
+LB00079,ë°”ì´ëŸ¬ìŠ¤í•­ì›-CMV(P(Sodium citrate)),4146598,Cytomegalovirus antibody measurement
+LB00080,ë°”ì´ëŸ¬ìŠ¤í•­ì›-CMV(WB(EDTA)),3036961,Cytomegalovirus Ag [Presence] in Blood
+LB00081,ë°”ì´ëŸ¬ìŠ¤í•­ì›-Rota virus(Stool (Rota virusìš©)),3008284,Rotavirus Ag [Presence] in Stool
+LB00082,ë°”ì´ëŸ¬ìŠ¤í•­ì›-Rota virus(Stool),3008284,Rotavirus Ag [Presence] in Stool
+LB00083,ë°”ì´ëŸ¬ìŠ¤í•­ì²´(ì •ë°€)-IgG-Hantaan virus(Serum),3014504,Hantavirus hantaan IgG Ab [Units/volume] in Serum
+LB00084,"ë² íƒ€ì—ì·¨ì”¨ì§€(í˜ˆì²­,ë‡¨ 24ì‹œê°„ê²½?ë² íƒ€ì—ì´ì·¨ì”¨ì§€(B-HCG)(Serum)",40758990,Choriogonadotropin.beta subunit [Mass/volume] in Serum or Plasma
+LB00085,"ë² íƒ€ì—ì·¨ì”¨ì§€(í˜ˆì²­,ë‡¨ 24ì‹œê°„ê²½?ë² íƒ€ì—ì´ì·¨ì”¨ì§€(B-HCG)(Urine (Random))",3019257,Choriogonadotropin.beta subunit [Moles/volume] in Urine
+LB00086,ë¶€ê°‘ìƒì„ í˜¸ë¥´ëª¬(PTH)(Serum),3024040,Parathyrin [interpretation] in Serum or Plasma
+LB00087,ë¹„ìž„ê· ì„± ì„±ê°ì—¼ PCR(4ì¢…)(Aseptic Urine (Voided)),4322045,Polymerase chain reaction analysis
+LB00088,ë¹„ìž„ê· ì„± ì„±ê°ì—¼ PCR(4ì¢…)(Cervix(PCRì „ìš©)),4322045,Polymerase chain reaction analysis
+LB00089,ë¹„ìž„ê· ì„± ì„±ê°ì—¼ PCR(4ì¢…)(Conjunctiva),4322045,Polymerase chain reaction analysis
+LB00090,ë¹„ìž„ê· ì„± ì„±ê°ì—¼ PCR(4ì¢…)(Open pus),4322045,Polymerase chain reaction analysis
+LB00091,ë¹„ìž„ê· ì„± ì„±ê°ì—¼ PCR(4ì¢…)(Other(Please see message!)),4322045,Polymerase chain reaction analysis
+LB00092,ë¹„ìž„ê· ì„± ì„±ê°ì—¼ PCR(4ì¢…)(Sputum),4322045,Polymerase chain reaction analysis
+LB00093,ë¹„ìž„ê· ì„± ì„±ê°ì—¼ PCR(4ì¢…)(Throat Swab),4322045,Polymerase chain reaction analysis
+LB00094,ë¹„ìž„ê· ì„± ì„±ê°ì—¼ PCR(4ì¢…)(Urethral discharge),4322045,Polymerase chain reaction analysis
+LB00095,ë¹„íƒ€ë¯¼B12(Serum),2212300,Cyanocobalamin (Vitamin B-12)
+LB00096,ì‚°ì „ Triple Test(ë¹„ê¸‰ì—¬)(Serum),4078287,Triple test
+LB00097,ì‹ ì¢…ì¸í”Œë£¨ì—”ìž A(Real Time RT-PCR)(ì „ìš©),2213063,Detection test for influenza A virus
+LB00098,ì‹¸ì´ë¡œê¸€ë¡œë¶ˆë¦°(Serum),4219426,Thyroglobulin measurement
+LB00099,ì‹¸ì´ë¡ì‹ (T4)(Serum),4248132,Thyroxine measurement
+LB00100,ì•½ë¬¼ë°ë…ë¬¼ê²€ì‚¬(ì •ëŸ‰)-ì •ë°€-Cyclosporin(WB(EDTA)),3010375,Cyclosporine [Mass/volume] in Blood
+LB00101,ì—½ì‚°(Folate)(Serum),3036987,Folate [Mass/volume] in Serum or Plasma
+LB00102,ì˜¤ìŠ¤í…Œì˜¤ì¹¼ì‹ -í•µì˜í•™ì ë°©ë²•(Serum(Osteocalcinìš©)),3028772,Osteocalcin [Mass/volume] in Serum or Plasma
+LB00103,ì˜¤ìŠ¤í…Œì˜¤ì¹¼ì‹ -í•µì˜í•™ì ë°©ë²•(Serum),3028772,Osteocalcin [Mass/volume] in Serum or Plasma
+LB00104,"ìš”ì†Œí˜¸ê¸°ê²€ì‚¬(í—¬ë¦¬ì½”ë°•í„°ê°ì—¼, ê±´ê°•ê²€ì§„)(ìš”ì†Œí˜¸ê¸°ê²€ì‚¬)",44790227,Urea breath test
+LB00105,ìš”ì¼ë°˜ê²€ì‚¬7ì¢…ê¹Œì§€(Urine (Random)),4055811,Urine examination
+LB00106,ìš”ì¹¨ì‚¬ê²€ì‚¬[ìœ ì„¸í¬ë¶„ì„ë²•](Joint fluid),3038224,Microscopic observation [Identifier] in Urine sediment by Light microscopy
+LB00107,ìš”ì¹¨ì‚¬ê²€ì‚¬[ìœ ì„¸í¬ë¶„ì„ë²•](Urine (Random)),3038224,Microscopic observation [Identifier] in Urine sediment by Light microscopy
+LB00108,ìœ ë¦¬ê²½ì‡„ì •ëŸ‰ê²€ì‚¬(í˜ˆì²­)-ëžŒë‹¤(Serum),3004640,Immunoglobulin light chains.lambda [Mass/volume] in Serum
+LB00109,ìœ ë¦¬ê²½ì‡„ì •ëŸ‰ê²€ì‚¬(í˜ˆì²­)-ì¹´íŒŒ(Serum),3019812,Immunoglobulin light chains.kappa [Mass/volume] in Serum
+LB00110,ì¸ìŠë¦°(Serum),4060873,Insulin measurement
+LB00111,ì „ë¦½ì„ íŠ¹ì´í•­ì›PSA(Serum),3013603,PSA serum/plasma
+LB00112,ì¡°ì§í˜•ê²€ì‚¬: HLA-B27 [DNA ê²€ì‚¬ë²•](Patient (Laboratory)),3008898,HLA-B27 [Presence]
+LB00113,ì¡°ì§í˜•ê²€ì‚¬: HLA-B27 [DNA ê²€ì‚¬ë²•](WB(EDTA)),3008898,HLA-B27 [Presence]
+LB00114,ì¢…ì–‘ì˜ì—¼ìƒ‰ì²´ê²€ì‚¬[í˜ˆì•¡ì¢…ì–‘](Chromosome(BM:Heparin)),4229610,Chromosome analysis
+LB00115,ì¤‘ê¸ˆì†(ì •ëŸ‰)(ICP-ESë²• ë˜ëŠ” ì›ìží¡ê´‘ê´‘ë„ë²•)-Li(ì „ìš©),4250616,Plasma emission spectroscopy inductively coupled measurement
+LB00116,ì¤‘ê¸ˆì†(ì •ëŸ‰)(ICP-ESë²• ë˜ëŠ” ì›ìží¡ê´‘ê´‘ë„ë²•)-Li(Serum),4250616,Plasma emission spectroscopy inductively coupled measurement
+LB00117,ì¤‘ê¸ˆì†(ì •ëŸ‰)(ICP-ESë²• ë˜ëŠ” ì›ìží¡ê´‘ê´‘ë„ë²•)-Li(Urine (24hr)),4250616,Plasma emission spectroscopy inductively coupled measurement
+LB00118,ì¤‘ê¸ˆì†(ì •ëŸ‰)(ICP-ESë²• ë˜ëŠ” ì›ìží¡ê´‘ê´‘ë„ë²•)-Li(Urine (Random)),4250616,Plasma emission spectroscopy inductively coupled measurement
+LB00119,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Ascitic fluid),4322045,Polymerase chain reaction analysis
+LB00120,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Aseptic Urine (Voided)),4322045,Polymerase chain reaction analysis
+LB00121,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Biopsy tissue),4322045,Polymerase chain reaction analysis
+LB00122,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](BM(PCRìš©)),4322045,Polymerase chain reaction analysis
+LB00123,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Bronchial larvage),4322045,Polymerase chain reaction analysis
+LB00124,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](C.S.F),4322045,Polymerase chain reaction analysis
+LB00125,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Close pus),4322045,Polymerase chain reaction analysis
+LB00126,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Gastric juice),4322045,Polymerase chain reaction analysis
+LB00127,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Joint fluid),4322045,Polymerase chain reaction analysis
+LB00128,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Lymph node),4322045,Polymerase chain reaction analysis
+LB00129,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Open pus),4322045,Polymerase chain reaction analysis
+LB00130,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Other(Please see message!)),4322045,Polymerase chain reaction analysis
+LB00131,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Pericadial fluid),4322045,Polymerase chain reaction analysis
+LB00132,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Pleural fluid),4322045,Polymerase chain reaction analysis
+LB00133,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Semen),4322045,Polymerase chain reaction analysis
+LB00134,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Sputum),4322045,Polymerase chain reaction analysis
+LB00135,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Stool),4322045,Polymerase chain reaction analysis
+LB00136,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](Tracheal aspirate),4322045,Polymerase chain reaction analysis
+LB00137,ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘êµìž¡ë°˜ì‘ë²•[ê¸°íƒ€](WB(EDTA)),4322045,Polymerase chain reaction analysis
+LB00138,ìµœì†Œì–µì œë†ë„(ë¹„ë‡¨.ìƒì‹) & Cul(Aseptic Urine (Cath)),4189544,Microbial culture
+LB00139,ìµœì†Œì–µì œë†ë„(ë¹„ë‡¨.ìƒì‹) & Cul(Aseptic Urine (Voided)),4189544,Microbial culture
+LB00140,ìµœì†Œì–µì œë†ë„(ë¹„ë‡¨.ìƒì‹) & Cul(Cervix),4189544,Microbial culture
+LB00141,ìµœì†Œì–µì œë†ë„(ë¹„ë‡¨.ìƒì‹) & Cul(EPS),4189544,Microbial culture
+LB00142,ìµœì†Œì–µì œë†ë„(ë¹„ë‡¨.ìƒì‹) & Cul(IUD),4189544,Microbial culture
+LB00143,ìµœì†Œì–µì œë†ë„(ë¹„ë‡¨.ìƒì‹) & Cul(Urethral discharge),4189544,Microbial culture
+LB00144,ìµœì†Œì–µì œë†ë„(ë¹„ë‡¨.ìƒì‹) & Cul(Vaginal Discharge),4189544,Microbial culture
+LB00145,ì¹¼ì‹œí† ë‹Œ(Serum),4147378,Calcitonin measurement
+LB00146,ì¹¼ì‹œí† ë‹Œ(WB(EDTA)),4147378,Calcitonin measurement
+LB00147,íƒœì•„ì„±ì•”í•­ì›CEA(Ascitic fluid),3042038,Carcinoembryonic Ag [Mass/volume] in Peritoneal fluid
+LB00148,íƒœì•„ì„±ì•”í•­ì›CEA(C.S.F),3023729,Carcinoembryonic Ag [Mass/volume] in Cerebral spinal fluid
+LB00149,íƒœì•„ì„±ì•”í•­ì›CEA(Pancreas cyst fluid),3013735,Carcinoembryonic Ag [Mass/volume] in Body fluid
+LB00150,íƒœì•„ì„±ì•”í•­ì›CEA(Pericadial fluid),3038258,Carcinoembryonic Ag [Mass/volume] in Pericardial fluid
+LB00151,íƒœì•„ì„±ì•”í•­ì›CEA(Pleural fluid),3009804,Carcinoembryonic Ag [Mass/volume] in Pleural fluid
+LB00152,íƒœì•„ì„±ì•”í•­ì›CEA(Serum),3003785,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma
+LB00153,íŠ¸ë¦¬ìš”ë„íƒ€ì´ë¡œë‹Œ(T3)(Serum),4094598,Triiodothyronine measurement
+LB00154,í”„ë¡œë½í‹´(Serum),3004722,Prolactin [Mass/volume] in Serum or Plasma
+LB00155,í˜•ê´‘íŠ¸ë ˆí¬ë„¤ë§ˆí•­ì²´í¡ìˆ˜ê²€ì‚¬(Serum),4240154,Fluorescent treponemal antibody absorption test
+LB00156,í™©ì²´í˜•ì„±í˜¸ë¥´ëª¬ ì •ì„±ê²€ì‚¬ [í˜„ìž¥ê²€ì‚¬](Urine (Random)),3001796,Lutropin [Units/volume] in Urine
+LB00157,í™©ì²´í˜•ì„±í˜¸ë¥´ëª¬(LH)(Serum),3009214,Lutropin [Units/volume] in Serum or Plasma
 LB00158,ABO Grouping(Blood grouping),3002529,ABO group [Type] in Blood
 LB00159,ABO Typing(Capillary blood),3002529,ABO group [Type] in Blood
-LB00160,ABO Typing(Serum(Blood Bank¿ë Tube)),3002529,ABO group [Type] in Blood
+LB00160,ABO Typing(Serum(Blood Bankìš© Tube)),3002529,ABO group [Type] in Blood
 LB00161,ABO Typing(Serum),3002529,ABO group [Type] in Blood
 LB00162,ABO Typing(WB(EDTA)),3002529,ABO group [Type] in Blood
 LB00163,ACTH CBC BOTTLE(WB(EDTA)),4170855,Adrenocorticotropic hormone measurement
@@ -209,7 +209,7 @@ LB00207,ANCA(Quantitative)(Serum),4135820,Antineutrophil cytoplasmic antibody me
 LB00208,Anti Cardiolipin IgA(Serum),3009118,Cardiolipin IgA Ab [Units/volume] in Serum by Immunoassay
 LB00209,Anti Cardiolipin IgM(Serum),40758574,Cardiolipin IgM Ab in Serum
 LB00210,Anti CCP Ab(Serum),3041391,Cyclic citrullinated peptide Ab [Presence] in Serum
-LB00211,Anti ENA Antibody 4Á¾(Serum),4133657,Extractable nuclear antigen antibody screening test
+LB00211,Anti ENA Antibody 4ì¢…(Serum),4133657,Extractable nuclear antigen antibody screening test
 LB00212,Anti LKM Ab(Serum),3019307,Liver kidney microsomal Ab [Units/volume] in Serum
 LB00213,Anti Mitochondrial Ab(Serum),4136743,Antimitochondrial antibody titer
 LB00214,Anti Nuclear Ab (ANA)(Serum),3004616,Nuclear Ab [Presence] in Serum
@@ -218,12 +218,12 @@ LB00216,Anti Phospholipid IgG(Serum),3021751,Phospholipid IgG Ab [Presence] in S
 LB00217,Anti Phospholipid IgM(P(Sodium citrate)),3034807,Phospholipid Ab.IgM
 LB00218,Anti Phospholipid IgM(Serum),3023632,Phospholipid IgM Ab [Units/volume] in Serum by Immunoassay
 LB00219,Anti Sm Ab(Serum),3016921,Smith extractable nuclear Ab [Units/volume] in Serum
-LB00220,Anti Smooth muscle Ab(Á¤¹Ð)(Serum),3005932,Smooth muscle Ab [Presence] in Serum
+LB00220,Anti Smooth muscle Ab(ì •ë°€)(Serum),3005932,Smooth muscle Ab [Presence] in Serum
 LB00221,Anti Thrombin III(P(Sodium citrate)),4263791,Antithrombin III assay
-LB00222,Anti-cardiolipin(È®Áø)-IgG(Serum),40758575,Cardiolipin IgG Ab in Serum
+LB00222,Anti-cardiolipin(í™•ì§„)-IgG(Serum),40758575,Cardiolipin IgG Ab in Serum
 LB00223,Anti-HIV I/II(HIV study),3013906,HIV 1 Ab [Presence] in Serum
 LB00224,Anti-Nuclear Ab(Quantitative)(Serum),4193403,Serum anti nuclear antibody level
-LB00225,ApoE À¯ÀüÀÚ °Ë»ç(WB(EDTA)),4019453,Apolipoproteins E measurement
+LB00225,ApoE ìœ ì „ìž ê²€ì‚¬(WB(EDTA)),4019453,Apolipoproteins E measurement
 LB00226,Apolipoprotein A-1(Serum),4195202,Serum apolipoprotein A-I measurement
 LB00227,Apolipoprotein B-1(Serum),4197854,Serum apolipoprotein B measurement
 LB00228,aPTT(P(Sodium citrate)),3013466,Activated partial thromboplastin time (aPTT) in Blood by Coagulation assay
@@ -235,7 +235,7 @@ LB00233,Atypical lympho,3015233,Lymphocytes Abnormal/100 leukocytes in Blood
 LB00234,B2-Microglobulin(Serum),3013201,Beta-2-Microglobulin [Mass/volume] in Serum
 LB00235,B2-Microglobulin(Urine (24hr)),3043349,Beta-2-Microglobulin [Presence] in Urine
 LB00236,B2-Microglobulin(Urine (Random)),3018081,Beta-2-Microglobulin [Mass/volume] in Urine
-LB00237,BÇü°£¿°Ç¥¸éÇ×¿øÁ¤·®°Ë»ç(È­ÇÐ¹ß±¤¹Ì¼¼ÀÔÀÚ ¸é¿ªÃøÁ¤?HBsAg(Á¤·®)(Serum),4168615,Hepatitis B surface antigen measurement
+LB00237,Bí˜•ê°„ì—¼í‘œë©´í•­ì›ì •ëŸ‰ê²€ì‚¬(í™”í•™ë°œê´‘ë¯¸ì„¸ìž…ìž ë©´ì—­ì¸¡ì •?HBsAg(ì •ëŸ‰)(Serum),4168615,Hepatitis B surface antigen measurement
 LB00238,BACTERIA,3025255,Bacteria [#/area] in Urine sediment by Microscopy high power field
 LB00239,Band,3004809,Neutrophils.band form/100 leukocytes in Blood
 LB00240,Basophil,3022096,Basophils/100 leukocytes in Blood
@@ -244,9 +244,9 @@ LB00242,Blast,3025159,Blasts/100 leukocytes in Blood
 LB00243,Bleeding time(Patient (Laboratory)),3011625,Bleeding time
 LB00244,BLOOD AMMONIA(WB(EDTA)),3030942,Ammonia [Mass/volume] in Blood
 LB00245,Blood cell Morphology(WB(EDTA)),4143609,Blood cell morphology
-LB00246,"BLOOD GAS STUDY(3ICU,MICU,NSICU)(Whole blood (ABGA¿ë))",4042746,Blood gas measurement
-LB00247,BLOOD GAS STUDY(Whole blood (ABGA¿ë)),4042746,Blood gas measurement
-LB00248,BLOOD GROUP ANTIBODY SCREENING(Serum(Blood Bank¿ë Tube)),4098070,Blood group antibody screening
+LB00246,"BLOOD GAS STUDY(3ICU,MICU,NSICU)(Whole blood (ABGAìš©))",4042746,Blood gas measurement
+LB00247,BLOOD GAS STUDY(Whole blood (ABGAìš©)),4042746,Blood gas measurement
+LB00248,BLOOD GROUP ANTIBODY SCREENING(Serum(Blood Bankìš© Tube)),4098070,Blood group antibody screening
 LB00249,BLOOD GROUP ANTIBODY SCREENING(Serum),3036472,Blood group antibodies identified in Serum or Plasma
 LB00250,BLOOD GROUP ANTIBODY SCREENING(WB(EDTA)),4098070,Blood group antibody screening
 LB00251,Bone marrow asp & biopsy(Bone Marrow Biopsy),4120443,Bone marrow sampling
@@ -274,7 +274,7 @@ LB00272,CEA(Serum),3000531,Carcinoembryonic Ag [Mass/volume] in Semen
 LB00273,Ceruloplasmin(Serum),3022756,Ceruloplasmin [Mass/volume] in Serum or Plasma
 LB00274,CH50(Serum),3028461,Complement total hemolytic CH50 [Units/volume] in Serum or Plasma
 LB00275,Chlamidia trachomatis PCR(Aseptic Urine (Voided)),4163738,PCR test for Chlamydia trachomatis
-LB00276,Chlamidia trachomatis PCR(Cervix(PCRÀü¿ë)),4163738,PCR test for Chlamydia trachomatis
+LB00276,Chlamidia trachomatis PCR(Cervix(PCRì „ìš©)),4163738,PCR test for Chlamydia trachomatis
 LB00277,Chlamidia trachomatis PCR(Conjunctiva),4163738,PCR test for Chlamydia trachomatis
 LB00278,Chlamidia trachomatis PCR(Eye Discharge),4163738,PCR test for Chlamydia trachomatis
 LB00279,Chlamidia trachomatis PCR(Open pus),4163738,PCR test for Chlamydia trachomatis
@@ -302,7 +302,7 @@ LB00300,Chloride(Pleural fluid),2212265,Chloride level
 LB00301,Chloride(Serum),2212263,Blood chloride level
 LB00302,Chloride(Urine (24hr)),2212264,Chloride; urine
 LB00303,Chloride(Urine (Random)),2212264,Chloride; urine
-LB00304,Chloride(Whole blood (ABGA¿ë)),2212263,Blood chloride level
+LB00304,Chloride(Whole blood (ABGAìš©)),2212263,Blood chloride level
 LB00305,Chlsmydia Ab IgG(Serum),3019530,Chlamydia sp IgG Ab [Presence] in Serum
 LB00306,Cholesterol(Ascitic fluid),4171601,Cholesterol screening
 LB00307,Cholesterol(Bronchial larvage),4171601,Cholesterol screening
@@ -341,14 +341,14 @@ LB00339,Complement C3(Joint fluid),4018035,Complement C3c measurement
 LB00340,Complement C3(Serum),4018035,Complement C3c measurement
 LB00341,Complement C4(Joint fluid),4135587,C>4< complement assay
 LB00342,Complement C4(Serum),4135587,C>4< complement assay
-LB00343,CO-oxy(Whole blood (ABGA¿ë)),4130729,Oximetry
+LB00343,CO-oxy(Whole blood (ABGAìš©)),4130729,Oximetry
 LB00344,Cortisol 30min(Serum(30min)),4209388,30 minute serum cortisol measurement
 LB00345,Cortisol 60min(Serum(60min)),4198114,60 minute serum cortisol measurement
 LB00346,Cortisol Basal(Serum),4265057,Cortisol measurement
 LB00347,Cortisol Basal(Urine (24hr)),4265057,Cortisol measurement
-LB00348,Cortisol(½ºÅ×·ÎÀÌµåÈ­ÇÕ¹°Á¤·®(Á¤¹Ð)(Serum),4150790,Serum cortisol measurement
-LB00349,Cortisol(½ºÅ×·ÎÀÌµåÈ­ÇÕ¹°Á¤·®(Á¤¹Ð)(Urine (24hr)),3037229,Cortisol [Presence] in Urine
-LB00350,Cortisol(½ºÅ×·ÎÀÌµåÈ­ÇÕ¹°Á¤·®(Á¤¹Ð)(Urine (Random)),3037229,Cortisol [Presence] in Urine
+LB00348,Cortisol(ìŠ¤í…Œë¡œì´ë“œí™”í•©ë¬¼ì •ëŸ‰(ì •ë°€)(Serum),4150790,Serum cortisol measurement
+LB00349,Cortisol(ìŠ¤í…Œë¡œì´ë“œí™”í•©ë¬¼ì •ëŸ‰(ì •ë°€)(Urine (24hr)),3037229,Cortisol [Presence] in Urine
+LB00350,Cortisol(ìŠ¤í…Œë¡œì´ë“œí™”í•©ë¬¼ì •ëŸ‰(ì •ë°€)(Urine (Random)),3037229,Cortisol [Presence] in Urine
 LB00351,C-peptide(120min)(Serum(120min)),3010084,C peptide [Mass/volume] in Serum or Plasma
 LB00352,C-peptide(Serum),3010084,C peptide [Mass/volume] in Serum or Plasma
 LB00353,C-peptide(Urine (24hr)),3010623,C peptide [Mass/volume] in Urine
@@ -380,7 +380,7 @@ LB00378,Creatinine(Serum),3016723,Creatinine serum/plasma
 LB00379,Creatinine(Urine (12hr)),3007081,Creatinine [interpretation] in Urine
 LB00380,Creatinine(Urine (24hr)),3007081,Creatinine [interpretation] in Urine
 LB00381,Creatinine(Urine (Random)),3007081,Creatinine [interpretation] in Urine
-LB00382,CROSS MATCHING(Serum(Blood Bank¿ë Tube)),4219996,Major crossmatch
+LB00382,CROSS MATCHING(Serum(Blood Bankìš© Tube)),4219996,Major crossmatch
 LB00383,CRP(CRP assay),3020460,C reactive protein [Mass/volume] in Serum or Plasma
 LB00384,Cryoglobulin(Patient (Laboratory)),4150668,Cryoglobulin measurement
 LB00385,Cryptococcus antigen(C.S.F),4196285,Cryptococcus antigen level
@@ -415,70 +415,70 @@ LB00413,CULTURE FOR AFB(Urine (24hr)),4024509,Urine culture
 LB00414,CULTURE FOR AFB(Urine (Random)),4024509,Urine culture
 LB00415,Culture(Blood/Fluid)(Culture (Blood/Fluid)),3023368,Bacteria identified in Blood by Culture
 LB00416,Culture(Genital/Urinary)(Culture (Genital/Urinary)),3026008,Bacteria identified in Urine by Culture
-LB00417,Culture/MIC(±âÅ¸)(Abdominal abscess),4189544,Microbial culture
-LB00418,Culture/MIC(±âÅ¸)(Aqueous/vitreous Fluid),4190299,Broth microdilution susceptibility test
-LB00419,Culture/MIC(±âÅ¸)(Aspiration fluid),4190299,Broth microdilution susceptibility test
-LB00420,Culture/MIC(±âÅ¸)(Biopsy tissue),4189544,Microbial culture
-LB00421,Culture/MIC(±âÅ¸)(BM(Culture¿ë)),4252860,Bone marrow culture
-LB00422,Culture/MIC(±âÅ¸)(Bone),4189544,Microbial culture
-LB00423,Culture/MIC(±âÅ¸)(Brain abscess),4189544,Microbial culture
-LB00424,Culture/MIC(±âÅ¸)(CAPD),4189544,Microbial culture
-LB00425,Culture/MIC(±âÅ¸)(Close pus),4189544,Microbial culture
-LB00426,Culture/MIC(±âÅ¸)(Conjunctiva),4189544,Microbial culture
-LB00427,Culture/MIC(±âÅ¸)(Cornea),4189544,Microbial culture
-LB00428,Culture/MIC(±âÅ¸)(Drain tube),4190299,Broth microdilution susceptibility test
-LB00429,Culture/MIC(±âÅ¸)(Ear Discharge),4189544,Microbial culture
-LB00430,Culture/MIC(±âÅ¸)(Ear(inner)),4190299,Broth microdilution susceptibility test
-LB00431,Culture/MIC(±âÅ¸)(Ear(outer)),4190299,Broth microdilution susceptibility test
-LB00432,Culture/MIC(±âÅ¸)(Eye Discharge),4189544,Microbial culture
-LB00433,Culture/MIC(±âÅ¸)(Foreign body),4190299,Broth microdilution susceptibility test
-LB00434,Culture/MIC(±âÅ¸)(IV Catheter Tip),4189544,Microbial culture
-LB00435,Culture/MIC(±âÅ¸)(Liver abscess),4189544,Microbial culture
-LB00436,Culture/MIC(±âÅ¸)(Lung abscess),4189544,Microbial culture
-LB00437,Culture/MIC(±âÅ¸)(Lymph node),4189544,Microbial culture
-LB00438,Culture/MIC(±âÅ¸)(Open pus),4189544,Microbial culture
-LB00439,Culture/MIC(±âÅ¸)(Other(Please see message!)),4189544,Microbial culture
-LB00440,Culture/MIC(±âÅ¸)(Pelvis abscess),4189544,Microbial culture
-LB00441,Culture/MIC(±âÅ¸)(Pin),4189544,Microbial culture
-LB00442,Culture/MIC(±âÅ¸)(Rectal Swab),4189544,Microbial culture
-LB00443,Culture/MIC(±âÅ¸)(Stool),4024963,Stool culture
-LB00444,Culture/MIC(±âÅ¸)(Suction Tip),4189544,Microbial culture
-LB00445,Culture/MIC(¼ÒÈ­±â)(Ascitic fluid),4190299,Broth microdilution susceptibility test
-LB00446,Culture/MIC(¼ÒÈ­±â)(Bile juice),4190299,Broth microdilution susceptibility test
-LB00447,Culture/MIC(¼ÒÈ­±â)(Gastric biopsy),4190299,Broth microdilution susceptibility test
-LB00448,Culture/MIC(¼ÒÈ­±â)(Gastric juice),4190299,Broth microdilution susceptibility test
-LB00449,Culture/MIC(¼ÒÈ­±â)(Rectal Swab),4190299,Broth microdilution susceptibility test
-LB00450,Culture/MIC(¼ÒÈ­±â)(Stool),4190299,Broth microdilution susceptibility test
-LB00451,"Culture/MIC(Ç÷¾×,Ã¼¾×)(Amniotic Fluid)",4189544,Microbial culture
-LB00452,"Culture/MIC(Ç÷¾×,Ã¼¾×)(Ascitic fluid(EDTA))",4189544,Microbial culture
-LB00453,"Culture/MIC(Ç÷¾×,Ã¼¾×)(Ascitic fluid)",4189544,Microbial culture
-LB00454,"Culture/MIC(Ç÷¾×,Ã¼¾×)(Bile juice)",4189544,Microbial culture
-LB00455,"Culture/MIC(Ç÷¾×,Ã¼¾×)(Bone Marrow Biopsy)",4252860,Bone marrow culture
-LB00456,"Culture/MIC(Ç÷¾×,Ã¼¾×)(C.S.F)",4189544,Microbial culture
-LB00457,"Culture/MIC(Ç÷¾×,Ã¼¾×)(Catheter)",4190299,Broth microdilution susceptibility test
-LB00458,"Culture/MIC(Ç÷¾×,Ã¼¾×)(Joint fluid (EDTA))",4189544,Microbial culture
-LB00459,"Culture/MIC(Ç÷¾×,Ã¼¾×)(Joint fluid)",4189544,Microbial culture
-LB00460,"Culture/MIC(Ç÷¾×,Ã¼¾×)(Joint(Blood culture))",4190299,Broth microdilution susceptibility test
-LB00461,"Culture/MIC(Ç÷¾×,Ã¼¾×)(Pericadial fluid)",4189544,Microbial culture
-LB00462,"Culture/MIC(Ç÷¾×,Ã¼¾×)(Peritosol)",4189544,Microbial culture
-LB00463,"Culture/MIC(Ç÷¾×,Ã¼¾×)(Pleural fluid(EDTA))",4189544,Microbial culture
-LB00464,"Culture/MIC(Ç÷¾×,Ã¼¾×)(Pleural fluid)",4189544,Microbial culture
-LB00465,"Culture/MIC(Ç÷¾×,Ã¼¾×)(WB (Ç÷¾× ¹è¾ç¿ë±â 2°³))",4189544,Microbial culture
-LB00466,Culture/MIC(È£Èí±â)(Bronchial larvage),4189544,Microbial culture
-LB00467,Culture/MIC(È£Èí±â)(Ear Discharge),4189544,Microbial culture
-LB00468,Culture/MIC(È£Èí±â)(Eye Discharge),4189544,Microbial culture
-LB00469,Culture/MIC(È£Èí±â)(Nasal Aspirate),4189544,Microbial culture
-LB00470,Culture/MIC(È£Èí±â)(Sputum),4189544,Microbial culture
-LB00471,Culture/MIC(È£Èí±â)(Suction Tip),4189544,Microbial culture
-LB00472,Culture/MIC(È£Èí±â)(Throat Swab),4024958,Throat culture
-LB00473,Culture/MIC(È£Èí±â)(Tracheal aspirate),4189544,Microbial culture
+LB00417,Culture/MIC(ê¸°íƒ€)(Abdominal abscess),4189544,Microbial culture
+LB00418,Culture/MIC(ê¸°íƒ€)(Aqueous/vitreous Fluid),4190299,Broth microdilution susceptibility test
+LB00419,Culture/MIC(ê¸°íƒ€)(Aspiration fluid),4190299,Broth microdilution susceptibility test
+LB00420,Culture/MIC(ê¸°íƒ€)(Biopsy tissue),4189544,Microbial culture
+LB00421,Culture/MIC(ê¸°íƒ€)(BM(Cultureìš©)),4252860,Bone marrow culture
+LB00422,Culture/MIC(ê¸°íƒ€)(Bone),4189544,Microbial culture
+LB00423,Culture/MIC(ê¸°íƒ€)(Brain abscess),4189544,Microbial culture
+LB00424,Culture/MIC(ê¸°íƒ€)(CAPD),4189544,Microbial culture
+LB00425,Culture/MIC(ê¸°íƒ€)(Close pus),4189544,Microbial culture
+LB00426,Culture/MIC(ê¸°íƒ€)(Conjunctiva),4189544,Microbial culture
+LB00427,Culture/MIC(ê¸°íƒ€)(Cornea),4189544,Microbial culture
+LB00428,Culture/MIC(ê¸°íƒ€)(Drain tube),4190299,Broth microdilution susceptibility test
+LB00429,Culture/MIC(ê¸°íƒ€)(Ear Discharge),4189544,Microbial culture
+LB00430,Culture/MIC(ê¸°íƒ€)(Ear(inner)),4190299,Broth microdilution susceptibility test
+LB00431,Culture/MIC(ê¸°íƒ€)(Ear(outer)),4190299,Broth microdilution susceptibility test
+LB00432,Culture/MIC(ê¸°íƒ€)(Eye Discharge),4189544,Microbial culture
+LB00433,Culture/MIC(ê¸°íƒ€)(Foreign body),4190299,Broth microdilution susceptibility test
+LB00434,Culture/MIC(ê¸°íƒ€)(IV Catheter Tip),4189544,Microbial culture
+LB00435,Culture/MIC(ê¸°íƒ€)(Liver abscess),4189544,Microbial culture
+LB00436,Culture/MIC(ê¸°íƒ€)(Lung abscess),4189544,Microbial culture
+LB00437,Culture/MIC(ê¸°íƒ€)(Lymph node),4189544,Microbial culture
+LB00438,Culture/MIC(ê¸°íƒ€)(Open pus),4189544,Microbial culture
+LB00439,Culture/MIC(ê¸°íƒ€)(Other(Please see message!)),4189544,Microbial culture
+LB00440,Culture/MIC(ê¸°íƒ€)(Pelvis abscess),4189544,Microbial culture
+LB00441,Culture/MIC(ê¸°íƒ€)(Pin),4189544,Microbial culture
+LB00442,Culture/MIC(ê¸°íƒ€)(Rectal Swab),4189544,Microbial culture
+LB00443,Culture/MIC(ê¸°íƒ€)(Stool),4024963,Stool culture
+LB00444,Culture/MIC(ê¸°íƒ€)(Suction Tip),4189544,Microbial culture
+LB00445,Culture/MIC(ì†Œí™”ê¸°)(Ascitic fluid),4190299,Broth microdilution susceptibility test
+LB00446,Culture/MIC(ì†Œí™”ê¸°)(Bile juice),4190299,Broth microdilution susceptibility test
+LB00447,Culture/MIC(ì†Œí™”ê¸°)(Gastric biopsy),4190299,Broth microdilution susceptibility test
+LB00448,Culture/MIC(ì†Œí™”ê¸°)(Gastric juice),4190299,Broth microdilution susceptibility test
+LB00449,Culture/MIC(ì†Œí™”ê¸°)(Rectal Swab),4190299,Broth microdilution susceptibility test
+LB00450,Culture/MIC(ì†Œí™”ê¸°)(Stool),4190299,Broth microdilution susceptibility test
+LB00451,"Culture/MIC(í˜ˆì•¡,ì²´ì•¡)(Amniotic Fluid)",4189544,Microbial culture
+LB00452,"Culture/MIC(í˜ˆì•¡,ì²´ì•¡)(Ascitic fluid(EDTA))",4189544,Microbial culture
+LB00453,"Culture/MIC(í˜ˆì•¡,ì²´ì•¡)(Ascitic fluid)",4189544,Microbial culture
+LB00454,"Culture/MIC(í˜ˆì•¡,ì²´ì•¡)(Bile juice)",4189544,Microbial culture
+LB00455,"Culture/MIC(í˜ˆì•¡,ì²´ì•¡)(Bone Marrow Biopsy)",4252860,Bone marrow culture
+LB00456,"Culture/MIC(í˜ˆì•¡,ì²´ì•¡)(C.S.F)",4189544,Microbial culture
+LB00457,"Culture/MIC(í˜ˆì•¡,ì²´ì•¡)(Catheter)",4190299,Broth microdilution susceptibility test
+LB00458,"Culture/MIC(í˜ˆì•¡,ì²´ì•¡)(Joint fluid (EDTA))",4189544,Microbial culture
+LB00459,"Culture/MIC(í˜ˆì•¡,ì²´ì•¡)(Joint fluid)",4189544,Microbial culture
+LB00460,"Culture/MIC(í˜ˆì•¡,ì²´ì•¡)(Joint(Blood culture))",4190299,Broth microdilution susceptibility test
+LB00461,"Culture/MIC(í˜ˆì•¡,ì²´ì•¡)(Pericadial fluid)",4189544,Microbial culture
+LB00462,"Culture/MIC(í˜ˆì•¡,ì²´ì•¡)(Peritosol)",4189544,Microbial culture
+LB00463,"Culture/MIC(í˜ˆì•¡,ì²´ì•¡)(Pleural fluid(EDTA))",4189544,Microbial culture
+LB00464,"Culture/MIC(í˜ˆì•¡,ì²´ì•¡)(Pleural fluid)",4189544,Microbial culture
+LB00465,"Culture/MIC(í˜ˆì•¡,ì²´ì•¡)(WB (í˜ˆì•¡ ë°°ì–‘ìš©ê¸° 2ê°œ))",4189544,Microbial culture
+LB00466,Culture/MIC(í˜¸í¡ê¸°)(Bronchial larvage),4189544,Microbial culture
+LB00467,Culture/MIC(í˜¸í¡ê¸°)(Ear Discharge),4189544,Microbial culture
+LB00468,Culture/MIC(í˜¸í¡ê¸°)(Eye Discharge),4189544,Microbial culture
+LB00469,Culture/MIC(í˜¸í¡ê¸°)(Nasal Aspirate),4189544,Microbial culture
+LB00470,Culture/MIC(í˜¸í¡ê¸°)(Sputum),4189544,Microbial culture
+LB00471,Culture/MIC(í˜¸í¡ê¸°)(Suction Tip),4189544,Microbial culture
+LB00472,Culture/MIC(í˜¸í¡ê¸°)(Throat Swab),4024958,Throat culture
+LB00473,Culture/MIC(í˜¸í¡ê¸°)(Tracheal aspirate),4189544,Microbial culture
 LB00474,Cystatin C(eGFR)(Serum),3030366,Cystatin C [Mass/volume] in Serum or Plasma
 LB00475,Cystatin C(eGFR)(WB(EDTA)),2212302,Cystatin C
 LB00476,D.Bilirubin(Bilirubin test),3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma
-LB00477,d1À¯·´ Áøµå±â(CAP¹æ¹ý)(Serum),3008790,European house dust mite IgG Ab [Units/volume] in Serum
-LB00478,d2 ¾Æ¸Þ¸®Ä« Áøµå±â (CAP¹æ¹ý)(Serum),3012099,American house dust mite IgG Ab [Units/volume] in Serum
+LB00477,d1ìœ ëŸ½ ì§„ë“œê¸°(CAPë°©ë²•)(Serum),3008790,European house dust mite IgG Ab [Units/volume] in Serum
+LB00478,d2 ì•„ë©”ë¦¬ì¹´ ì§„ë“œê¸° (CAPë°©ë²•)(Serum),3012099,American house dust mite IgG Ab [Units/volume] in Serum
 LB00479,D-dimer test(P(Sodium citrate)),4322628,D-dimer assay
-LB00480,Deoxypyridinoline(Urine (¾ÆÄ§Ã¹´¢-DPD¿ë)),3021369,Deoxypyridinoline [Moles/volume] in Urine
+LB00480,Deoxypyridinoline(Urine (ì•„ì¹¨ì²«ë‡¨-DPDìš©)),3021369,Deoxypyridinoline [Moles/volume] in Urine
 LB00481,DHEA-Sulfate(Serum),3022000,Dehydroepiandrosterone (DHEA) [Mass/volume] in Serum or Plasma
 LB00482,Digoxin(Serum),4155242,Serum digoxin measurement
 LB00483,Digoxin(Urine (Random)),4104254,Digoxin measurement
@@ -500,8 +500,8 @@ LB00498,EPITHELIAL CAST,3024290,Epithelial casts [#/area] in Urine sediment by M
 LB00499,Epithelial cell,3028099,Epithelial cells.squamous [Presence] in Sputum by Light microscopy
 LB00500,ESR(Pepheral blood study),3015183,Erythrocyte sedimentation rate
 LB00501,Estradiol(E2)(Serum),3025285,Estradiol (E2) [Mass/volume] in Serum or Plasma
-LB00502,Extended NST(43Á¾)+2Á¾(Other(Please see message!)),2110284,Fetal non-stress test
-LB00503,FDPÁ¤·®(P(Sodium citrate)),3002683,Fibrin degradation products
+LB00502,Extended NST(43ì¢…)+2ì¢…(Other(Please see message!)),2110284,Fetal non-stress test
+LB00503,FDPì •ëŸ‰(P(Sodium citrate)),3002683,Fibrin degradation products
 LB00504,Ferritin(Serum),3001122,Ferritin [Mass/volume] in Serum or Plasma
 LB00505,FI O2,3020716,Inhaled oxygen concentration
 LB00506,Fibrinogen(P(Sodium citrate)),4098061,Fibrinogen screening
@@ -514,14 +514,14 @@ LB00512,FTA-ABS(IgG)(C.S.F),40761845,Treponema pallidum IgG Ab [Presence] in Cer
 LB00513,FTA-ABS(IgG)(Serum),3015923,Treponema pallidum IgG Ab [Presence] in Serum by Immunofluorescence
 LB00514,FTA-ABS(IgM)(C.S.F),3052315,Treponema pallidum IgM Ab [Units/volume] in Cerebral spinal fluid by Immunofluorescence
 LB00515,FTA-ABS(IgM)(Serum),3005900,Treponema pallidum IgM Ab [Presence] in Serum by Immunofluorescence
-LB00516,Fungus culture(È£Èí±â)(Bronchial larvage),3024212,Fungus identified in Bronchial specimen by Culture
-LB00517,Fungus culture(È£Èí±â)(Ear Discharge),4165398,Mycology culture
-LB00518,Fungus culture(È£Èí±â)(Eye Discharge),4165398,Mycology culture
-LB00519,Fungus culture(È£Èí±â)(Nasal Aspirate),3000186,Fungus identified in Aspirate by Culture
-LB00520,Fungus culture(È£Èí±â)(Pleural fluid),3015592,Fungus identified in Body fluid by Culture
-LB00521,Fungus culture(È£Èí±â)(Sputum),3024212,Fungus identified in Bronchial specimen by Culture
-LB00522,Fungus culture(È£Èí±â)(Throat Swab),3024212,Fungus identified in Bronchial specimen by Culture
-LB00523,Fungus culture(È£Èí±â)(Tracheal aspirate),3000186,Fungus identified in Aspirate by Culture
+LB00516,Fungus culture(í˜¸í¡ê¸°)(Bronchial larvage),3024212,Fungus identified in Bronchial specimen by Culture
+LB00517,Fungus culture(í˜¸í¡ê¸°)(Ear Discharge),4165398,Mycology culture
+LB00518,Fungus culture(í˜¸í¡ê¸°)(Eye Discharge),4165398,Mycology culture
+LB00519,Fungus culture(í˜¸í¡ê¸°)(Nasal Aspirate),3000186,Fungus identified in Aspirate by Culture
+LB00520,Fungus culture(í˜¸í¡ê¸°)(Pleural fluid),3015592,Fungus identified in Body fluid by Culture
+LB00521,Fungus culture(í˜¸í¡ê¸°)(Sputum),3024212,Fungus identified in Bronchial specimen by Culture
+LB00522,Fungus culture(í˜¸í¡ê¸°)(Throat Swab),3024212,Fungus identified in Bronchial specimen by Culture
+LB00523,Fungus culture(í˜¸í¡ê¸°)(Tracheal aspirate),3000186,Fungus identified in Aspirate by Culture
 LB00524,Fungus Culture(C.S.F),3015592,Fungus identified in Body fluid by Culture
 LB00525,Fungus Culture(Eye Discharge),4165398,Mycology culture
 LB00526,Fungus Culture(Open pus),3035133,Fungus identified in Wound by Culture
@@ -555,7 +555,7 @@ LB00553,Glucose(Pleural fluid),3003403,Glucose [Mass/volume] in Pleural fluid
 LB00554,Glucose(Serum),4149519,Glucose measurement
 LB00555,Glucose(Urine (24hr)),4149883,"Glucose measurement, urine"
 LB00556,Glucose(Urine (Random)),4149883,"Glucose measurement, urine"
-LB00557,Glucose(Whole blood (ABGA¿ë)),4149519,Glucose measurement
+LB00557,Glucose(Whole blood (ABGAìš©)),4149519,Glucose measurement
 LB00558,Glycoalbumin(Serum),4018320,Glycated albumin measurement
 LB00559,Gram - Cocci,3023419,Bacteria identified in Sputum by Culture
 LB00560,Gram - Diplococci,3023419,Bacteria identified in Sputum by Culture
@@ -571,7 +571,7 @@ LB00569,HAV-Ab(IgM)(Serum),3013327,Hepatitis A virus IgM Ab [Presence] in Serum
 LB00570,HAV-AB(Total)(Serum),3016650,Hepatitis A virus Ab [Presence] in Serum
 LB00571,Hb A1c(WB(EDTA)),3033145,Hemoglobin A1c measurement device panel
 LB00572,Hb(Barobag count),3000963,Hemoglobin
-LB00573,Hb(Product(CD34¿ë)),3000963,Hemoglobin
+LB00573,Hb(Product(CD34ìš©)),3000963,Hemoglobin
 LB00574,Hb(Urine (Random)),3003344,Hemoglobin [Presence] in Urine
 LB00575,Hb(WB(EDTA)),2212643,Blood count; hemoglobin (Hgb)
 LB00576,HbA1C(Hb A1C assay),40758376,HBA1 gene.c.G223C [Presence] in Blood by Molecular genetics method
@@ -580,18 +580,18 @@ LB00578,HBs Ab(Serum),4278658,Hepatitis B surface antibody measurement
 LB00579,HBs Ag (EIA)(Serum),4168615,Hepatitis B surface antigen measurement
 LB00580,HBsAb(Serum),3023421,Hepatitis B virus surface Ab [Units/volume] in Serum
 LB00581,HBsAg(Serum),40761553,Hepatitis B virus surface Ag [Units/volume] in Serum
-LB00582,HBV DNA(bDNA)(Serum(Blood Bank¿ë Tube)),3026949,Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe and signal amplification method
-LB00583,"HBV DNA(bDNA)(Serum(HCV, HBV PCRÀü¿ë))",3026949,Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe and signal amplification method
+LB00582,HBV DNA(bDNA)(Serum(Blood Bankìš© Tube)),3026949,Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe and signal amplification method
+LB00583,"HBV DNA(bDNA)(Serum(HCV, HBV PCRì „ìš©))",3026949,Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe and signal amplification method
 LB00584,HBV DNA(bDNA)(Serum),3045140,Hepatitis B virus DNA [Mass/volume] in Serum
 LB00585,HCO3,3006576,Bicarbonate [Moles/volume] in Blood
 LB00586,Hct(Barobag count),2212642,Blood count; hematocrit (Hct)
-LB00587,Hct(Product(CD34¿ë)),4151358,Hematocrit determination
+LB00587,Hct(Product(CD34ìš©)),4151358,Hematocrit determination
 LB00588,Hct(WB(EDTA)),2212642,Blood count; hematocrit (Hct)
 LB00589,HCV Ab (self)(Serum),3017143,Hepatitis C virus Ab [Presence] in Serum
 LB00590,HCV Ab(Serum),3017143,Hepatitis C virus Ab [Presence] in Serum
 LB00591,HCV genotype(Serum),3002653,Hepatitis C virus genotype [Identifier] in Serum or Plasma by Probe and target amplification method
-LB00592,"HCV RNA Á¤·®°Ë»ç(Serum(HCV, HBV PCRÀü¿ë))",3021125,Hepatitis C virus RNA [Presence] in Serum or Plasma by Probe and target amplification method
-LB00593,HCV RNA Á¤·®°Ë»ç(Serum),3021125,Hepatitis C virus RNA [Presence] in Serum or Plasma by Probe and target amplification method
+LB00592,"HCV RNA ì •ëŸ‰ê²€ì‚¬(Serum(HCV, HBV PCRì „ìš©))",3021125,Hepatitis C virus RNA [Presence] in Serum or Plasma by Probe and target amplification method
+LB00593,HCV RNA ì •ëŸ‰ê²€ì‚¬(Serum),3021125,Hepatitis C virus RNA [Presence] in Serum or Plasma by Probe and target amplification method
 LB00594,HCV RNA(RT-PCR)(Serum),3021125,Hepatitis C virus RNA [Presence] in Serum or Plasma by Probe and target amplification method
 LB00595,HCV-AB(Serum),3017143,Hepatitis C virus Ab [Presence] in Serum
 LB00596,HDL-Cholesterol(Ascitic fluid),4101713,High density lipoprotein cholesterol measurement
@@ -609,13 +609,13 @@ LB00607,Heterophil Ab(Serum),3033533,Heterophile Ab [Presence] in Serum
 LB00608,HIV(AIDS) Ab(Serum),3011325,HIV 1+2 Ab [Presence] in Serum
 LB00609,Homocysteine(Serum),3037585,Homocysteine [Mass/volume] in Serum or Plasma
 LB00610,HPV Hybrid capture(Biopsy tissue),3047345,Human papilloma virus 31+33 DNA [Presence] in Tissue by Probe and signal amplification method
-LB00611,HPV Hybrid capture(Cervix(PCRÀü¿ë)),3037410,Human papilloma virus 16+18+31+33+35+39+45+51+52+56+58+59+68 DNA [Presence] in Cervix by Probe and signal amplification method
+LB00611,HPV Hybrid capture(Cervix(PCRì „ìš©)),3037410,Human papilloma virus 16+18+31+33+35+39+45+51+52+56+58+59+68 DNA [Presence] in Cervix by Probe and signal amplification method
 LB00612,hsCRP(Ascitic fluid),2212762,C-reactive protein; high sensitivity (hsCRP)
 LB00613,hsCRP(C.S.F),40762274,C reactive protein [Mass/volume] in Cerebral spinal fluid by High sensitivity method
 LB00614,hsCRP(Pleural fluid),2212762,C-reactive protein; high sensitivity (hsCRP)
 LB00615,hsCRP(Serum),3010156,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method
 LB00616,HSV type PCR(C.S.F),3008733,Herpes simplex virus DNA [Presence] in Cerebral spinal fluid by Probe and target amplification method
-LB00617,HSV type PCR(Cervix(PCRÀü¿ë)),43534011,Herpes simplex virus DNA [Identifier] in Unspecified specimen by Probe and target amplification method
+LB00617,HSV type PCR(Cervix(PCRì „ìš©)),43534011,Herpes simplex virus DNA [Identifier] in Unspecified specimen by Probe and target amplification method
 LB00618,HSV type PCR(Other(Please see message!)),3007543,Herpes simplex virus DNA [Presence] in Unspecified specimen by Probe and target amplification method
 LB00619,HYALINE CAST,3022509,Hyaline casts [#/area] in Urine sediment by Microscopy low power field
 LB00620,Ig A(Serum),4135810,Immunoglobulin A measurement
@@ -630,18 +630,18 @@ LB00628,In. Phosphorus(In. Phosphorus assay),3011904,Phosphate [Mass/volume] in 
 LB00629,India ink preparation(C.S.F),3021641,Microscopic observation [Identifier] in Cerebral spinal fluid by India ink prep
 LB00630,India ink preparation(Sputum),4057705,India ink stain method
 LB00631,Indirect Bilirubin(Serum),3007242,Bilirubin.indirect [Moles/volume] in Serum or Plasma
-LB00632,Indirect Coomb s Test(Serum(Blood Bank¿ë Tube)),4055434,Indirect Coombs test
+LB00632,Indirect Coomb s Test(Serum(Blood Bankìš© Tube)),4055434,Indirect Coombs test
 LB00633,Indirect Coomb s Test(Serum),3029719,Indirect antiglobulin test.unspecified reagent [Presence] in Serum or Plasma
-LB00634,Influenza A.B Viral Antigen Test(ÇöÀå°Ë»ç)(Nasal Aspirate),4039357,Influenza virus A AND B antigen assay
-LB00635,Influenza A.B Viral Antigen Test(ÇöÀå°Ë»ç)(Nasal Swab(Àü¿ë)),4039357,Influenza virus A AND B antigen assay
+LB00634,Influenza A.B Viral Antigen Test(í˜„ìž¥ê²€ì‚¬)(Nasal Aspirate),4039357,Influenza virus A AND B antigen assay
+LB00635,Influenza A.B Viral Antigen Test(í˜„ìž¥ê²€ì‚¬)(Nasal Swab(ì „ìš©)),4039357,Influenza virus A AND B antigen assay
 LB00636,INR,3022217,INR in Platelet poor plasma by Coagulation assay
 LB00637,IONIZED CA(Serum),44789220,Ionized calcium measurement
-LB00638,IONIZED CA(Whole blood (ABGA¿ë)),44789220,Ionized calcium measurement
+LB00638,IONIZED CA(Whole blood (ABGAìš©)),44789220,Ionized calcium measurement
 LB00639,Ionized Calcium(Electrolyte study),3027694,Calcium.ionized [Mass/volume] in Serum or Plasma
 LB00640,Iron special stain(Bone Marrow Biopsy),4236642,"Iron stain method, blood or bone marrow"
 LB00641,Iron(Serum),4178785,Iron measurement
 LB00642,Lactate Dehydrogenase(Lactate Dehydrogenase assay),40760775,Lactate dehydrogenase [Enzymatic activity/volume] in Semen
-LB00643,Lactic acid(Àü¿ë),4213582,Lactic acid measurement
+LB00643,Lactic acid(ì „ìš©),4213582,Lactic acid measurement
 LB00644,Lactic acid(C.S.F),4213582,Lactic acid measurement
 LB00645,Lactic acid(Serum),4213582,Lactic acid measurement
 LB00646,LDH Isoenzyme(Serum),4228212,Lactate dehydrogenase isoenzymes measurement
@@ -679,12 +679,12 @@ LB00677,Magnesium(Serum),4243005,Magnesium measurement
 LB00678,Magnesium(Urine (24hr)),4261656,"Magnesium measurement, urine"
 LB00679,Magnesium(Urine (Random)),4261656,"Magnesium measurement, urine"
 LB00680,Major bcr/abl rearrangment(BM(EDTA)),42742560,"BCR/ABL1 (t(9;22)) (eg, chronic myelogenous leukemia) translocation analysis; major breakpoint, qualitative or quantitative"
-LB00681,Major bcr/abl rearrangment(BM(PCR¿ë)),42742560,"BCR/ABL1 (t(9;22)) (eg, chronic myelogenous leukemia) translocation analysis; major breakpoint, qualitative or quantitative"
+LB00681,Major bcr/abl rearrangment(BM(PCRìš©)),42742560,"BCR/ABL1 (t(9;22)) (eg, chronic myelogenous leukemia) translocation analysis; major breakpoint, qualitative or quantitative"
 LB00682,Major bcr/abl rearrangment(WB(EDTA)),42742560,"BCR/ABL1 (t(9;22)) (eg, chronic myelogenous leukemia) translocation analysis; major breakpoint, qualitative or quantitative"
 LB00683,Major bcr/abl rearrangment(Whole blood (ACD)),42742560,"BCR/ABL1 (t(9;22)) (eg, chronic myelogenous leukemia) translocation analysis; major breakpoint, qualitative or quantitative"
 LB00684,Malaria smear(WB(EDTA)),3045707,Microscopic observation [Identifier] in Blood by Malaria smear
-LB00685,MAST Allergy (Food)(°ËÃ¼´Ù·® (MAST¿ë)),4266629,"Allergen specific IgE antibody measurement, MAST type"
-LB00686,mast allergy test(°ËÃ¼´Ù·® (MAST¿ë)),4266629,"Allergen specific IgE antibody measurement, MAST type"
+LB00685,MAST Allergy (Food)(ê²€ì²´ë‹¤ëŸ‰ (MASTìš©)),4266629,"Allergen specific IgE antibody measurement, MAST type"
+LB00686,mast allergy test(ê²€ì²´ë‹¤ëŸ‰ (MASTìš©)),4266629,"Allergen specific IgE antibody measurement, MAST type"
 LB00687,MCH,3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass]
 LB00688,MCHC,3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume]
 LB00689,MCV,3024731,Erythrocyte mean corpuscular volume [Entitic volume]
@@ -705,7 +705,7 @@ LB00703,"MICRO CUL & SENSI(BLOOD,FLUID)(Peritosol)",4170475,Culture sensitivity
 LB00704,"MICRO CUL & SENSI(BLOOD,FLUID)(Pleural fluid(EDTA))",4293873,"Fluid microscopy, culture and sensitivities"
 LB00705,"MICRO CUL & SENSI(BLOOD,FLUID)(Pleural fluid)",4170475,Culture sensitivity
 LB00706,"MICRO CUL & SENSI(BLOOD,FLUID)(Serum)",4170475,Culture sensitivity
-LB00707,"MICRO CUL & SENSI(BLOOD,FLUID)(WB (Ç÷¾× ¹è¾ç¿ë±â 2°³))",4170475,Culture sensitivity
+LB00707,"MICRO CUL & SENSI(BLOOD,FLUID)(WB (í˜ˆì•¡ ë°°ì–‘ìš©ê¸° 2ê°œ))",4170475,Culture sensitivity
 LB00708,MICRO CUL & SENSI(DIGESTIVE)(Ascitic fluid),4170475,Culture sensitivity
 LB00709,MICRO CUL & SENSI(DIGESTIVE)(Bile juice),4170475,Culture sensitivity
 LB00710,MICRO CUL & SENSI(DIGESTIVE)(Gastric biopsy),4170475,Culture sensitivity
@@ -715,7 +715,7 @@ LB00713,MICRO CUL & SENSI(DIGESTIVE)(Rectal Swab),4170475,Culture sensitivity
 LB00714,MICRO CUL & SENSI(DIGESTIVE)(Stool),4170475,Culture sensitivity
 LB00715,MICRO CUL & SENSI(OTHER)(Abdominal abscess),4170475,Culture sensitivity
 LB00716,MICRO CUL & SENSI(OTHER)(Biopsy tissue),4170475,Culture sensitivity
-LB00717,MICRO CUL & SENSI(OTHER)(BM(Culture¿ë)),4170475,Culture sensitivity
+LB00717,MICRO CUL & SENSI(OTHER)(BM(Cultureìš©)),4170475,Culture sensitivity
 LB00718,MICRO CUL & SENSI(OTHER)(Bone),4170475,Culture sensitivity
 LB00719,MICRO CUL & SENSI(OTHER)(Brain abscess),4170475,Culture sensitivity
 LB00720,MICRO CUL & SENSI(OTHER)(CAPD),4170475,Culture sensitivity
@@ -752,7 +752,7 @@ LB00750,MICRO CUL & SENSI(URINARY)(IUD),4170475,Culture sensitivity
 LB00751,MICRO CUL & SENSI(URINARY)(Urethral discharge),4170475,Culture sensitivity
 LB00752,MICRO CUL & SENSI(URINARY)(Urine (12hr)),4270027,"Urinary microscopy, culture and sensitivities"
 LB00753,MICRO CUL & SENSI(URINARY)(Vaginal Discharge),4268449,"Genital microscopy, culture and sensitivities"
-LB00754,MICRO ORGANISM SENSTIVITY TEST(±ÕÁÖ),4032801,Antimicrobial susceptibility test
+LB00754,MICRO ORGANISM SENSTIVITY TEST(ê· ì£¼),4032801,Antimicrobial susceptibility test
 LB00755,Microalbumin(Ratio)(Urine (12hr)),4150342,Urine microalbumin/creatinine ratio measurement
 LB00756,Microalbumin(Ratio)(Urine (24hr)),4150342,Urine microalbumin/creatinine ratio measurement
 LB00757,Microalbumin(Ratio)(Urine (Random)),4150342,Urine microalbumin/creatinine ratio measurement
@@ -764,7 +764,7 @@ LB00762,Mycoplasma Ab IgM(Serum),4209265,Mycoplasma IgM measurement
 LB00763,Myelo,3017181,Myelocytes/100 leukocytes in Blood
 LB00764,Neutrophil,3018010,Neutrophils/100 leukocytes in Blood
 LB00765,nRBC,3034708,Nucleated erythrocytes/100 leukocytes [Ratio] in Blood
-LB00766,Nuclear matrix protein 22(Àü¿ë),3029058,Nuclear matrix protein 22 [Presence] in Urine
+LB00766,Nuclear matrix protein 22(ì „ìš©),3029058,Nuclear matrix protein 22 [Presence] in Urine
 LB00767,O2CT,3044904,Oxygen content in Blood
 LB00768,O2SAT,3016502,Oxygen saturation in Arterial blood
 LB00769,Occult Blood(Occult Blood),3030153,Occult blood panel in Stool
@@ -786,10 +786,10 @@ LB00784,Phosphorous(Serum),3003458,Phosphate [Moles/volume] in Serum or Plasma
 LB00785,Phosphorous(Urine (24hr)),3036691,Phosphate [Mass/volume] in unspecified time Urine
 LB00786,Phosphorous(Urine (Random)),3036691,Phosphate [Mass/volume] in unspecified time Urine
 LB00787,PIVKA-II(Quantitative)(Serum),3042131,Prothrombin time (PT) PIVKA sensitive actual/normal in Platelet poor plasma by Coagulation assay
-LB00788,Platelet Drug Response Assay(¾Æ½ºÇÇ¸°)(P(Sodium citrate)),4197648,Platelet function test
+LB00788,Platelet Drug Response Assay(ì•„ìŠ¤í”¼ë¦°)(P(Sodium citrate)),4197648,Platelet function test
 LB00789,Platelet(Barobag count),3007461,Platelet count
 LB00790,Platelet(Pepheral blood study),3007461,Platelets [#/volume] in Blood
-LB00791,Platelet(Product(CD34¿ë)),3007461,Platelet count
+LB00791,Platelet(Product(CD34ìš©)),3007461,Platelet count
 LB00792,Platelet(WB(EDTA)),3007461,Platelet count
 LB00793,Pneumocystis jirovecoo(carinii) PCR(Bronchial larvage),3009595,Pneumocystis jiroveci DNA [Presence] in Unspecified specimen by Probe and target amplification method
 LB00794,Pneumocystis jirovecoo(carinii) PCR(Sputum),3009595,Pneumocystis jiroveci DNA [Presence] in Unspecified specimen by Probe and target amplification method
@@ -803,10 +803,10 @@ LB00801,Potassium(Pleural fluid(EDTA)),4245152,Potassium measurement
 LB00802,Potassium(Serum),4245152,Potassium measurement
 LB00803,Potassium(Urine (24hr)),4173269,"Potassium measurement, urine"
 LB00804,Potassium(Urine (Random)),4173269,"Potassium measurement, urine"
-LB00805,Potassium(Whole blood (ABGA¿ë)),4245152,Potassium measurement
-LB00806,Preg Test(ºñ±Þ¿©)(Urine (Random)),3016930,Pregnenolone [Mass/volume] in Urine
+LB00805,Potassium(Whole blood (ABGAìš©)),4245152,Potassium measurement
+LB00806,Preg Test(ë¹„ê¸‰ì—¬)(Urine (Random)),3016930,Pregnenolone [Mass/volume] in Urine
 LB00807,Pro-Brain Natriuretic Peptide(Serum),4246847,Serum pro-brain natriuretic peptide level
-LB00808,ProcalcitoninÁ¤·®(Serum),3046279,Procalcitonin [Mass/volume] in Serum or Plasma
+LB00808,Procalcitoninì •ëŸ‰(Serum),3046279,Procalcitonin [Mass/volume] in Serum or Plasma
 LB00809,Promyelo,3021440,Promyelocytes/100 leukocytes in Blood
 LB00810,Protein C activity(functional)(P(Sodium citrate)),44810875,Protein C activity
 LB00811,Protein Electrophoresis(C.S.F),4311951,Body fluid protein electrophoresis
@@ -816,7 +816,7 @@ LB00814,Protein Electrophoresis(Urine (24hr)),4251338,Urine protein electrophore
 LB00815,Protein Electrophoresis(Urine (Random)),4251338,Urine protein electrophoresis
 LB00816,Protein S Ag(immunological)(P(Sodium citrate)),43054971,Protein S Ag [Units/volume] in Platelet poor plasma by Immunologic method
 LB00817,Protein-C Ag(Immunological)(P(Sodium citrate)),3036874,Protein C Ag [Units/volume] in Platelet poor plasma by Immunologic method
-LB00818,Protein-S(±â´ÉÀû)(P(Sodium citrate)),44807778,Protein S activity measurement
+LB00818,Protein-S(ê¸°ëŠ¥ì )(P(Sodium citrate)),44807778,Protein S activity measurement
 LB00819,"Protozoa,cyst trophozoit(Stool)",3048173,Protozoa identified in Unspecified specimen
 LB00820,PT,3034426,Prothrombin time (PT) in Platelet poor plasma by Coagulation assay
 LB00821,Pt temp,3020891,Body temperature
@@ -824,30 +824,30 @@ LB00822,PT(P(Sodium citrate)),4245261,Prothrombin time
 LB00823,RBC,3035124,Erythrocytes [#/area] in Urine sediment by Microscopy high power field
 LB00824,RBC Cast,3002587,RBC casts [#/area] in Urine sediment by Microscopy low power field
 LB00825,RBC COUNT(Barobag count),4030871,Red blood cell count
-LB00826,RBC COUNT(Product(CD34¿ë)),4030871,Red blood cell count
+LB00826,RBC COUNT(Product(CD34ìš©)),4030871,Red blood cell count
 LB00827,RBC COUNT(WB(EDTA)),4030871,Red blood cell count
 LB00828,RBC(Pepheral blood study),3026361,Erythrocytes [#/volume] in Blood
 LB00829,RDW,3002385,Erythrocyte distribution width [Ratio]
 LB00830,Reticulocyte count(smear)(WB(EDTA)),40763528,Reticulocytes [#/volume] in Blood by Automated count
-LB00831,RF(Á¤·®)(RF assay),3021614,Rheumatoid factor [Units/volume] in Serum
+LB00831,RF(ì •ëŸ‰)(RF assay),3021614,Rheumatoid factor [Units/volume] in Serum
 LB00832,r-GT(Liver function test),3026365,Gamma glutamyl transferase [Enzymatic activity/volume] in Semen
 LB00833,Rh Typing(Capillary blood),3003310,Rh [Type] in Blood
-LB00834,Rh Typing(Serum(Blood Bank¿ë Tube)),3003310,Rh [Type] in Blood
+LB00834,Rh Typing(Serum(Blood Bankìš© Tube)),3003310,Rh [Type] in Blood
 LB00835,Rh Typing(Serum),3003310,Rh [Type] in Blood
 LB00836,Rh Typing(WB(EDTA)),3003310,Rh [Type] in Blood
 LB00837,Rh(D) Typing(Blood grouping),3003694,ABO and Rh group [Type] in Blood
-LB00838,Rheumatoid factor Á¤·®(Serum),3043745,Rheumatoid factor [Presence] in Serum
+LB00838,Rheumatoid factor ì •ëŸ‰(Serum),3043745,Rheumatoid factor [Presence] in Serum
 LB00839,Rubella IgG(Serum),3013750,Rubella virus IgG Ab [Presence] in Serum
 LB00840,Rubella IgM(Serum),3009308,Rubella virus IgM Ab [Presence] in Serum
-LB00841,RV(Respiratory virus)(Àü¿ë),4201161,RSV antigen level
+LB00841,RV(Respiratory virus)(ì „ìš©),4201161,RSV antigen level
 LB00842,RV(Respiratory virus)(Bronchial larvage),4201161,RSV antigen level
 LB00843,RV(Respiratory virus)(Nasal Aspirate),3046856,Respiratory syncytial virus Ag [Presence] in Nose
-LB00844,RV(Respiratory virus)(Nasal Swab(Àü¿ë)),4208080,Taking nasal swab
+LB00844,RV(Respiratory virus)(Nasal Swab(ì „ìš©)),4208080,Taking nasal swab
 LB00845,RV(Respiratory virus)(Sputum),4151422,Sputum examination
 LB00846,S-100(Serum),3051671,S100 calcium binding protein B [Mass/volume] in Serum
-LB00847,S-Aluminum(AAS¹ý)(Serum(Blood Bank¿ë Tube)),3000578,Aluminum [Moles/volume] in Serum or Plasma
-LB00848,S-Aluminum(AAS¹ý)(Serum),3000578,Aluminum [Moles/volume] in Serum or Plasma
-LB00849,S-Aluminum(AAS¹ý)(WB(EDTA)),4164148,"Aluminum measurement, blood"
+LB00847,S-Aluminum(AASë²•)(Serum(Blood Bankìš© Tube)),3000578,Aluminum [Moles/volume] in Serum or Plasma
+LB00848,S-Aluminum(AASë²•)(Serum),3000578,Aluminum [Moles/volume] in Serum or Plasma
+LB00849,S-Aluminum(AASë²•)(WB(EDTA)),4164148,"Aluminum measurement, blood"
 LB00850,Segmenthil,3042527,Neutrophils.immature/100 leukocytes in Blood
 LB00851,Semen analysis(Semen),4040728,Semen analysis
 LB00852,SERUM KETONE TEST(Serum),3046325,Ketones [Mass/volume] in Serum or Plasma
@@ -863,7 +863,7 @@ LB00861,Sodium(Pleural fluid(EDTA)),2212573,Sodium level
 LB00862,Sodium(Serum),4021154,"Sodium measurement, serum"
 LB00863,Sodium(Urine (24hr)),4020682,"Sodium measurement, urine"
 LB00864,Sodium(Urine (Random)),4020682,"Sodium measurement, urine"
-LB00865,Sodium(Whole blood (ABGA¿ë)),2212573,Sodium level
+LB00865,Sodium(Whole blood (ABGAìš©)),2212573,Sodium level
 LB00866,SPINAL FLUID.ASCITES.PLEURAL(Amniotic Fluid),3037856,Volume of Amniotic fluid
 LB00867,SPINAL FLUID.ASCITES.PLEURAL(Ascitic fluid (Heparin)),4057620,Ascitic fluid chemistry test
 LB00868,SPINAL FLUID.ASCITES.PLEURAL(Ascitic fluid(EDTA)),4057620,Ascitic fluid chemistry test
@@ -885,12 +885,12 @@ LB00883,SPINAL FLUID.ASCITES.PLEURAL(Pleural fluid (Heparin)),3030857,Volume of 
 LB00884,SPINAL FLUID.ASCITES.PLEURAL(Pleural fluid(EDTA)),3030857,Volume of Pleural fluid
 LB00885,SPINAL FLUID.ASCITES.PLEURAL(Pleural fluid),3030857,Volume of Pleural fluid
 LB00886,SPINAL FLUID.ASCITES.PLEURAL(Sputum),4133843,Body fluid analysis
-LB00887,Stool exam (Æ¯¼ö ¿°»ö)(Stool),4306952,Fecal analysis
+LB00887,Stool exam (íŠ¹ìˆ˜ ì—¼ìƒ‰)(Stool),4306952,Fecal analysis
 LB00888,stool occult blood(latex)(Stool),3030153,Occult blood panel - Stool
 LB00889,Stool VRE(study)(Stool),3023601,Vancomycin resistant enterococcus [Presence] in Unspecified specimen by Organism specific culture
 LB00890,stool wbc ex.(Stool),3013199,Leukocytes [#/volume] in Stool
-LB00891,Streptococcus Pneumoniae Ag(Á¤¹Ð)(C.S.F),4045314,Streptococcus pneumoniae antigen assay
-LB00892,Streptococcus Pneumoniae Ag(Á¤¹Ð)(Urine (Random)),3011363,Streptococcus pneumoniae Ag [Presence] in Urine
+LB00891,Streptococcus Pneumoniae Ag(ì •ë°€)(C.S.F),4045314,Streptococcus pneumoniae antigen assay
+LB00892,Streptococcus Pneumoniae Ag(ì •ë°€)(Urine (Random)),3011363,Streptococcus pneumoniae Ag [Presence] in Urine
 LB00893,T.Bilirubin(Bilirubin test),3024128,Bilirubin.total [Mass/volume] in Serum or Plasma
 LB00894,T.Cholesterol(Lipid study),3027114,Cholesterol [Mass/volume] in Serum or Plasma
 LB00895,T.CO2(Electrolyte study),3015632,"Carbon dioxide, total [Moles/volume] in Serum or Plasma"
@@ -906,7 +906,7 @@ LB00904,Tacrolimus Assay(WB(EDTA)),3026250,Tacrolimus [Mass/volume] in Blood
 LB00905,TB PCR-Hybridization(FD)(Ascitic fluid),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
 LB00906,TB PCR-Hybridization(FD)(Aseptic Urine (Voided)),3026478,Mycobacterium tuberculosis DNA [Presence] in Urine by Probe and target amplification method
 LB00907,TB PCR-Hybridization(FD)(Biopsy tissue),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
-LB00908,TB PCR-Hybridization(FD)(BM(PCR¿ë)),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
+LB00908,TB PCR-Hybridization(FD)(BM(PCRìš©)),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
 LB00909,TB PCR-Hybridization(FD)(Bronchial larvage),3028048,Mycobacterium tuberculosis DNA [Presence] in Bronchial specimen by Probe and target amplification method
 LB00910,TB PCR-Hybridization(FD)(C.S.F),3027858,Mycobacterium tuberculosis DNA [Presence] in Cerebral spinal fluid by Probe and target amplification method
 LB00911,TB PCR-Hybridization(FD)(Close pus),3028393,Mycobacterium tuberculosis DNA [Presence] in Semen by Probe and target amplification method
@@ -970,7 +970,7 @@ LB00968,Triage S.O.B Pannel(WB(EDTA)),4023021,Triage
 LB00969,Triglyceride(Lipid study),3022192,Triglyceride [Mass/volume] in Serum or Plasma
 LB00970,Troponin I(Serum),4209251,Serum troponin I measurement
 LB00971,Turbidity,3035355,Turbidity [Presence] of Urine
-LB00972,U/A 10Á¾(Urine (Random)),4055811,Urine examination
+LB00972,U/A 10ì¢…(Urine (Random)),4055811,Urine examination
 LB00973,Uric acid(Catheter),4313992,Uric acid measurement
 LB00974,Uric acid(Joint fluid),4313992,Uric acid measurement
 LB00975,Uric acid(Serum),4076924,Serum uric acid measurement
@@ -994,22 +994,22 @@ LB00992,Varicella zoster IgG(C.S.F),3035300,Varicella zoster virus IgG Ab [Prese
 LB00993,Varicella zoster IgG(Serum),3022386,Varicella zoster virus IgG Ab [Presence] in Serum
 LB00994,Varicella zoster IgM(C.S.F),3037241,Varicella zoster virus IgM Ab [Titer] in Cerebral spinal fluid
 LB00995,Varicella zoster IgM(Serum),3016065,Varicella zoster virus IgM Ab [Presence] in Serum
-LB00996,"VDRL Serum(Á¤¼º)(Syphilis study, Serum)",3019428,Reagin Ab [Presence] in Serum by VDRL
-LB00997,VDRL(Á¤·®)(C.S.F),3002446,Reagin Ab [Presence] in Cerebral spinal fluid by VDRL
-LB00998,VDRL(Á¤·®)(Serum),3019428,Reagin Ab [Presence] in Serum by VDRL
+LB00996,"VDRL Serum(ì •ì„±)(Syphilis study, Serum)",3019428,Reagin Ab [Presence] in Serum by VDRL
+LB00997,VDRL(ì •ëŸ‰)(C.S.F),3002446,Reagin Ab [Presence] in Cerebral spinal fluid by VDRL
+LB00998,VDRL(ì •ëŸ‰)(Serum),3019428,Reagin Ab [Presence] in Serum by VDRL
 LB00999,VDRL(PRP)QUANTITATIVE CSF(C.S.F),3002446,Reagin Ab [Presence] in Cerebral spinal fluid by VDRL
 LB01000,VDRL(RPR) QUANTITATION(C.S.F),3002446,Reagin Ab [Presence] in Cerebral spinal fluid by VDRL
 LB01001,VDRL(RPR) QUANTITATION(Serum),3019428,Reagin Ab [Presence] in Serum by VDRL
 LB01002,Vitamin B1(Thiamine)(WB(EDTA)),2212586,Thiamine (Vitamin B-1)
-LB01003,VMA(Á¤·®)(Urine (24hr)),3002374,Vanillylmandelate [Mass/volume] in 24 hour Urine
+LB01003,VMA(ì •ëŸ‰)(Urine (24hr)),3002374,Vanillylmandelate [Mass/volume] in 24 hour Urine
 LB01004,WAXY CAST,3020851,Waxy casts [#/area] in Urine sediment by Microscopy low power field
 LB01005,WBC,3035583,Leukocytes [#/area] in Urine sediment by Microscopy high power field
 LB01006,WBC Cast,3002052,WBC casts [#/area] in Urine sediment by Microscopy low power field
 LB01007,WBC COUNT(Barobag count),4298431,White blood cell count
-LB01008,WBC COUNT(Product(CD34¿ë)),4298431,White blood cell count
+LB01008,WBC COUNT(Product(CD34ìš©)),4298431,White blood cell count
 LB01009,WBC COUNT(WB(EDTA)),4298431,White blood cell count
 LB01010,Wbc differential count(blood)(Barobag count),2212637,Blood count; automated differential WBC count
-LB01011,Wbc differential count(blood)(Product(CD34¿ë)),4013251,Differential white blood cell count procedure
+LB01011,Wbc differential count(blood)(Product(CD34ìš©)),4013251,Differential white blood cell count procedure
 LB01012,Wbc differential count(blood)(WB(EDTA)),2212637,Blood count; automated differential WBC count
 LB01013,WBC(Pepheral blood study),3010813,Leukocytes [#/volume] in Blood
 LB01014,Widal test(Serum),4013262,Widal test
