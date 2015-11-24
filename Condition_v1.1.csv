@@ -1028,7 +1028,7 @@ DX00977,Idiopathic hypoparathyroidism,4034970,Idiopathic hypoparathyroidism
 DX00978,Other hypoparathyroidism,140362,Hypoparathyroidism
 DX00979,Hypoparathyroidism,140362,Hypoparathyroidism
 DX00980,Idiopathic hypoparathyroidism,4034970,Idiopathic hypoparathyroidism
-DX00981,¥Á¥¢ ¿”ªÛ ø¨±∏ ºæ≈Õ,0,No matching concept
+DX00981,ÎãπÎá® ÏûÑÏÉÅ Ïó∞Íµ¨ ÏÑºÌÑ∞,0,No matching concept
 DX00982,Other hypoparathyroidism,140362,Hypoparathyroidism
 DX00983,Primary hyperparathyroidism,136934,Primary hyperparathyroidism
 DX00984,Primary hyperparathyroidism,136934,Primary hyperparathyroidism
@@ -1239,7 +1239,7 @@ DX01171,"Bipolar affective disorder, current episode severe depression without p
 DX01172,"Bipolar affective disorder, current episode severe depression with psychotic symptoms",436386,Severe depressed bipolar I disorder with psychotic features
 DX01173,"Bipolar affective disorder, currently in remission",436665,Manic-depressive psychosis
 DX01174,Other bipolar affective disorders,440078,"Bipolar affective disorder, current episode manic"
-DX01175,Bipolar •± disorder,440078,"Bipolar affective disorder, current episode manic"
+DX01175,Bipolar ‚Ö° disorder,440078,"Bipolar affective disorder, current episode manic"
 DX01176,Bipolar affective disorder,436665,Manic-depressive psychosis
 DX01177,"Bipolar affective disorder, current episode hypomanic",4150985,"Bipolar I disorder, most recent episode hypomanic"
 DX01178,"Bipolar affective disorder, current episode manic without psychotic symptoms",4088488,Psychotic symptoms absent
@@ -4462,9 +4462,9 @@ DX04249,Endometrial adenomatous hyperplasia,198471,Complex endometrial hyperplas
 DX04250,Erosion and ectropion of cervix uteri,201355,Erosion and ectropion of the cervix
 DX04251,Dysplasia of cervix uteri,192367,Dysplasia of cervix
 DX04252,Mild cervical dysplasia,192676,Cervical intraepithelial neoplasia grade 1
-DX04253,"Cervical intraepithelial neoplasia [CIN], grade •∞",192676,Cervical intraepithelial neoplasia grade 1
+DX04253,"Cervical intraepithelial neoplasia [CIN], grade ‚Ö†",192676,Cervical intraepithelial neoplasia grade 1
 DX04254,Moderate cervical dysplasia,196165,Cervical intraepithelial neoplasia grade 2
-DX04255,"Cervical intraepithelial neoplasia [CIN], grade •±",196165,Cervical intraepithelial neoplasia grade 2
+DX04255,"Cervical intraepithelial neoplasia [CIN], grade ‚Ö°",196165,Cervical intraepithelial neoplasia grade 2
 DX04256,"Severe cervical dysplasia, NOS",194611,CIN 3 - Cervical intraepithelial neoplasia grade 3
 DX04257,Dysplasia of cervix uteri,192367,Dysplasia of cervix
 DX04258,Mild cervical dysplasia,192676,Cervical intraepithelial neoplasia grade 1
@@ -4621,7 +4621,7 @@ DX04392,Other preterm infants,438258,Baby birth weight above 2.5kg
 DX04393,Other preterm infants : 28-31 completes weeks,438258,Baby birth weight above 2.5kg
 DX04394,Other preterm infants : 32-36 completed weeks,438258,Baby birth weight above 2.5kg
 DX04395,"Other preterm infants, unspecified weeks",438258,Baby birth weight above 2.5kg
-DX04396,Prematurity NOS : ¿”Ω≈»ƒ 28¡÷ ¿ÃªÛ 37¡÷ ¿Ã«œ,438258,Baby birth weight above 2.5kg
+DX04396,Prematurity NOS : ÏûÑÏã†ÌõÑ 28Ï£º Ïù¥ÏÉÅ 37Ï£º Ïù¥Ìïò,438258,Baby birth weight above 2.5kg
 DX04397,Extremely low birth weight,4173323,Extremely low birth weight infant
 DX04398,Other low birth weight,4171115,Low birth weight infant
 DX04399,"Birth weight, 2000-2499 grams",4149455,Baby birth weight 2.0-2.5kg
@@ -5717,7 +5717,7 @@ DX05389,Burn NOS,442013,Burn
 DX05390,Second-degree burn NOS,4296205,Second degree burn
 DX05391,"Burn of unspecified body region, unspecified degree",4123196,Burn of skin of body region
 DX05392,Burns involving less than 10% of body surface,133384,Burn any degree involving less than 10 percent of body surface
-DX05393,Burns involving less than 10£• of body surface,133384,Burn any degree involving less than 10 percent of body surface
+DX05393,Burns involving less than 10ÔºÖ of body surface,133384,Burn any degree involving less than 10 percent of body surface
 DX05394,Poisoning by drugs primarily affecting the autonomic nervous system,4163664,Drug groups primarily affecting the autonomic nervous system allergy
 DX05394,Poisoning by drugs primarily affecting the autonomic nervous system,438028,Poisoning by drug AND/OR medicinal substance
 DX05395,Poisoning by drugs primarily affecting the autonomic nervous system,438028,Poisoning by drug AND/OR medicinal substance
