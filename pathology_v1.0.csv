@@ -1,23 +1,23 @@
 mapping_num,description,omop_concept_id,omop_concept_name
-PT00001,°´´ã ¼¼Æ÷º´¸®°Ë»ç,2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
-PT00002,±¤¹üÀ§ÀýÁ¦¼ú,4098214,Histopathology test
-PT00003,³úÃ´¼ö¾× ¼¼Æ÷º´¸®°Ë»ç(CSF cytology),2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
-PT00004,"¾Ç¼ºÁ¾¾ç¼ö¼ú,¸²ÇÁÀý ¹ÌÆ÷ÇÔ(Blocks 15°³ÀÌÇÏ)",4157779,Excision of malignant neoplasm
-PT00005,"¾Ç¼ºÁ¾¾ç¼ö¼ú,¸²ÇÁÀýÆ÷ÇÔ(Blocks 20°³ÀÌÇÏ)",4098214,Histopathology test
-PT00006,"¾Ç¼ºÁ¾¾ç¼ö¼ú,¸²ÇÁÀýÆ÷ÇÔ,Blocks Ãß°¡",4157779,Excision of malignant neoplasm
-PT00006,"¾Ç¼ºÁ¾¾ç¼ö¼ú,¸²ÇÁÀýÆ÷ÇÔ,Blocks Ãß°¡",4238646,Excision of lymph node
-PT00007,¾×»ó °´´ã ¼¼Æ÷º´¸®°Ë»ç,2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
-PT00008,¾×»ó ±â°üÁö¼¼Ã´ ¼¼Æ÷º´¸®°Ë»ç,2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
-PT00009,¾×»ó ¼Òº¯ ¼¼Æ÷º´¸® °Ë»ç,2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
-PT00010,¾×»ó ÀÚ±Ã°æºÎ ¼¼Æ÷º´¸®°Ë»ç,4220448,Liquid based cervical cytology screening
-PT00011,¾×»ó ÈíÀÎ ¼¼Æ÷º´¸®°Ë»ç,4332644,Liquid based cytologic material
-PT00012,ÀÚ±ÃÁúµµ¸» ¼¼Æ÷º´¸®°Ë»ç,4238831,"Cytopathology, screening of smear, routine, genital source, by cytotechnologist"
-PT00013,ÀÛÀºÁ¶Á÷°Ë»ç(<5CM),4098214,Histopathology test
-PT00014,Àå±âÀûÃâ¼ú,4098214,Histopathology test
-PT00015,"ÀýÆíÀÌÇÊ¿äÇÑÁ¶Á÷¹×Àå±âÀûÃâ¼ú,Blocks6°³ÀÌÇÏ",4098214,Histopathology test
-PT00016,"Á¶Á÷±¸ÃàÇÐÀû°Ë»ç,¸²ÇÁÀý ¹ÌÆ÷ÇÔ",4098214,Histopathology test
-PT00017,Å«Á¶Á÷°Ë»ç,4098214,Histopathology test
-PT00018,ÈíÀÎ ¼¼Æ÷º´¸®°Ë»ç(Cell Block ¹ÌÆ÷ÇÔ),2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
+PT00001,ê°ë‹´ ì„¸í¬ë³‘ë¦¬ê²€ì‚¬,2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
+PT00002,ê´‘ë²”ìœ„ì ˆì œìˆ ,4098214,Histopathology test
+PT00003,ë‡Œì²™ìˆ˜ì•¡ ì„¸í¬ë³‘ë¦¬ê²€ì‚¬(CSF cytology),2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
+PT00004,"ì•…ì„±ì¢…ì–‘ìˆ˜ìˆ ,ë¦¼í”„ì ˆ ë¯¸í¬í•¨(Blocks 15ê°œì´í•˜)",4157779,Excision of malignant neoplasm
+PT00005,"ì•…ì„±ì¢…ì–‘ìˆ˜ìˆ ,ë¦¼í”„ì ˆí¬í•¨(Blocks 20ê°œì´í•˜)",4098214,Histopathology test
+PT00006,"ì•…ì„±ì¢…ì–‘ìˆ˜ìˆ ,ë¦¼í”„ì ˆí¬í•¨,Blocks ì¶”ê°€",4157779,Excision of malignant neoplasm
+PT00006,"ì•…ì„±ì¢…ì–‘ìˆ˜ìˆ ,ë¦¼í”„ì ˆí¬í•¨,Blocks ì¶”ê°€",4238646,Excision of lymph node
+PT00007,ì•¡ìƒ ê°ë‹´ ì„¸í¬ë³‘ë¦¬ê²€ì‚¬,2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
+PT00008,ì•¡ìƒ ê¸°ê´€ì§€ì„¸ì²™ ì„¸í¬ë³‘ë¦¬ê²€ì‚¬,2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
+PT00009,ì•¡ìƒ ì†Œë³€ ì„¸í¬ë³‘ë¦¬ ê²€ì‚¬,2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
+PT00010,ì•¡ìƒ ìžê¶ê²½ë¶€ ì„¸í¬ë³‘ë¦¬ê²€ì‚¬,4220448,Liquid based cervical cytology screening
+PT00011,ì•¡ìƒ í¡ì¸ ì„¸í¬ë³‘ë¦¬ê²€ì‚¬,4332644,Liquid based cytologic material
+PT00012,ìžê¶ì§ˆë„ë§ ì„¸í¬ë³‘ë¦¬ê²€ì‚¬,4238831,"Cytopathology, screening of smear, routine, genital source, by cytotechnologist"
+PT00013,ìž‘ì€ì¡°ì§ê²€ì‚¬(<5CM),4098214,Histopathology test
+PT00014,ìž¥ê¸°ì ì¶œìˆ ,4098214,Histopathology test
+PT00015,"ì ˆíŽ¸ì´í•„ìš”í•œì¡°ì§ë°ìž¥ê¸°ì ì¶œìˆ ,Blocks6ê°œì´í•˜",4098214,Histopathology test
+PT00016,"ì¡°ì§êµ¬ì¶•í•™ì ê²€ì‚¬,ë¦¼í”„ì ˆ ë¯¸í¬í•¨",4098214,Histopathology test
+PT00017,í°ì¡°ì§ê²€ì‚¬,4098214,Histopathology test
+PT00018,í¡ì¸ ì„¸í¬ë³‘ë¦¬ê²€ì‚¬(Cell Block ë¯¸í¬í•¨),2213212,"Cytopathology, fluids, washings or brushings, except cervical or vaginal; smears with interpretation"
 PT00019,AFB Stain(Ascitic fluid),3027744,Microscopic observation [Identifier] in Unspecified specimen by Acid fast stain
 PT00020,AFB Stain(Aseptic Urine (Cath)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
 PT00021,AFB Stain(Aseptic Urine (Voided)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
@@ -45,17 +45,17 @@ PT00042,AFB Stain(Urine (12hr)),3024850,Microscopic observation [Identifier] in 
 PT00043,AFB Stain(Urine (24hr)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
 PT00044,AFB Stain(Urine (Random)),3024850,Microscopic observation [Identifier] in Urine by Acid fast stain
 PT00045,Alcian Blue-PAS Stain,3005170,Microscopic observation [Identifier] in Tissue by Alcian blue stain.with periodic acid-Schiff
-PT00046,Biopsy 10-12°³,4098214,Histopathology test
-PT00047,Biopsy 1-3°³,4098214,Histopathology test
-PT00048,Biopsy 1-3°³ Consultation,4098214,Histopathology test
-PT00049,Biopsy 4-6°³,4098214,Histopathology test
-PT00050,Biopsy 7-9°³,4098214,Histopathology test
-PT00051,BRAF À¯ÀüÀÚ ÁÖ µ¹¿¬º¯ÀÌ(ÁßÇÕÈ¿¼Ò¿¬¼â¹ÝÀÀ-Á¦ÇÑÈ¿¼ÒÀýÆí±æÀÌ´ÙÇü¹ý),40761583,BRAF gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal
+PT00046,Biopsy 10-12ê°œ,4098214,Histopathology test
+PT00047,Biopsy 1-3ê°œ,4098214,Histopathology test
+PT00048,Biopsy 1-3ê°œ Consultation,4098214,Histopathology test
+PT00049,Biopsy 4-6ê°œ,4098214,Histopathology test
+PT00050,Biopsy 7-9ê°œ,4098214,Histopathology test
+PT00051,BRAF ìœ ì „ìž ì£¼ ëŒì—°ë³€ì´(ì¤‘í•©íš¨ì†Œì—°ì‡„ë°˜ì‘-ì œí•œíš¨ì†Œì ˆíŽ¸ê¸¸ì´ë‹¤í˜•ë²•),40761583,BRAF gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal
 PT00052,CD20(B cell),4198740,CD20 B-cell count procedure
 PT00053,CD3(T cell),4209239,CD3 T-cell count
 PT00054,CD34,4193720,CD34 stem cell count
 PT00055,CD56,3026757,CD56 cells [#/volume] in Blood
-PT00056,CEA(º´¸®°ú),4244721,Carcinoembryonic antigen measurement
+PT00056,CEA(ë³‘ë¦¬ê³¼),4244721,Carcinoembryonic antigen measurement
 PT00057,Chromogranin A,3006407,Chromogranin A [Mass/volume] in Serum or Plasma
 PT00058,Cytokeratin (AE1/AE3),3040360,Cytokeratin AE1+AE3 Ag [Presence] in Tissue by Immune stain
 PT00059,Cytokeratin 20,3040070,Cytokeratin 20 Ag [Presence] in Tissue by Immune stain
@@ -64,18 +64,18 @@ PT00061,"Cytokeratin,High Molecular Weight",3030196,Cytokeratin cells [#/volume]
 PT00061,"Cytokeratin,High Molecular Weight",4247001,Fitzgerald factor assay
 PT00062,"DIF, C1q",3002140,Complement C1q [Mass/volume] in Serum or Plasma
 PT00062,"DIF, C1q",4133315,Direct tissue immunofluorescence procedure
-PT00063,"DIF, C3(º´¸®)",3000581,Complement C3c [Mass/volume] in Serum or Plasma
-PT00063,"DIF, C3(º´¸®)",4133315,Direct tissue immunofluorescence procedure
+PT00063,"DIF, C3(ë³‘ë¦¬)",3000581,Complement C3c [Mass/volume] in Serum or Plasma
+PT00063,"DIF, C3(ë³‘ë¦¬)",4133315,Direct tissue immunofluorescence procedure
 PT00064,"DIF, C4",4133315,Direct tissue immunofluorescence procedure
-PT00065,"DIF, Fibrinogen(º´¸®)",3004157,Fibrinogen
-PT00065,"DIF, Fibrinogen(º´¸®)",4133315,Direct tissue immunofluorescence procedure
-PT00066,"DIF, Ig A(º´¸®)",4133315,Direct tissue immunofluorescence procedure
-PT00066,"DIF, Ig A(º´¸®)",4135810,Immunoglobulin A measurement
-PT00067,"DIF, Ig G(º´¸®)",4133315,Direct tissue immunofluorescence procedure
-PT00067,"DIF, Ig G(º´¸®)",4163378,Immunoglobulin G measurement
-PT00068,"DIF, Ig M(º´¸®)",4133315,Direct tissue immunofluorescence procedure
-PT00068,"DIF, Ig M(º´¸®)",4164130,Immunoglobulin M measurement
-PT00069,D-PAS Stain(º´¸®),4015319,Periodic acid-Schiff staining
+PT00065,"DIF, Fibrinogen(ë³‘ë¦¬)",3004157,Fibrinogen
+PT00065,"DIF, Fibrinogen(ë³‘ë¦¬)",4133315,Direct tissue immunofluorescence procedure
+PT00066,"DIF, Ig A(ë³‘ë¦¬)",4133315,Direct tissue immunofluorescence procedure
+PT00066,"DIF, Ig A(ë³‘ë¦¬)",4135810,Immunoglobulin A measurement
+PT00067,"DIF, Ig G(ë³‘ë¦¬)",4133315,Direct tissue immunofluorescence procedure
+PT00067,"DIF, Ig G(ë³‘ë¦¬)",4163378,Immunoglobulin G measurement
+PT00068,"DIF, Ig M(ë³‘ë¦¬)",4133315,Direct tissue immunofluorescence procedure
+PT00068,"DIF, Ig M(ë³‘ë¦¬)",4164130,Immunoglobulin M measurement
+PT00069,D-PAS Stain(ë³‘ë¦¬),4015319,Periodic acid-Schiff staining
 PT00070,Estrogen Receptor,4307360,Oestrogen receptor assay (ERA)
 PT00071,Frozen Biopsy (Pathology),2213295,Pathology consultation during surgery
 PT00072,Galectin-3,43527903,Galectin-3
@@ -124,7 +124,7 @@ PT00114,Gram stain(Urethral discharge),3037143,Microscopic observation [Identifi
 PT00115,Gram stain(Urine (12hr)),3003745,Microscopic observation [Identifier] in Urine by Gram stain
 PT00116,Gram stain(Urine (Random)),3003745,Microscopic observation [Identifier] in Urine by Gram stain
 PT00117,Gram stain(Vaginal Discharge),3000855,Microscopic observation [Identifier] in Vaginal fluid by Gram stain
-PT00118,Gram stain(WB (Ç÷¾× ¹è¾ç¿ë±â 2°³)),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+PT00118,Gram stain(WB (í˜ˆì•¡ ë°°ì–‘ìš©ê¸° 2ê°œ)),3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
 PT00119,HPV DNA(Hybrid Capture),4262119,Human papillomavirus DNA detection
 PT00120,KOH mount(B400 70%)(Aseptic Urine (Voided)),40771492,Microscopic observation [Identifier] in Urine by KOH preparation
 PT00121,KOH mount(B400 70%)(Bronchial larvage),3012096,Microscopic observation [Identifier] in Unspecified specimen by KOH preparation
@@ -157,11 +157,11 @@ PT00146,PAMS,4220291,Potential acuity meter testing
 PT00147,"Pap Smear, Cervix",4151898,"Cytopathology screening of smear, routine, nongenital source, by cytotechnologist"
 PT00148,"Pap Smear, Vagina",4258831,Microscopic examination of vaginal Papanicolaou smear
 PT00149,PAS Stain,4050635,Periodic acid Schiff stain method
-PT00150,"Pathology(¸²ÇÁÀý 20°³ÀÌ»ó °Ë»ç,ÆÄ¶óÇÉÀýÆí 40°³ÀÌ»ó)",3008122,Pathology study
+PT00150,"Pathology(ë¦¼í”„ì ˆ 20ê°œì´ìƒ ê²€ì‚¬,íŒŒë¼í•€ì ˆíŽ¸ 40ê°œì´ìƒ)",3008122,Pathology study
 PT00151,Progesterone Receptor,2212561,Receptor assay; progesterone
 PT00152,Reticulin Stain,4035406,Reticulin stain method
 PT00153,S-100 protein,4274809,"Protein S, free assay"
-PT00154,Synaptophysin(º´¸®°ú),3006921,Synaptophysin Ag [Presence] in Tissue by Immune stain
+PT00154,Synaptophysin(ë³‘ë¦¬ê³¼),3006921,Synaptophysin Ag [Presence] in Tissue by Immune stain
 PT00155,TB-PCR,3041662,Mycobacterium tuberculosis DNA [#/volume] in Unspecified specimen by Probe and target amplification method
 PT00156,TEM,4305604,"Electron microscopy transmission technique, complete"
 PT00157,Total Organ(Path.),4098214,Histopathology test
