@@ -1,0 +1,250 @@
+row,specimenname,concept_id,concept_name
+1,"(단일검체, TUBE=)",4001225,Blood specimen
+2,"0 Min(WB) (단일검체, TUBE=)",4122283,Whole blood sample
+3,"0 분 (단일검체, TUBE=EDTA)",40482922,Blood specimen with EDTA
+4,"0,15분 (그룹검체, TUBE=)",4001225,Blood specimen
+5,"00분 (단일검체, TUBE=)",4001225,Blood specimen
+6,"0분 (단일검체, TUBE=SST Tube)",4001225,Blood specimen
+7,"120분 (단일검체, TUBE=)",4001225,Blood specimen
+8,"120분 (단일검체, TUBE=EDTA Tube)",40482922,Blood specimen with EDTA
+9,"120분 (단일검체, TUBE=SST Tube)",4001225,Blood specimen
+10,"15 Min(WB) (단일검체, TUBE=)",4122283,Whole blood sample
+11,"180분 (단일검체, TUBE=EDTA Tube)",40482922,Blood specimen with EDTA
+12,"180분 (단일검체, TUBE=SST Tube)",4001225,Blood specimen
+13,"24hr URINE (그룹검체, TUBE=)",4174445,24 hour urine sample
+14,"24hr URINE (단일검체, TUBE=)",4174445,24 hour urine sample
+15,"24hr. Urine (단일검체, TUBE=)",4174445,24 hour urine sample
+16,"2nd.void urine (단일검체, TUBE=Urine Tube)",4046280,Urine specimen
+17,"30분 (단일검체, TUBE=EDTA Tube)",40482922,Blood specimen with EDTA
+18,"30분 (단일검체, TUBE=SST Tube)",4001225,Blood specimen
+19,"50G GTT (그룹검체, TUBE=)",4001225,Blood specimen
+20,"60분 (단일검체, TUBE=EDTA Tube)",40482922,Blood specimen with EDTA
+21,"60분 (단일검체, TUBE=SST Tube)",4001225,Blood specimen
+22,"90분 (단일검체, TUBE=EDTA Tube)",40482922,Blood specimen with EDTA
+23,"90분 (단일검체, TUBE=SST Tube)",4001225,Blood specimen
+24,"ABG BLOOD (단일검체, TUBE=)",4047496,Arterial blood specimen
+25,Amniotic Fluid,4002223,Amniotic fluid specimen
+26,"Amniotic fluid  (단일검체, TUBE=)",4002223,Amniotic fluid specimen
+27,"Anus (단일검체, TUBE=)",4002895,Specimen from anus
+28,Ascitic fluid,4206413,Ascitic fluid sample
+29,"Ascitic fluid (단일검체, TUBE=)",4206413,Ascitic fluid sample
+30,Ascitic fluid(EDTA),4206413,Ascitic fluid sample
+31,Aseptic Urine (Voided),46270290,Voided urine specimen
+32,"BAL (단일검체, TUBE=)",4121345,Bronchoalveolar lavage fluid sample
+33,Barobag count,4120335,Drainage fluid sample
+34,"Barovac (단일검체, TUBE=)",40486922,Drainage fluid specimen obtained after surgical placement of drain
+35,"Bile (단일검체, TUBE=)",4001061,Bile specimen
+36,Bile juice,4001061,Bile specimen
+37,Biopsy tissue,4204939,Soft tissue biopsy sample
+38,"Blood (그룹검체, TUBE=)",40486473,Blood specimen obtained for blood culture
+39,"blood (단일검체, TUBE=)",4001225,Blood specimen
+40,"Blood C1 (단일검체, TUBE=)",4001225,Blood specimen
+41,"Blood C2 (단일검체, TUBE=)",4001225,Blood specimen
+42,"Blood spot (단일검체, TUBE=Blood paper)",4260367,Blood spot specimen
+43,"BM(EDTA) (단일검체, TUBE=EDTA Tube)",40482922,Blood specimen with EDTA
+44,"BM(EDTA)2 (단일검체, TUBE=EDTA Tube)",40482922,Blood specimen with EDTA
+45,"BM(Heparin) (단일검체, TUBE=Heparin Tube)",40486989,Blood specimen submitted in heparinized collection tube
+46,BM(PCR용),4000623,Bone marrow specimen
+47,"Bone (단일검체, TUBE=)",4328578,Specimen from bone
+48,"bone marrow (단일검체, TUBE=)",4000623,Bone marrow specimen
+49,"Bone marrow aspiration (단일검체, TUBE=)",4264108,Specimen from bone marrow obtained by aspiration
+50,Bone Marrow Biopsy,4264692,Specimen from bone marrow obtained by biopsy
+51,"Bone marrow smear (단일검체, TUBE=)",4000623,Bone marrow specimen
+52,"Breath (그룹검체, TUBE=)",44806862,Breath sample
+53,"Bronc aspi (단일검체, TUBE=)",40480957,Specimen obtained by bronchial aspiration
+54,"Bronchial brush (단일검체, TUBE=)",4204953,Bronchial brushings sample
+55,Bronchial larvage,4121345,Bronchoalveolar lavage fluid sample
+56,"Bronchoalveolar (단일검체, TUBE=)",40481307,Specimen obtained by bronchioloalveolar lavage procedure
+57,C.S.F,4124259,Cerebrospinal fluid sample
+58,"Capillary (단일검체, TUBE=)",4046834,Capillary blood specimen
+59,Capillary blood,4046834,Capillary blood specimen
+60,Catheter,4001349,Catheter specimen
+61,"Catheter tip (단일검체, TUBE=)",4001350,Catheter tip specimen
+62,"Cervix (단일검체, TUBE=)",4000635,Specimen from uterine cervix
+63,Cervix(PCR전용),4000635,Specimen from uterine cervix
+64,"Chest tube (단일검체, TUBE=)",43021118,Swab from chest tube insertion site
+65,"Chest tube fluid (단일검체, TUBE=)",40492370,Body fluid specimen obtained via chest tube
+66,Chromosome(Amniotic Fl),4002223,Amniotic fluid specimen
+67,"Citrate Plasma (단일검체, TUBE=S.CIT)",45769403,Plasma specimen with citrate
+68,Close pus,4000617,Pus specimen
+69,Conjunctiva,4000637,Specimen from conjunctiva
+70,"CRE (단일검체, TUBE=)",4002879,Stool specimen
+71,"Creatinine Clearance (그룹검체, TUBE=)",4001225,Blood specimen
+72,"Creatinine Clearance (그룹검체, TUBE=)",4174445,24 hour urine sample
+73,"CSF (단일검체, TUBE=)",4124259,Cerebrospinal fluid sample
+74,"culdocentesis (단일검체, TUBE=)",45769455,Retrouterine pouch fluid aspirate
+75,"Cystic Fluid (단일검체, TUBE=)",4124260,Cyst fluid sample
+76,Dialysate,4119380,Dialysate sample
+77,"Ear (단일검체, TUBE=)",4204324,Ear swab sample
+78,"EB Erect (단일검체, TUBE=EDTA)",40482922,Blood specimen with EDTA
+79,"EB Supine (단일검체, TUBE=EDTA)",40482922,Blood specimen with EDTA
+80,"EDTA 1 (단일검체, TUBE=EDTA)",40482922,Blood specimen with EDTA
+81,"EDTA 2 (단일검체, TUBE=EDTA)",40482922,Blood specimen with EDTA
+82,"EDTA 3 (단일검체, TUBE=EDTA)",40482922,Blood specimen with EDTA
+83,"EDTA Blood (단일검체, TUBE=EDTA)",40482922,Blood specimen with EDTA
+84,EDTA Plasma(150min):연속검사,45769404,Plasma specimen with ethylenediamine tetraacetic acid
+85,EDTA Plasma(1hr):연속검사,45769404,Plasma specimen with ethylenediamine tetraacetic acid
+86,EDTA Plasma(2hr):연속검사,45769404,Plasma specimen with ethylenediamine tetraacetic acid
+87,EDTA Plasma(30min):연속검사,45769404,Plasma specimen with ethylenediamine tetraacetic acid
+88,EDTA Plasma(3hr):연속검사,45769404,Plasma specimen with ethylenediamine tetraacetic acid
+89,EDTA Plasma(90min):연속검사,45769404,Plasma specimen with ethylenediamine tetraacetic acid
+90,"EDTA WB (단일검체, TUBE=EDTA Tube)",40482922,Blood specimen with EDTA
+91,"EDTA WB(6ml tube) (단일검체, TUBE=EDTA WB(6ml tube))",40482922,Blood specimen with EDTA
+92,"Endo suction (단일검체, TUBE=)",4001055,Specimen from endotracheal tube
+93,"Endo tube (단일검체, TUBE=)",4001055,Specimen from endotracheal tube
+94,"EVD site (단일검체, TUBE=)",4124273,Swab of drain insertion site
+95,"eye discharge (단일검체, TUBE=)",46270170,Eye discharge specimen
+96,"FAST BL (단일검체, TUBE=)",4001225,Blood specimen
+97,"Gall bladder (단일검체, TUBE=)",40487172,Specimen from gallbladder
+98,Gastric biopsy,4206416,Gastric biopsy sample
+99,Gastric juice,4120336,Gastric fluid sample
+100,"Gastric juice (단일검체, TUBE=)",4120336,Gastric fluid sample
+101,"GlucodeS FBS & PP1, 2",4001225,Blood specimen
+102,GlucoseS FBS & PP1,4001225,Blood specimen
+103,"GlucoseS FBS & PP1,2,3",4001225,Blood specimen
+104,GlucoseS FBS & PP2,4001225,Blood specimen
+105,"GUM (단일검체, TUBE=)",43021116,Swab from gingiva
+106,Hair,4001355,Hair specimen
+107,"Heparin Blood (단일검체, TUBE=)",40486989,Blood specimen submitted in heparinized collection tube
+108,"Heparin Blood (단일검체, TUBE=HEPARIN)",40486989,Blood specimen submitted in heparinized collection tube
+109,"Hirudin Blood (단일검체, TUBE=Hirudin tube)",4001225,Blood specimen
+110,"Hydrocele (단일검체, TUBE=)",4206296,Hydrocele sample
+111,"Intubation (단일검체, TUBE=)",4120334,Bronchial fluid sample
+112,Joint fluid,4331823,Joint fluid specimen
+113,Joint fluid (EDTA),4331823,Joint fluid specimen
+114,"Joint fluid (단일검체, TUBE=)",4331823,Joint fluid specimen
+115,"Kidney Aspiration (단일검체, TUBE=)",4048981,Specimen from kidney obtained by fine needle aspiration procedure
+116,"Knee Joint aspiration fluid (단일검체, TUBE=)",4043751,Knee joint synovial fluid
+117,"Lithium Heparin (단일검체, TUBE=)",44808074,Plasma specimen with lithium heparin
+118,"Liver aspiration (단일검체, TUBE=)",46274055,Specimen from liver obtained by aspiration
+119,"Liver aspiration flu (단일검체, TUBE=)",46274055,Specimen from liver obtained by aspiration
+120,"Lung biopsy (단일검체, TUBE=)",4048962,Specimen from lung obtained by biopsy
+121,Lymph node,4124291,Lymph node sample
+122,"Lymphnode (단일검체, TUBE=)",4124291,Lymph node sample
+123,Nasal Aspirate,4121219,Nasopharyngeal aspirate
+124,"Nasal phranga swab (단일검체, TUBE=)",40492330,Nasal smear specimen
+125,"Nasal smear (단일검체, TUBE=)",40492330,Nasal smear specimen
+126,"Nasal swab (단일검체, TUBE=)",40492330,Nasal smear specimen
+127,Nasal Swab(전용),4122259,Nasopharyngeal swab
+128,"Neck (단일검체, TUBE=)",4120334,Bronchial fluid sample
+129,"Needl aspiration Bio (단일검체, TUBE=)",44808114,Specimen obtained by needle biopsy
+130,"NK Vue (단일검체, TUBE=)",4001225,Blood specimen
+131,"Nose dischage (단일검체, TUBE=)",40491357,Specimen from nose
+132,Open pus,4000617,Pus specimen
+133,"Open Pus (단일검체, TUBE=)",4000617,Pus specimen
+134,"Oral swish (단일검체, TUBE=)",4168673,Oral swab
+135,"other (단일검체, TUBE=)",4048506,Specimen
+136,Pancreas cyst fluid,46270285,Pancreas cyst fluid sample
+137,"Pancreatic Juice (단일검체, TUBE=)",4002880,Pancreatic fluid specimen
+138,"Parietal pleural (단일검체, TUBE=)",4133739,Specimen from pleura
+139,Patient (Laboratory),4001345,Specimen from patient
+140,"PB (단일검체, TUBE=)",4047495,Peripheral blood specimen
+141,"PB(EDTA) (단일검체, TUBE=)",40482922,Blood specimen with EDTA
+142,"PBSC (단일검체, TUBE=)",4047495,Peripheral blood specimen
+143,"PBSC2 (단일검체, TUBE=)",4047495,Peripheral blood specimen
+144,"PC120 BL (단일검체, TUBE=)",4001225,Blood specimen
+145,"PC180 BL (단일검체, TUBE=)",4001225,Blood specimen
+146,"PC240 BL (단일검체, TUBE=)",4001225,Blood specimen
+147,"PC30 BL (단일검체, TUBE=)",4001225,Blood specimen
+148,"PC300 BL (단일검체, TUBE=)",4001225,Blood specimen
+149,"PC60 BL (단일검체, TUBE=)",4001225,Blood specimen
+150,"PC90 BL (단일검체, TUBE=)",4001225,Blood specimen
+151,"Penis (단일검체, TUBE=)",4002896,Specimen from penis
+152,"Perianal cyst (단일검체, TUBE=)",4119518,Perianal swab
+153,Pericadial fluid,4048848,Pericardial fluid specimen
+154,"Pericardial fluid (단일검체, TUBE=)",4048848,Pericardial fluid specimen
+155,"Peritoneal Dialysis (단일검체, TUBE=)",4056121,Peritoneal dialysate sample
+156,"Peritoneal Fluid  (단일검체, TUBE=)",4043942,Peritoneal fluid sample
+157,Peritosol,4000624,Dialysis fluid specimen
+158,"Placenta suction (단일검체, TUBE=)",4001192,Specimen from placenta
+159,Pleural fluid,4302933,Pleural fluid specimen
+160,"Pleural fluid (단일검체, TUBE=)",4302933,Pleural fluid specimen
+161,Pleural fluid(EDTA),4302933,Pleural fluid specimen
+162,PSA(RT_PCR) sample,4001225,Blood specimen
+163,"ptbd (단일검체, TUBE=)",40491361,Bile specimen obtained by percutaneous transhepatic insertion of biliary drain
+164,"pus (단일검체, TUBE=)",4000617,Pus specimen
+165,"R.URINE (그룹검체, TUBE=)",4046280,Urine specimen
+166,"R.URINE (단일검체, TUBE=)",4046280,Urine specimen
+167,"R.Urine (단일검체, TUBE=Urine Tube)",4046280,Urine specimen
+168,"Rectal swab (단일검체, TUBE=)",4124280,Rectal swab
+169,"Saliva (단일검체, TUBE=)",4001062,Saliva specimen
+170,"Scotch Tape (단일검체, TUBE=)",4121357,Scotch tape slide
+171,Semen,44808818,Semen specimen
+172,"Semen (단일검체, TUBE=)",44808818,Semen specimen
+173,Serum,4001181,Serum specimen
+174,"Serum (단일검체, TUBE=SST Tube)",4001225,Blood specimen
+175,"Serum (단일검체, TUBE=SST)",4001181,Serum specimen
+176,Serum + Random Urine(SI용),4001181,Serum specimen
+177,Serum + Random Urine(SI용),4046280,Urine specimen
+178,"Serum 1 (단일검체, TUBE=SST)",4001225,Blood specimen
+179,Serum(120min),4001181,Serum specimen
+180,Serum(150min),4001181,Serum specimen
+181,Serum(180min),4001181,Serum specimen
+182,Serum(30min),4001181,Serum specimen
+183,Serum(60min),4001181,Serum specimen
+184,Serum(90min),4001181,Serum specimen
+185,Serum(Blood Bank용 Tube),4001181,Serum specimen
+186,"Serum(HCV, HBV PCR전용)",4001181,Serum specimen
+187,Serum(Osteocalcin용),4001181,Serum specimen
+188,Serum+24hr Toluidin Urine(Ccr),4001181,Serum specimen
+189,Serum+24hr Toluidin Urine(Ccr),4174445,24 hour urine sample
+190,Serum+CSF,4001181,Serum specimen
+191,Serum+CSF,4124259,Cerebrospinal fluid sample
+192,Serum+Stool(24H),4001181,Serum specimen
+193,Serum+Stool(24H),4002879,Stool specimen
+194,"Sinus (단일검체, TUBE=)",4332520,Specimen from nasal sinus
+195,"Skin (단일검체, TUBE=)",4001354,Tissue specimen from skin
+196,"Sodium Citrate (단일검체, TUBE=)",4001225,Blood specimen
+197,"Sodium Citrate 2 (그룹검체, TUBE=)",4001225,Blood specimen
+198,"Sodium Fluoride (단일검체, TUBE=)",40479555,Blood specimen with anticoagulant
+199,"Solid Tissue (단일검체, TUBE=)",4002890,Tissue specimen
+200,"SPC EDTA (단일검체, TUBE=SPC EDTA Tube)",40482922,Blood specimen with EDTA
+201,"SPC Serum (단일검체, TUBE=SPC Serum Tube)",4001225,Blood specimen
+202,Sputum,4002876,Sputum specimen
+203,"Sputum (단일검체, TUBE=)",4002876,Sputum specimen
+204,"Stoma site (단일검체, TUBE=)",43021099,Swab from surgical wound
+205,"Stone (단일검체, TUBE=)",4001065,Calculus specimen
+206,Stool,4002879,Stool specimen
+207,Stool (Rota virus용),4002879,Stool specimen
+208,"Stool (단일검체, TUBE=)",4002879,Stool specimen
+209,"Synovial Fluid (단일검체, TUBE=)",4002875,Synovial fluid specimen
+210,"Thorax Fluid (단일검체, TUBE=)",4048964,Specimen from pleura obtained by thoracentesis
+211,Throat Swab,4119519,Throat swab
+212,"Throat swab (단일검체, TUBE=)",4119519,Throat swab
+213,"Tissue (단일검체, TUBE=)",4002890,Tissue specimen
+214,Tracheal aspirate,40483760,Specimen from trachea obtained by aspiration
+215,"Tracheostomy site (단일검체, TUBE=)",43021086,Swab from tracheostomy wound
+216,"Umbilical cord (단일검체, TUBE=)",40483330,Swab of umbilicus
+217,Urethral discharge,4001188,Specimen from urethra
+218,"Urethral swab (단일검체, TUBE=)",4120346,Urethral swab
+219,Urine (12hr),4257649,Timed urine specimen
+220,Urine (24hr),4174445,24 hour urine sample
+221,Urine (Random),4046280,Urine specimen
+222,"Urine (단일검체, TUBE=Culture Cup)",4046280,Urine specimen
+223,Urine (아침첫뇨-DPD용),4119531,Early morning urine sample
+224,"Vaginal Swab (단일검체, TUBE=)",4124277,Vaginal swab
+225,Vomitus,4045760,Vomitus specimen
+226,"VRE (단일검체, TUBE=)",4124280,Rectal swab
+227,"Water (단일검체, TUBE=)",4001352,Water specimen
+228,"WB Aldo (그룹검체, TUBE=)",4001225,Blood specimen
+229,"WB Erect (단일검체, TUBE=)",4001225,Blood specimen
+230,"WB RED (단일검체, TUBE=PLAIN )",4000622,Erythrocyte specimen
+231,"WB RED 2 (그룹검체, TUBE=PLAIN )",4001225,Blood specimen
+232,"WB Supine (단일검체, TUBE=)",4001225,Blood specimen
+233,WB(EDTA),40482922,Blood specimen with EDTA
+234,WB(Heparin),44808076,Whole blood specimen with heparin
+235,WB(Heparin)+Serum(Ham`s용),44808076,Whole blood specimen with heparin
+236,"WB.CSF (그룹검체, TUBE=)",4001225,Blood specimen
+237,"WB.CSF (그룹검체, TUBE=)",4124259,Cerebrospinal fluid sample
+238,"WB1 RED (단일검체, TUBE=PLAIN )",4001225,Blood specimen
+239,Whole blood (ABGA용),4047496,Arterial blood specimen
+240,Whole blood (ACD),4122283,Whole blood sample
+241,"Whole blood 2 (단일검체, TUBE=)",4122283,Whole blood sample
+242,"wound (단일검체, TUBE=)",4002221,Specimen from wound
+243,"Wound drain (단일검체, TUBE=)",40486922,Drainage fluid specimen obtained after surgical placement of drain
+244,"수혈혈액 (단일검체, TUBE=PLAIN )",4045668,Blood specimen from blood product
+245,"연속검사(3회) (그룹검체, TUBE=SST Tube)",4001225,Blood specimen
+246,"연속검사(4회) (그룹검체, TUBE=SST Tube)",4001225,Blood specimen
+247,"전용용기 (단일검체, TUBE=)",4000614,Tube specimen
+248,"제대혈 (단일검체, TUBE=)",4046835,Cord blood specimen
+249,"환부Swab (단일검체, TUBE=)",4120347,Wound swab

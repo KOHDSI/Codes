@@ -1,0 +1,632 @@
+row,measurementname,samplename,concept_id,concept_name
+1,1alpha.25(OH)2 Vit.D3 ,Serum,40765040,25-Hydroxyvitamin D2+25-Hydroxyvitamin D3 [Mass/volume] in Serum or Plasma
+2,25-OH Vitamin D Total(Cholecalciferol)(RIA),Serum,3049536,25-Hydroxycalciferol [Mass/volume] in Serum or Plasma
+3,25-OH-V.D,Serum,40765040,25-Hydroxyvitamin D2+25-Hydroxyvitamin D3 [Mass/volume] in Serum or Plasma
+4,투여전 Amikacin,Serum,3000787,Salicylates [Mass/volume] in Serum or Plasma
+5,투여전 Gentamicin,Serum,3005715,Vancomycin [Mass/volume] in Serum or Plasma
+6,투여전 Tobramycin,Serum,3005715,Vancomycin [Mass/volume] in Serum or Plasma
+7,투여전 Vancomycin,Serum,3005715,Vancomycin [Mass/volume] in Serum or Plasma
+8,투여후 Amikacin,Serum,3005715,Vancomycin [Mass/volume] in Serum or Plasma
+9,투여후 Tobramycin,Serum,3005715,Vancomycin [Mass/volume] in Serum or Plasma
+10,투여후 Vancomycin,Serum,3005715,Vancomycin [Mass/volume] in Serum or Plasma
+11,A.I.D.S,Serum,4013104,Human immunodeficiency virus test
+12,Ab Screening,Serum,4194290,Irregular blood group antibody present - finding
+13,Ab Screening,Serum(Blood Bank용 Tube),4194290,Irregular blood group antibody present - finding
+14,Ab Screening,WB(EDTA),4194290,Irregular blood group antibody present - finding
+15,ABO Grouping,EDTA WB(6ml tube),3002529,ABO group [Type] in Blood
+16,ABO Grouping,Serum,3003529,Tactile alteration [CCC]
+17,ABO Grouping,WB RED,3002529,ABO group [Type] in Blood
+18,ABO Typing,Serum,3003529,Tactile alteration [CCC]
+19,ABO Typing,Serum(Blood Bank용 Tube),3003529,Tactile alteration [CCC]
+20,ABO Typing,WB(EDTA),3002529,ABO group [Type] in Blood
+21,Acetaminophen,Serum,3000787,Salicylates [Mass/volume] in Serum or Plasma
+22,ACTH (4PM),EDTA Blood,3035637,Corticotropin [Mass/volume] in Plasma
+23,ACTH (8AM),EDTA Blood,3035637,Corticotropin [Mass/volume] in Plasma
+24,ACTH(180분),EDTA Blood,3035637,Corticotropin [Mass/volume] in Plasma
+25,AFB Culture,Bronc aspi,3024901,Mycobacterium sp identified in Bronchial specimen by Organism specific culture
+26,AFB Culture,Sputum,3011588,Microscopic observation [Identifier] in Sputum by Acid fast stain
+27,AFB Stain,Bronc aspi,3016485,Microscopic observation [Identifier] in Bronchial specimen by Acid fast stain
+28,AFB Stain,Sputum,3011588,Microscopic observation [Identifier] in Sputum by Acid fast stain
+29,AFP,Serum,3009306,Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma
+30,a-FP,Serum,3009306,Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma
+31,AFP (Serum),Serum,3009306,Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma
+32,a-FP titration,Serum,3009306,Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma
+33,Albumin,Peritoneal Fluid ,40769424,Albumin in peritoneal fluid/Albumin in Serum or Plasma
+34,Albumin,Serum,3024561,Albumin serum/plasma
+35,Alk.Phosphatase,Serum,3035995,Alkaline phosphatase serum/plasma
+36,Alkaline Phosphatase,Serum,3035995,Alkaline phosphatase serum/plasma
+37,ALT (GPT),Serum,3006923,Alanine aminotransferase serum/plasma
+38,ALT(SGPT),Serum,3006923,Alanine aminotransferase serum/plasma
+39,Ammonia,Heparin Blood,3030942,Ammonia [Mass/volume] in Blood
+40,Ammonia,WB(EDTA),3030942,Ammonia [Mass/volume] in Blood
+41,Amylase,C.S.F,3007327,Amylase [Enzymatic activity/volume] in Cerebral spinal fluid
+42,Amylase,Peritoneal Fluid ,42868734,Amylase in peritoneal fluid/Amylase in serum
+43,Amylase,Serum,3016771,Amylase [Enzymatic activity/volume] in Serum or Plasma
+44,ANA 정량,Serum,3021587,Nuclear Ab [Units/volume] in Serum
+45,ANA Screening,Serum,3004616,Nuclear Ab [Presence] in Serum
+46,Anti cardioliphin IgG,Serum,40758575,Cardiolipin IgG Ab in Serum
+47,Anti cardioliphin IgM,Serum,40758574,Cardiolipin IgM Ab in Serum
+48,Anti CCP Ab,Serum,3041391,Cyclic citrullinated peptide Ab [Presence] in Serum
+49,Anti DNA Screen,Serum,4197917,Quantitative anti-DNA antibody measurement
+50,Anti Nuclear Ab (ANA),Serum,3004616,Nuclear Ab [Presence] in Serum
+51,Anti Thrombin III,P(Sodium citrate),4263791,Antithrombin III assay
+52,Anti-CCP Ab IgG,Serum,3032018,Cyclic citrullinated peptide IgG Ab [Presence] in Serum
+53,Anti-ds-DNA,Serum,3008809,Lupus erythematosus factor in Serum
+54,ANTI-ds-DNA,Serum,3012718,DNA double strand Ab [Presence] in Serum
+55,Anti-HAV IgG,Serum,3016650,Hepatitis A virus Ab [Presence] in Serum
+56,Anti-HAV IgM,Serum,3013327,Hepatitis A virus IgM Ab [Presence] in Serum
+57,Anti-HBc IgM,Serum,3013527,Hepatitis B virus core IgM Ab [Presence] in Serum
+58,Anti-HBc Total,Serum,3017143,Hepatitis C virus Ab [Presence] in Serum
+59,Anti-HBe,Serum,3013945,Hepatitis B virus e Ab [Presence] in Serum
+60,Anti-HBs,Serum,3023421,Hepatitis B virus surface Ab [Units/volume] in Serum
+61,Anti-HCV,Serum,3017143,Hepatitis C virus Ab [Presence] in Serum
+62,Anti-HIV I/II,Serum,3011325,HIV 1+2 Ab [Presence] in Serum
+63,Antithrombin III,Citrate Plasma,4263791,Antithrombin III assay
+64,Apolipoprotein A-1,Serum,3018876,Apolipoprotein A [Mass/volume] in Serum or Plasma
+65,Apolipoprotein B,Serum,3014791,Apolipoprotein B [Mass/volume] in Serum or Plasma
+66,aPTT,Citrate Plasma,3013466,aPTT in Blood by Coagulation assay
+67,aPTT,P(Sodium citrate),3013466,aPTT in Blood by Coagulation assay
+68,ASO,Serum,3046268,Streptolysin O Ab [Mass/volume] in Serum
+69,ASO 정량,Serum,3046268,Streptolysin O Ab [Mass/volume] in Serum
+70,AST (GOT),Serum,3013721,Aspartate aminotransferase serum/plasma
+71,AST(SGOT),Serum,3013721,Aspartate aminotransferase serum/plasma
+72,Beta-HCG,Serum,40758990,Choriogonadotropin.beta subunit [Mass/volume] in Serum or Plasma
+73,B-HCG (Serum),Serum,40758990,Choriogonadotropin.beta subunit [Mass/volume] in Serum or Plasma
+74,Bleeding time,Patient (Laboratory),3011625,Bleeding time
+75,Blood Fasting,FAST BL,3037110,Fasting glucose [Mass/volume] in Serum or Plasma
+76,Blood Gas_Analysis_01,Whole blood (ABGA용),3044904,Oxygen content in Blood
+77,Blood Gas_Analysis_02,Whole blood (ABGA용),3044904,Oxygen content in Blood
+78,Blood PC120 min,PC120 BL,3048865,Glucose [Mass/volume] in Blood --2 hours post dose glucose
+79,Blood PC30 min,PC30 BL,3013256,Glucose [interpretation] in Serum or Plasma--post dose glucose
+80,Blood PC60 min,PC60 BL,3013256,Glucose [interpretation] in Serum or Plasma--post dose glucose
+81,Blood PC90 min,PC90 BL,3013256,Glucose [interpretation] in Serum or Plasma--post dose glucose
+82,BUN,Serum,3013682,Urea nitrogen serum/plasma
+83,BUN,Urine (Random),3011965,Urea nitrogen [Mass/volume] in Urine
+84,C1 Penicilloyl G IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+85,C2 Penicilloyl V IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+86,C202 succinylcholine IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+87,C260 morphine IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+88,C261 pholcodine IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+89,C3,Serum,3000620,Complement C3 [Mass/volume] in Serum or Plasma
+90,C4,Serum,40761055,Complement C4c [Mass/volume] in Serum or Plasma
+91,C5 Ampicilloyl IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+92,C6 Amoxycilloyl IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+93,"C71 Insulin, Bovine IgE",Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+94,CA 125,Serum,3037551,Cancer Ag 125 [Units/volume] in Serum or Plasma
+95,CA 15-3,Serum,3006588,Cancer Ag 15-3 [Units/volume] in Serum or Plasma
+96,CA 19-9,Serum,3022914,Cancer Ag 19-9 [Units/volume] in Serum or Plasma
+97,CA125,Serum,3037551,Cancer Ag 125 [Units/volume] in Serum or Plasma
+98,CA-125,Serum,3037551,Cancer Ag 125 [Units/volume] in Serum or Plasma
+99,CA19-9,Serum,3022914,Cancer Ag 19-9 [Units/volume] in Serum or Plasma
+100,CA-19-9 (Serum),Serum,3022914,Cancer Ag 19-9 [Units/volume] in Serum or Plasma
+101,Calcitonin,Serum,3010989,Calcitonin [Mass/volume] in Serum or Plasma
+102,Calcium,R.Urine,3006661,Calcium [Mass/volume] in Urine
+103,Calcium,Serum,3015377,Calcium [Moles/volume] in Serum or Plasma
+104,"Calcium,ionized",Serum,3027694,Calcium.ionized [Mass/volume] in Serum or Plasma
+105,"Calcium,ionized",Whole blood (ABGA용),3036426,Calcium.ionized [Mass/volume] in Blood
+106,Carbamazepine,Serum,3028639,Carbamazepine serum/plasma
+107,CEA,Serum,3003785,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma
+108,CEA (Serum),Serum,3003785,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma
+109,CEA(Carcinoembryonic Antigen),Serum,3003785,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma
+110,Chlamydia Ab IgM,Serum,3004596,Chlamydia sp IgM Ab [Presence] in Serum
+111,Chlamydia pneumoniae IgM,Serum,3004596,Chlamydia sp IgM Ab [Presence] in Serum
+112,Chloride,C.S.F,3036172,Chloride [Moles/volume] in Cerebral spinal fluid
+113,Chloride,R.Urine,3007733,Chloride [Moles/volume] in Urine
+114,Chloride,Serum,3014576,Chloride serum/plasma
+115,Chloride,Urine (Random),3007733,Chloride [Moles/volume] in Urine
+116,Chloride(artery),ABG BLOOD,3031248,Chloride [Moles/volume] in Arterial blood
+117,Cholesterol,Serum,3037598,Cholesterol esters/Cholesterol.total in Serum or Plasma
+118,CK-MB,Serum,3005785,Creatine kinase.MB [Mass/volume] in Serum or Plasma
+119,Clostridium Difficille Toxin AB,Stool,3032068,Clostridium difficile toxin A+B [Presence] in Stool
+120,Clostridium difficle Toxin A&B,Stool,3032068,Clostridium difficile toxin A+B [Presence] in Stool
+121,CMV IgG,Serum,3013332,Cytomegalovirus IgM Ab [Presence] in Serum
+122,CMV IgM,Serum,3013332,Cytomegalovirus IgM Ab [Presence] in Serum
+123,Cold Agglutinin,Patient,3029759,Cold agglutinin [Presence] in Serum or Plasma
+124,Complement 3,Serum,3000620,Complement C3 [Mass/volume] in Serum or Plasma
+125,Complement 4,Serum,40761055,Complement C4c [Mass/volume] in Serum or Plasma
+126,Cortisol (4PM),Serum,3009682,Cortisol [Mass/volume] in Serum or Plasma
+127,Cortisol (8AM),Serum,3009682,Cortisol [Mass/volume] in Serum or Plasma
+128,Cortisol(180분),Serum,3009682,Cortisol [Mass/volume] in Serum or Plasma
+129,C-peptide,Serum,40760490,C peptide [Mass/volume] in Serum or Plasma --baseline
+130,C-peptide (Serum),Serum,3010084,C peptide [Mass/volume] in Serum or Plasma
+131,C-peptide 120min,Serum(120min),3020035,C peptide [Mass/volume] in Serum or Plasma --2 hours post XXX challenge
+132,C-peptide Basal,Serum,40760490,C peptide [Mass/volume] in Serum or Plasma --baseline
+133,C-peptide(120분),120분,3010084,C peptide [Mass/volume] in Serum or Plasma
+134,C-peptide(180분),Serum,3010084,C peptide [Mass/volume] in Serum or Plasma
+135,C-Peptide(Basal),0분,3010084,C peptide [Mass/volume] in Serum or Plasma
+136,CPK,Serum,3015160,Creatine [Mass/volume] in Serum or Plasma
+137,Creatine Kinase,Serum,3015620,Creatine kinase panel - Serum or Plasma
+138,Creatinine,R.Urine,3017250,Creatinine [Mass/volume] in Urine
+139,Creatinine,Serum,3016723,Creatinine serum/plasma
+140,Creatinine,Urine (Random),3017250,Creatinine [Mass/volume] in Urine
+141,Creatinine Clearance,Creatinine Clearance,3047148,Creatinine renal clearance in collected for unspecified duration
+142,Creatinine Clearance,Serum,3047148,Creatinine renal clearance in collected for unspecified duration
+143,Creatinine Clearance,Serum+24hr Toluidin Urine(Ccr),3005770,Creatinine renal clearance in 24 hour
+144,Creatinine(eGFR),Serum,3016723,Creatinine serum/plasma
+145,CRP,Serum,3010156,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method
+146,Crystal Examination,CSF,3016543,Leukocytes [#/volume] in Cerebral spinal fluid
+147,Crystal Examination,Pleural Fluid,3023199,Leukocytes [#/volume] in Pleural fluid
+148,Culture(Alimentary),Stool,3024461,Microorganism identified in Unspecified specimen by Culture
+149,Culture(Blood/Fluid),Blood,3024461,Microorganism identified in Unspecified specimen by Culture
+150,Culture(Blood/Fluid),Blood C1,3024461,Microorganism identified in Unspecified specimen by Culture
+151,Culture(Blood/Fluid),CSF,3024461,Microorganism identified in Unspecified specimen by Culture
+152,Culture(Blood/Fluid),EVD site,3024461,Microorganism identified in Unspecified specimen by Culture
+153,Culture(Blood/Fluid),Peritoneal Fluid ,3024461,Microorganism identified in Unspecified specimen by Culture
+154,Culture(Blood/Fluid),Pleural fluid,3024461,Microorganism identified in Unspecified specimen by Culture
+155,Culture(Genital/Urinary),Cervix,3024461,Microorganism identified in Unspecified specimen by Culture
+156,Culture(Genital/Urinary),Urine,3024461,Microorganism identified in Unspecified specimen by Culture
+157,Culture(Miscellaneous),Catheter tip,3024461,Microorganism identified in Unspecified specimen by Culture
+158,Culture(Miscellaneous),Wound,3024461,Microorganism identified in Unspecified specimen by Culture
+159,Culture(Respiratory),Bronc aspi,3024461,Microorganism identified in Unspecified specimen by Culture
+160,Culture(Respiratory),Endo suction,3024461,Microorganism identified in Unspecified specimen by Culture
+161,Culture(Respiratory),Sputum,3024461,Microorganism identified in Unspecified specimen by Culture
+162,Culture(Respiratory),Throat swab,3024461,Microorganism identified in Unspecified specimen by Culture
+163,Cyclosporin,EDTA Blood,3010375,Cyclosporine [Mass/volume] in Blood
+164,CYFRA 21-1,Serum,3018927,Cytokeratin 19 [Units/volume] in Serum or Plasma
+165,D.Bilirubin,Serum,3027597,Direct bilirubin serum/plasma
+166,D1 Dermatophagoides pteronyssinus IgE,Serum,3039546,Japanese hop IgE Ab [Units/volume] in Serum
+167,d1(Dermatophagoides pteronyssinus),Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+168,D2 Dermatophagoides farinae IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+169,d2(Dermatophagoides farinae),Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+170,D70 Storage mite Acarus IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+171,D72 Storage Mite-Tyrophagus putescentiae IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+172,D-dimer test,P(Sodium citrate),4015482,"D-dimer assay, quantitative"
+173,D-Dimer(정량),Citrate Plasma,4015482,"D-dimer assay, quantitative"
+174,D-Dimer(정량)(수탁),Citrate Plasma,4015482,"D-dimer assay, quantitative"
+175,Deoxypyridinoline,Urine (아침첫뇨-DPD용),3021369,Deoxypyridinoline [Moles/volume] in Urine
+176,DHEA-SULPHATE,Serum,3015884,Dehydroepiandrosterone sulfate (DHEA-S) [Mass/volume] in Serum or Plasma
+177,Diff count,WB(EDTA),3053331,Differential cell count method - Blood
+178,Differential Count,CSF,3016543,Leukocytes [#/volume] in Cerebral spinal fluid
+179,Differential Count,EVD Site,3010813,White Blood cell (WBC) count (leukocyte)
+180,Differential Count,Peritoneal Fluid ,3009328,Leukocytes [#/volume] in Pericardial fluid
+181,Differential Count,Pleural Fluid,3023199,Leukocytes [#/volume] in Pleural fluid
+182,Differential Count,Sputum,4059373,Sputum cytology
+183,Digoxin,Serum,3011335,Digoxin [Mass/volume] in Serum or Plasma
+184,Dilantin(phenytoin),Serum,3000787,Salicylates [Mass/volume] in Serum or Plasma
+185,Direct Bilirubin,Serum,3027597,Direct bilirubin serum/plasma
+186,Direct coomb's(C3) test,WB(EDTA),4299254,Direct Coombs test
+187,Direct coomb's(IgG) test,WB(EDTA),4299254,Direct Coombs test
+188,Dysmorphic RBC,Urine (Random),3043133,Erythrocytes.dysmorphic [#/volume] in Urine by Light microscopy
+189,Dysmorphism,R.Urine,3043133,Erythrocytes.dysmorphic [#/volume] in Urine by Light microscopy
+190,E1 Cat Epithelium IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+191,E2 Dog Epithelium IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+192,E3 Horse Dander IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+193,E4 Cow Dander IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+194,E5 Dog dander IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+195,E72 Mouse Urine,Serum,3039546,Japanese hop IgE Ab [Units/volume] in Serum
+196,E74 Rat Urine,Serum,3039546,Japanese hop IgE Ab [Units/volume] in Serum
+197,E80 Goat Epithelium IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+198,E81 Sheep Epithelium IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+199,E82 Rabbit Epithelium IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+200,E85 Chicken Feathers IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+201,EBV VCA IgG,Serum,3033477,Epstein Barr virus early Ab [Presence] in Serum
+202,EBV VCA IgM,Serum,3033477,Epstein Barr virus early Ab [Presence] in Serum
+203,EBV-EA IgM,Serum,3033477,Epstein Barr virus early Ab [Presence] in Serum
+204,ECP,Serum,3005791,Eosinophil cationic protein (ECP) [Mass/volume] in Serum
+205,Eosinophil Count,EDTA Blood,3028615,Eosinophils [#/volume] in Blood by Automated count
+206,eosinophils,Sputum,3021940,Eosinophils/100 leukocytes in Sputum
+207,Eosinophils(혈액),WB(EDTA),3028615,Eosinophils [#/volume] in Blood by Automated count
+208,ESR,EDTA Blood,3015183,Erythrocyte sedimentation rate
+209,ESR,WB(EDTA),3015183,Erythrocyte sedimentation rate
+210,Estradiol (E2),Serum,3025285,Estradiol (E2) [Mass/volume] in Serum or Plasma
+211,Estradiol(E2),Serum,3025285,Estradiol (E2) [Mass/volume] in Serum or Plasma
+212,Ethanol,Serum,3000787,Salicylates [Mass/volume] in Serum or Plasma
+213,ETHOSUXIMIDE,Serum,3000787,Salicylates [Mass/volume] in Serum or Plasma
+214,F1 Egg White IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+215,F10 Sesame Seed IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+216,F11 Buckwheat IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+217,F13 Peanut IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+218,F14 Soybean IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+219,F2 Milk IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+220,F20 Almond IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+221,F23 Crab IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+222,F232 Ovalbumin IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+223,F233 Ovomucoid IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+224,F24 Shrimp IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+225,"F253 Pine Nut,pignoles IgE",Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+226,F256 Walnut IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+227,F26 Pork IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+228,F27 Beef IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+229,F3 Codfish IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+230,F37 Blue Mussel IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+231,F4 Wheat IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+232,F40 Tuna IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+233,F41 Salmon IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+234,F416 Gliadin IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+235,F44 Strawberry IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+236,F45 Baker's Yeast IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+237,F47 Garlic IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+238,F49 Apple IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+239,F5 Rye IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+240,F50 Chub mackerel IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+241,F6 Barley IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+242,F75 Egg Yolk IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+243,F76 Alpha Lactalbumin IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+244,F77 Beta Lactoglobulin IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+245,F78 Casein IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+246,F79 Gluten IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+247,F8 Corn IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+248,F80 Lobster IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+249,F83 Chicken Meat IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+250,F84 Kiwi Fruit IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+251,F85 Celery IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+252,F88 Lamb IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+253,F89 Mustard IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+254,F9 Rice IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+255,F91 Mango IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+256,F95 Peach IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+257,FDP,Citrate Plasma,3002683,Fibrin degradation products
+258,FDP(수탁),Citrate Plasma,3002683,Fibrin degradation products
+259,FDP정량,P(Sodium citrate),3002683,Fibrin degradation products
+260,Ferritin,Serum,3001122,Ferritin [Mass/volume] in Serum or Plasma
+261,Fibrinogen,Citrate Plasma,4098061,Fibrinogen screening
+262,Fibrinogen,P(Sodium citrate),4098061,Fibrinogen screening
+263,Fibrinogen(수탁),Citrate Plasma,4098061,Fibrinogen screening
+264,FK506,EDTA Blood,3026250,Tacrolimus [Mass/volume] in Blood
+265,Folate(RIA),Serum,3036987,Folate [Mass/volume] in Serum or Plasma
+266,Folic Acid,Serum,3036987,Folate [Mass/volume] in Serum or Plasma
+267,Free PSA,Serum,3001138,Prostate Specific Ag Free [Units/volume] in Serum or Plasma
+268,Free T4,Serum,3008598,Thyroxine (T4) free [Mass/volume] in Serum or Plasma
+269,Free T4(진단검사의학과),Serum,3016991,Thyroxine (T4) [Mass/volume] in Serum or Plasma
+270,FSH,Serum,3023323,Follitropin [Units/volume] in Serum or Plasma
+271,FSH SERIES Basal,Serum,3023323,Follitropin [Units/volume] in Serum or Plasma
+272,FSH(Folicle Stimulating Hormone),Serum,3023323,Follitropin [Units/volume] in Serum or Plasma
+273,Fungus Culture,Sputum,3024461,Microorganism identified in Unspecified specimen by Culture
+274,Fungus Stain,Sputum,3001355,Fungus identified in Sputum by Culture
+275,G1 Sweet Vernal Grass IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+276,G2 Bermuda Grass IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+277,G3 Orchard Grass IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+278,G4 Meadow Fescue Grass IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+279,G5 Perennial Rye Grass IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+280,G6 Timothy Grass IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+281,G7 Common Reed Grass IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+282,"G8 Meadow Grass ,Kentucky Blue IgE",Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+283,GAMMA-GT,Serum,3026910,Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma
+284,Glucose,C.S.F,3004378,Glucose in CSF/Glucose plas
+285,Glucose,CSF,3004378,Glucose in CSF/Glucose plas
+286,Glucose,EVD Site,3004501,Glucose lab
+287,Glucose,Peritoneal Fluid ,3002240,Glucose [Mass/volume] in Peritoneal fluid
+288,Glucose,Pleural Fluid,3003403,Glucose [Mass/volume] in Pleural fluid
+289,Glucose,Serum,3004501,Glucose lab
+290,Glucose (AC),CSF,3004378,Glucose in CSF/Glucose plas
+291,Glucose (AC),Serum,3004501,Glucose lab
+292,Glucose Strip ,Serum,3002666,Glucose [Mass/volume] in Serum or Plasma --baseline
+293,Glucose Strip 120 min,PC120 BL,3013256,Glucose [interpretation] in Serum or Plasma--post dose glucose
+294,Glucose Strip 120 min,Serum,3002666,Glucose [Mass/volume] in Serum or Plasma --baseline
+295,Glycoalbumin,Serum,3014072,Albumin.glycated [Mass/volume] in Serum or Plasma
+296,Gram Stain,Bronc aspi,3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+297,Gram Stain,CSF,3001886,Microscopic observation [Identifier] in Cerebral spinal fluid by Gram stain
+298,Gram Stain,Endo suction,3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+299,Gram Stain,Pleural fluid,3005384,Microscopic observation [Identifier] in Pleural fluid by Gram stain
+300,Gram Stain,Sputum,3002516,Microscopic observation [Identifier] in Sputum by Gram stain
+301,Gram Stain,Urine,3003745,Microscopic observation [Identifier] in Urine by Gram stain
+302,Gram Stain,Wound,3007654,Microscopic observation [Identifier] in Wound by Gram stain
+303,H1 House Dust-Greer IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+304,H2 House dust(Hollister-Stier)IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+305,Haptoglobin,Serum,40758582,Haptoglobin in Serum or Plasma
+306,"HAV Ab, total",Serum,3016650,Hepatitis A virus Ab [Presence] in Serum
+307,HAV-Ab(IgM),Serum,3013327,Hepatitis A virus IgM Ab [Presence] in Serum
+308,HAV-AB(Total),Serum,3016650,Hepatitis A virus Ab [Presence] in Serum
+309,Hb,WB(EDTA),3000963,Hemoglobin
+310,Hb A1c,WB(EDTA),3034639,Hemoglobin A1c [Mass/volume] in Blood
+311,HbA1C,EDTA Blood,3034639,Hemoglobin A1c [Mass/volume] in Blood
+312,HBc-Ab (Ig-G),Serum,3045115,Hepatitis B virus core IgG Ab [Presence] in Serum
+313,HBcAb(IgG),Serum,3045115,Hepatitis B virus core IgG Ab [Presence] in Serum
+314,HBe Ag,Serum,3027974,Hepatitis B virus e Ag [Presence] in Serum
+315,HBeAb,Serum,3013945,Hepatitis B virus e Ab [Presence] in Serum
+316,HBe-Ab,Serum,3013945,Hepatitis B virus e Ab [Presence] in Serum
+317,HBeAg,Serum,3027974,Hepatitis B virus e Ag [Presence] in Serum
+318,HBe-Ag,Serum,3013579,Hepatitis B virus e Ag [Units/volume] in Serum
+319,HBs Ab (EIA),Serum,3023421,Hepatitis B virus surface Ab [Units/volume] in Serum
+320,HBs Ab (RPHA),Serum,3017797,Hepatitis B virus surface Ab [Presence] in Serum
+321,HBs Ag,Serum,3019284,Hepatitis B virus surface Ag [Presence] in Serum
+322,HBs Ag (EIA),Serum,3019284,Hepatitis B virus surface Ag [Presence] in Serum
+323,HBs Ag (RPHA),Serum,3019284,Hepatitis B virus surface Ag [Presence] in Serum
+324,HBsAb,Serum,3038841,Hepatitis B virus surface Ab [Presence] in Serum by Radioimmunoassay (RIA)
+325,HBs-Ab,Serum,3017797,Hepatitis B virus surface Ab [Presence] in Serum
+326,HBsAb(R.I.A),Serum,3038841,Hepatitis B virus surface Ab [Presence] in Serum by Radioimmunoassay (RIA)
+327,HBsAg,Serum,3004563,Hepatitis B virus surface Ag [Presence] in Serum by Radioimmunoassay (RIA)
+328,HBs-Ag,Serum,3019284,Hepatitis B virus surface Ag [Presence] in Serum
+329,HBsAg(R.I.A),Serum,3004563,Hepatitis B virus surface Ag [Presence] in Serum by Radioimmunoassay (RIA)
+330,HBV DNA Real-time PCR,EDTA WB(6ml tube),3003955,Hepatitis B virus DNA [Presence] in Blood by Probe and target amplification method
+331,HBV-DNA(bDNA),Serum,3026949,Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe and signal amplification method
+332,HBV-DNA(bDNA),Serum(Blood Bank용 Tube),3026949,Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe and signal amplification method
+333,HBV-DNA(bDNA),"Serum(HCV, HBV PCR전용)",3026949,Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe and signal amplification method
+334,Hct,WB(EDTA),3009542,Hematocrit
+335,HCV Ab,Serum,3017143,Hepatitis C virus Ab [Presence] in Serum
+336,HCV-Ab,Serum,3017143,Hepatitis C virus Ab [Presence] in Serum
+337,HDL-Cholesterol,Serum,3007070,Cholesterol in HDL [Mass/volume] in Serum or Plasma
+338,Helicobacter IgG,Serum,3013058,Helicobacter pylori IgG Ab [Presence] in Serum
+339,Hematocrit,EDTA Blood,3009542,Hematocrit
+340,Hemoglobin,EDTA Blood,3000963,Hemoglobin
+341,Herpes IgM,Serum,3010761,Herpes simplex virus IgM Ab [Presence] in Serum
+342,HGH,Serum,3023709,Somatotropin [Mass/volume] in Serum or Plasma
+343,HGH(180분),Serum,3023709,Somatotropin [Mass/volume] in Serum or Plasma
+344,Homocysteine,Serum,3046382,Homocysteine [Presence] in Serum or Plasma
+345,hsCRP,Serum,3010156,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method
+346,hs-CRP,Serum,3010156,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method
+347,HSV IgG,Serum,3010761,Herpes simplex virus IgM Ab [Presence] in Serum
+348,HSV IgM,Serum,3010761,Herpes simplex virus IgM Ab [Presence] in Serum
+349,I1 Honey Bee Venom IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+350,I2 White-faced Hornet IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+351,I3 Yellow Jacket Venom IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+352,I4 Paper wasp Venom IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+353,I5 Yellow Hornet IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+354,I6 Cockroach IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+355,I70 Imported Fire Ant IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+356,I73 Chironomus phumosus IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+357,Ig G,Serum,3005719,IgG [Mass/volume] in Serum or Plasma
+358,IgE(PRIST),Serum,3016604,IgE [Mass/volume] in Serum
+359,IGF Binding protein-3,Serum,3027370,Insulin-like growth factor binding protein 3 [Mass/volume] in Serum or Plasma
+360,Immunoglobulin A,Serum,3007164,IgA [Mass/volume] in Serum or Plasma
+361,Immunoglobulin G,Serum,3005719,IgG [Mass/volume] in Serum or Plasma
+362,Immunoglobulin M,Serum,3008257,IgM.monoclonal [Presence] in Serum
+363,In. Phosphorus,Serum,3003458,Phosphate [Moles/volume] in Serum or Plasma
+364,Indirect  Coombs Test,Serum(Blood Bank용 Tube),4055434,Indirect Coombs test
+365,Indirect Bilirubin,Serum,3024128,Total Bilirubin serum/plasma
+366,"Influenza A,B Viral Ag (현장검사)",Nasal Swab(전용),3044408,Influenza virus A+B Ag [Presence] in Nose
+367,Influenza Ag A,Nasal swab,3045856,Influenza virus B Ag [Presence] in Nose
+368,Influenza Ag B,Nasal swab,3045856,Influenza virus B Ag [Presence] in Nose
+369,Influenza Real Time-PCR,전용,3000117,Influenza virus A+B Ab [Titer] in Serum
+370,Inorganic Phosphorus,R.Urine,3026729,Phosphate [Mass/volume] in Urine
+371,Insulin,Serum,3022466,Insulin [Mass/volume] in Serum or Plasma
+372,Insulin Basal,Serum,3022466,Insulin [Mass/volume] in Serum or Plasma
+373,Insulin(120'),120분,3022466,Insulin [Mass/volume] in Serum or Plasma
+374,Insulin(30'),Serum,3022466,Insulin [Mass/volume] in Serum or Plasma
+375,Insulin(60'),Serum,3022466,Insulin [Mass/volume] in Serum or Plasma
+376,Insulin(90'),Serum,3022466,Insulin [Mass/volume] in Serum or Plasma
+377,Insulin(Basal),0분,3022466,Insulin [Mass/volume] in Serum or Plasma
+378,Insulin(Basal),Serum,3022466,Insulin [Mass/volume] in Serum or Plasma
+379,Ionized Calcium,Serum,3027694,Calcium.ionized [Mass/volume] in Serum or Plasma
+380,Ionized Calcium(artery),ABG BLOOD,40762532,Calcium.ionized [Mass/volume] in Arterial blood
+381,Ionized Magnessium,ABG BLOOD,43533595,Magnesium Ionized [Moles/volume] in Blood by Ion-selective membrane electrode (ISE)
+382,Iron,Serum,3002400,Iron [Mass/volume] in Serum or Plasma
+383,Irregular Ab Identification,EDTA WB(6ml tube),4194290,Irregular blood group antibody present - finding
+384,Irregular Ab Identification,WB RED,4194290,Irregular blood group antibody present - finding
+385,Irregular Ab Screen,EDTA WB(6ml tube),4194290,Irregular blood group antibody present - finding
+386,Irregular Ab Screen,WB RED,4194290,Irregular blood group antibody present - finding
+387,"K75 Isocyanate, TDI IgE",Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+388,"K76 Isocyanate, MDI IgE",Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+389,K77 Isocyanate. HDI IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+390,K78 Ethylene oxide IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+391,K79 Phthalic Anhydride IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+392,K80 Formaldehyde/Formalin IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+393,K82 Latex IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+394,K86 Trimellitic Anhydride,Serum,3039546,Japanese hop IgE Ab [Units/volume] in Serum
+395,Ketone(serum),Serum,3035132,Ketones [Presence] in Serum or Plasma
+396,Lactate Dehydrogenase,Serum,3034022,Lactate dehydrogenase panel - Serum or Plasma
+397,Lactic Acid,Sodium Fluoride,4213582,Lactic acid measurement
+398,Lactic acid(artery),ABG BLOOD,3035561,Lactate [Mass/volume] in Arterial blood
+399,LDH,C.S.F,3034022,Lactate dehydrogenase panel - Serum or Plasma
+400,LDH,Serum,3034022,Lactate dehydrogenase panel - Serum or Plasma
+401,LDL-Cholesterol,Serum,3028437,Cholesterol in LDL [Mass/volume] in Serum or Plasma
+402,Legionella Ag(정밀),Urine (Random),3046861,Legionella sp Ag [Presence] in Urine
+403,LH,Serum,3009214,Lutropin [Units/volume] in Serum or Plasma
+404,LH(Luteinizing Hormone),Serum,3009214,Lutropin [Units/volume] in Serum or Plasma
+405,LH_SERIES Basal,Serum,3009214,Lutropin [Units/volume] in Serum or Plasma
+406,Lipase,Serum,3004905,Lipase [Enzymatic activity/volume] in Serum or Plasma
+407,M pneumomiae IgG,Serum,3046684,Mycoplasma pneumoniae IgG Ab [Presence] in Serum
+408,M pneumomiae IgM,Serum,3021082,Mycoplasma pneumoniae IgM Ab [Presence] in Serum
+409,M.pneumonia IgM,Serum,3021082,Mycoplasma pneumoniae IgM Ab [Presence] in Serum
+410,M1 Pencillium notatum IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+411,M10 Stemphylium botryosum IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+412,M11 Rhizopus nigricans Stemphylium botryosum IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+413,M15 Trichoderma viride IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+414,M16 Curvularia lunata IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+415,M2 Cladosporium herbarum IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+416,M205 Trichophyton IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+417,M3 Aspergillus fumigatus IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+418,M5 Candida albicans IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+419,M6 Alternaria tenuis IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+420,M70 Pityrosporum orbiculare IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+421,M80 SEA IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+422,M81 SEB IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+423,M9 Fusarium moniliforme IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+424,Magnesium,Serum,3001420,Magnesium [Mass/volume] in Serum or Plasma
+425,Microalbumin (Urine),R.Urine,3000034,Microalbumin urine
+426,Microscopy,R.Urine,3003291,Casts [Presence] in Urine sediment by Light microscopy
+427,Microsome-Ab,Serum,3027238,Thyroperoxidase Ab [Units/volume] in Serum or Plasma
+428,Myoglobin,R.Urine,3011470,Myoglobin [Presence] in Urine
+429,Myoglobin,Serum,3005895,Myoglobin [Mass/volume] in Serum or Plasma
+430,Myoglobin,Serum,3006346,Myoglobin [Presence] in Serum or Plasma
+431,Neonatal T4,Serum,3016991,Thyroxine (T4) [Mass/volume] in Serum or Plasma
+432,Neonetal TSH,Serum,40758591,Thyrotropin in Serum or Plasma
+433,NTx(N-telopeptide),2nd.void urine,3037024,Collagen crosslinked N-telopeptide [Moles/volume] in 24 hour Urine
+434,Nuclear matrix protein 22,전용,3008551,Nuclear matrix protein 22 [Units/volume] in Urine
+435,Occult blood,Stool,3030153,Occult blood panel - Stool
+436,Occult Blood(정량),Stool,3030153,Occult blood panel - Stool
+437,Osmolality,R.Urine,3026782,Osmolality of Urine
+438,Osmolality,Serum,3008295,Osmolality of Serum or Plasma
+439,Osmolality,Urine (Random),3026782,Osmolality of Urine
+440,Osteocalcin,Serum,3028772,Osteocalcin [Mass/volume] in Serum or Plasma
+441,P.Carinii Exam.,Bronc aspi,3037167,Microscopic observation [Identifier] in Unspecified specimen by Gram stain
+442,P1 Ascaris IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+443,P2 Echinococcus IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+444,P4 Anisakis Larvae IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+445,Parathyroid Hormone,Serum,3000067,Parathyrin.intact [Mass/volume] in Serum or Plasma
+446,PB Smear,EDTA Blood,4143609,Blood cell morphology
+447,Pharmacokinetic service(신환),Telephone,4171988,Pharmacokinetic study
+448,Pharmacokinetic service(F/U),Telephone,4171988,Pharmacokinetic study
+449,Phosphorous,Serum,3003458,Phosphate [Moles/volume] in Serum or Plasma
+450,PIVKA-II,Serum,3042131,Prothrombin time (PT) PIVKA sensitive actual/normal in Platelet poor plasma by Coagulation assay
+451,Platelet,EDTA Blood,3024929,Platelets [#/volume] in Blood by Automated count
+452,Platelet,WB(EDTA),3024929,Platelets [#/volume] in Blood by Automated count
+453,POCT BNP,EDTA Blood,3031569,Natriuretic peptide B [Mass/volume] in Blood
+454,POCT-Ionized Magnesium,ABG BLOOD,43533595,Magnesium Ionized [Moles/volume] in Blood by Ion-selective membrane electrode (ISE)
+455,Potassium,R.Urine,3016038,Potassium [Moles/volume] in Urine
+456,Potassium,Serum,3023103,Potassium serum/plasma
+457,Potassium,Urine (Random),3016038,Potassium [Moles/volume] in Urine
+458,Potassium(artery),ABG BLOOD,3043409,Potassium [Moles/volume] in Arterial blood
+459,Preg Test(급여),Urine (Random),3018954,Choriogonadotropin (pregnancy test) [Presence] in Urine
+460,Preg Test(비급여),Urine (Random),3018954,Choriogonadotropin (pregnancy test) [Presence] in Urine
+461,Pro BNP,Serum,3029187,NT proBNP serum/plasma
+462,Pro-BNP,Serum,3029187,NT proBNP serum/plasma
+463,Prolactin,Serum,3000162,Prolactin [Mass/volume] in Serum or Plasma --baseline
+464,Prolactin,Serum,3004722,Prolactin [Mass/volume] in Serum or Plasma
+465,Prolactin(180분),Serum,3004722,Prolactin [Mass/volume] in Serum or Plasma
+466,Proractin Basal,Serum,3000162,Prolactin [Mass/volume] in Serum or Plasma --baseline
+467,Protein,C.S.F,3010719,Protein in CSF/Protein in serum
+468,Protein,CSF,3010719,Protein in CSF/Protein in serum
+469,Protein,EVD Site,42868737,Protein in pericardial fluid/Protein in serum
+470,Protein,Peritoneal Fluid ,42868739,Protein in peritoneal fluid/Protein in serum
+471,Protein,Pleural Fluid,3033013,Protein in pleural fluid/Protein in serum
+472,Protein,R.Urine,3037185,Protein [Presence] in Urine
+473,Protein,Serum,3020630,Protein serum/plasma
+474,Protein,Urine (Random),3037185,Protein [Presence] in Urine
+475,Protein C activity,Citrate Plasma,4095691,"Protein C, functional assay"
+476,Protein EP(Serum),Serum,3004588,Protein electrophoresis panel - Serum or Plasma
+477,Protein S activity,Citrate Plasma,4315019,"Protein S, functional assay"
+478,"Protozoa,cyst trophozoit",Stool,3048173,Protozoa identified in Unspecified specimen
+479,PSA,EDTA Blood,3037249,Prostate specific Ag [Moles/volume] in Serum or Plasma
+480,PSA,Serum,3037249,Prostate specific Ag [Moles/volume] in Serum or Plasma
+481,PSA(Prostate specific antigen),Serum,3037249,Prostate specific Ag [Moles/volume] in Serum or Plasma
+482,PT,P(Sodium citrate),3034426,Prothrombin time - patient
+483,PTH Intact,Serum,3000067,Parathyrin.intact [Mass/volume] in Serum or Plasma
+484,PTH Intact(ECLIA),Serum,3000067,Parathyrin.intact [Mass/volume] in Serum or Plasma
+485,Quinidine,Serum,3000787,Salicylates [Mass/volume] in Serum or Plasma
+486,RBC,EDTA Blood,3020416,Erythrocytes [#/volume] in Blood by Automated count
+487,RBC,WB(EDTA),3020416,Erythrocytes [#/volume] in Blood by Automated count
+488,RBC Count,CSF,3016543,Leukocytes [#/volume] in Cerebral spinal fluid
+489,RBC Count,EVD Site,3010813,White Blood cell (WBC) count (leukocyte)
+490,RBC Count,Peritoneal Fluid ,3009328,Leukocytes [#/volume] in Pericardial fluid
+491,RBC Count,Pleural Fluid,3023199,Leukocytes [#/volume] in Pleural fluid
+492,Rc7 IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+493,Reticulocyte,WB(EDTA),40763528,Reticulocytes [#/volume] in Blood by Automated count
+494,Reticulocyte Count,EDTA Blood,40763528,Reticulocytes [#/volume] in Blood by Automated count
+495,Reverse T3,Serum,3010340,Triiodothyronine (T3) [Mass/volume] in Serum or Plasma
+496,RF(정량),Serum,3021614,Rheumatoid factor [Units/volume] in Serum or Plasma
+497,RF(정성),Serum,3021614,Rheumatoid factor [Units/volume] in Serum or Plasma
+498,r-GT,Serum,3026910,Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma
+499,Rh Typing,Serum,4223193,Blood group typing Rho(D)
+500,Rh Typing,Serum(Blood Bank용 Tube),4223193,Blood group typing Rho(D)
+501,Rh Typing,WB(EDTA),4223193,Blood group typing Rho(D)
+502,Rh(D) Typing,EDTA WB(6ml tube),4223193,Blood group typing Rho(D)
+503,Rh(D) Typing,Serum,4223193,Blood group typing Rho(D)
+504,Rh(D) Typing,WB RED,4223193,Blood group typing Rho(D)
+505,Rheumatoid factor 정량,Serum,3043745,Rheumatoid factor [Presence] in Serum
+506,Rm226 TSS 1 IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+507,ROTA virus,Stool (Rota virus용),3008284,Rotavirus Ag [Presence] in Stool
+508,Rota Virus Ag,Stool,3008284,Rotavirus Ag [Presence] in Stool
+509,Routine Cell Count,Ascitic fluid,4057133,Ascitic fluid: blood cells
+510,Routine Cell Count,C.S.F,3004206,Cells Counted Total [#] in Cerebral spinal fluid
+511,Rubella IgG,Serum,3009308,Rubella virus IgM Ab [Presence] in Serum
+512,Rubella IgM,Serum,3009308,Rubella virus IgM Ab [Presence] in Serum
+513,SABO Typing,Serum(Blood Bank용 Tube),3003529,Tactile alteration [CCC]
+514,Salicylate,Serum,3000787,Salicylates [Mass/volume] in Serum or Plasma
+515,SCC(TA-4),Serum,3005411,Squamous cell carcinoma Ag [Mass/volume] in Serum or Plasma
+516,Scotch Tape Test,Scotch Tape,3008437,Enterobius vermicularis [Presence] in Unspecified specimen by Pinworm exam
+517,Serum Iron,Serum,3002400,Iron [Mass/volume] in Serum or Plasma
+518,SHBG(Sex Hormon binding Globulin),Serum,3011099,Sex hormone binding globulin [Mass/volume] in Serum or Plasma
+519,Sodium,R.Urine,3003181,Sodium [Moles/volume] in Urine
+520,Sodium,Serum,3019550,Sodium serum/plasma
+521,Sodium,Urine (Random),3003181,Sodium [Moles/volume] in Urine
+522,Sodium(artery),ABG BLOOD,3043706,Sodium [Moles/volume] in Arterial blood
+523,Somatomedin-c(IGF-I),Serum,3052427,Insulin-like growth factor-I [Units/volume] in Serum or Plasma
+524,Specific Gravity,CSF,3016543,Leukocytes [#/volume] in Cerebral spinal fluid
+525,Specific Gravity,EVD Site,3010813,White Blood cell (WBC) count (leukocyte)
+526,Specific Gravity,Peritoneal Fluid ,3009328,Leukocytes [#/volume] in Pericardial fluid
+527,Specific Gravity,Pleural Fluid,3023199,Leukocytes [#/volume] in Pleural fluid
+528,Stool exam (특수 염색),Stool,3002388,Ova and parasites identified in Stool by Parasite sedimentation
+529,Stool exam 일반,Stool,3002388,Ova and parasites identified in Stool by Parasite sedimentation
+530,Stool WBC,Stool,3013199,Leukocytes [#/volume] in Stool
+531,Streptococcus Pneumoniae Ag(정밀),Urine (Random),3011363,Streptococcus pneumoniae Ag [Presence] in Urine
+532,T S H,Serum,40758591,Thyrotropin in Serum or Plasma
+533,T.Bilirubin,Serum,3024128,Total Bilirubin serum/plasma
+534,T.Cholesterol,Serum,3037598,Cholesterol esters/Cholesterol.total in Serum or Plasma
+535,T.CO2,Serum,40761031,"Carbon dioxide, total [Moles/volume] in Serum or Plasma by calculation"
+536,T.G,Serum,3022192,Triglyceride [Mass/volume] in Serum or Plasma
+537,T.Protein,Serum,3020630,Protein serum/plasma
+538,T1 Maple(Box Elder) IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+539,T12 Willow IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+540,T14 Cottonwood IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+541,T15 White Ash IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+542,T16 White Pine IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+543,T17 Japanese Cedar IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+544,T19 Acacia IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+545,T2 Alder IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+546,T3,Serum,3010340,Triiodothyronine (T3) [Mass/volume] in Serum or Plasma
+547,T3 Birch IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+548,T3(진단검사의학과),Serum,3010340,Triiodothyronine (T3) [Mass/volume] in Serum or Plasma
+549,T4,Serum,3016991,Thyroxine (T4) [Mass/volume] in Serum or Plasma
+550,T4 Hazelnut IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+551,T4(진단검사의학과),Serum,3016991,Thyroxine (T4) [Mass/volume] in Serum or Plasma
+552,T5 Beech IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+553,T6 Mountain Ceder IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+554,T7 Oak IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+555,T72 Queen Palm IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+556,T8 Elm IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+557,TA-4 (SCC),Serum,3005411,Squamous cell carcinoma Ag [Mass/volume] in Serum or Plasma
+558,Tacrolimus Assay,WB(EDTA),3026250,Tacrolimus [Mass/volume] in Blood
+559,TB PCR-Hybridization(FD),Aseptic Urine (Voided),3041662,Mycobacterium tuberculosis DNA [#/volume] in Unspecified specimen by Probe and target amplification method
+560,TB PCR-Hybridization(FD),Bronchial larvage,3041662,Mycobacterium tuberculosis DNA [#/volume] in Unspecified specimen by Probe and target amplification method
+561,TB PCR-Hybridization(FD),Sputum,3041662,Mycobacterium tuberculosis DNA [#/volume] in Unspecified specimen by Probe and target amplification method
+562,TB Skin Test(PPD(2TU)),Patient,4102154,"Skin test for tuberculosis, Tine test"
+563,TB Skin Test(Study),Patient,4102154,"Skin test for tuberculosis, Tine test"
+564,TBII,Serum,3038369,Thyrotropin binding inhibitory immunoglobulins [Units/volume] in Serum
+565,Testosteron(RIA),Serum,3008893,Testosterone [Mass/volume] in Serum or Plasma
+566,Testosterone,Serum,3008893,Testosterone [Mass/volume] in Serum or Plasma
+567,Thyroglobulin,Serum,3036535,Thyroglobulin [Mass/volume] in Serum or Plasma
+568,Thyroglobulin Ab,Serum,3024857,Thyroglobulin Ab [Presence] in Serum
+569,Thyroglobulin Ag,Serum,3036535,Thyroglobulin [Mass/volume] in Serum or Plasma
+570,Thyroglobulin-Ab,Serum,3025547,Thyroglobulin Ab [Units/volume] in Serum or Plasma
+571,Thyroid Microsomal Ab,Serum,3028612,Thyroperoxidase Ab [Presence] in Serum or Plasma
+572,Thyroid Stimulating Immunoglobulin,Serum,3007498,Thyroid stimulating immunoglobulins [Units/volume] in Serum
+573,Thyroxine (T4),Serum,3016991,Thyroxine (T4) [Mass/volume] in Serum or Plasma
+574,TIBC,Serum,3021044,Iron binding capacity [Mass/volume] in Serum or Plasma
+575,Total bilirubin,Capillary blood,3028833,Bilirubin.total [Mass/volume] in Blood
+576,Total bilirubin,Serum,3024128,Total Bilirubin serum/plasma
+577,Total CO2 Content,Serum,40761031,"Carbon dioxide, total [Moles/volume] in Serum or Plasma by calculation"
+578,Total Ig-E,Serum,3028133,Total IgE [Units/volume] in Serum by Radioallergosorbent test (RAST)
+579,Total IgE(CAP),Serum,3016604,IgE [Mass/volume] in Serum
+580,Total IgE(UniCap),Serum,3016604,IgE [Mass/volume] in Serum
+581,TPHA,Serum,3028061,Treponema pallidum Ab [Presence] in Serum by Hemagglutination
+582,TRH Simulation Basal,Serum,40758591,Thyrotropin in Serum or Plasma
+583,Triglyceride,Serum,3022192,Triglyceride [Mass/volume] in Serum or Plasma
+584,Triiodothyronine (T3),Serum,3010340,Triiodothyronine (T3) [Mass/volume] in Serum or Plasma
+585,Troponin I,Serum,3021337,Troponin I.cardiac [Mass/volume] in Serum or Plasma
+586,Troponin T hs,Serum,3019800,Troponin T.cardiac [Mass/volume] in Serum or Plasma
+587,TSH,Serum,40758591,Thyrotropin in Serum or Plasma
+588,TSH(180분),Serum,40758591,Thyrotropin in Serum or Plasma
+589,TSH(진단검사의학과),Serum,40758591,Thyrotropin in Serum or Plasma
+590,U/A 7종,Urine (Random),3036941,Urinalysis complete panel - Urine
+591,U/A 9종,Urine (Random),3036941,Urinalysis complete panel - Urine
+592,Uric acid,Serum,3037556,Urate [Mass/volume] in Serum or Plasma
+593,Urine Bilirubin,R.Urine,3007950,Urobilinogen [Mass/volume] in Urine
+594,Urine Blood,R.Urine,3007950,Urobilinogen [Mass/volume] in Urine
+595,Urine Glucose,R.Urine,3007950,Urobilinogen [Mass/volume] in Urine
+596,Urine HCG,R.Urine,3022237,Choriogonadotropin [Moles/volume] in Urine
+597,Urine Ketone,R.Urine,3007950,Urobilinogen [Mass/volume] in Urine
+598,Urine Nitrite,R.Urine,3042812,Nitrite [Presence] in Urine
+599,Urine pH,R.Urine,3007950,Urobilinogen [Mass/volume] in Urine
+600,Urine Protein,R.Urine,3007950,Urobilinogen [Mass/volume] in Urine
+601,Urine sediment,Urine (Random),4012552,Urinary sediment
+602,Urine Specific Gravity,R.Urine,3007950,Urobilinogen [Mass/volume] in Urine
+603,Urine Urobilinogen,R.Urine,3007950,Urobilinogen [Mass/volume] in Urine
+604,Urine WBC,R.Urine,3014749,Leukocytes [#/volume] in Urine by Test strip
+605,Valproic acid,Serum,3009466,Valproate [Moles/volume] in Serum or Plasma
+606,Valproic Acid(orfil),Serum,3009466,Valproate [Moles/volume] in Serum or Plasma
+607,VDRL Serum(정량),Serum,3001356,Reagin Ab [Units/volume] in Serum by VDRL
+608,VDRL Serum(정성),Serum,3019428,Reagin Ab [Presence] in Serum by VDRL
+609,VDRL(정성),Serum,3019428,Reagin Ab [Presence] in Serum by VDRL
+610,Vit B12(EIA),Serum,3000593,Cobalamin (Vitamin B12) [Mass/volume] in Serum or Plasma
+611,VZV IgG,Serum,3016065,Varicella zoster virus IgM Ab [Presence] in Serum
+612,VZV IgM,Serum,3016065,Varicella zoster virus IgM Ab [Presence] in Serum
+613,W1 Common Ragweed IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+614,W10 Lamb's Quarters IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+615,W11 Russian Thistle IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+616,W14 Rough Pigweed IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+617,W20 Nettle IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+618,W22 Humulus japonicus IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+619,W6 Mugwort IgE,Serum,3015704,Mugwort IgE Ab RAST class [Presence] in Serum
+620,W7 Ox-eye Daisy IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+621,W8 Dandelion IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+622,W9 English Plantain IgE,Serum,40764062,English Plantain IgE Ab [Ratio] in Serum
+623,W90 Japanese Hops,Serum,3039546,Japanese hop IgE Ab [Units/volume] in Serum
+624,WBC,EDTA Blood,3000905,Leukocytes [#/volume] in Blood by Automated count
+625,WBC,WB(EDTA),3000905,Leukocytes [#/volume] in Blood by Automated count
+626,WBC Count,CSF,3016543,Leukocytes [#/volume] in Cerebral spinal fluid
+627,WBC Count,EVD Site,3010813,White Blood cell (WBC) count (leukocyte)
+628,WBC Count,Peritoneal Fluid ,3009328,Leukocytes [#/volume] in Pericardial fluid
+629,WBC Count,Pleural Fluid,3023199,Leukocytes [#/volume] in Pleural fluid
+630,WBC Diff.,EDTA Blood,3053331,Differential cell count method - Blood
+631,Widal Test,Serum,4013262,Widal test
